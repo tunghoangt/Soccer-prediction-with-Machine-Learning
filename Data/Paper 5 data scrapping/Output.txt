@@ -1,0 +1,1520 @@
+Cardiff
+1-2
+Chelsea
+9601
+Fulham
+2-2
+Crystal Palace
+9602
+Hull
+0-2
+Everton
+9603
+Liverpool
+2-1
+Newcastle
+9604
+Man City
+2-0
+West Ham
+9605
+Norwich
+0-2
+Arsenal
+9606
+Southampton
+1-1
+Man Utd
+9607
+Sunderland
+1-3
+Swansea
+9608
+Spurs
+3-0
+Aston Villa
+9609
+West Brom
+1-2
+Stoke
+9610
+Man City
+4-0
+Aston Villa
+9599
+Sunderland
+2-0
+West Brom
+9600
+Man Utd
+3-1
+Hull
+9598
+Crystal Palace
+3-3
+Liverpool
+9597
+Chelsea
+0-0
+Norwich
+9596
+Arsenal
+1-0
+West Brom
+9595
+Everton
+2-3
+Man City
+9589
+Aston Villa
+3-1
+Hull
+9588
+Man Utd
+0-1
+Sunderland
+9590
+Newcastle
+3-0
+Cardiff
+9591
+Stoke
+4-1
+Fulham
+9592
+Swansea
+0-1
+Southampton
+9593
+West Ham
+2-0
+Spurs
+9594
+Arsenal
+3-0
+Newcastle
+9587
+Crystal Palace
+0-2
+Man City
+9584
+Liverpool
+0-2
+Chelsea
+9585
+Sunderland
+4-0
+Cardiff
+9586
+Man Utd
+4-0
+Norwich
+9579
+Fulham
+2-2
+Hull
+9578
+Stoke
+0-1
+Spurs
+9581
+Swansea
+4-1
+Aston Villa
+9582
+West Brom
+1-0
+West Ham
+9583
+Southampton
+2-0
+Everton
+9580
+Man City
+3-1
+West Brom
+9577
+Everton
+2-0
+Man Utd
+9574
+Hull
+0-3
+Arsenal
+9575
+Norwich
+2-3
+Liverpool
+9576
+Chelsea
+1-2
+Sunderland
+9570
+Aston Villa
+0-0
+Southampton
+9568
+Cardiff
+1-1
+Stoke
+9569
+Newcastle
+1-2
+Swansea
+9571
+West Ham
+0-1
+Crystal Palace
+9573
+Spurs
+3-1
+Fulham
+9572
+Everton
+2-3
+Crystal Palace
+9566
+Man City
+2-2
+Sunderland
+9567
+Arsenal
+3-1
+West Ham
+9565
+Swansea
+0-1
+Chelsea
+9564
+Liverpool
+3-2
+Man City
+9563
+Crystal Palace
+1-0
+Aston Villa
+9557
+Fulham
+1-0
+Norwich
+9558
+Southampton
+0-1
+Cardiff City
+9559
+Stoke
+1-0
+Newcastle
+9560
+Sunderland
+0-1
+Everton
+9561
+West Brom
+3-3
+Spurs
+9562
+Spurs
+5-1
+Sunderland
+9556
+West Ham
+1-2
+Liverpool
+9555
+Everton
+3-0
+Arsenal
+9554
+Chelsea
+3-0
+Stoke
+9549
+Aston Villa
+1-2
+Fulham
+9547
+Cardiff City
+0-3
+Crystal Palace
+9548
+Hull
+1-0
+Swansea
+9550
+Newcastle
+0-4
+Man Utd
+9552
+Norwich
+0-1
+West Brom
+9553
+Man City
+4-1
+Southampton
+9551
+Sunderland
+1-2
+West Ham
+9546
+Liverpool
+4-0
+Spurs
+9545
+Fulham
+1-3
+Everton
+9544
+Arsenal
+1-1
+Man City
+9537
+Crystal Palace
+1-0
+Chelsea
+9538
+Southampton
+4-0
+Newcastle
+9540
+Stoke
+1-0
+Hull
+9541
+Swansea
+3-0
+Norwich
+9542
+West Brom
+3-3
+Cardiff City
+9543
+Man Utd
+4-1
+Aston Villa
+9539
+Liverpool
+2-1
+Sunderland
+9535
+West Ham
+2-1
+Hull
+9536
+Arsenal
+2-2
+Swansea
+9532
+Man Utd
+0-3
+Man City
+9533
+Newcastle
+0-3
+Everton
+9534
+Aston Villa
+1-4
+Stoke
+9530
+Spurs
+3-2
+Southampton
+9531
+West Ham
+0-2
+Man Utd
+9529
+Cardiff
+3-6
+Liverpool
+9522
+Everton
+3-2
+Swansea
+9524
+Hull
+2-0
+West Brom
+9525
+Man City
+5-0
+Fulham
+9526
+Newcastle
+1-0
+Crystal Palace
+9527
+Norwich
+2-0
+Sunderland
+9528
+Chelsea
+6-0
+Arsenal
+9523
+Spurs
+0-1
+Arsenal
+9521
+Man Utd
+0-3
+Liverpool
+9520
+Aston Villa
+1-0
+Chelsea
+9512
+Everton
+2-1
+Cardiff
+9513
+Fulham
+1-0
+Newcastle
+9514
+Southampton
+4-2
+Norwich
+9516
+Stoke
+3-1
+West Ham
+9517
+Sunderland
+0-0
+Crystal Palace
+9518
+Swansea
+1-2
+West Brom
+9519
+Hull
+0-2
+Man City
+9515
+Chelsea
+4-0
+Spurs
+9508
+Cardiff
+3-1
+Fulham
+9507
+Crystal Palace
+0-1
+Southampton
+9509
+Norwich
+1-1
+Stoke
+9510
+West Brom
+0-3
+Man Utd
+9511
+Aston Villa
+4-1
+Norwich
+9504
+Swansea
+1-1
+Crystal Palace
+9505
+Spurs
+1-0
+Cardiff
+9506
+Southampton
+0-3
+Liverpool
+9502
+Everton
+1-0
+West Ham
+9499
+Fulham
+1-3
+Chelsea
+9500
+Hull
+1-4
+Newcastle
+9501
+Stoke
+1-0
+Arsenal
+9503
+Norwich
+1-0
+Spurs
+9498
+Liverpool
+4-3
+Swansea
+9496
+Newcastle
+1-0
+Aston Villa
+9497
+Crystal Palace
+0-2
+Man Utd
+9492
+Arsenal
+4-1
+Sunderland
+9489
+Cardiff
+0-4
+Hull
+9490
+Man City
+1-0
+Stoke
+9493
+West Brom
+1-1
+Fulham
+9494
+West Ham
+3-1
+Southampton
+9495
+Chelsea
+1-0
+Everton
+9491
+Fulham
+2-3
+Liverpool
+9486
+Arsenal
+0-0
+Man Utd
+9485
+Newcastle
+0-4
+Spurs
+9487
+Stoke
+1-1
+Swansea
+9488
+West Brom
+1-1
+Chelsea
+9483
+Cardiff City
+0-0
+Aston Villa
+9481
+Hull
+0-1
+Southampton
+9482
+West Ham
+2-0
+Norwich
+9484
+Man Utd
+2-2
+Fulham
+9479
+Spurs
+1-0
+Everton
+9480
+Swansea
+3-0
+Cardiff City
+9478
+Aston Villa
+0-2
+West Ham
+9471
+Chelsea
+3-0
+Newcastle
+9472
+Crystal Palace
+3-1
+West Brom
+9473
+Norwich
+0-0
+Man City
+9475
+Southampton
+2-2
+Stoke
+9476
+Sunderland
+0-2
+Hull
+9477
+Liverpool
+5-1
+Arsenal
+9474
+Man City
+0-1
+Chelsea
+9470
+Arsenal
+2-0
+Crystal Palace
+9468
+West Brom
+1-1
+Liverpool
+9469
+Cardiff City
+2-1
+Norwich
+9461
+Everton
+2-1
+Aston Villa
+9462
+Fulham
+0-3
+Southampton
+9463
+Hull
+1-1
+Spurs
+9464
+Stoke
+2-1
+Man Utd
+9466
+Newcastle
+0-3
+Sunderland
+9465
+West Ham
+2-0
+Swansea
+9467
+Aston Villa
+4-3
+West Brom
+9457
+Chelsea
+0-0
+West Ham
+9458
+Sunderland
+1-0
+Stoke
+9459
+Spurs
+1-5
+Man City
+9460
+Crystal Palace
+1-0
+Hull
+9451
+Liverpool
+4-0
+Everton
+9452
+Man Utd
+2-0
+Cardiff City
+9453
+Norwich
+0-0
+Newcastle
+9454
+Southampton
+2-2
+Arsenal
+9455
+Swansea
+2-0
+Fulham
+9456
+West Brom
+1-1
+Everton
+9450
+Chelsea
+3-1
+Man Utd
+9448
+Swansea
+1-3
+Spurs
+9449
+Liverpool
+2-2
+Aston Villa
+9443
+Arsenal
+2-0
+Fulham
+9441
+Crystal Palace
+1-0
+Stoke
+9442
+Man City
+4-2
+Cardiff City
+9444
+Norwich
+1-0
+Hull
+9445
+West Ham
+1-3
+Newcastle
+9447
+Sunderland
+2-2
+Southampton
+9446
+Aston Villa
+1-2
+Arsenal
+9440
+Stoke
+3-5
+Liverpool
+9439
+Newcastle
+0-2
+Man City
+9438
+Man Utd
+2-0
+Swansea
+9435
+Cardiff City
+0-2
+West Ham
+9431
+Everton
+2-0
+Norwich
+9432
+Fulham
+1-4
+Sunderland
+9433
+Southampton
+1-0
+West Brom
+9436
+Spurs
+2-0
+Crystal Palace
+9437
+Hull
+0-2
+Chelsea
+9434
+Man Utd
+1-2
+Spurs
+9425
+Arsenal
+2-0
+Cardiff City
+9421
+Crystal Palace
+1-1
+Norwich
+9422
+Fulham
+2-1
+West Ham
+9423
+Liverpool
+2-0
+Hull
+9424
+Southampton
+0-3
+Chelsea
+9426
+Stoke
+1-1
+Everton
+9427
+Sunderland
+0-1
+Aston Villa
+9428
+West Brom
+1-0
+Newcastle
+9430
+Swansea
+2-3
+Man City
+9429
+Chelsea
+2-1
+Liverpool
+9417
+Spurs
+3-0
+Stoke
+9420
+Everton
+2-1
+Southampton
+9418
+Newcastle
+0-1
+Arsenal
+9419
+Cardiff City
+2-2
+Sunderland
+9412
+Aston Villa
+1-1
+Swansea
+9411
+Hull
+6-0
+Fulham
+9413
+Man City
+1-0
+Crystal Palace
+9414
+Norwich
+0-1
+Man Utd
+9415
+West Ham
+3-3
+West Brom
+9416
+Man City
+2-1
+Liverpool
+9406
+Aston Villa
+0-1
+Crystal Palace
+9401
+Cardiff
+0-3
+Southampton
+9402
+Chelsea
+1-0
+Swansea
+9403
+Everton
+0-1
+Sunderland
+9404
+Newcastle
+5-1
+Stoke
+9407
+Norwich
+1-2
+Fulham
+9408
+Spurs
+1-1
+West Brom
+9409
+West Ham
+1-3
+Arsenal
+9410
+Hull
+2-3
+Man Utd
+9405
+Arsenal
+0-0
+Chelsea
+9400
+Swansea
+1-2
+Everton
+9399
+Southampton
+2-3
+Spurs
+9398
+Crystal Palace
+0-3
+Newcastle
+9391
+Fulham
+2-4
+Man City
+9392
+Man Utd
+3-1
+West Ham
+9394
+Stoke
+2-1
+Aston Villa
+9395
+Sunderland
+0-0
+Norwich
+9396
+West Brom
+1-1
+Hull
+9397
+Liverpool
+3-1
+Cardiff
+9393
+Spurs
+0-5
+Liverpool
+9390
+Aston Villa
+0-3
+Man Utd
+9388
+Norwich
+1-1
+Swansea
+9389
+Hull
+0-0
+Stoke
+9384
+Cardiff
+1-0
+West Brom
+9381
+Chelsea
+2-1
+Crystal Palace
+9382
+Everton
+4-1
+Fulham
+9383
+Newcastle
+1-1
+Southampton
+9386
+West Ham
+0-0
+Sunderland
+9387
+Man City
+6-3
+Arsenal
+9385
+Swansea
+1-1
+Hull
+9380
+Arsenal
+1-1
+Everton
+9378
+Fulham
+2-0
+Aston Villa
+9379
+Sunderland
+1-2
+Spurs
+9376
+Crystal Palace
+2-0
+Cardiff
+9371
+Liverpool
+4-1
+West Ham
+9372
+Southampton
+1-1
+Man City
+9374
+Stoke
+3-2
+Chelsea
+9375
+West Brom
+0-2
+Norwich
+9377
+Man Utd
+0-1
+Newcastle
+9373
+Fulham
+1-2
+Spurs
+9363
+West Brom
+2-3
+Man City
+9370
+Arsenal
+2-0
+Hull
+9362
+Liverpool
+5-1
+Norwich
+9364
+Man Utd
+0-1
+Everton
+9365
+Southampton
+2-3
+Aston Villa
+9366
+Stoke
+0-0
+Cardiff
+9367
+Sunderland
+3-4
+Chelsea
+9368
+Swansea
+3-0
+Newcastle
+9369
+Crystal Palace
+1-0
+West Ham
+9361
+Chelsea
+3-1
+Southampton
+9357
+Man City
+3-0
+Swansea
+9359
+Hull
+3-1
+Liverpool
+9358
+Spurs
+2-2
+Man Utd
+9360
+Newcastle
+2-1
+West Brom
+9354
+Aston Villa
+0-0
+Sunderland
+9351
+Cardiff
+0-3
+Arsenal
+9352
+Everton
+4-0
+Stoke
+9353
+Norwich
+1-0
+Crystal Palace
+9355
+West Ham
+3-0
+Fulham
+9356
+West Brom
+2-2
+Aston Villa
+9350
+Cardiff
+2-2
+Man Utd
+9348
+Man City
+6-0
+Spurs
+9349
+West Ham
+0-3
+Chelsea
+9347
+Arsenal
+2-0
+Southampton
+9341
+Fulham
+1-2
+Swansea
+9343
+Hull
+0-1
+Crystal Palace
+9344
+Newcastle
+2-1
+Norwich
+9345
+Stoke
+2-0
+Sunderland
+9346
+Everton
+3-3
+Liverpool
+9342
+Man Utd
+1-0
+Arsenal
+9337
+Swansea
+3-3
+Stoke
+9339
+Sunderland
+1-0
+Man City
+9338
+Spurs
+0-1
+Newcastle
+9340
+Norwich
+3-1
+West Ham
+9335
+Aston Villa
+2-0
+Cardiff
+9331
+Chelsea
+2-2
+West Brom
+9332
+Crystal Palace
+0-0
+Everton
+9333
+Liverpool
+4-0
+Fulham
+9334
+Southampton
+4-1
+Hull
+9336
+Cardiff
+1-0
+Swansea
+9329
+Everton
+0-0
+Spurs
+9330
+Arsenal
+2-0
+Liverpool
+9321
+Fulham
+1-3
+Man Utd
+9322
+Hull
+1-0
+Sunderland
+9323
+Man City
+7-0
+Norwich
+9324
+Stoke
+1-1
+Southampton
+9326
+West Brom
+2-0
+Crystal Palace
+9327
+West Ham
+0-0
+Aston Villa
+9328
+Newcastle
+2-0
+Chelsea
+9325
+Chelsea
+2-1
+Man City
+9317
+Swansea
+0-0
+West Ham
+9319
+Spurs
+1-0
+Hull
+9320
+Sunderland
+2-1
+Newcastle
+9318
+Southampton
+2-0
+Fulham
+9316
+Aston Villa
+0-2
+Everton
+9311
+Liverpool
+4-1
+West Brom
+9313
+Man Utd
+3-2
+Stoke
+9314
+Norwich
+0-0
+Cardiff
+9315
+Crystal Palace
+0-2
+Arsenal
+9312
+Crystal Palace
+1-4
+Fulham
+9310
+Aston Villa
+0-2
+Spurs
+9309
+West Ham
+1-3
+Man City
+9308
+Arsenal
+4-1
+Norwich
+9301
+Chelsea
+4-1
+Cardiff
+9302
+Everton
+2-1
+Hull
+9303
+Man Utd
+1-1
+Southampton
+9304
+Stoke
+0-0
+West Brom
+9306
+Swansea
+4-0
+Sunderland
+9307
+Newcastle
+2-2
+Liverpool
+9305
+Spurs
+0-3
+West Ham
+9299
+West Brom
+1-1
+Arsenal
+9300
+Norwich
+1-3
+Chelsea
+9297
+Southampton
+2-0
+Swansea
+9298
+Sunderland
+1-2
+Man Utd
+9296
+Cardiff
+1-2
+Newcastle
+9291
+Fulham
+1-0
+Stoke
+9292
+Hull
+0-0
+Aston Villa
+9293
+Liverpool
+3-1
+Crystal Palace
+9294
+Man City
+3-1
+Everton
+9295
+Everton
+3-2
+Newcastle
+9290
+Sunderland
+1-3
+Liverpool
+9289
+Stoke
+0-1
+Norwich
+9288
+Swansea
+1-2
+Arsenal
+9286
+Aston Villa
+3-2
+Man City
+9281
+Fulham
+1-2
+Cardiff
+9282
+Hull
+1-0
+West Ham
+9283
+Man Utd
+1-2
+West Brom
+9284
+Southampton
+2-0
+Crystal Palace
+9285
+Spurs
+1-1
+Chelsea
+9287
+Cardiff
+0-1
+Spurs
+9278
+Man City
+4-1
+Man Utd
+9280
+Arsenal
+3-1
+Stoke
+9277
+Crystal Palace
+0-2
+Swansea
+9279
+Chelsea
+2-0
+Fulham
+9271
+Liverpool
+0-1
+Southampton
+9272
+Newcastle
+2-3
+Hull
+9273
+West Brom
+3-0
+Sunderland
+9275
+West Ham
+2-3
+Everton
+9276
+Norwich
+0-1
+Aston Villa
+9274
+Swansea
+2-2
+Liverpool
+9270
+Southampton
+0-0
+West Ham
+9269
+Everton
+1-0
+Chelsea
+9262
+Aston Villa
+1-2
+Newcastle
+9261
+Fulham
+1-1
+West Brom
+9263
+Hull
+1-1
+Cardiff
+9264
+Stoke
+0-0
+Man City
+9266
+Sunderland
+1-3
+Arsenal
+9267
+Spurs
+2-0
+Norwich
+9268
+Man Utd
+2-0
+Crystal Palace
+9265
+Arsenal
+1-0
+Spurs
+9258
+Liverpool
+1-0
+Man Utd
+9259
+West Brom
+0-2
+Swansea
+9260
+Crystal Palace
+3-1
+Sunderland
+9253
+Cardiff
+0-0
+Everton
+9252
+Newcastle
+1-0
+Fulham
+9255
+Norwich
+1-0
+Southampton
+9256
+West Ham
+0-1
+Stoke
+9257
+Man City
+2-0
+Hull
+9254
+Man Utd
+0-0
+Chelsea
+9251
+Cardiff
+3-2
+Man City
+9249
+Spurs
+1-0
+Swansea
+9250
+Aston Villa
+0-1
+Liverpool
+9242
+Everton
+0-0
+West Brom
+9243
+Hull
+1-0
+Norwich
+9245
+Newcastle
+0-0
+West Ham
+9246
+Southampton
+1-1
+Sunderland
+9247
+Stoke
+2-1
+Crystal Palace
+9248
+Fulham
+1-3
+Arsenal
+9244
+Chelsea
+2-1
+Aston Villa
+9241
+Man City
+4-0
+Newcastle
+9240
+Chelsea
+2-0
+Hull
+9238
+Crystal Palace
+0-1
+Spurs
+9239
+Swansea
+1-4
+Man Utd
+9235
+Arsenal
+1-3
+Aston Villa
+9231
+Norwich
+2-2
+Everton
+9233
+Sunderland
+0-1
+Fulham
+9234
+West Brom
+0-1
+Southampton
+9236
+West Ham
+2-0
+Cardiff
+9237
+Liverpool
+1-0
+Stoke
+9232

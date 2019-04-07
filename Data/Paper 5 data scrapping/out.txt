@@ -1,0 +1,122 @@
+Stoke City Positions
+1
+Asmir Begovic
+Goalkeeper
+4
+Robert Huth
+Defender
+17
+Ryan Shawcross
+Defender
+C
+20
+Geoff Cameron
+Defender
+3
+Erik Pieters
+Defender
+15
+Steven N'Zonzi
+Midfielder
+12
+Marc Wilson
+Midfielder
+26
+Matthew Etherington
+63'
+Midfielder
+19
+Jonathan Walters
+Midfielder
+6
+Glenn Whelan
+63'
+Midfielder
+25
+Peter Crouch
+81'
+Forward
+Substitutes
+29
+Thomas Sørensen
+Goalkeeper
+28
+Andy Wilkinson
+Defender
+5
+Marc Muniesa
+Defender
+16
+Charlie Adam
+63'
+Midfielder
+7
+Jermaine Pennant
+63'
+Midfielder
+33
+Cameron Jerome
+Forward
+9
+Kenwyne Jones
+81'
+Forward
+Liverpool Positions
+22
+Simon Mignolet
+Goalkeeper
+2
+Glen Johnson
+Defender
+4
+Kolo Touré
+Defender
+3
+José Enrique
+Defender
+5
+Daniel Agger
+Defender
+8
+Steven Gerrard
+Midfielder
+C
+14
+Jordan Henderson
+Midfielder
+21
+Lucas Leiva
+Midfielder
+10
+Philippe Coutinho
+Midfielder
+9
+Iago Aspas
+72'
+Midfielder
+15
+Daniel Sturridge
+Forward
+Substitutes
+1
+Brad Jones
+Goalkeeper
+47
+Andre Wisdom
+Defender
+24
+Joe Allen
+Midfielder
+31
+Raheem Sterling
+72'
+Midfielder
+6
+Luis Alberto
+Midfielder
+33
+Jordon Ibe
+Midfielder
+29
+Fabio Borini
+Forward

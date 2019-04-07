@@ -1,0 +1,20 @@
+Chelsea,https://www.fifaindex.com/team/5/chelsea/fifa16_73/
+Manchester City,https://www.fifaindex.com/team/10/manchester-city/fifa16_73/
+Arsenal,https://www.fifaindex.com/team/1/arsenal/fifa16_73/
+Manchester Utd,https://www.fifaindex.com/team/11/manchester-utd/fifa16_73/
+Spurs,https://www.fifaindex.com/team/18/spurs/fifa16_73/
+Liverpool,https://www.fifaindex.com/team/9/liverpool/fifa16_73/
+Everton,https://www.fifaindex.com/team/7/everton/fifa16_73/
+Newcastle Utd,https://www.fifaindex.com/team/13/newcastle-utd/fifa16_73/
+Stoke City,https://www.fifaindex.com/team/1806/stoke-city/fifa16_73/
+Southampton,https://www.fifaindex.com/team/17/southampton/fifa16_73/
+West Ham,https://www.fifaindex.com/team/19/west-ham/fifa16_73/
+Swansea City,https://www.fifaindex.com/team/1960/swansea-city/fifa16_73/
+Leicester City,https://www.fifaindex.com/team/95/leicester-city/fifa16_73/
+Crystal Palace,https://www.fifaindex.com/team/1799/crystal-palace/fifa16_73/
+Watford,https://www.fifaindex.com/team/1795/watford/fifa16_73/
+Sunderland,https://www.fifaindex.com/team/106/sunderland/fifa16_73/
+West Brom,https://www.fifaindex.com/team/109/west-brom/fifa16_73/
+Aston Villa,https://www.fifaindex.com/team/2/aston-villa/fifa16_73/
+Norwich,https://www.fifaindex.com/team/1792/norwich/fifa16_73/
+Bournemouth,https://www.fifaindex.com/team/1943/bournemouth/fifa16_73/

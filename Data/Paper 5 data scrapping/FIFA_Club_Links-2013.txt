@@ -1,0 +1,20 @@
+Manchester Utd,https://www.fifaindex.com/team/11/manchester-utd/fifa14_13/
+Manchester City,https://www.fifaindex.com/team/10/manchester-city/fifa14_13/
+Chelsea,https://www.fifaindex.com/team/5/chelsea/fifa14_13/
+Arsenal,https://www.fifaindex.com/team/1/arsenal/fifa14_13/
+Spurs,https://www.fifaindex.com/team/18/spurs/fifa14_13/
+Liverpool,https://www.fifaindex.com/team/9/liverpool/fifa14_13/
+Everton,https://www.fifaindex.com/team/7/everton/fifa14_13/
+Swansea City,https://www.fifaindex.com/team/1960/swansea-city/fifa14_13/
+Newcastle Utd,https://www.fifaindex.com/team/13/newcastle-utd/fifa14_13/
+Southampton,https://www.fifaindex.com/team/17/southampton/fifa14_13/
+Fulham,https://www.fifaindex.com/team/144/fulham/fifa14_13/
+West Ham,https://www.fifaindex.com/team/19/west-ham/fifa14_13/
+Stoke City,https://www.fifaindex.com/team/1806/stoke-city/fifa14_13/
+Norwich City,https://www.fifaindex.com/team/1792/norwich-city/fifa14_13/
+Sunderland,https://www.fifaindex.com/team/106/sunderland/fifa14_13/
+Aston Villa,https://www.fifaindex.com/team/2/aston-villa/fifa14_13/
+West Brom,https://www.fifaindex.com/team/109/west-brom/fifa14_13/
+Hull City,https://www.fifaindex.com/team/1952/hull-city/fifa14_13/
+Cardiff City,https://www.fifaindex.com/team/1961/cardiff-city/fifa14_13/
+Crystal Palace,https://www.fifaindex.com/team/1799/crystal-palace/fifa14_13/

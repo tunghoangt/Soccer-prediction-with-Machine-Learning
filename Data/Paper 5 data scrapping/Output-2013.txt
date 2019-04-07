@@ -1,0 +1,1140 @@
+Cardiff City
+1-2
+Chelsea
+Fulham
+2-2
+Crystal Palace
+Hull
+0-2
+Everton
+Liverpool
+2-1
+Newcastle
+Man City
+2-0
+West Ham
+Norwich
+0-2
+Arsenal
+Southampton
+1-1
+Man Utd
+Sunderland
+1-3
+Swansea
+Spurs
+3-0
+Aston Villa
+West Brom
+1-2
+Stoke
+Man City
+4-0
+Aston Villa
+Sunderland
+2-0
+West Brom
+Man Utd
+3-1
+Hull
+Crystal Palace
+3-3
+Liverpool
+Chelsea
+0-0
+Norwich
+Arsenal
+1-0
+West Brom
+Everton
+2-3
+Man City
+Aston Villa
+3-1
+Hull
+Man Utd
+0-1
+Sunderland
+Newcastle
+3-0
+Cardiff City
+Stoke
+4-1
+Fulham
+Swansea
+0-1
+Southampton
+West Ham
+2-0
+Spurs
+Arsenal
+3-0
+Newcastle
+Crystal Palace
+0-2
+Man City
+Liverpool
+0-2
+Chelsea
+Sunderland
+4-0
+Cardiff City
+Man Utd
+4-0
+Norwich
+Fulham
+2-2
+Hull
+Stoke
+0-1
+Spurs
+Swansea
+4-1
+Aston Villa
+West Brom
+1-0
+West Ham
+Southampton
+2-0
+Everton
+Man City
+3-1
+West Brom
+Everton
+2-0
+Man Utd
+Hull
+0-3
+Arsenal
+Norwich
+2-3
+Liverpool
+Chelsea
+1-2
+Sunderland
+Aston Villa
+0-0
+Southampton
+Cardiff City
+1-1
+Stoke
+Newcastle
+1-2
+Swansea
+West Ham
+0-1
+Crystal Palace
+Spurs
+3-1
+Fulham
+Everton
+2-3
+Crystal Palace
+Man City
+2-2
+Sunderland
+Arsenal
+3-1
+West Ham
+Swansea
+0-1
+Chelsea
+Liverpool
+3-2
+Man City
+Crystal Palace
+1-0
+Aston Villa
+Fulham
+1-0
+Norwich
+Southampton
+0-1
+Cardiff
+Stoke
+1-0
+Newcastle
+Sunderland
+0-1
+Everton
+West Brom
+3-3
+Spurs
+Spurs
+5-1
+Sunderland
+West Ham
+1-2
+Liverpool
+Everton
+3-0
+Arsenal
+Chelsea
+3-0
+Stoke
+Aston Villa
+1-2
+Fulham
+Cardiff
+0-3
+Crystal Palace
+Hull
+1-0
+Swansea
+Newcastle
+0-4
+Man Utd
+Norwich
+0-1
+West Brom
+Man City
+4-1
+Southampton
+Sunderland
+1-2
+West Ham
+Liverpool
+4-0
+Spurs
+Fulham
+1-3
+Everton
+Arsenal
+1-1
+Man City
+Crystal Palace
+1-0
+Chelsea
+Southampton
+4-0
+Newcastle
+Stoke
+1-0
+Hull
+Swansea
+3-0
+Norwich
+West Brom
+3-3
+Cardiff
+Man Utd
+4-1
+Aston Villa
+Liverpool
+2-1
+Sunderland
+West Ham
+2-1
+Hull
+Arsenal
+2-2
+Swansea
+Man Utd
+0-3
+Man City
+Newcastle
+0-3
+Everton
+Aston Villa
+1-4
+Stoke
+Spurs
+3-2
+Southampton
+West Ham
+0-2
+Man Utd
+Cardiff City
+3-6
+Liverpool
+Everton
+3-2
+Swansea
+Hull
+2-0
+West Brom
+Man City
+5-0
+Fulham
+Newcastle
+1-0
+Crystal Palace
+Norwich
+2-0
+Sunderland
+Chelsea
+6-0
+Arsenal
+Spurs
+0-1
+Arsenal
+Man Utd
+0-3
+Liverpool
+Aston Villa
+1-0
+Chelsea
+Everton
+2-1
+Cardiff City
+Fulham
+1-0
+Newcastle
+Southampton
+4-2
+Norwich
+Stoke
+3-1
+West Ham
+Sunderland
+0-0
+Crystal Palace
+Swansea
+1-2
+West Brom
+Hull
+0-2
+Man City
+Chelsea
+4-0
+Spurs
+Cardiff City
+3-1
+Fulham
+Crystal Palace
+0-1
+Southampton
+Norwich
+1-1
+Stoke
+West Brom
+0-3
+Man Utd
+Aston Villa
+4-1
+Norwich
+Swansea
+1-1
+Crystal Palace
+Spurs
+1-0
+Cardiff City
+Southampton
+0-3
+Liverpool
+Everton
+1-0
+West Ham
+Fulham
+1-3
+Chelsea
+Hull
+1-4
+Newcastle
+Stoke
+1-0
+Arsenal
+Norwich
+1-0
+Spurs
+Liverpool
+4-3
+Swansea
+Newcastle
+1-0
+Aston Villa
+Crystal Palace
+0-2
+Man Utd
+Arsenal
+4-1
+Sunderland
+Cardiff City
+0-4
+Hull
+Man City
+1-0
+Stoke
+West Brom
+1-1
+Fulham
+West Ham
+3-1
+Southampton
+Chelsea
+1-0
+Everton
+Fulham
+2-3
+Liverpool
+Arsenal
+0-0
+Man Utd
+Newcastle
+0-4
+Spurs
+Stoke
+1-1
+Swansea
+West Brom
+1-1
+Chelsea
+Cardiff
+0-0
+Aston Villa
+Hull
+0-1
+Southampton
+West Ham
+2-0
+Norwich
+Man Utd
+2-2
+Fulham
+Spurs
+1-0
+Everton
+Swansea
+3-0
+Cardiff
+Aston Villa
+0-2
+West Ham
+Chelsea
+3-0
+Newcastle
+Crystal Palace
+3-1
+West Brom
+Norwich
+0-0
+Man City
+Southampton
+2-2
+Stoke
+Sunderland
+0-2
+Hull
+Liverpool
+5-1
+Arsenal
+Man City
+0-1
+Chelsea
+Arsenal
+2-0
+Crystal Palace
+West Brom
+1-1
+Liverpool
+Cardiff
+2-1
+Norwich
+Everton
+2-1
+Aston Villa
+Fulham
+0-3
+Southampton
+Hull
+1-1
+Spurs
+Stoke
+2-1
+Man Utd
+Newcastle
+0-3
+Sunderland
+West Ham
+2-0
+Swansea
+Aston Villa
+4-3
+West Brom
+Chelsea
+0-0
+West Ham
+Sunderland
+1-0
+Stoke
+Spurs
+1-5
+Man City
+Crystal Palace
+1-0
+Hull
+Liverpool
+4-0
+Everton
+Man Utd
+2-0
+Cardiff
+Norwich
+0-0
+Newcastle
+Southampton
+2-2
+Arsenal
+Swansea
+2-0
+Fulham
+West Brom
+1-1
+Everton
+Chelsea
+3-1
+Man Utd
+Swansea
+1-3
+Spurs
+Liverpool
+2-2
+Aston Villa
+Arsenal
+2-0
+Fulham
+Crystal Palace
+1-0
+Stoke
+Man City
+4-2
+Cardiff
+Norwich
+1-0
+Hull
+West Ham
+1-3
+Newcastle
+Sunderland
+2-2
+Southampton
+Aston Villa
+1-2
+Arsenal
+Stoke
+3-5
+Liverpool
+Newcastle
+0-2
+Man City
+Man Utd
+2-0
+Swansea
+Cardiff
+0-2
+West Ham
+Everton
+2-0
+Norwich
+Fulham
+1-4
+Sunderland
+Southampton
+1-0
+West Brom
+Spurs
+2-0
+Crystal Palace
+Hull
+0-2
+Chelsea
+Man Utd
+1-2
+Spurs
+Arsenal
+2-0
+Cardiff
+Crystal Palace
+1-1
+Norwich
+Fulham
+2-1
+West Ham
+Liverpool
+2-0
+Hull
+Southampton
+0-3
+Chelsea
+Stoke
+1-1
+Everton
+Sunderland
+0-1
+Aston Villa
+West Brom
+1-0
+Newcastle
+Swansea
+2-3
+Man City
+Chelsea
+2-1
+Liverpool
+Spurs
+3-0
+Stoke
+Everton
+2-1
+Southampton
+Newcastle
+0-1
+Arsenal
+Cardiff
+2-2
+Sunderland
+Aston Villa
+1-1
+Swansea
+Hull
+6-0
+Fulham
+Man City
+1-0
+Crystal Palace
+Norwich
+0-1
+Man Utd
+West Ham
+3-3
+West Brom
+Man City
+2-1
+Liverpool
+Aston Villa
+0-1
+Crystal Palace
+Cardiff City
+0-3
+Southampton
+Chelsea
+1-0
+Swansea
+Everton
+0-1
+Sunderland
+Newcastle
+5-1
+Stoke
+Norwich
+1-2
+Fulham
+Spurs
+1-1
+West Brom
+West Ham
+1-3
+Arsenal
+Hull
+2-3
+Man Utd
+Arsenal
+0-0
+Chelsea
+Swansea
+1-2
+Everton
+Southampton
+2-3
+Spurs
+Crystal Palace
+0-3
+Newcastle
+Fulham
+2-4
+Man City
+Man Utd
+3-1
+West Ham
+Stoke
+2-1
+Aston Villa
+Sunderland
+0-0
+Norwich
+West Brom
+1-1
+Hull
+Liverpool
+3-1
+Cardiff City
+Spurs
+0-5
+Liverpool
+Aston Villa
+0-3
+Man Utd
+Norwich
+1-1
+Swansea
+Hull
+0-0
+Stoke
+Cardiff City
+1-0
+West Brom
+Chelsea
+2-1
+Crystal Palace
+Everton
+4-1
+Fulham
+Newcastle
+1-1
+Southampton
+West Ham
+0-0
+Sunderland
+Man City
+6-3
+Arsenal
+Swansea
+1-1
+Hull
+Arsenal
+1-1
+Everton
+Fulham
+2-0
+Aston Villa
+Sunderland
+1-2
+Spurs
+Crystal Palace
+2-0
+Cardiff City
+Liverpool
+4-1
+West Ham
+Southampton
+1-1
+Man City
+Stoke
+3-2
+Chelsea
+West Brom
+0-2
+Norwich
+Man Utd
+0-1
+Newcastle
+Fulham
+1-2
+Spurs
+West Brom
+2-3
+Man City
+Arsenal
+2-0
+Hull
+Liverpool
+5-1
+Norwich
+Man Utd
+0-1
+Everton
+Southampton
+2-3
+Aston Villa
+Stoke
+0-0
+Cardiff City
+Sunderland
+3-4
+Chelsea
+Swansea
+3-0
+Newcastle
+Crystal Palace
+1-0
+West Ham
+Chelsea
+3-1
+Southampton
+Man City
+3-0
+Swansea
+Hull
+3-1
+Liverpool
+Spurs
+2-2
+Man Utd
+Newcastle
+2-1
+West Brom
+Aston Villa
+0-0
+Sunderland
+Cardiff City
+0-3
+Arsenal
+Everton
+4-0
+Stoke
+Norwich
+1-0
+Crystal Palace
+West Ham
+3-0
+Fulham
+West Brom
+2-2
+Aston Villa
+Cardiff City
+2-2
+Man Utd
+Man City
+6-0
+Spurs
+West Ham
+0-3
+Chelsea
+Arsenal
+2-0
+Southampton
+Fulham
+1-2
+Swansea
+Hull
+0-1
+Crystal Palace
+Newcastle
+2-1
+Norwich
+Stoke
+2-0
+Sunderland
+Everton
+3-3
+Liverpool
+Man Utd
+1-0
+Arsenal
+Swansea
+3-3
+Stoke
+Sunderland
+1-0
+Man City
+Spurs
+0-1
+Newcastle
+Norwich
+3-1
+West Ham
+Aston Villa
+2-0
+Cardiff City
+Chelsea
+2-2
+West Brom
+Crystal Palace
+0-0
+Everton
+Liverpool
+4-0
+Fulham
+Southampton
+4-1
+Hull
+Cardiff
+1-0
+Swansea
+Everton
+0-0
+Spurs
+Arsenal
+2-0
+Liverpool
+Fulham
+1-3
+Man Utd
+Hull
+1-0
+Sunderland
+Man City
+7-0
+Norwich
+Stoke
+1-1
+Southampton
+West Brom
+2-0
+Crystal Palace
+West Ham
+0-0
+Aston Villa
+Newcastle
+2-0
+Chelsea
+Chelsea
+2-1
+Man City
+Swansea
+0-0
+West Ham
+Spurs
+1-0
+Hull
+Sunderland
+2-1
+Newcastle
+Southampton
+2-0
+Fulham
+Aston Villa
+0-2
+Everton
+Liverpool
+4-1
+West Brom
+Man Utd
+3-2
+Stoke
+Norwich
+0-0
+Cardiff
+Crystal Palace
+0-2
+Arsenal
+Crystal Palace
+1-4
+Fulham
+Aston Villa
+0-2
+Spurs
+West Ham
+1-3
+Man City
+Arsenal
+4-1
+Norwich
+Chelsea
+4-1
+Cardiff
+Everton
+2-1
+Hull
+Man Utd
+1-1
+Southampton
+Stoke
+0-0
+West Brom
+Swansea
+4-0
+Sunderland
+Newcastle
+2-2
+Liverpool
+Spurs
+0-3
+West Ham
+West Brom
+1-1
+Arsenal
+Norwich
+1-3
+Chelsea
+Southampton
+2-0
+Swansea
+Sunderland
+1-2
+Man Utd
+Cardiff
+1-2
+Newcastle
+Fulham
+1-0
+Stoke
+Hull
+0-0
+Aston Villa
+Liverpool
+3-1
+Crystal Palace
+Man City
+3-1
+Everton
+Everton
+3-2
+Newcastle
+Sunderland
+1-3
+Liverpool
+Stoke
+0-1
+Norwich
+Swansea
+1-2
+Arsenal
+Aston Villa
+3-2
+Man City
+Fulham
+1-2
+Cardiff
+Hull
+1-0
+West Ham
+Man Utd
+1-2
+West Brom
+Southampton
+2-0
+Crystal Palace
+Spurs
+1-1
+Chelsea
+Cardiff
+0-1
+Spurs
+Man City
+4-1
+Man Utd
+Arsenal
+3-1
+Stoke
+Crystal Palace
+0-2
+Swansea
+Chelsea
+2-0
+Fulham
+Liverpool
+0-1
+Southampton
+Newcastle
+2-3
+Hull
+West Brom
+3-0
+Sunderland
+West Ham
+2-3
+Everton
+Norwich
+0-1
+Aston Villa
+Swansea
+2-2
+Liverpool
+Southampton
+0-0
+West Ham
+Everton
+1-0
+Chelsea
+Aston Villa
+1-2
+Newcastle
+Fulham
+1-1
+West Brom
+Hull
+1-1
+Cardiff
+Stoke
+0-0
+Man City
+Sunderland
+1-3
+Arsenal
+Spurs
+2-0
+Norwich
+Man Utd
+2-0
+Crystal Palace
+Arsenal
+1-0
+Spurs
+Liverpool
+1-0
+Man Utd
+West Brom
+0-2
+Swansea
+Crystal Palace
+3-1
+Sunderland
+Cardiff
+0-0
+Everton
+Newcastle
+1-0
+Fulham
+Norwich
+1-0
+Southampton
+West Ham
+0-1
+Stoke
+Man City
+2-0
+Hull
+Man Utd
+0-0
+Chelsea
+Cardiff
+3-2
+Man City
+Spurs
+1-0
+Swansea
+Aston Villa
+0-1
+Liverpool
+Everton
+0-0
+West Brom
+Hull
+1-0
+Norwich
+Newcastle
+0-0
+West Ham
+Southampton
+1-1
+Sunderland
+Stoke
+2-1
+Crystal Palace
+Fulham
+1-3
+Arsenal
+Chelsea
+2-1
+Aston Villa
+Man City
+4-0
+Newcastle
+Chelsea
+2-0
+Hull
+Crystal Palace
+0-1
+Spurs
+Swansea
+1-4
+Man Utd
+Arsenal
+1-3
+Aston Villa
+Norwich
+2-2
+Everton
+Sunderland
+0-1
+Fulham
+West Brom
+0-1
+Southampton
+West Ham
+2-0
+Cardiff
+Liverpool
+1-0
+Stoke

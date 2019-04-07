@@ -1,0 +1,20 @@
+Chelsea,https://www.fifaindex.com/team/5/chelsea/fifa15_14/
+Manchester City,https://www.fifaindex.com/team/10/manchester-city/fifa15_14/
+Manchester Utd,https://www.fifaindex.com/team/11/manchester-utd/fifa15_14/
+Arsenal,https://www.fifaindex.com/team/1/arsenal/fifa15_14/
+Liverpool,https://www.fifaindex.com/team/9/liverpool/fifa15_14/
+Everton,https://www.fifaindex.com/team/7/everton/fifa15_14/
+Spurs,https://www.fifaindex.com/team/18/spurs/fifa15_14/
+Southampton,https://www.fifaindex.com/team/17/southampton/fifa15_14/
+Stoke City,https://www.fifaindex.com/team/1806/stoke-city/fifa15_14/
+Swansea City,https://www.fifaindex.com/team/1960/swansea-city/fifa15_14/
+West Ham,https://www.fifaindex.com/team/19/west-ham/fifa15_14/
+Newcastle Utd,https://www.fifaindex.com/team/13/newcastle-utd/fifa15_14/
+QPR,https://www.fifaindex.com/team/15/qpr/fifa15_14/
+Aston Villa,https://www.fifaindex.com/team/2/aston-villa/fifa15_14/
+Sunderland,https://www.fifaindex.com/team/106/sunderland/fifa15_14/
+West Brom,https://www.fifaindex.com/team/109/west-brom/fifa15_14/
+Hull City,https://www.fifaindex.com/team/1952/hull-city/fifa15_14/
+Crystal Palace,https://www.fifaindex.com/team/1799/crystal-palace/fifa15_14/
+Leicester City,https://www.fifaindex.com/team/95/leicester-city/fifa15_14/
+Burnley,https://www.fifaindex.com/team/1796/burnley/fifa15_14/

@@ -1,0 +1,659 @@
+Manchester Utd,De Gea,8387,GK
+Manchester Utd,Rafael,7783,RB
+Manchester Utd,Rio Ferdinand,7979,CB
+Manchester Utd,Nemanja Vidić,8585,CB
+Manchester Utd,Patrice Evra,8080,LB
+Manchester Utd,Michael Carrick,8080,CM
+Manchester Utd,Shinji Kagawa,8185,LM
+Manchester Utd,Juan Mata,8788,CA
+Manchester Utd,Danny Welbeck,7883,ST
+Manchester Utd,Wayne Rooney,8787,CF
+Manchester Utd,Robin van Persie,8989,ST
+Manchester Utd,Anders Lindegaard,7777,GK
+Manchester Utd,Phil Jones,7984,CB
+Manchester Utd,Marouane Fellaini,8082,CD
+Manchester Utd,Darren Fletcher,7575,CM
+Manchester Utd,Antonio Valencia,8181,RM
+Manchester Utd,Adnan Januzaj,7387,LM
+Manchester Utd,Javier Hernández,8283,ST
+Manchester Utd,Ashley Young,7979,LM
+Manchester Utd,Nani,8282,RM
+Manchester Utd,Chris Smalling,7681,CB
+Manchester Utd,Jonny Evans,7982,CB
+Manchester Utd,Tom Cleverley,7480,CM
+Manchester Utd,Tom Lawrence,5563,LM
+Manchester Utd,Ben Amos,6571,GK
+Manchester Utd,Alexander Büttner,7377,LB
+Manchester Utd,James Wilson,5865,ST
+Manchester Utd,Michael Keane,6579,CB
+Manchester Utd,Guillermo Varela,6064,RB
+Manchester Utd,Saidy Janko,5773,RB
+Manchester Utd,Andreas Pereira,5580,CA
+Manchester Utd,Reece James,5363,LB
+Manchester Utd,Charni Ekangamene,5362,CA
+Manchester City,Joe Hart,8283,GK
+Manchester City,Pablo Zabaleta,8282,RB
+Manchester City,Vincent Kompany,8687,CB
+Manchester City,Martín Demichelis,7979,CB
+Manchester City,Aleksandar Kolarov,7879,LB
+Manchester City,Samir Nasri,8487,LM
+Manchester City,Yaya Touré,8686,CM
+Manchester City,Fernandinho,8283,CM
+Manchester City,David Silva,8788,LM
+Manchester City,Edin Džeko,8383,ST
+Manchester City,Sergio Agüero,8890,ST
+Manchester City,Costel Pantilimon,7577,GK
+Manchester City,Gaël Clichy,8080,LB
+Manchester City,James Milner,8080,RM
+Manchester City,Negredo,8383,ST
+Manchester City,Jesús Navas,8383,RM
+Manchester City,Javi García,7980,CD
+Manchester City,Stevan Jovetić,8387,ST
+Manchester City,Joleon Lescott,7979,CB
+Manchester City,Micah Richards,7882,RB
+Manchester City,Matija Nastasić,7786,CB
+Manchester City,Jack Rodwell,7682,CM
+Manchester City,Dedryck Boyata,6875,RB
+Manchester City,Marcos Lopes,6583,CA
+Manchester City,Alex Nimely,6570,ST
+Manchester City,Richard Wright,6262,GK
+Manchester City,Thomas Agyiri,6173,CD
+Manchester City,Seko Fofana,5873,CD
+Manchester City,Jordi Hiwula,5877,ST
+Manchester City,Sinan Bytyqi,5771,RW
+Manchester City,Adam Drury,5669,RM
+Manchester City,Angus Gunn,5673,GK
+Manchester City,Ian Lawlor,5675,GK
+Chelsea,Petr Čech,8585,GK
+Chelsea,Branislav Ivanović,8181,RB
+Chelsea,Gary Cahill,8080,CB
+Chelsea,John Terry,8383,CB
+Chelsea,Azpilicueta,7982,LB
+Chelsea,David Luiz,8283,CB
+Chelsea,Nemanja Matić,8185,CD
+Chelsea,Willian,8384,RM
+Chelsea,Eden Hazard,8890,LM
+Chelsea,Oscar,8487,CA
+Chelsea,Fernando Torres,8282,ST
+Chelsea,Mark Schwarzer,7777,GK
+Chelsea,Frank Lampard,8080,CM
+Chelsea,André Schürrle,8085,LM
+Chelsea,Samuel Eto'o,8282,ST
+Chelsea,Ashley Cole,8383,LB
+Chelsea,Ramires,8182,CD
+Chelsea,Mohamed Salah,7787,RM
+Chelsea,Tomáš Kalas,7481,CB
+Chelsea,John Obi Mikel,7980,CD
+Chelsea,Demba Ba,8080,ST
+Chelsea,Nathan Aké,6782,CB
+Chelsea,Marco van Ginkel,7684,CM
+Chelsea,Sam Hutchinson,6269,CD
+Chelsea,John Swift,5466,CM
+Chelsea,Lewis Baker,5977,CA
+Chelsea,Daniel Pappoe,5868,CB
+Chelsea,Ruben Loftus-Cheek,5676,CM
+Chelsea,Andreas Christensen,5867,CB
+Chelsea,Jamal Blackman,5869,GK
+Chelsea,Islam Feruz,5782,ST
+Chelsea,Alex Davey,5465,CB
+Chelsea,Tika Musonda,5470,CD
+Arsenal,Wojciech Szczęsny,8083,GK
+Arsenal,Bacary Sagna,8080,RB
+Arsenal,Per Mertesacker,8282,CB
+Arsenal,Laurent Koscielny,8282,CB
+Arsenal,Kieran Gibbs,7882,LB
+Arsenal,Mikel Arteta,8080,CD
+Arsenal,Aaron Ramsey,8285,CM
+Arsenal,Santi Cazorla,8484,LM
+Arsenal,Lukas Podolski,7777,LM
+Arsenal,Mesut Özil,8789,CA
+Arsenal,Olivier Giroud,7980,ST
+Arsenal,Łukasz Fabiański,7576,GK
+Arsenal,Jack Wilshere,8286,CM
+Arsenal,Nacho Monreal,7678,LB
+Arsenal,Mathieu Flamini,7979,CD
+Arsenal,Yaya Sanogo,6880,ST
+Arsenal,Alex Oxlade-Chamberlain,7886,RM
+Arsenal,Thomas Vermaelen,7979,CB
+Arsenal,Tomáš Rosický,8181,CA
+Arsenal,Carl Jenkinson,7179,RB
+Arsenal,Theo Walcott,8185,RM
+Arsenal,Kim Källström,7474,CD
+Arsenal,Abou Diaby,7679,CM
+Arsenal,Emiliano Viviano,7878,GK
+Arsenal,Nicklas Bendtner,7576,ST
+Arsenal,Serge Gnabry,7084,RM
+Arsenal,Ryo Miyaichi,6777,RM
+Arsenal,Gedion Zelalem,6281,CM
+Arsenal,Thomas Eisfeld,5973,CA
+Arsenal,Chuba Akpom,5875,ST
+Arsenal,Héctor Bellerín,5880,RB
+Arsenal,Zak Ansah,5764,ST
+Arsenal,Jon Toral,5674,CM
+Spurs,Hugo Lloris,8486,GK
+Spurs,Kyle Walker,7782,RB
+Spurs,Michael Dawson,7979,CB
+Spurs,Jan Vertonghen,8284,CB
+Spurs,Danny Rose,7378,LB
+Spurs,Aaron Lennon,7980,RM
+Spurs,Sandro,8184,CD
+Spurs,Paulinho,8185,CM
+Spurs,Christian Eriksen,8488,LM
+Spurs,Emmanuel Adebayor,8080,ST
+Spurs,Harry Kane,6874,ST
+Spurs,Brad Friedel,7878,GK
+Spurs,Soldado,8282,ST
+Spurs,Moussa Dembélé,8082,CM
+Spurs,Nacer Chadli,7782,LM
+Spurs,Gylfi Sigurðsson,7482,LM
+Spurs,Nabil Bentaleb,6881,CM
+Spurs,Vlad Chiricheş,7684,CB
+Spurs,Andros Townsend,7482,RM
+Spurs,Etienne Capoue,7883,CD
+Spurs,Erik Lamela,8085,RW
+Spurs,Younès Kaboul,7979,CB
+Spurs,Ezekiel Fryers,6478,LB
+Spurs,Milos Veljkovic,5770,CB
+Spurs,Kyle Naughton,7277,RB
+Spurs,Gomes,7777,GK
+Spurs,Alex Pritchard,6576,LM
+Spurs,Souleymane Coulibaly,6377,ST
+Spurs,Cameron Lancaster,6164,ST
+Spurs,Roman Michael-Percil,5868,RB
+Spurs,Giancarlo Gallifuoco,5862,CM
+Spurs,Jordan Archer,5764,GK
+Spurs,Jonathan Miles,5666,GK
+Liverpool,Simon Mignolet,8283,GK
+Liverpool,Glen Johnson,7878,RB
+Liverpool,Martin Škrtel,8181,CB
+Liverpool,Daniel Agger,8181,CB
+Liverpool,Jon Flanagan,7080,LB
+Liverpool,Steven Gerrard,8383,CM
+Liverpool,Jordan Henderson,7883,CM
+Liverpool,Joe Allen,7782,CM
+Liverpool,Coutinho,8186,CA
+Liverpool,Daniel Sturridge,8386,ST
+Liverpool,Raheem Sterling,7985,RW
+Liverpool,Brad Jones,7171,GK
+Liverpool,Kolo Touré,7979,CB
+Liverpool,Iago Aspas,7681,ST
+Liverpool,Victor Moses,7580,RM
+Liverpool,Mamadou Sakho,8185,CB
+Liverpool,Aly Cissokho,7476,LB
+Liverpool,Lucas Leiva,8082,CD
+Liverpool,José Enrique,7980,LB
+Liverpool,Luis Alberto,7281,CF
+Liverpool,Martin Kelly,7479,RB
+Liverpool,Teixeira,5867,CA
+Liverpool,Samed Yesil,6477,ST
+Liverpool,Villyan Bijev,5666,ST
+Liverpool,Danny Ward,5772,GK
+Liverpool,Yalany Baio,5870,CD
+Liverpool,Cameron Brannagan,5662,CA
+Liverpool,Marc Pelosi,5669,LM
+Liverpool,Harry Wilson,5672,LM
+Liverpool,Lloyd Jones,5665,CB
+Liverpool,Yusuf Mersin,5664,GK
+Liverpool,Stephen Sama,6278,CB
+Liverpool,Luis Suárez,8989,ST
+Everton,Tim Howard,8181,GK
+Everton,Séamus Coleman,7682,RB
+Everton,Phil Jagielka,8080,CB
+Everton,Sylvain Distin,7777,CB
+Everton,Leighton Baines,8282,LB
+Everton,James McCarthy,7783,CD
+Everton,Gareth Barry,8080,CD
+Everton,Kevin Mirallas,8183,RM
+Everton,Steven Pienaar,8080,LM
+Everton,Ross Barkley,7786,CA
+Everton,Romelu Lukaku,8086,ST
+Everton,Joel Robles,7075,GK
+Everton,Aiden McGeady,7879,RM
+Everton,Deulofeu,7682,RW
+Everton,Leon Osman,7676,CM
+Everton,Steven Naismith,7575,ST
+Everton,Antolín Alcaraz,7474,CB
+Everton,John Stones,6979,CB
+Everton,Tony Hibbert,7373,RB
+Everton,Arouna Koné,7777,ST
+Everton,Darron Gibson,7780,CM
+Everton,Lacina Traoré,7884,ST
+Everton,Magaye Gueye,7176,LM
+Everton,Conor McAleny,6165,ST
+Everton,Bryan Oviedo,6874,LB
+Everton,Luke Garbutt,6272,LB
+Everton,Jindrich Stanek,6175,GK
+Everton,Chris Long,5772,ST
+Everton,Courtney Duffus,5966,ST
+Everton,Tyias Browning,5474,CB
+Everton,Conor Grant,5765,CD
+Everton,George Green,5576,CM
+Everton,Ben McLaughlin,5565,RB
+Swansea City,Michel Vorm,8081,GK
+Swansea City,Àngel Rangel,7676,RB
+Swansea City,Jordi Amat,7480,CB
+Swansea City,Ashley Williams,7979,CB
+Swansea City,Ben Davies,7279,LB
+Swansea City,Leon Britton,7575,CM
+Swansea City,Jonjo Shelvey,7480,CA
+Swansea City,Nathan Dyer,7476,RM
+Swansea City,Wayne Routledge,7575,LM
+Swansea City,Jonathan De Guzmán,7678,CA
+Swansea City,Wilfried Bony,8184,ST
+Swansea City,Gerhard Tremmel,7373,GK
+Swansea City,Neil Taylor,7278,LB
+Swansea City,Chico,7778,CB
+Swansea City,Jay Fulton,6379,CA
+Swansea City,Adam King,5159,CM
+Swansea City,Pablo Hernández,7777,LW
+Swansea City,Marvin Emnes,7075,ST
+Swansea City,David Cornell,5868,GK
+Swansea City,Michu,8080,ST
+Swansea City,Álvaro,7177,ST
+Swansea City,José Cañas,7778,CD
+Swansea City,Kyle Bartley,6573,CB
+Swansea City,Dwight Tiendalli,7070,RB
+Swansea City,Roland Lamah,7373,LM
+Swansea City,Pozuelo,7176,CA
+Swansea City,David N'Gog,7073,ST
+Swansea City,Leroy Lita,6767,ST
+Swansea City,Ashley Richards,6672,RB
+Swansea City,Rory Donnelly,6573,ST
+Swansea City,Darnel Situ,6172,CB
+Swansea City,Gregor Zabret,6179,GK
+Swansea City,Kenji Gorré,6175,LW
+Newcastle Utd,Tim Krul,7984,GK
+Newcastle Utd,Mathieu Debuchy,8080,RB
+Newcastle Utd,Mike Williamson,7575,CB
+Newcastle Utd,Fabricio Coloccini,8080,CB
+Newcastle Utd,Davide Santon,7680,LB
+Newcastle Utd,Vurnon Anita,7577,CD
+Newcastle Utd,Cheick Tioté,7880,CD
+Newcastle Utd,Moussa Sissoko,7580,RM
+Newcastle Utd,Yoan Gouffran,7476,LM
+Newcastle Utd,Luuk de Jong,7580,ST
+Newcastle Utd,Loïc Rémy,8081,ST
+Newcastle Utd,Rob Elliot,6871,GK
+Newcastle Utd,Paul Dummett,6475,LB
+Newcastle Utd,Steven Taylor,7575,CB
+Newcastle Utd,Mapou Yanga-M'Biwa,7681,CB
+Newcastle Utd,Gael Bigirimana,6376,CM
+Newcastle Utd,Sammy Ameobi,6874,LM
+Newcastle Utd,Shola Ameobi,7070,ST
+Newcastle Utd,Massadio Haïdara,6979,LB
+Newcastle Utd,Hatem Ben Arfa,7980,RM
+Newcastle Utd,Papiss Demba Cissé,7676,ST
+Newcastle Utd,Ryan Taylor,7373,RB
+Newcastle Utd,Sylvain Marveaux,7374,CA
+Newcastle Utd,Dan Gosling,7277,CM
+Newcastle Utd,Gabriel Obertan,6872,RM
+Newcastle Utd,Lubomir Satka,4763,CB
+Newcastle Utd,Adam Armstrong,6281,CF
+Newcastle Utd,Jak Alnwick,6171,GK
+Newcastle Utd,Michael Richardson,5762,CM
+Newcastle Utd,Rolando Aarons,5765,LM
+Newcastle Utd,Freddie Woodman,5763,GK
+Newcastle Utd,Olivier Kemen,5677,CM
+Newcastle Utd,Remie Streete,5670,CB
+Southampton,Artur Boruc,7676,GK
+Southampton,Nathaniel Clyne,7481,RB
+Southampton,José Fonte,7575,CB
+Southampton,Dejan Lovren,7982,CB
+Southampton,Luke Shaw,7486,LB
+Southampton,Jack Cork,7578,CD
+Southampton,Morgan Schneiderlin,7881,CD
+Southampton,James Ward-Prowse,7385,CM
+Southampton,Steven Davis,7575,RM
+Southampton,Adam Lallana,7983,CA
+Southampton,Rickie Lambert,7676,ST
+Southampton,Paulo Gazzaniga,6472,GK
+Southampton,Calum Chambers,6983,RB
+Southampton,Jos Hooiveld,7070,CB
+Southampton,Harrison Reed,6177,CM
+Southampton,Gastón Ramirez,7882,CA
+Southampton,Guly do Prado,6767,LM
+Southampton,Sam Gallagher,6275,ST
+Southampton,Victor Wanyama,7681,CD
+Southampton,Jay Rodriguez,7479,LM
+Southampton,Maya Yoshida,7174,CB
+Southampton,Kelvin Davis,7070,GK
+Southampton,Jonathan Forte,6060,ST
+Southampton,Ryan Seager,5977,ST
+Southampton,Marcus Barnes,5869,ST
+Southampton,Cody Cropper,5864,GK
+Southampton,Dominic Gape,5870,CM
+Southampton,Josh Sims,5777,LM
+Southampton,Matt Targett,5776,LB
+Southampton,Jake Sinclair,5774,ST
+Southampton,Jake Flannigan,5770,CM
+Southampton,Omar Rowe,5665,RM
+Southampton,Joshua Debayo,5662,CB
+Fulham,David Stockdale,7373,GK
+Fulham,Elsad Zverotić,6365,RB
+Fulham,John Heitinga,7676,CB
+Fulham,Brede Hangeland,7777,CB
+Fulham,Fernando Amorebieta,7575,CB
+Fulham,Alexander Kačaniklić,7281,LM
+Fulham,Scott Parker,7676,CD
+Fulham,Steve Sidwell,7575,CD
+Fulham,Kieran Richardson,7474,LB
+Fulham,Cauley Woodrow,6277,ST
+Fulham,Hugo Rodallega,7373,ST
+Fulham,Jesse Joronen,5663,GK
+Fulham,Pajtim Kasami,7381,CA
+Fulham,Konstantinos Mitroglou,7881,ST
+Fulham,Ryan Tunnicliffe,6572,CM
+Fulham,Ashkan Dejagah,7474,RM
+Fulham,Chris David,6479,CA
+Fulham,Ryan Williams,6179,RM
+Fulham,Lewis Holtby,7881,CA
+Fulham,Maarten Stekelenburg,7777,GK
+Fulham,Sascha Riether,7575,RB
+Fulham,William Kvist,7575,CD
+Fulham,Mahamadou Diarra,7575,CD
+Fulham,John Arne Riise,7474,LB
+Fulham,Damien Duff,7474,RM
+Fulham,Darren Bent,7474,ST
+Fulham,Derek Boateng,7171,CD
+Fulham,Giorgios Karagounis,7070,CM
+Fulham,Matthew Briggs,6676,LB
+Fulham,Dan Burn,6575,CB
+Fulham,Neil Etheridge,6164,GK
+Fulham,Patrick Roberts,6280,CA
+Fulham,Moussa Dembélé,6280,ST
+West Ham,Adrián,7678,GK
+West Ham,Guy Demel,7070,RB
+West Ham,James Tomkins,7377,CB
+West Ham,Winston Reid,7578,CB
+West Ham,George McCartney,7070,LB
+West Ham,Mark Noble,7576,CM
+West Ham,Matthew Taylor,6868,CD
+West Ham,Stewart Downing,7777,RM
+West Ham,Matthew Jarvis,7676,LM
+West Ham,Kevin Nolan,7575,CA
+West Ham,Andy Carroll,7780,ST
+West Ham,Jussi Jääskeläinen,7373,GK
+West Ham,Joey O'Brien,7071,LB
+West Ham,James Collins,7474,CB
+West Ham,Mohamed Diamé,7377,CM
+West Ham,Ricardo Vaz Tê,6970,RM
+West Ham,Joe Cole,7575,RM
+West Ham,Carlton Cole,7272,ST
+West Ham,Antonio Nocerino,7576,CM
+West Ham,Marco Borriello,7575,ST
+West Ham,Alou Diarra,7272,CD
+West Ham,Roger Johnson,7171,CB
+West Ham,Pablo Armero,7576,LB
+West Ham,Stephen Henderson,6973,GK
+West Ham,Abdul Razak,6374,CA
+West Ham,Danny Whitehead,6066,CA
+West Ham,Daniel Potts,6075,LB
+West Ham,Raphael Spiegel,5867,GK
+West Ham,Sebastian Lletget,5864,CM
+West Ham,Elliot Lee,5770,ST
+West Ham,Leo Chambers,5778,CB
+West Ham,Callum Driver,5558,RB
+West Ham,Jordan Brown,5466,ST
+Stoke City,Asmir Begović,8284,GK
+Stoke City,Geoff Cameron,7272,RB
+Stoke City,Ryan Shawcross,7676,CB
+Stoke City,Marc Wilson,7174,CB
+Stoke City,Erik Pieters,7275,LB
+Stoke City,Glenn Whelan,7373,CM
+Stoke City,Peter Odemwingie,7171,RM
+Stoke City,Stephen Ireland,7576,CA
+Stoke City,Steven N'Zonzi,7881,CD
+Stoke City,Marko Arnautović,7682,LM
+Stoke City,Peter Crouch,7676,ST
+Stoke City,Thomas Sørensen,7272,GK
+Stoke City,Marc Muniesa,6780,CB
+Stoke City,Wilson Palacios,7070,CD
+Stoke City,Charlie Adam,7373,CM
+Stoke City,Jonathan Walters,7070,RM
+Stoke City,Oussama Assaidi,7476,LM
+Stoke City,Andy Wilkinson,7373,LB
+Stoke City,Jack Butland,7285,GK
+Stoke City,Robert Huth,7777,CB
+Stoke City,Matthew Etherington,7575,LM
+Stoke City,John Guidetti,7379,ST
+Stoke City,Ryan Shotton,6974,RB
+Stoke City,Brek Shea,6979,LM
+Stoke City,Jordan Richardson,6075,CM
+Stoke City,Daniel Bachmann,6079,GK
+Stoke City,Kevin Gomez-Nieto,6069,RB
+Stoke City,James Alabi,6074,ST
+Stoke City,Karim Rossi,5973,ST
+Stoke City,Charlie Ward,5763,CA
+Stoke City,Peter Skapetis,5566,ST
+Stoke City,Ben Glasgow,5464,RB
+Stoke City,James Campbell,5464,LB
+Norwich City,John Ruddy,7981,GK
+Norwich City,Russell Martin,7373,RB
+Norwich City,Michael Turner,7474,CB
+Norwich City,Sébastien Bassong,7575,CB
+Norwich City,Martin Olsson,7477,LB
+Norwich City,Alexander Tettey,7576,CD
+Norwich City,Robert Snodgrass,7578,RM
+Norwich City,Bradley Johnson,7374,CM
+Norwich City,Jonathan Howson,7378,CM
+Norwich City,Nathan Redmond,7381,LM
+Norwich City,Johan Elmander,7373,ST
+Norwich City,Mark Bunn,6969,GK
+Norwich City,Steven Whittaker,7171,RB
+Norwich City,Leroy Fer,7681,CM
+Norwich City,Gary Hooper,7580,ST
+Norwich City,Elliott Bennett,7174,RM
+Norwich City,Ryan Bennett,7075,CB
+Norwich City,Josh Murphy,6176,LM
+Norwich City,Wes Hoolahan,7575,CA
+Norwich City,Ricky van Wolfswinkel,7277,ST
+Norwich City,Joseph Yobo,7474,CB
+Norwich City,Jonás Gutiérrez,7373,LM
+Norwich City,Anthony Pilkington,7376,LM
+Norwich City,Garrido,7373,LB
+Norwich City,Jamar Loza,5670,ST
+Norwich City,Luciano Becchio,7070,ST
+Norwich City,David Fox,6767,CM
+Norwich City,Carlo Nash,6363,GK
+Norwich City,Ewan McNeil,5370,RB
+Norwich City,Carlton Morris,5370,ST
+Norwich City,Adel Gafaiti,5365,CB
+Norwich City,Kyle Callan-McFadden,5366,CB
+Norwich City,Harry Toffolo,5268,CB
+Sunderland,Vito Mannone,7278,GK
+Sunderland,Santiago Vergini,7380,CB
+Sunderland,John O'Shea,7575,CB
+Sunderland,Wes Brown,7575,CB
+Sunderland,Phil Bardsley,7272,RB
+Sunderland,Lee Cattermole,7476,CD
+Sunderland,Adam Johnson,7780,RM
+Sunderland,Sebastian Larsson,7272,CM
+Sunderland,Jack Colback,7077,CM
+Sunderland,Fabio Borini,7283,LM
+Sunderland,Connor Wickham,7283,ST
+Sunderland,Oscar Ustari,7475,GK
+Sunderland,Ondřej Čelůstka,6774,RB
+Sunderland,Liam Bridcutt,7378,CD
+Sunderland,El Hadji Ba,5973,CM
+Sunderland,Emanuele Giaccherini,7878,LM
+Sunderland,Steven Fletcher,7677,ST
+Sunderland,Jozy Altidore,7477,ST
+Sunderland,Charis Mavrias,6975,RM
+Sunderland,Craig Gardner,7474,CM
+Sunderland,Sung-Yueng Ki,7477,CM
+Sunderland,Keiren Westwood,7474,GK
+Sunderland,Ignacio Scocco,7474,ST
+Sunderland,Liam Agnew,5869,CA
+Sunderland,Valentin Roberge,7374,CB
+Sunderland,Carlos Cuéllar,7272,CB
+Sunderland,Andrea Dossena,7070,LB
+Sunderland,Marcos Alonso,6678,LB
+Sunderland,Mikael Mandron,6075,ST
+Sunderland,Lynden Gooch,5872,CA
+Sunderland,Martin Smith,5669,CM
+Sunderland,David Ferguson,5467,LB
+Sunderland,George Honeyman,5470,CA
+Aston Villa,Brad Guzan,7878,GK
+Aston Villa,Matthew Lowton,7477,RB
+Aston Villa,Ron Vlaar,7878,CB
+Aston Villa,Nathan Baker,7177,CB
+Aston Villa,Ryan Bertrand,7478,LB
+Aston Villa,Leandro Bacuna,6677,RB
+Aston Villa,Ashley Westwood,7278,CD
+Aston Villa,Fabian Delph,7479,CM
+Aston Villa,Andreas Weimann,7379,CF
+Aston Villa,Jordan Bowery,6173,ST
+Aston Villa,Gabriel Agbonlahor,7373,CF
+Aston Villa,Jed Steer,6272,GK
+Aston Villa,Ciaran Clark,7379,CB
+Aston Villa,Karim El Ahmadi,7474,CM
+Aston Villa,Yacouba Sylla,6877,CM
+Aston Villa,Grant Holt,7272,ST
+Aston Villa,Callum Robinson,6077,ST
+Aston Villa,Jack Grealish,6384,LM
+Aston Villa,Christian Benteke,8187,ST
+Aston Villa,Shay Given,7575,GK
+Aston Villa,Charles N'Zogbia,7576,CA
+Aston Villa,Libor Kozák,7480,ST
+Aston Villa,Jores Okore,7382,CB
+Aston Villa,Luna,7177,LB
+Aston Villa,Marc Albrighton,7176,RM
+Aston Villa,Chris Herd,7073,CB
+Aston Villa,Gary Gardner,6877,CM
+Aston Villa,Nicklas Helenius,6776,ST
+Aston Villa,Aleksandar Tonev,6672,LM
+Aston Villa,Joe Bennett,6570,LB
+Aston Villa,Samir Carruthers,6475,RM
+Aston Villa,Daniel Johnson,6274,CM
+Aston Villa,Janoi Donacien,6070,CB
+West Brom,Ben Foster,7878,GK
+West Brom,Steven Reid,7070,RB
+West Brom,Gareth McAuley,7373,CB
+West Brom,Jonas Olsson,7676,CB
+West Brom,Billy Jones,7071,RB
+West Brom,Morgan Amalfitano,7575,RM
+West Brom,Youssouf Mulumbu,7779,CD
+West Brom,Graham Dorrans,7375,CM
+West Brom,Chris Brunt,7474,LM
+West Brom,Stéphane Sessègnon,7777,CA
+West Brom,Saido Berahino,6782,ST
+West Brom,Boaz Myhill,7272,GK
+West Brom,Claudio Yacob,7880,CD
+West Brom,James Morrison,7374,CM
+West Brom,Craig Dawson,6876,CB
+West Brom,Victor Anichebe,7275,ST
+West Brom,Matěj Vydra,7378,ST
+West Brom,Liam O'Neil,5965,CB
+West Brom,Thievy Bifouma,7378,ST
+West Brom,Scott Sinclair,7276,LM
+West Brom,Diego Lugano,7474,CB
+West Brom,Zoltán Gera,7373,RM
+West Brom,Goran Popov,6666,LB
+West Brom,Donervon Daniels,6173,CB
+West Brom,Luke Daniels,6066,GK
+West Brom,Adil Nabi,6066,ST
+West Brom,Kemar Roofe,6067,LM
+West Brom,Bradley Garmston,6069,LB
+West Brom,Callam Jones,5868,CB
+West Brom,Mani O'Sullivan,5767,LM
+West Brom,Jack Rose,5664,GK
+West Brom,Cameron Gayle,5764,RB
+Hull City,Allan McGregor,7474,GK
+Hull City,Ahmed Elmohamady,7275,RW
+Hull City,James Chester,7075,CB
+Hull City,Alex Bruce,6767,CB
+Hull City,Curtis Davies,7474,CB
+Hull City,Maynor Figueroa,7575,LB
+Hull City,Jake Livermore,7479,CD
+Hull City,Tom Huddlestone,7778,CM
+Hull City,David Meyler,6772,CM
+Hull City,Shane Long,7576,ST
+Hull City,Nikica Jelavić,7575,ST
+Hull City,Steve Harper,6868,GK
+Hull City,Liam Rosenior,6767,RB
+Hull City,Robert Koren,7272,CA
+Hull City,Stephen Quinn,6870,CM
+Hull City,George Boyd,6869,LM
+Hull City,Yannick Sagbo,7276,ST
+Hull City,Matt Fryatt,7070,ST
+Hull City,Robbie Brady,7280,LM
+Hull City,Paul McShane,6767,CB
+Hull City,Sone Aluko,7177,ST
+Hull City,Eldin Jakupović,6767,GK
+Hull City,Abdoulaye Faye,6767,CB
+Hull City,Joe Dudgeon,6569,LB
+Hull City,James Armstrong,5970,CA
+Hull City,Matthew Fletcher,5866,ST
+Hull City,Mark Oxley,5768,GK
+Hull City,Elliot Kebbie,5772,RB
+Hull City,Will Aimson,5764,CB
+Hull City,Calaum Jahraldo-Martin,5668,ST
+Hull City,Sam Topliss,5567,RB
+Hull City,Dougie Wilson,5468,CM
+Hull City,Paul McElroy,5465,LB
+Cardiff City,David Marshall,7575,GK
+Cardiff City,Kévin Théophile-Catherine,7275,RB
+Cardiff City,Steven Caulker,7682,CB
+Cardiff City,Juan Cala,7376,CB
+Cardiff City,Fábio,7277,LB
+Cardiff City,Gary Medel,7676,CD
+Cardiff City,Peter Whittingham,7373,LM
+Cardiff City,Craig Noone,7275,RM
+Cardiff City,Mats Møller Dæhli,6884,LM
+Cardiff City,Jordon Mutch,7177,CA
+Cardiff City,Fraizer Campbell,7273,ST
+Cardiff City,Joe Lewis,6673,GK
+Cardiff City,Declan John,6380,LB
+Cardiff City,Ben Turner,6872,CB
+Cardiff City,Bo Kyung Kim,7175,CA
+Cardiff City,Magnus Wolff Eikrem,7075,CM
+Cardiff City,Kenwyne Jones,7373,ST
+Cardiff City,Don Cowie,6767,RM
+Cardiff City,Jo Inge Berget,7179,CA
+Cardiff City,Kevin McNaughton,6969,RB
+Cardiff City,Aron Gunnarsson,6872,CD
+Cardiff City,Wilfried Zaha,7281,LM
+Cardiff City,Mark Hudson,6969,CB
+Cardiff City,Joe Mason,6678,ST
+Cardiff City,Matthew Connolly,6671,RB
+Cardiff City,Thomas James,5866,CB
+Cardiff City,Tommy Smith,6767,RM
+Cardiff City,Rhys Healey,5872,ST
+Cardiff City,Andrew Taylor,6666,LB
+Cardiff City,Simon Lappin,6161,LB
+Cardiff City,Maximiliano Amondarain,5968,CB
+Cardiff City,Kadeem Harris,5768,LM
+Cardiff City,Luke Coulson,5468,RB
+Crystal Palace,Wayne Hennessey,7275,GK
+Crystal Palace,Adrian Mariappa,7071,RB
+Crystal Palace,Scott Dann,7172,CB
+Crystal Palace,Damien Delaney,7171,CB
+Crystal Palace,Joel Ward,7478,RB
+Crystal Palace,Mile Jedinák,7474,CD
+Crystal Palace,Joe Ledley,7273,CM
+Crystal Palace,Jason Puncheon,7274,RM
+Crystal Palace,Yannick Bolasie,7277,LM
+Crystal Palace,Marouane Chamakh,7575,CA
+Crystal Palace,Dwight Gayle,7076,ST
+Crystal Palace,Julián Speroni,7474,GK
+Crystal Palace,Kagisho Dikgacoi,6868,CD
+Crystal Palace,Stuart O'Keefe,6774,CM
+Crystal Palace,Thomas Ince,7283,RM
+Crystal Palace,Glenn Murray,7171,ST
+Crystal Palace,Danny Gabbidon,6969,CB
+Crystal Palace,Cameron Jerome,7273,ST
+Crystal Palace,Jerome Thomas,7171,LM
+Crystal Palace,Barry Bannan,7076,CM
+Crystal Palace,Jonathan Parr,6971,LB
+Crystal Palace,Adlène Guédioura,6969,CM
+Crystal Palace,Dean Moxey,6869,LB
+Crystal Palace,Patrick McCarthy,6767,CB
+Crystal Palace,Neil Alexander,6666,GK
+Crystal Palace,Aaron Wilbraham,6363,ST
+Crystal Palace,Kyle De Silva,6271,CA
+Crystal Palace,Osman Sow,6065,ST
+Crystal Palace,Ibra Sekajja,6070,ST
+Crystal Palace,Reise Allassani,5976,LW
+Crystal Palace,Ryan Inniss,5874,CB
+Crystal Palace,Quade Taylor,5563,CB
+Crystal Palace,Sullay Kaikai,5474,RW
