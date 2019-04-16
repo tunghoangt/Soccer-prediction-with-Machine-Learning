@@ -1,0 +1,4952 @@
+Match: 6317
+47.3 Possession % 52.7
+8 Shots on target 7
+15 Shots 15
+515 Touches 544
+303 Passes 333
+18 Tackles 15
+32 Clearances 26
+5 Corners 2
+3 Offsides 6
+3 Yellow cards 2
+16 Fouls conceded 16
+
+Match: 6318
+72.4 Possession % 27.6
+6 Shots on target 3
+25 Shots 9
+729 Touches 388
+513 Passes 193
+13 Tackles 20
+24 Clearances 48
+9 Corners 2
+3 Offsides 1
+1 Yellow cards 3
+13 Fouls conceded 8
+
+Match: 6319
+49.4 Possession % 50.6
+3 Shots on target 6
+9 Shots 13
+508 Touches 566
+330 Passes 343
+18 Tackles 15
+37 Clearances 59
+2 Corners 0
+0 Offsides 2
+0 Yellow cards 1
+18 Fouls conceded 18
+
+Match: 6320
+54.1 Possession % 45.9
+10 Shots on target 2
+21 Shots 4
+592 Touches 551
+420 Passes 362
+23 Tackles 17
+26 Clearances 54
+6 Corners 2
+1 Offsides 2
+0 Yellow cards 2
+11 Fouls conceded 13
+
+Match: 6321
+51.5 Possession % 48.5
+13 Shots on target 2
+20 Shots 8
+570 Touches 528
+410 Passes 390
+12 Tackles 12
+23 Clearances 21
+7 Corners 0
+5 Offsides 2
+2 Yellow cards 1
+0 Red cards 1
+12 Fouls conceded 9
+
+Match: 6322
+48.1 Possession % 51.9
+5 Shots on target 4
+16 Shots 10
+577 Touches 584
+345 Passes 359
+20 Tackles 36
+43 Clearances 37
+5 Corners 6
+8 Offsides 3
+13 Fouls conceded 12
+
+Match: 6323
+47.4 Possession % 52.6
+3 Shots on target 4
+13 Shots 12
+614 Touches 669
+441 Passes 507
+23 Tackles 16
+15 Clearances 26
+3 Corners 4
+3 Offsides 2
+1 Yellow cards 1
+16 Fouls conceded 13
+
+Match: 6324
+49.9 Possession % 50.1
+2 Shots on target 11
+8 Shots 18
+619 Touches 671
+421 Passes 444
+27 Tackles 23
+19 Clearances 44
+8 Corners 4
+3 Offsides 0
+1 Yellow cards 1
+12 Fouls conceded 9
+
+Match: 6325
+57.7 Possession % 42.3
+6 Shots on target 7
+20 Shots 19
+519 Touches 453
+340 Passes 227
+21 Tackles 17
+39 Clearances 73
+7 Corners 8
+0 Offsides 2
+2 Yellow cards 2
+11 Fouls conceded 23
+
+Match: 6326
+37.6 Possession % 62.4
+4 Shots on target 6
+15 Shots 13
+492 Touches 699
+269 Passes 457
+27 Tackles 29
+36 Clearances 59
+4 Corners 11
+2 Offsides 0
+3 Yellow cards 2
+10 Fouls conceded 6
+
+Match: 6316
+42.2 Possession % 57.8
+3 Shots on target 5
+15 Shots 19
+628 Touches 783
+404 Passes 559
+25 Tackles 28
+38 Clearances 24
+1 Corners 6
+2 Offsides 0
+2 Yellow cards 2
+13 Fouls conceded 15
+
+Match: 6314
+52.6 Possession % 47.4
+2 Shots on target 4
+12 Shots 11
+782 Touches 699
+541 Passes 494
+24 Tackles 28
+34 Clearances 26
+8 Corners 3
+1 Offsides 2
+0 Yellow cards 1
+10 Fouls conceded 6
+
+Match: 6315
+53.1 Possession % 46.9
+8 Shots on target 2
+25 Shots 5
+715 Touches 639
+440 Passes 394
+39 Tackles 32
+29 Clearances 40
+12 Corners 5
+5 Offsides 1
+10 Fouls conceded 5
+
+Match: 6311
+49.8 Possession % 50.2
+4 Shots on target 4
+8 Shots 10
+614 Touches 617
+436 Passes 442
+23 Tackles 21
+32 Clearances 18
+4 Corners 2
+1 Offsides 2
+1 Yellow cards 2
+1 Red cards 0
+17 Fouls conceded 18
+
+Match: 6307
+56.6 Possession % 43.4
+4 Shots on target 4
+14 Shots 10
+625 Touches 546
+399 Passes 313
+17 Tackles 31
+19 Clearances 63
+8 Corners 2
+2 Offsides 0
+0 Yellow cards 1
+6 Fouls conceded 8
+
+Match: 6308
+58.7 Possession % 41.3
+10 Shots on target 2
+25 Shots 6
+578 Touches 463
+336 Passes 232
+12 Tackles 28
+57 Clearances 51
+9 Corners 1
+1 Offsides 2
+13 Fouls conceded 20
+
+Match: 6310
+62.9 Possession % 37.1
+6 Shots on target 0
+13 Shots 2
+678 Touches 473
+425 Passes 244
+26 Tackles 14
+54 Clearances 57
+2 Corners 8
+7 Offsides 2
+2 Yellow cards 5
+12 Fouls conceded 15
+
+Match: 6312
+46.7 Possession % 53.3
+4 Shots on target 2
+11 Shots 15
+539 Touches 623
+324 Passes 384
+21 Tackles 27
+29 Clearances 47
+7 Corners 5
+4 Offsides 1
+1 Yellow cards 1
+17 Fouls conceded 12
+
+Match: 6313
+45.4 Possession % 54.6
+4 Shots on target 4
+17 Shots 17
+571 Touches 682
+334 Passes 425
+18 Tackles 32
+32 Clearances 71
+10 Corners 1
+1 Offsides 4
+1 Yellow cards 0
+10 Fouls conceded 7
+
+Match: 6309
+47.1 Possession % 52.9
+1 Shots on target 2
+6 Shots 6
+612 Touches 633
+363 Passes 417
+10 Tackles 22
+69 Clearances 62
+3 Corners 0
+1 Offsides 1
+1 Yellow cards 0
+11 Fouls conceded 14
+
+Match: 6306
+37.4 Possession % 62.6
+4 Shots on target 10
+12 Shots 22
+568 Touches 858
+338 Passes 577
+26 Tackles 23
+28 Clearances 51
+5 Corners 6
+1 Offsides 5
+8 Fouls conceded 8
+
+Match: 6305
+46.8 Possession % 53.2
+2 Shots on target 6
+17 Shots 14
+596 Touches 633
+323 Passes 377
+32 Tackles 32
+43 Clearances 26
+8 Corners 7
+6 Offsides 5
+2 Yellow cards 2
+21 Fouls conceded 15
+
+Match: 6304
+50.4 Possession % 49.6
+4 Shots on target 3
+13 Shots 8
+542 Touches 562
+326 Passes 322
+21 Tackles 11
+31 Clearances 53
+9 Corners 6
+1 Offsides 2
+3 Yellow cards 3
+11 Fouls conceded 20
+
+Match: 6298
+58.1 Possession % 41.9
+8 Shots on target 5
+19 Shots 9
+608 Touches 483
+386 Passes 267
+9 Tackles 27
+40 Clearances 62
+8 Corners 3
+0 Offsides 6
+3 Yellow cards 4
+15 Fouls conceded 18
+
+Match: 6297
+32.6 Possession % 67.4
+3 Shots on target 3
+7 Shots 15
+482 Touches 769
+256 Passes 528
+27 Tackles 21
+57 Clearances 39
+3 Corners 5
+3 Offsides 3
+2 Yellow cards 1
+6 Fouls conceded 9
+
+Match: 6299
+48.2 Possession % 51.8
+5 Shots on target 10
+12 Shots 19
+619 Touches 642
+429 Passes 462
+20 Tackles 13
+36 Clearances 29
+3 Corners 4
+4 Offsides 3
+0 Yellow cards 1
+13 Fouls conceded 8
+
+Match: 6300
+60.1 Possession % 39.9
+4 Shots on target 3
+12 Shots 11
+580 Touches 442
+337 Passes 223
+16 Tackles 14
+62 Clearances 82
+7 Corners 1
+3 Offsides 5
+3 Yellow cards 2
+12 Fouls conceded 10
+
+Match: 6301
+70.4 Possession % 29.6
+8 Shots on target 1
+28 Shots 8
+772 Touches 424
+531 Passes 226
+11 Tackles 14
+45 Clearances 55
+12 Corners 3
+2 Offsides 1
+1 Yellow cards 3
+8 Fouls conceded 10
+
+Match: 6302
+52.3 Possession % 47.7
+8 Shots on target 2
+21 Shots 3
+632 Touches 570
+399 Passes 372
+24 Tackles 20
+52 Clearances 53
+6 Corners 1
+1 Offsides 1
+2 Yellow cards 3
+12 Fouls conceded 12
+
+Match: 6303
+42.7 Possession % 57.3
+5 Shots on target 1
+13 Shots 9
+454 Touches 515
+232 Passes 302
+27 Tackles 17
+41 Clearances 35
+6 Corners 5
+10 Offsides 1
+2 Yellow cards 4
+19 Fouls conceded 14
+
+Match: 6294
+50.7 Possession % 49.3
+9 Shots on target 1
+20 Shots 12
+475 Touches 479
+253 Passes 240
+29 Tackles 24
+43 Clearances 44
+7 Corners 8
+1 Offsides 0
+0 Yellow cards 1
+11 Fouls conceded 20
+
+Match: 6296
+49.4 Possession % 50.6
+4 Shots on target 5
+12 Shots 16
+705 Touches 694
+440 Passes 445
+26 Tackles 29
+65 Clearances 29
+4 Corners 4
+2 Offsides 0
+0 Yellow cards 5
+8 Fouls conceded 18
+
+Match: 6295
+58.8 Possession % 41.2
+6 Shots on target 5
+19 Shots 14
+764 Touches 597
+542 Passes 375
+22 Tackles 14
+38 Clearances 36
+6 Corners 3
+5 Offsides 2
+1 Yellow cards 1
+0 Red cards 1
+7 Fouls conceded 6
+
+Match: 6288
+71.3 Possession % 28.7
+10 Shots on target 2
+25 Shots 5
+836 Touches 455
+588 Passes 230
+22 Tackles 32
+36 Clearances 36
+11 Corners 4
+5 Offsides 4
+0 Yellow cards 3
+8 Fouls conceded 16
+
+Match: 6290
+49.1 Possession % 50.9
+5 Shots on target 4
+12 Shots 14
+681 Touches 746
+447 Passes 478
+20 Tackles 33
+41 Clearances 68
+3 Corners 3
+4 Offsides 1
+1 Yellow cards 0
+9 Fouls conceded 10
+
+Match: 6291
+59 Possession % 41
+6 Shots on target 9
+20 Shots 15
+644 Touches 483
+357 Passes 249
+16 Tackles 21
+59 Clearances 49
+7 Corners 4
+6 Offsides 3
+0 Yellow cards 2
+10 Fouls conceded 17
+
+Match: 6292
+51.7 Possession % 48.3
+6 Shots on target 5
+15 Shots 13
+631 Touches 558
+380 Passes 342
+27 Tackles 15
+55 Clearances 35
+5 Corners 11
+6 Offsides 3
+2 Yellow cards 1
+13 Fouls conceded 13
+
+Match: 6293
+39.4 Possession % 60.6
+5 Shots on target 6
+16 Shots 14
+517 Touches 657
+265 Passes 420
+30 Tackles 21
+56 Clearances 33
+2 Corners 6
+2 Offsides 1
+2 Yellow cards 1
+8 Fouls conceded 10
+
+Match: 6289
+35 Possession % 65
+2 Shots on target 9
+6 Shots 20
+499 Touches 712
+239 Passes 448
+24 Tackles 32
+55 Clearances 59
+3 Corners 8
+2 Offsides 3
+1 Yellow cards 1
+16 Fouls conceded 13
+
+Match: 6287
+45.9 Possession % 54.1
+2 Shots on target 2
+11 Shots 7
+620 Touches 685
+371 Passes 423
+29 Tackles 31
+52 Clearances 41
+4 Corners 6
+1 Offsides 2
+0 Yellow cards 2
+9 Fouls conceded 9
+
+Match: 6286
+60.4 Possession % 39.6
+6 Shots on target 3
+21 Shots 9
+741 Touches 537
+472 Passes 309
+26 Tackles 21
+44 Clearances 47
+9 Corners 3
+4 Offsides 5
+0 Yellow cards 2
+11 Fouls conceded 18
+
+Match: 6284
+54.4 Possession % 45.6
+6 Shots on target 3
+18 Shots 8
+689 Touches 572
+424 Passes 351
+31 Tackles 31
+49 Clearances 33
+5 Corners 1
+1 Offsides 2
+1 Yellow cards 0
+12 Fouls conceded 10
+
+Match: 6285
+52.4 Possession % 47.6
+7 Shots on target 7
+17 Shots 20
+672 Touches 653
+424 Passes 376
+34 Tackles 40
+36 Clearances 41
+6 Corners 5
+2 Offsides 2
+2 Yellow cards 6
+12 Fouls conceded 10
+
+Match: 6277
+43.3 Possession % 56.7
+6 Shots on target 4
+16 Shots 16
+513 Touches 626
+261 Passes 359
+21 Tackles 20
+63 Clearances 74
+10 Corners 1
+1 Offsides 0
+1 Yellow cards 1
+11 Fouls conceded 10
+
+Match: 6278
+45.6 Possession % 54.4
+7 Shots on target 5
+13 Shots 14
+508 Touches 573
+268 Passes 337
+22 Tackles 25
+53 Clearances 67
+12 Corners 5
+5 Offsides 1
+1 Yellow cards 1
+15 Fouls conceded 15
+
+Match: 6279
+45.4 Possession % 54.6
+3 Shots on target 11
+11 Shots 16
+513 Touches 603
+293 Passes 368
+24 Tackles 21
+40 Clearances 49
+3 Corners 2
+1 Offsides 8
+15 Fouls conceded 16
+
+Match: 6281
+48.1 Possession % 51.9
+0 Shots on target 4
+4 Shots 19
+552 Touches 625
+326 Passes 366
+19 Tackles 16
+30 Clearances 78
+4 Corners 7
+1 Offsides 1
+0 Yellow cards 1
+11 Fouls conceded 5
+
+Match: 6282
+41.2 Possession % 58.8
+3 Shots on target 4
+12 Shots 10
+516 Touches 678
+300 Passes 450
+23 Tackles 35
+27 Clearances 52
+6 Corners 2
+3 Offsides 3
+3 Yellow cards 2
+13 Fouls conceded 12
+
+Match: 6283
+48.2 Possession % 51.8
+4 Shots on target 3
+13 Shots 17
+650 Touches 606
+341 Passes 351
+34 Tackles 30
+88 Clearances 44
+2 Corners 7
+0 Offsides 1
+0 Yellow cards 3
+7 Fouls conceded 20
+
+Match: 6280
+48.7 Possession % 51.3
+2 Shots on target 6
+20 Shots 14
+557 Touches 584
+309 Passes 316
+20 Tackles 34
+30 Clearances 49
+2 Corners 11
+1 Offsides 2
+1 Yellow cards 1
+13 Fouls conceded 10
+
+Match: 6276
+53.2 Possession % 46.8
+2 Shots on target 4
+8 Shots 21
+651 Touches 632
+431 Passes 396
+14 Tackles 23
+40 Clearances 71
+7 Corners 4
+1 Offsides 2
+18 Fouls conceded 11
+
+Match: 6275
+35.2 Possession % 64.8
+7 Shots on target 3
+14 Shots 16
+521 Touches 744
+260 Passes 504
+21 Tackles 32
+67 Clearances 31
+4 Corners 10
+4 Offsides 1
+3 Yellow cards 1
+21 Fouls conceded 11
+
+Match: 6274
+51.9 Possession % 48.1
+5 Shots on target 3
+12 Shots 10
+573 Touches 570
+314 Passes 302
+19 Tackles 24
+55 Clearances 67
+10 Corners 8
+1 Offsides 3
+1 Yellow cards 3
+17 Fouls conceded 19
+
+Match: 6267
+56.4 Possession % 43.6
+3 Shots on target 2
+10 Shots 14
+770 Touches 622
+511 Passes 397
+27 Tackles 36
+51 Clearances 43
+5 Corners 3
+0 Offsides 1
+1 Yellow cards 2
+10 Fouls conceded 10
+
+Match: 6268
+52 Possession % 48
+6 Shots on target 1
+13 Shots 8
+630 Touches 602
+369 Passes 355
+25 Tackles 36
+48 Clearances 75
+5 Corners 4
+3 Offsides 0
+2 Yellow cards 1
+15 Fouls conceded 12
+
+Match: 6269
+46.5 Possession % 53.5
+7 Shots on target 7
+13 Shots 10
+593 Touches 659
+381 Passes 435
+22 Tackles 19
+57 Clearances 54
+1 Corners 1
+3 Offsides 5
+3 Yellow cards 1
+20 Fouls conceded 4
+
+Match: 6270
+56.5 Possession % 43.5
+3 Shots on target 5
+18 Shots 11
+590 Touches 514
+384 Passes 289
+14 Tackles 21
+41 Clearances 72
+8 Corners 5
+0 Offsides 2
+2 Yellow cards 0
+12 Fouls conceded 8
+
+Match: 6271
+43.9 Possession % 56.1
+4 Shots on target 3
+14 Shots 11
+595 Touches 706
+384 Passes 493
+17 Tackles 23
+33 Clearances 34
+7 Corners 4
+1 Offsides 9
+1 Yellow cards 0
+6 Fouls conceded 12
+
+Match: 6272
+62.6 Possession % 37.4
+5 Shots on target 1
+17 Shots 8
+750 Touches 508
+496 Passes 290
+22 Tackles 24
+45 Clearances 52
+9 Corners 6
+7 Offsides 0
+0 Yellow cards 1
+11 Fouls conceded 13
+
+Match: 6273
+56.8 Possession % 43.2
+9 Shots on target 1
+23 Shots 7
+565 Touches 493
+354 Passes 264
+30 Tackles 16
+26 Clearances 66
+2 Corners 2
+3 Offsides 1
+1 Yellow cards 2
+0 Red cards 1
+16 Fouls conceded 22
+
+Match: 6264
+57.5 Possession % 42.5
+5 Shots on target 1
+20 Shots 12
+704 Touches 579
+452 Passes 324
+21 Tackles 32
+53 Clearances 47
+8 Corners 3
+3 Offsides 3
+1 Yellow cards 1
+13 Fouls conceded 9
+
+Match: 6266
+48.5 Possession % 51.5
+4 Shots on target 8
+17 Shots 18
+642 Touches 664
+406 Passes 442
+25 Tackles 24
+57 Clearances 43
+6 Corners 7
+0 Offsides 4
+1 Yellow cards 1
+12 Fouls conceded 8
+
+Match: 6265
+49.4 Possession % 50.6
+3 Shots on target 1
+15 Shots 3
+622 Touches 589
+344 Passes 348
+48 Tackles 19
+71 Clearances 43
+11 Corners 4
+4 Offsides 2
+1 Yellow cards 4
+13 Fouls conceded 16
+
+Match: 6257
+33.7 Possession % 66.3
+7 Shots on target 4
+11 Shots 9
+459 Touches 681
+245 Passes 500
+18 Tackles 25
+47 Clearances 44
+5 Corners 2
+3 Offsides 7
+0 Yellow cards 2
+1 Red cards 0
+13 Fouls conceded 11
+
+Match: 6258
+37.3 Possession % 62.7
+5 Shots on target 5
+14 Shots 20
+505 Touches 749
+284 Passes 500
+32 Tackles 23
+41 Clearances 40
+8 Corners 6
+2 Offsides 5
+2 Yellow cards 2
+0 Red cards 1
+12 Fouls conceded 11
+
+Match: 6259
+55.1 Possession % 44.9
+8 Shots on target 6
+21 Shots 13
+570 Touches 532
+349 Passes 283
+21 Tackles 9
+38 Clearances 75
+4 Corners 5
+2 Offsides 6
+3 Yellow cards 4
+18 Fouls conceded 16
+
+Match: 6261
+51.8 Possession % 48.2
+5 Shots on target 8
+14 Shots 22
+626 Touches 563
+358 Passes 336
+21 Tackles 25
+55 Clearances 34
+5 Corners 4
+3 Offsides 4
+1 Yellow cards 2
+10 Fouls conceded 14
+
+Match: 6262
+42.8 Possession % 57.2
+1 Shots on target 5
+11 Shots 13
+515 Touches 613
+271 Passes 377
+21 Tackles 16
+55 Clearances 48
+5 Corners 7
+1 Offsides 0
+2 Yellow cards 5
+1 Red cards 0
+10 Fouls conceded 16
+
+Match: 6263
+52.3 Possession % 47.7
+7 Shots on target 2
+22 Shots 10
+562 Touches 560
+333 Passes 324
+21 Tackles 20
+30 Clearances 64
+13 Corners 4
+1 Offsides 5
+2 Yellow cards 1
+10 Fouls conceded 12
+
+Match: 6260
+55 Possession % 45
+5 Shots on target 2
+15 Shots 14
+721 Touches 605
+499 Passes 399
+28 Tackles 23
+28 Clearances 18
+5 Corners 7
+3 Offsides 1
+1 Yellow cards 1
+8 Fouls conceded 7
+
+Match: 6256
+64.7 Possession % 35.3
+10 Shots on target 1
+24 Shots 8
+834 Touches 533
+605 Passes 314
+21 Tackles 43
+31 Clearances 28
+2 Corners 4
+4 Offsides 0
+1 Yellow cards 2
+0 Red cards 1
+11 Fouls conceded 12
+
+Match: 6255
+52.5 Possession % 47.5
+7 Shots on target 6
+13 Shots 12
+703 Touches 659
+459 Passes 417
+26 Tackles 23
+34 Clearances 54
+4 Corners 2
+5 Offsides 1
+3 Yellow cards 1
+11 Fouls conceded 14
+
+Match: 6254
+54.2 Possession % 45.8
+7 Shots on target 3
+19 Shots 7
+737 Touches 659
+512 Passes 436
+28 Tackles 16
+48 Clearances 62
+7 Corners 2
+3 Offsides 2
+0 Yellow cards 1
+9 Fouls conceded 13
+
+Match: 6247
+59.1 Possession % 40.9
+3 Shots on target 1
+10 Shots 14
+602 Touches 484
+372 Passes 261
+14 Tackles 22
+33 Clearances 47
+4 Corners 4
+3 Offsides 2
+0 Yellow cards 2
+10 Fouls conceded 12
+
+Match: 6248
+56.6 Possession % 43.4
+7 Shots on target 7
+13 Shots 17
+521 Touches 446
+353 Passes 255
+15 Tackles 13
+32 Clearances 46
+1 Corners 9
+2 Offsides 4
+1 Yellow cards 2
+1 Red cards 1
+21 Fouls conceded 15
+
+Match: 6249
+49.7 Possession % 50.3
+4 Shots on target 3
+23 Shots 8
+598 Touches 565
+320 Passes 327
+28 Tackles 18
+70 Clearances 72
+12 Corners 12
+6 Offsides 1
+1 Yellow cards 0
+8 Fouls conceded 17
+
+Match: 6251
+46 Possession % 54
+5 Shots on target 1
+12 Shots 8
+527 Touches 611
+322 Passes 405
+26 Tackles 23
+32 Clearances 44
+9 Corners 2
+6 Offsides 2
+2 Yellow cards 1
+9 Fouls conceded 11
+
+Match: 6252
+50.7 Possession % 49.3
+7 Shots on target 2
+18 Shots 9
+701 Touches 683
+484 Passes 471
+21 Tackles 33
+45 Clearances 40
+5 Corners 4
+3 Offsides 1
+0 Yellow cards 1
+8 Fouls conceded 6
+
+Match: 6253
+47.8 Possession % 52.2
+8 Shots on target 3
+15 Shots 13
+499 Touches 549
+271 Passes 312
+28 Tackles 16
+36 Clearances 58
+8 Corners 7
+2 Offsides 3
+0 Yellow cards 1
+16 Fouls conceded 15
+
+Match: 6250
+48.8 Possession % 51.2
+5 Shots on target 4
+17 Shots 13
+657 Touches 659
+395 Passes 422
+19 Tackles 27
+63 Clearances 52
+4 Corners 4
+3 Offsides 4
+11 Fouls conceded 12
+
+Match: 6245
+52.8 Possession % 47.2
+9 Shots on target 7
+23 Shots 16
+686 Touches 625
+449 Passes 395
+21 Tackles 24
+37 Clearances 43
+6 Corners 3
+0 Offsides 2
+0 Yellow cards 2
+14 Fouls conceded 18
+
+Match: 6246
+50.3 Possession % 49.7
+7 Shots on target 7
+12 Shots 10
+545 Touches 597
+354 Passes 369
+23 Tackles 18
+26 Clearances 63
+10 Corners 2
+4 Offsides 5
+2 Yellow cards 2
+12 Fouls conceded 19
+
+Match: 6244
+39.5 Possession % 60.5
+4 Shots on target 5
+14 Shots 20
+552 Touches 728
+303 Passes 464
+35 Tackles 23
+53 Clearances 52
+3 Corners 8
+1 Offsides 0
+2 Yellow cards 2
+9 Fouls conceded 13
+
+Match: 6241
+48.1 Possession % 51.9
+1 Shots on target 3
+11 Shots 8
+665 Touches 699
+433 Passes 473
+24 Tackles 17
+34 Clearances 30
+3 Corners 3
+2 Offsides 1
+1 Yellow cards 0
+14 Fouls conceded 8
+
+Match: 6243
+49.5 Possession % 50.5
+3 Shots on target 6
+13 Shots 14
+486 Touches 527
+299 Passes 309
+15 Tackles 17
+31 Clearances 50
+8 Corners 4
+2 Offsides 4
+2 Yellow cards 3
+1 Red cards 0
+16 Fouls conceded 18
+
+Match: 6242
+47.3 Possession % 52.7
+6 Shots on target 4
+14 Shots 11
+667 Touches 742
+428 Passes 480
+28 Tackles 32
+42 Clearances 57
+5 Corners 5
+4 Offsides 8
+13 Fouls conceded 5
+
+Match: 6236
+38.8 Possession % 61.2
+4 Shots on target 7
+12 Shots 19
+463 Touches 618
+238 Passes 388
+15 Tackles 21
+64 Clearances 46
+5 Corners 11
+1 Offsides 3
+4 Yellow cards 1
+15 Fouls conceded 8
+
+Match: 6237
+60.6 Possession % 39.4
+7 Shots on target 1
+24 Shots 7
+665 Touches 489
+408 Passes 259
+26 Tackles 22
+54 Clearances 42
+7 Corners 2
+1 Offsides 1
+0 Yellow cards 5
+7 Fouls conceded 23
+
+Match: 6238
+49.5 Possession % 50.5
+3 Shots on target 5
+13 Shots 15
+507 Touches 490
+271 Passes 264
+23 Tackles 26
+53 Clearances 35
+3 Corners 6
+0 Offsides 3
+2 Yellow cards 0
+1 Red cards 1
+20 Fouls conceded 15
+
+Match: 6239
+43.7 Possession % 56.3
+4 Shots on target 3
+14 Shots 15
+536 Touches 672
+323 Passes 429
+27 Tackles 14
+50 Clearances 50
+7 Corners 7
+4 Offsides 5
+2 Yellow cards 1
+9 Fouls conceded 10
+
+Match: 6240
+51 Possession % 49
+4 Shots on target 4
+15 Shots 10
+571 Touches 521
+317 Passes 288
+23 Tackles 19
+62 Clearances 42
+7 Corners 10
+2 Offsides 1
+1 Yellow cards 3
+10 Fouls conceded 17
+
+Match: 6235
+74.3 Possession % 25.7
+7 Shots on target 1
+20 Shots 4
+929 Touches 460
+652 Passes 218
+13 Tackles 36
+38 Clearances 68
+11 Corners 1
+3 Offsides 1
+1 Yellow cards 2
+0 Red cards 1
+8 Fouls conceded 9
+
+Match: 6232
+54.7 Possession % 45.3
+2 Shots on target 2
+12 Shots 12
+586 Touches 525
+356 Passes 303
+19 Tackles 26
+47 Clearances 54
+4 Corners 4
+2 Offsides 2
+0 Yellow cards 6
+15 Fouls conceded 23
+
+Match: 6234
+56.1 Possession % 43.9
+9 Shots on target 5
+14 Shots 10
+697 Touches 606
+437 Passes 331
+33 Tackles 33
+49 Clearances 67
+4 Corners 3
+3 Offsides 1
+0 Yellow cards 2
+9 Fouls conceded 12
+
+Match: 6233
+71.5 Possession % 28.5
+10 Shots on target 2
+24 Shots 4
+844 Touches 436
+640 Passes 248
+16 Tackles 20
+20 Clearances 47
+7 Corners 0
+7 Offsides 3
+0 Yellow cards 1
+9 Fouls conceded 17
+
+Match: 6229
+52.1 Possession % 47.9
+3 Shots on target 4
+13 Shots 8
+597 Touches 565
+406 Passes 373
+20 Tackles 14
+31 Clearances 55
+3 Corners 4
+2 Offsides 2
+2 Yellow cards 1
+18 Fouls conceded 9
+
+Match: 6230
+55.4 Possession % 44.6
+7 Shots on target 2
+19 Shots 10
+657 Touches 567
+450 Passes 368
+21 Tackles 15
+34 Clearances 48
+7 Corners 3
+2 Offsides 1
+0 Yellow cards 1
+0 Red cards 1
+9 Fouls conceded 18
+
+Match: 6231
+42.1 Possession % 57.9
+2 Shots on target 4
+12 Shots 10
+560 Touches 732
+322 Passes 459
+32 Tackles 24
+39 Clearances 70
+8 Corners 5
+2 Offsides 3
+2 Yellow cards 2
+11 Fouls conceded 8
+
+Match: 6226
+58.6 Possession % 41.4
+3 Shots on target 1
+16 Shots 8
+668 Touches 499
+456 Passes 314
+11 Tackles 12
+38 Clearances 50
+7 Corners 7
+1 Offsides 0
+2 Yellow cards 2
+22 Fouls conceded 20
+
+Match: 6227
+63 Possession % 37
+9 Shots on target 3
+20 Shots 6
+731 Touches 503
+509 Passes 296
+27 Tackles 19
+34 Clearances 29
+12 Corners 8
+2 Offsides 2
+1 Yellow cards 0
+10 Fouls conceded 8
+
+Match: 6228
+41.5 Possession % 58.5
+6 Shots on target 3
+16 Shots 13
+475 Touches 595
+253 Passes 351
+19 Tackles 20
+34 Clearances 53
+7 Corners 5
+4 Offsides 1
+0 Yellow cards 2
+10 Fouls conceded 12
+
+Match: 6225
+
+
+Match: 6223
+45.1 Possession % 54.9
+2 Shots on target 6
+7 Shots 16
+604 Touches 723
+359 Passes 430
+27 Tackles 38
+38 Clearances 82
+3 Corners 10
+1 Offsides 2
+2 Yellow cards 1
+10 Fouls conceded 15
+
+Match: 6224
+52.4 Possession % 47.6
+4 Shots on target 2
+14 Shots 9
+595 Touches 604
+370 Passes 339
+30 Tackles 20
+37 Clearances 71
+10 Corners 3
+3 Offsides 0
+1 Yellow cards 1
+14 Fouls conceded 19
+
+Match: 6215
+68.1 Possession % 31.9
+5 Shots on target 4
+16 Shots 10
+788 Touches 454
+540 Passes 240
+21 Tackles 19
+30 Clearances 46
+8 Corners 7
+1 Offsides 7
+1 Yellow cards 2
+8 Fouls conceded 13
+
+Match: 6216
+35.3 Possession % 64.7
+9 Shots on target 8
+14 Shots 23
+460 Touches 729
+256 Passes 468
+23 Tackles 16
+51 Clearances 53
+5 Corners 6
+0 Offsides 3
+1 Yellow cards 0
+16 Fouls conceded 11
+
+Match: 6217
+48.2 Possession % 51.8
+0 Shots on target 4
+7 Shots 15
+491 Touches 529
+269 Passes 289
+18 Tackles 16
+74 Clearances 67
+4 Corners 4
+1 Offsides 3
+5 Yellow cards 1
+21 Fouls conceded 19
+
+Match: 6218
+51.2 Possession % 48.8
+4 Shots on target 8
+12 Shots 21
+605 Touches 611
+386 Passes 365
+18 Tackles 31
+36 Clearances 45
+2 Corners 5
+1 Offsides 0
+6 Fouls conceded 13
+
+Match: 6220
+56 Possession % 44
+3 Shots on target 3
+13 Shots 8
+643 Touches 556
+388 Passes 306
+20 Tackles 21
+42 Clearances 59
+7 Corners 2
+2 Offsides 5
+4 Yellow cards 5
+12 Fouls conceded 17
+
+Match: 6221
+47.5 Possession % 52.5
+4 Shots on target 4
+18 Shots 15
+501 Touches 503
+259 Passes 312
+19 Tackles 16
+54 Clearances 42
+14 Corners 6
+3 Offsides 4
+1 Yellow cards 2
+12 Fouls conceded 10
+
+Match: 6222
+55.9 Possession % 44.1
+3 Shots on target 8
+13 Shots 14
+595 Touches 532
+395 Passes 330
+16 Tackles 19
+27 Clearances 48
+6 Corners 1
+2 Offsides 3
+0 Yellow cards 2
+14 Fouls conceded 8
+
+Match: 6219
+54.9 Possession % 45.1
+4 Shots on target 4
+14 Shots 9
+692 Touches 614
+457 Passes 371
+28 Tackles 22
+53 Clearances 51
+4 Corners 1
+3 Offsides 8
+0 Yellow cards 1
+13 Fouls conceded 7
+
+Match: 6214
+62.5 Possession % 37.5
+4 Shots on target 7
+22 Shots 19
+723 Touches 549
+467 Passes 272
+40 Tackles 24
+24 Clearances 58
+4 Corners 7
+2 Offsides 4
+0 Yellow cards 1
+1 Red cards 0
+9 Fouls conceded 16
+
+Match: 6213
+55.8 Possession % 44.2
+7 Shots on target 8
+11 Shots 21
+634 Touches 562
+347 Passes 286
+32 Tackles 28
+54 Clearances 57
+11 Corners 7
+0 Offsides 2
+2 Yellow cards 1
+11 Fouls conceded 16
+
+Match: 6212
+54.2 Possession % 45.8
+6 Shots on target 8
+13 Shots 17
+615 Touches 534
+351 Passes 308
+14 Tackles 25
+69 Clearances 43
+5 Corners 4
+1 Offsides 4
+2 Yellow cards 4
+18 Fouls conceded 20
+
+Match: 6207
+47.2 Possession % 52.8
+5 Shots on target 5
+22 Shots 13
+570 Touches 615
+366 Passes 421
+17 Tackles 10
+47 Clearances 17
+5 Corners 8
+1 Offsides 2
+2 Yellow cards 0
+1 Red cards 0
+13 Fouls conceded 19
+
+Match: 6208
+57.9 Possession % 42.1
+6 Shots on target 2
+16 Shots 7
+689 Touches 564
+457 Passes 327
+33 Tackles 33
+30 Clearances 54
+6 Corners 2
+1 Offsides 3
+2 Yellow cards 5
+0 Red cards 1
+11 Fouls conceded 14
+
+Match: 6210
+53.7 Possession % 46.3
+4 Shots on target 0
+16 Shots 6
+624 Touches 532
+355 Passes 306
+20 Tackles 32
+81 Clearances 32
+5 Corners 3
+0 Offsides 1
+1 Yellow cards 2
+15 Fouls conceded 13
+
+Match: 6211
+60.8 Possession % 39.2
+6 Shots on target 2
+22 Shots 6
+560 Touches 468
+324 Passes 221
+16 Tackles 18
+41 Clearances 102
+14 Corners 2
+8 Offsides 5
+0 Yellow cards 1
+14 Fouls conceded 13
+
+Match: 6209
+49.4 Possession % 50.6
+4 Shots on target 8
+11 Shots 17
+635 Touches 662
+384 Passes 411
+26 Tackles 33
+39 Clearances 69
+7 Corners 4
+2 Offsides 2
+4 Yellow cards 0
+13 Fouls conceded 13
+
+Match: 6206
+30.5 Possession % 69.5
+2 Shots on target 11
+6 Shots 30
+492 Touches 864
+256 Passes 604
+39 Tackles 17
+39 Clearances 38
+1 Corners 7
+3 Offsides 4
+0 Yellow cards 2
+1 Red cards 0
+9 Fouls conceded 14
+
+Match: 6205
+54.9 Possession % 45.1
+7 Shots on target 1
+15 Shots 8
+831 Touches 723
+596 Passes 487
+27 Tackles 24
+44 Clearances 61
+7 Corners 5
+2 Offsides 5
+1 Yellow cards 0
+12 Fouls conceded 7
+
+Match: 6204
+60.8 Possession % 39.2
+4 Shots on target 5
+21 Shots 9
+812 Touches 599
+522 Passes 328
+28 Tackles 38
+53 Clearances 78
+8 Corners 7
+7 Offsides 0
+1 Yellow cards 0
+6 Fouls conceded 13
+
+Match: 6203
+52.9 Possession % 47.1
+1 Shots on target 1
+9 Shots 10
+702 Touches 667
+432 Passes 389
+29 Tackles 40
+55 Clearances 62
+6 Corners 4
+3 Offsides 1
+3 Yellow cards 2
+17 Fouls conceded 25
+
+Match: 6196
+44.5 Possession % 55.5
+7 Shots on target 3
+18 Shots 6
+546 Touches 582
+290 Passes 378
+17 Tackles 20
+81 Clearances 40
+7 Corners 5
+2 Offsides 0
+2 Yellow cards 1
+21 Fouls conceded 12
+
+Match: 6197
+52 Possession % 48
+6 Shots on target 2
+23 Shots 8
+645 Touches 589
+423 Passes 395
+31 Tackles 21
+33 Clearances 42
+5 Corners 2
+2 Offsides 1
+1 Yellow cards 1
+14 Fouls conceded 15
+
+Match: 6198
+40.2 Possession % 59.8
+3 Shots on target 10
+9 Shots 16
+489 Touches 686
+278 Passes 426
+21 Tackles 14
+45 Clearances 70
+7 Corners 9
+5 Offsides 3
+4 Yellow cards 1
+16 Fouls conceded 10
+
+Match: 6199
+50.2 Possession % 49.8
+4 Shots on target 1
+11 Shots 16
+517 Touches 486
+267 Passes 272
+14 Tackles 18
+60 Clearances 45
+8 Corners 8
+0 Offsides 1
+13 Fouls conceded 13
+
+Match: 6200
+35.6 Possession % 64.4
+6 Shots on target 4
+11 Shots 10
+443 Touches 648
+225 Passes 441
+10 Tackles 20
+64 Clearances 49
+7 Corners 3
+5 Offsides 3
+1 Yellow cards 2
+13 Fouls conceded 10
+
+Match: 6201
+
+
+Match: 6202
+64.8 Possession % 35.2
+8 Shots on target 4
+17 Shots 9
+649 Touches 470
+379 Passes 199
+25 Tackles 21
+72 Clearances 102
+7 Corners 4
+2 Offsides 1
+0 Yellow cards 5
+12 Fouls conceded 22
+
+Match: 6195
+60.9 Possession % 39.1
+4 Shots on target 6
+9 Shots 21
+680 Touches 555
+436 Passes 279
+29 Tackles 37
+37 Clearances 82
+11 Corners 6
+4 Offsides 7
+1 Yellow cards 4
+13 Fouls conceded 11
+
+Match: 6194
+55.9 Possession % 44.1
+5 Shots on target 1
+14 Shots 13
+706 Touches 613
+433 Passes 323
+38 Tackles 31
+80 Clearances 71
+3 Corners 10
+4 Offsides 4
+1 Yellow cards 2
+10 Fouls conceded 15
+
+Match: 6189
+38.6 Possession % 61.4
+2 Shots on target 4
+5 Shots 16
+578 Touches 832
+358 Passes 582
+34 Tackles 20
+50 Clearances 57
+1 Corners 9
+2 Offsides 6
+2 Yellow cards 0
+10 Fouls conceded 8
+
+Match: 6186
+51.7 Possession % 48.3
+5 Shots on target 3
+13 Shots 10
+535 Touches 497
+278 Passes 257
+17 Tackles 25
+58 Clearances 67
+5 Corners 5
+6 Offsides 6
+1 Yellow cards 5
+7 Fouls conceded 12
+
+Match: 6187
+55.3 Possession % 44.7
+3 Shots on target 4
+14 Shots 10
+562 Touches 466
+367 Passes 270
+25 Tackles 15
+53 Clearances 23
+4 Corners 9
+1 Offsides 3
+4 Yellow cards 2
+20 Fouls conceded 16
+
+Match: 6190
+41.1 Possession % 58.9
+4 Shots on target 9
+17 Shots 23
+507 Touches 645
+267 Passes 368
+35 Tackles 35
+44 Clearances 43
+4 Corners 8
+3 Offsides 6
+2 Yellow cards 0
+13 Fouls conceded 14
+
+Match: 6191
+53 Possession % 47
+5 Shots on target 4
+12 Shots 12
+523 Touches 552
+285 Passes 275
+21 Tackles 16
+42 Clearances 103
+13 Corners 3
+3 Offsides 5
+3 Yellow cards 1
+14 Fouls conceded 19
+
+Match: 6192
+39.4 Possession % 60.6
+3 Shots on target 5
+10 Shots 19
+578 Touches 782
+316 Passes 499
+38 Tackles 26
+67 Clearances 66
+8 Corners 9
+0 Offsides 1
+3 Yellow cards 7
+18 Fouls conceded 12
+
+Match: 6193
+45.5 Possession % 54.5
+4 Shots on target 1
+15 Shots 7
+536 Touches 541
+286 Passes 334
+20 Tackles 18
+65 Clearances 45
+6 Corners 3
+4 Offsides 5
+1 Yellow cards 3
+14 Fouls conceded 14
+
+Match: 6188
+61.4 Possession % 38.6
+6 Shots on target 2
+16 Shots 7
+774 Touches 569
+542 Passes 348
+14 Tackles 29
+49 Clearances 51
+4 Corners 1
+0 Offsides 1
+1 Yellow cards 2
+8 Fouls conceded 10
+
+Match: 6181
+59.6 Possession % 40.4
+8 Shots on target 2
+24 Shots 9
+660 Touches 491
+407 Passes 275
+13 Tackles 22
+71 Clearances 48
+10 Corners 9
+2 Offsides 0
+15 Fouls conceded 8
+
+Match: 6182
+48.1 Possession % 51.9
+4 Shots on target 1
+13 Shots 10
+599 Touches 631
+339 Passes 364
+21 Tackles 18
+62 Clearances 73
+6 Corners 5
+4 Offsides 5
+1 Yellow cards 1
+13 Fouls conceded 12
+
+Match: 6185
+47.8 Possession % 52.2
+1 Shots on target 0
+10 Shots 15
+561 Touches 622
+322 Passes 354
+16 Tackles 27
+66 Clearances 68
+4 Corners 6
+2 Offsides 2
+0 Yellow cards 3
+13 Fouls conceded 22
+
+Match: 6183
+46.1 Possession % 53.9
+2 Shots on target 3
+11 Shots 4
+634 Touches 708
+364 Passes 440
+22 Tackles 32
+34 Clearances 94
+7 Corners 2
+0 Offsides 2
+1 Yellow cards 1
+14 Fouls conceded 13
+
+Match: 6184
+64.1 Possession % 35.9
+11 Shots on target 0
+25 Shots 3
+903 Touches 592
+622 Passes 335
+39 Tackles 39
+53 Clearances 58
+5 Corners 3
+3 Offsides 0
+0 Yellow cards 1
+9 Fouls conceded 13
+
+Match: 6177
+57.7 Possession % 42.3
+4 Shots on target 1
+12 Shots 7
+746 Touches 590
+515 Passes 385
+21 Tackles 27
+33 Clearances 41
+4 Corners 2
+1 Offsides 9
+1 Yellow cards 3
+13 Fouls conceded 14
+
+Match: 6178
+43.2 Possession % 56.8
+4 Shots on target 2
+15 Shots 10
+567 Touches 725
+337 Passes 462
+23 Tackles 24
+37 Clearances 79
+4 Corners 2
+1 Offsides 5
+12 Fouls conceded 15
+
+Match: 6179
+50.2 Possession % 49.8
+2 Shots on target 4
+7 Shots 11
+544 Touches 544
+308 Passes 304
+25 Tackles 17
+77 Clearances 66
+4 Corners 9
+5 Offsides 1
+0 Yellow cards 1
+14 Fouls conceded 14
+
+Match: 6180
+53.3 Possession % 46.7
+3 Shots on target 1
+11 Shots 5
+570 Touches 592
+333 Passes 287
+31 Tackles 15
+60 Clearances 129
+4 Corners 8
+1 Offsides 0
+1 Yellow cards 3
+12 Fouls conceded 18
+
+Match: 6176
+54 Possession % 46
+2 Shots on target 3
+6 Shots 11
+580 Touches 529
+324 Passes 278
+17 Tackles 33
+63 Clearances 84
+2 Corners 7
+2 Offsides 1
+0 Yellow cards 2
+18 Fouls conceded 17
+
+Match: 6175
+65.2 Possession % 34.8
+4 Shots on target 3
+22 Shots 8
+763 Touches 553
+489 Passes 248
+30 Tackles 26
+78 Clearances 115
+8 Corners 2
+1 Offsides 7
+2 Yellow cards 2
+12 Fouls conceded 18
+
+Match: 6174
+54.7 Possession % 45.3
+1 Shots on target 3
+14 Shots 14
+620 Touches 536
+337 Passes 277
+23 Tackles 19
+90 Clearances 86
+5 Corners 5
+1 Offsides 4
+1 Yellow cards 2
+16 Fouls conceded 14
+
+Match: 6173
+47.6 Possession % 52.4
+4 Shots on target 4
+11 Shots 14
+585 Touches 616
+366 Passes 411
+21 Tackles 16
+50 Clearances 30
+5 Corners 8
+1 Offsides 2
+2 Yellow cards 4
+15 Fouls conceded 21
+
+Match: 6166
+30.4 Possession % 69.6
+3 Shots on target 6
+15 Shots 13
+486 Touches 778
+218 Passes 513
+42 Tackles 36
+53 Clearances 43
+6 Corners 10
+1 Offsides 4
+1 Yellow cards 1
+10 Fouls conceded 7
+
+Match: 6167
+59.8 Possession % 40.2
+5 Shots on target 4
+17 Shots 13
+650 Touches 528
+425 Passes 279
+19 Tackles 18
+33 Clearances 67
+7 Corners 3
+0 Offsides 1
+1 Yellow cards 3
+8 Fouls conceded 27
+
+Match: 6168
+40.4 Possession % 59.6
+0 Shots on target 3
+7 Shots 13
+556 Touches 813
+354 Passes 531
+30 Tackles 19
+43 Clearances 79
+4 Corners 3
+5 Offsides 3
+0 Yellow cards 1
+13 Fouls conceded 10
+
+Match: 6170
+57.3 Possession % 42.7
+5 Shots on target 6
+21 Shots 9
+593 Touches 512
+381 Passes 284
+22 Tackles 28
+24 Clearances 57
+6 Corners 2
+2 Offsides 5
+1 Yellow cards 2
+14 Fouls conceded 12
+
+Match: 6171
+44.2 Possession % 55.8
+5 Shots on target 7
+17 Shots 24
+487 Touches 615
+272 Passes 366
+18 Tackles 23
+26 Clearances 66
+8 Corners 6
+2 Offsides 4
+1 Yellow cards 1
+13 Fouls conceded 9
+
+Match: 6169
+58.3 Possession % 41.7
+0 Shots on target 4
+17 Shots 8
+680 Touches 569
+430 Passes 321
+16 Tackles 17
+50 Clearances 92
+9 Corners 6
+1 Offsides 3
+1 Yellow cards 2
+16 Fouls conceded 16
+
+Match: 6172
+50.1 Possession % 49.9
+6 Shots on target 5
+16 Shots 14
+596 Touches 557
+380 Passes 372
+22 Tackles 19
+45 Clearances 18
+6 Corners 7
+2 Offsides 2
+2 Yellow cards 2
+15 Fouls conceded 13
+
+Match: 6165
+45.4 Possession % 54.6
+4 Shots on target 2
+13 Shots 11
+660 Touches 683
+351 Passes 430
+39 Tackles 25
+107 Clearances 56
+7 Corners 5
+3 Offsides 1
+3 Yellow cards 1
+15 Fouls conceded 6
+
+Match: 6164
+45.4 Possession % 54.6
+4 Shots on target 6
+8 Shots 15
+514 Touches 607
+305 Passes 359
+28 Tackles 21
+45 Clearances 65
+2 Corners 6
+4 Offsides 3
+2 Yellow cards 1
+19 Fouls conceded 19
+
+Match: 6156
+68.3 Possession % 31.7
+6 Shots on target 2
+22 Shots 4
+824 Touches 488
+561 Passes 260
+22 Tackles 39
+51 Clearances 48
+14 Corners 3
+1 Offsides 2
+1 Yellow cards 2
+8 Fouls conceded 11
+
+Match: 6157
+48 Possession % 52
+8 Shots on target 3
+15 Shots 8
+531 Touches 512
+271 Passes 290
+19 Tackles 27
+71 Clearances 46
+13 Corners 7
+4 Offsides 0
+0 Yellow cards 2
+14 Fouls conceded 13
+
+Match: 6158
+51.7 Possession % 48.3
+5 Shots on target 1
+11 Shots 7
+639 Touches 631
+400 Passes 369
+48 Tackles 21
+42 Clearances 63
+4 Corners 7
+6 Offsides 1
+2 Yellow cards 4
+16 Fouls conceded 12
+
+Match: 6159
+44.9 Possession % 55.1
+1 Shots on target 4
+3 Shots 14
+460 Touches 570
+290 Passes 363
+16 Tackles 16
+34 Clearances 60
+1 Corners 6
+3 Offsides 5
+0 Yellow cards 2
+1 Red cards 0
+12 Fouls conceded 17
+
+Match: 6160
+43.7 Possession % 56.3
+3 Shots on target 2
+13 Shots 8
+527 Touches 599
+313 Passes 400
+25 Tackles 16
+48 Clearances 34
+4 Corners 5
+3 Offsides 1
+2 Yellow cards 1
+15 Fouls conceded 13
+
+Match: 6162
+40.9 Possession % 59.1
+2 Shots on target 6
+10 Shots 13
+545 Touches 681
+302 Passes 444
+20 Tackles 22
+55 Clearances 47
+3 Corners 9
+11 Offsides 5
+1 Yellow cards 1
+6 Fouls conceded 13
+
+Match: 6163
+55.1 Possession % 44.9
+7 Shots on target 2
+16 Shots 14
+566 Touches 502
+373 Passes 314
+20 Tackles 16
+18 Clearances 42
+8 Corners 6
+4 Offsides 2
+0 Yellow cards 1
+20 Fouls conceded 16
+
+Match: 6161
+55.4 Possession % 44.6
+16 Shots on target 2
+29 Shots 9
+703 Touches 626
+477 Passes 393
+31 Tackles 17
+40 Clearances 45
+16 Corners 1
+2 Offsides 3
+1 Yellow cards 1
+0 Red cards 1
+7 Fouls conceded 11
+
+Match: 6155
+52.8 Possession % 47.2
+10 Shots on target 5
+19 Shots 10
+642 Touches 592
+404 Passes 358
+21 Tackles 31
+42 Clearances 41
+8 Corners 7
+2 Offsides 6
+0 Yellow cards 3
+8 Fouls conceded 13
+
+Match: 6152
+57.8 Possession % 42.2
+1 Shots on target 3
+11 Shots 8
+647 Touches 550
+417 Passes 296
+23 Tackles 25
+56 Clearances 63
+7 Corners 3
+2 Offsides 2
+3 Yellow cards 3
+0 Red cards 1
+12 Fouls conceded 13
+
+Match: 6153
+55.9 Possession % 44.1
+3 Shots on target 3
+15 Shots 10
+621 Touches 532
+313 Passes 252
+23 Tackles 32
+83 Clearances 89
+11 Corners 7
+5 Offsides 1
+2 Yellow cards 3
+10 Fouls conceded 12
+
+Match: 6154
+69.4 Possession % 30.6
+8 Shots on target 1
+17 Shots 7
+766 Touches 427
+555 Passes 241
+15 Tackles 25
+38 Clearances 39
+4 Corners 1
+3 Offsides 4
+2 Yellow cards 1
+13 Fouls conceded 16
+
+Match: 6148
+44.1 Possession % 55.9
+3 Shots on target 4
+7 Shots 12
+582 Touches 674
+315 Passes 401
+39 Tackles 48
+63 Clearances 44
+4 Corners 8
+0 Offsides 3
+1 Yellow cards 0
+9 Fouls conceded 10
+
+Match: 6146
+55.6 Possession % 44.4
+7 Shots on target 3
+23 Shots 16
+730 Touches 596
+488 Passes 392
+16 Tackles 29
+42 Clearances 25
+5 Corners 7
+4 Offsides 4
+0 Yellow cards 3
+5 Fouls conceded 8
+
+Match: 6149
+59.9 Possession % 40.1
+7 Shots on target 4
+21 Shots 14
+734 Touches 549
+437 Passes 296
+34 Tackles 30
+83 Clearances 58
+2 Corners 0
+2 Offsides 1
+1 Yellow cards 4
+11 Fouls conceded 9
+
+Match: 6150
+57 Possession % 43
+3 Shots on target 2
+11 Shots 7
+623 Touches 512
+375 Passes 291
+13 Tackles 13
+77 Clearances 64
+5 Corners 6
+3 Offsides 1
+0 Yellow cards 1
+19 Fouls conceded 13
+
+Match: 6151
+38.7 Possession % 61.3
+4 Shots on target 10
+11 Shots 20
+482 Touches 677
+289 Passes 466
+14 Tackles 17
+28 Clearances 51
+5 Corners 4
+0 Offsides 3
+3 Yellow cards 1
+1 Red cards 0
+11 Fouls conceded 7
+
+Match: 6147
+38.6 Possession % 61.4
+3 Shots on target 2
+15 Shots 9
+506 Touches 624
+238 Passes 405
+23 Tackles 31
+76 Clearances 52
+8 Corners 2
+3 Offsides 1
+0 Yellow cards 3
+16 Fouls conceded 16
+
+Match: 6144
+48.3 Possession % 51.7
+4 Shots on target 8
+13 Shots 23
+551 Touches 611
+280 Passes 297
+37 Tackles 20
+72 Clearances 86
+9 Corners 7
+2 Offsides 4
+1 Yellow cards 3
+15 Fouls conceded 15
+
+Match: 6145
+40.3 Possession % 59.7
+0 Shots on target 6
+5 Shots 22
+604 Touches 782
+353 Passes 525
+31 Tackles 26
+71 Clearances 49
+2 Corners 9
+2 Offsides 7
+0 Yellow cards 1
+7 Fouls conceded 9
+
+Match: 6136
+50 Possession % 50
+5 Shots on target 6
+17 Shots 11
+579 Touches 601
+302 Passes 310
+33 Tackles 25
+66 Clearances 85
+8 Corners 6
+3 Offsides 2
+0 Yellow cards 2
+0 Red cards 1
+14 Fouls conceded 16
+
+Match: 6137
+55.7 Possession % 44.3
+7 Shots on target 2
+22 Shots 8
+718 Touches 566
+407 Passes 322
+13 Tackles 32
+105 Clearances 59
+12 Corners 2
+2 Offsides 0
+1 Yellow cards 4
+9 Fouls conceded 15
+
+Match: 6139
+54.1 Possession % 45.9
+1 Shots on target 4
+17 Shots 15
+611 Touches 579
+355 Passes 304
+32 Tackles 29
+43 Clearances 78
+4 Corners 4
+2 Offsides 5
+1 Yellow cards 4
+10 Fouls conceded 19
+
+Match: 6140
+43.8 Possession % 56.2
+5 Shots on target 2
+8 Shots 8
+521 Touches 623
+294 Passes 366
+16 Tackles 23
+79 Clearances 45
+2 Corners 6
+5 Offsides 3
+1 Yellow cards 2
+11 Fouls conceded 16
+
+Match: 6141
+63.3 Possession % 36.7
+11 Shots on target 5
+18 Shots 13
+697 Touches 501
+449 Passes 245
+20 Tackles 22
+58 Clearances 71
+3 Corners 6
+2 Offsides 2
+0 Yellow cards 3
+11 Fouls conceded 13
+
+Match: 6142
+54.4 Possession % 45.6
+3 Shots on target 3
+11 Shots 9
+628 Touches 600
+398 Passes 331
+24 Tackles 19
+42 Clearances 94
+7 Corners 3
+1 Offsides 2
+2 Yellow cards 0
+11 Fouls conceded 12
+
+Match: 6143
+53.4 Possession % 46.6
+2 Shots on target 3
+8 Shots 10
+570 Touches 542
+345 Passes 299
+33 Tackles 16
+50 Clearances 71
+7 Corners 5
+4 Offsides 3
+1 Yellow cards 1
+16 Fouls conceded 11
+
+Match: 6138
+51.1 Possession % 48.9
+3 Shots on target 4
+12 Shots 10
+602 Touches 602
+368 Passes 364
+23 Tackles 18
+51 Clearances 76
+10 Corners 2
+2 Offsides 0
+0 Yellow cards 4
+1 Red cards 1
+14 Fouls conceded 17
+
+Match: 6135
+53.5 Possession % 46.5
+1 Shots on target 5
+7 Shots 11
+660 Touches 640
+405 Passes 345
+30 Tackles 23
+70 Clearances 90
+3 Corners 3
+4 Offsides 5
+1 Yellow cards 1
+11 Fouls conceded 17
+
+Match: 6127
+73.2 Possession % 26.8
+8 Shots on target 7
+17 Shots 13
+732 Touches 363
+530 Passes 173
+20 Tackles 28
+33 Clearances 31
+3 Corners 7
+2 Offsides 5
+2 Yellow cards 2
+2 Red cards 1
+10 Fouls conceded 11
+
+Match: 6132
+53.9 Possession % 46.1
+8 Shots on target 2
+14 Shots 12
+630 Touches 535
+378 Passes 318
+19 Tackles 29
+76 Clearances 51
+3 Corners 5
+4 Offsides 0
+1 Yellow cards 3
+0 Red cards 1
+10 Fouls conceded 17
+
+Match: 6126
+41.6 Possession % 58.4
+3 Shots on target 8
+19 Shots 20
+505 Touches 632
+269 Passes 386
+21 Tackles 19
+55 Clearances 57
+13 Corners 9
+3 Offsides 1
+1 Yellow cards 2
+13 Fouls conceded 7
+
+Match: 6128
+38.7 Possession % 61.3
+4 Shots on target 6
+11 Shots 23
+479 Touches 702
+303 Passes 490
+20 Tackles 10
+32 Clearances 33
+2 Corners 7
+7 Offsides 3
+1 Yellow cards 0
+11 Fouls conceded 11
+
+Match: 6129
+56.3 Possession % 43.7
+4 Shots on target 2
+21 Shots 10
+690 Touches 541
+398 Passes 326
+24 Tackles 29
+78 Clearances 54
+7 Corners 4
+1 Offsides 0
+0 Yellow cards 3
+8 Fouls conceded 19
+
+Match: 6131
+42.3 Possession % 57.7
+2 Shots on target 10
+12 Shots 19
+568 Touches 709
+319 Passes 459
+31 Tackles 29
+55 Clearances 80
+4 Corners 3
+0 Offsides 4
+2 Yellow cards 1
+15 Fouls conceded 12
+
+Match: 6134
+54 Possession % 46
+2 Shots on target 1
+8 Shots 8
+590 Touches 563
+360 Passes 300
+23 Tackles 20
+67 Clearances 84
+3 Corners 2
+3 Offsides 3
+1 Yellow cards 4
+14 Fouls conceded 22
+
+Match: 6130
+38.6 Possession % 61.4
+4 Shots on target 2
+11 Shots 15
+579 Touches 757
+299 Passes 477
+40 Tackles 23
+79 Clearances 43
+4 Corners 7
+6 Offsides 7
+2 Yellow cards 1
+18 Fouls conceded 11
+
+Match: 6133
+62 Possession % 38
+6 Shots on target 5
+20 Shots 13
+672 Touches 503
+418 Passes 249
+22 Tackles 19
+64 Clearances 71
+10 Corners 6
+6 Offsides 0
+2 Yellow cards 2
+0 Red cards 1
+8 Fouls conceded 7
+
+Match: 6124
+64.8 Possession % 35.2
+8 Shots on target 2
+21 Shots 5
+713 Touches 504
+455 Passes 247
+17 Tackles 21
+74 Clearances 98
+8 Corners 2
+2 Offsides 2
+3 Yellow cards 3
+11 Fouls conceded 16
+
+Match: 6125
+58.8 Possession % 41.2
+7 Shots on target 2
+23 Shots 9
+604 Touches 532
+363 Passes 256
+12 Tackles 30
+45 Clearances 113
+9 Corners 2
+1 Offsides 2
+2 Yellow cards 2
+13 Fouls conceded 21
+
+Match: 6123
+47.1 Possession % 52.9
+3 Shots on target 4
+19 Shots 12
+605 Touches 642
+350 Passes 398
+28 Tackles 27
+46 Clearances 51
+7 Corners 11
+1 Offsides 3
+1 Yellow cards 2
+16 Fouls conceded 14
+
+Match: 6116
+53.3 Possession % 46.7
+5 Shots on target 3
+10 Shots 11
+705 Touches 650
+465 Passes 412
+21 Tackles 40
+53 Clearances 57
+5 Corners 1
+4 Offsides 2
+1 Yellow cards 3
+11 Fouls conceded 12
+
+Match: 6117
+52.3 Possession % 47.7
+7 Shots on target 1
+12 Shots 7
+602 Touches 592
+370 Passes 335
+21 Tackles 33
+45 Clearances 86
+7 Corners 4
+3 Offsides 3
+2 Yellow cards 4
+16 Fouls conceded 15
+
+Match: 6118
+54.5 Possession % 45.5
+5 Shots on target 0
+11 Shots 6
+588 Touches 522
+371 Passes 309
+13 Tackles 17
+44 Clearances 67
+7 Corners 2
+6 Offsides 2
+3 Yellow cards 2
+13 Fouls conceded 19
+
+Match: 6119
+55.5 Possession % 44.5
+5 Shots on target 1
+14 Shots 8
+539 Touches 489
+335 Passes 274
+20 Tackles 30
+37 Clearances 57
+7 Corners 4
+3 Offsides 6
+16 Fouls conceded 17
+
+Match: 6120
+59.8 Possession % 40.2
+5 Shots on target 2
+14 Shots 9
+665 Touches 476
+454 Passes 296
+21 Tackles 24
+36 Clearances 35
+3 Corners 1
+5 Offsides 2
+1 Yellow cards 2
+14 Fouls conceded 14
+
+Match: 6121
+45.7 Possession % 54.3
+1 Shots on target 3
+9 Shots 11
+523 Touches 595
+275 Passes 347
+25 Tackles 24
+64 Clearances 72
+7 Corners 4
+2 Offsides 7
+2 Yellow cards 2
+17 Fouls conceded 12
+
+Match: 6122
+50.9 Possession % 49.1
+5 Shots on target 5
+18 Shots 11
+501 Touches 512
+271 Passes 282
+25 Tackles 16
+31 Clearances 71
+7 Corners 2
+2 Offsides 4
+0 Yellow cards 4
+9 Fouls conceded 20
+
+Match: 6115
+56.6 Possession % 43.4
+4 Shots on target 2
+22 Shots 6
+643 Touches 574
+390 Passes 289
+24 Tackles 30
+46 Clearances 101
+3 Corners 3
+1 Offsides 1
+2 Yellow cards 3
+14 Fouls conceded 15
+
+Match: 6114
+49.9 Possession % 50.1
+4 Shots on target 7
+12 Shots 12
+643 Touches 658
+422 Passes 411
+36 Tackles 30
+50 Clearances 54
+3 Corners 5
+4 Offsides 4
+4 Yellow cards 5
+17 Fouls conceded 14
+
+Match: 6106
+55.4 Possession % 44.6
+7 Shots on target 3
+17 Shots 12
+511 Touches 478
+304 Passes 231
+20 Tackles 17
+49 Clearances 54
+6 Corners 6
+2 Offsides 1
+2 Yellow cards 1
+15 Fouls conceded 19
+
+Match: 6107
+55.9 Possession % 44.1
+5 Shots on target 4
+15 Shots 7
+688 Touches 623
+409 Passes 327
+26 Tackles 27
+50 Clearances 105
+6 Corners 3
+2 Offsides 0
+6 Fouls conceded 10
+
+Match: 6109
+53.7 Possession % 46.3
+8 Shots on target 3
+17 Shots 10
+586 Touches 526
+354 Passes 303
+15 Tackles 21
+64 Clearances 55
+6 Corners 4
+6 Offsides 2
+1 Yellow cards 1
+14 Fouls conceded 14
+
+Match: 6110
+41 Possession % 59
+3 Shots on target 3
+12 Shots 14
+497 Touches 634
+263 Passes 395
+29 Tackles 28
+58 Clearances 66
+4 Corners 4
+3 Offsides 6
+3 Yellow cards 2
+24 Fouls conceded 13
+
+Match: 6111
+44.4 Possession % 55.6
+3 Shots on target 5
+10 Shots 15
+482 Touches 551
+241 Passes 308
+19 Tackles 24
+69 Clearances 56
+5 Corners 13
+2 Offsides 3
+2 Yellow cards 2
+19 Fouls conceded 15
+
+Match: 6112
+56.9 Possession % 43.1
+2 Shots on target 6
+14 Shots 12
+638 Touches 557
+424 Passes 317
+18 Tackles 15
+26 Clearances 76
+9 Corners 2
+1 Offsides 4
+1 Yellow cards 2
+18 Fouls conceded 13
+
+Match: 6113
+47.1 Possession % 52.9
+6 Shots on target 6
+10 Shots 10
+495 Touches 511
+267 Passes 311
+20 Tackles 24
+67 Clearances 58
+5 Corners 4
+6 Offsides 1
+4 Yellow cards 3
+0 Red cards 1
+20 Fouls conceded 24
+
+Match: 6108
+54.1 Possession % 45.9
+3 Shots on target 5
+13 Shots 7
+599 Touches 576
+307 Passes 259
+31 Tackles 26
+98 Clearances 128
+7 Corners 6
+3 Offsides 5
+0 Yellow cards 1
+18 Fouls conceded 10
+
+Match: 6104
+40 Possession % 60
+4 Shots on target 2
+17 Shots 9
+536 Touches 654
+271 Passes 428
+20 Tackles 26
+81 Clearances 40
+5 Corners 4
+3 Offsides 6
+2 Yellow cards 2
+15 Fouls conceded 12
+
+Match: 6103
+47.6 Possession % 52.4
+4 Shots on target 5
+12 Shots 13
+499 Touches 478
+259 Passes 287
+24 Tackles 10
+69 Clearances 41
+5 Corners 11
+4 Offsides 4
+2 Yellow cards 1
+14 Fouls conceded 13
+
+Match: 6105
+51.3 Possession % 48.7
+7 Shots on target 1
+13 Shots 8
+614 Touches 544
+368 Passes 341
+13 Tackles 14
+71 Clearances 43
+2 Corners 6
+3 Offsides 1
+2 Yellow cards 3
+0 Red cards 1
+10 Fouls conceded 15
+
+Match: 6102
+55.8 Possession % 44.2
+6 Shots on target 3
+17 Shots 12
+668 Touches 595
+442 Passes 347
+19 Tackles 22
+50 Clearances 87
+9 Corners 5
+1 Offsides 3
+1 Yellow cards 1
+15 Fouls conceded 18
+
+Match: 6096
+50.8 Possession % 49.2
+6 Shots on target 3
+19 Shots 15
+570 Touches 584
+330 Passes 327
+34 Tackles 20
+45 Clearances 87
+8 Corners 5
+3 Offsides 1
+2 Yellow cards 4
+19 Fouls conceded 27
+
+Match: 6097
+71.1 Possession % 28.9
+3 Shots on target 2
+13 Shots 10
+852 Touches 463
+605 Passes 246
+22 Tackles 40
+37 Clearances 60
+10 Corners 1
+2 Offsides 1
+0 Yellow cards 1
+0 Red cards 1
+8 Fouls conceded 15
+
+Match: 6098
+50.7 Possession % 49.3
+9 Shots on target 2
+17 Shots 8
+563 Touches 580
+345 Passes 337
+12 Tackles 26
+44 Clearances 47
+11 Corners 7
+3 Offsides 0
+0 Yellow cards 2
+10 Fouls conceded 10
+
+Match: 6099
+61.6 Possession % 38.4
+8 Shots on target 5
+25 Shots 11
+735 Touches 524
+499 Passes 314
+12 Tackles 28
+43 Clearances 53
+10 Corners 3
+2 Offsides 0
+0 Yellow cards 2
+13 Fouls conceded 13
+
+Match: 6100
+56.5 Possession % 43.5
+5 Shots on target 2
+17 Shots 6
+615 Touches 490
+394 Passes 303
+16 Tackles 27
+34 Clearances 37
+6 Corners 5
+2 Offsides 1
+1 Yellow cards 2
+11 Fouls conceded 8
+
+Match: 6101
+35.8 Possession % 64.2
+4 Shots on target 5
+14 Shots 19
+486 Touches 695
+225 Passes 424
+26 Tackles 28
+81 Clearances 58
+7 Corners 7
+3 Offsides 4
+0 Yellow cards 1
+11 Fouls conceded 12
+
+Match: 6095
+47.3 Possession % 52.7
+4 Shots on target 2
+13 Shots 9
+600 Touches 686
+335 Passes 387
+32 Tackles 25
+64 Clearances 86
+6 Corners 6
+2 Offsides 2
+3 Yellow cards 2
+10 Fouls conceded 11
+
+Match: 6094
+57.9 Possession % 42.1
+9 Shots on target 2
+17 Shots 14
+657 Touches 552
+421 Passes 310
+20 Tackles 11
+65 Clearances 78
+7 Corners 3
+9 Offsides 3
+2 Yellow cards 1
+4 Fouls conceded 13
+
+Match: 6092
+52.3 Possession % 47.7
+9 Shots on target 2
+26 Shots 8
+665 Touches 596
+415 Passes 377
+27 Tackles 33
+56 Clearances 30
+5 Corners 5
+2 Offsides 4
+0 Yellow cards 3
+11 Fouls conceded 16
+
+Match: 6093
+59 Possession % 41
+7 Shots on target 4
+19 Shots 9
+615 Touches 496
+392 Passes 278
+18 Tackles 22
+28 Clearances 58
+12 Corners 2
+5 Offsides 3
+0 Yellow cards 1
+1 Red cards 0
+11 Fouls conceded 14
+
+Match: 6086
+52.4 Possession % 47.6
+5 Shots on target 4
+14 Shots 21
+589 Touches 531
+345 Passes 304
+22 Tackles 20
+62 Clearances 26
+1 Corners 1
+1 Offsides 4
+2 Yellow cards 3
+21 Fouls conceded 18
+
+Match: 6088
+55.8 Possession % 44.2
+3 Shots on target 2
+21 Shots 5
+575 Touches 424
+316 Passes 239
+19 Tackles 24
+62 Clearances 43
+9 Corners 0
+2 Offsides 4
+1 Yellow cards 2
+12 Fouls conceded 16
+
+Match: 6089
+48.8 Possession % 51.2
+5 Shots on target 8
+15 Shots 15
+551 Touches 558
+299 Passes 321
+18 Tackles 27
+64 Clearances 64
+5 Corners 4
+0 Offsides 2
+2 Yellow cards 1
+11 Fouls conceded 16
+
+Match: 6090
+47.3 Possession % 52.7
+5 Shots on target 6
+22 Shots 12
+523 Touches 582
+319 Passes 355
+13 Tackles 18
+43 Clearances 72
+4 Corners 3
+1 Offsides 2
+1 Yellow cards 1
+12 Fouls conceded 17
+
+Match: 6085
+45.1 Possession % 54.9
+3 Shots on target 5
+11 Shots 15
+587 Touches 685
+352 Passes 444
+19 Tackles 36
+51 Clearances 67
+4 Corners 6
+0 Offsides 2
+3 Yellow cards 2
+18 Fouls conceded 10
+
+Match: 6087
+54.4 Possession % 45.6
+1 Shots on target 2
+15 Shots 6
+631 Touches 552
+375 Passes 320
+24 Tackles 30
+59 Clearances 65
+7 Corners 0
+3 Offsides 4
+5 Yellow cards 3
+15 Fouls conceded 26
+
+Match: 6091
+37.9 Possession % 62.1
+2 Shots on target 1
+6 Shots 6
+466 Touches 601
+249 Passes 433
+25 Tackles 19
+57 Clearances 33
+2 Corners 4
+3 Offsides 2
+2 Yellow cards 2
+1 Red cards 0
+17 Fouls conceded 12
+
+Match: 6084
+59 Possession % 41
+5 Shots on target 7
+20 Shots 9
+593 Touches 508
+376 Passes 265
+18 Tackles 27
+21 Clearances 71
+10 Corners 2
+3 Offsides 7
+0 Yellow cards 1
+1 Red cards 0
+10 Fouls conceded 15
+
+Match: 6083
+44.5 Possession % 55.5
+7 Shots on target 5
+15 Shots 9
+551 Touches 600
+282 Passes 369
+25 Tackles 27
+77 Clearances 52
+7 Corners 8
+2 Offsides 5
+3 Yellow cards 4
+34 Fouls conceded 8
+
+Match: 6082
+37.6 Possession % 62.4
+4 Shots on target 9
+6 Shots 18
+486 Touches 730
+258 Passes 448
+26 Tackles 19
+62 Clearances 74
+3 Corners 6
+2 Offsides 4
+2 Yellow cards 1
+19 Fouls conceded 12
+
+Match: 6081
+44 Possession % 56
+0 Shots on target 7
+7 Shots 19
+646 Touches 760
+412 Passes 525
+33 Tackles 50
+41 Clearances 37
+0 Corners 8
+4 Offsides 1
+3 Yellow cards 1
+14 Fouls conceded 13
+
+Match: 6074
+67.5 Possession % 32.5
+3 Shots on target 1
+16 Shots 9
+781 Touches 461
+548 Passes 259
+17 Tackles 33
+37 Clearances 49
+6 Corners 4
+5 Offsides 3
+1 Yellow cards 4
+9 Fouls conceded 17
+
+Match: 6075
+46.1 Possession % 53.9
+2 Shots on target 6
+4 Shots 18
+515 Touches 574
+283 Passes 357
+22 Tackles 21
+51 Clearances 57
+4 Corners 2
+3 Offsides 1
+3 Yellow cards 2
+18 Fouls conceded 21
+
+Match: 6076
+40 Possession % 60
+1 Shots on target 2
+7 Shots 15
+517 Touches 672
+289 Passes 428
+30 Tackles 18
+57 Clearances 60
+4 Corners 6
+2 Offsides 2
+3 Yellow cards 0
+17 Fouls conceded 14
+
+Match: 6078
+44.1 Possession % 55.9
+15 Shots on target 5
+27 Shots 17
+487 Touches 575
+295 Passes 367
+23 Tackles 11
+44 Clearances 41
+2 Corners 6
+0 Offsides 1
+0 Yellow cards 1
+11 Fouls conceded 16
+
+Match: 6079
+64.5 Possession % 35.5
+7 Shots on target 1
+14 Shots 5
+712 Touches 475
+553 Passes 284
+22 Tackles 12
+31 Clearances 25
+2 Corners 7
+2 Offsides 2
+0 Yellow cards 2
+11 Fouls conceded 15
+
+Match: 6080
+57.6 Possession % 42.4
+4 Shots on target 4
+16 Shots 9
+564 Touches 458
+342 Passes 256
+16 Tackles 26
+43 Clearances 40
+11 Corners 6
+1 Offsides 3
+2 Yellow cards 1
+16 Fouls conceded 17
+
+Match: 6077
+35 Possession % 65
+1 Shots on target 4
+7 Shots 9
+497 Touches 790
+319 Passes 620
+16 Tackles 17
+37 Clearances 26
+3 Corners 2
+1 Offsides 1
+0 Yellow cards 1
+0 Red cards 1
+8 Fouls conceded 9
+
+Match: 6073
+33.8 Possession % 66.2
+3 Shots on target 4
+8 Shots 16
+519 Touches 894
+328 Passes 680
+23 Tackles 25
+36 Clearances 41
+5 Corners 1
+1 Offsides 7
+1 Yellow cards 1
+9 Fouls conceded 5
+
+Match: 6067
+52.5 Possession % 47.5
+5 Shots on target 3
+15 Shots 16
+589 Touches 565
+306 Passes 290
+44 Tackles 19
+73 Clearances 74
+8 Corners 5
+0 Offsides 2
+3 Yellow cards 2
+18 Fouls conceded 8
+
+Match: 6069
+63.3 Possession % 36.7
+6 Shots on target 1
+21 Shots 7
+707 Touches 456
+476 Passes 271
+26 Tackles 29
+39 Clearances 31
+9 Corners 1
+3 Offsides 1
+2 Yellow cards 2
+13 Fouls conceded 18
+
+Match: 6068
+57.5 Possession % 42.5
+2 Shots on target 2
+14 Shots 6
+646 Touches 497
+388 Passes 270
+19 Tackles 31
+79 Clearances 51
+6 Corners 7
+3 Offsides 2
+1 Yellow cards 2
+18 Fouls conceded 25
+
+Match: 6070
+57.3 Possession % 42.7
+9 Shots on target 5
+21 Shots 12
+645 Touches 528
+435 Passes 319
+17 Tackles 14
+35 Clearances 36
+9 Corners 4
+2 Offsides 0
+1 Yellow cards 3
+0 Red cards 1
+7 Fouls conceded 21
+
+Match: 6072
+53.2 Possession % 46.8
+8 Shots on target 1
+21 Shots 6
+672 Touches 575
+454 Passes 390
+13 Tackles 22
+46 Clearances 34
+5 Corners 2
+4 Offsides 2
+0 Yellow cards 2
+8 Fouls conceded 16
+
+Match: 6071
+46.6 Possession % 53.4
+7 Shots on target 4
+25 Shots 11
+663 Touches 716
+389 Passes 449
+31 Tackles 34
+45 Clearances 68
+9 Corners 1
+4 Offsides 3
+1 Yellow cards 1
+10 Fouls conceded 8
+
+Match: 6066
+50.1 Possession % 49.9
+3 Shots on target 3
+23 Shots 9
+550 Touches 544
+319 Passes 314
+21 Tackles 22
+76 Clearances 47
+7 Corners 4
+0 Offsides 4
+1 Yellow cards 2
+10 Fouls conceded 17
+
+Match: 6064
+46.5 Possession % 53.5
+1 Shots on target 8
+9 Shots 16
+488 Touches 569
+312 Passes 368
+22 Tackles 18
+39 Clearances 56
+4 Corners 5
+1 Offsides 0
+2 Yellow cards 2
+15 Fouls conceded 10
+
+Match: 6065
+66.6 Possession % 33.4
+11 Shots on target 3
+23 Shots 7
+814 Touches 507
+532 Passes 269
+24 Tackles 34
+55 Clearances 73
+8 Corners 2
+5 Offsides 3
+0 Yellow cards 2
+9 Fouls conceded 13
+
+Match: 6063
+52.9 Possession % 47.1
+3 Shots on target 2
+7 Shots 11
+665 Touches 639
+427 Passes 385
+30 Tackles 20
+63 Clearances 79
+1 Corners 3
+0 Offsides 1
+0 Yellow cards 1
+12 Fouls conceded 16
+
+Match: 6062
+49.1 Possession % 50.9
+6 Shots on target 6
+11 Shots 14
+610 Touches 639
+337 Passes 372
+26 Tackles 23
+74 Clearances 90
+8 Corners 3
+3 Offsides 2
+2 Yellow cards 1
+13 Fouls conceded 16
+
+Match: 6054
+55.1 Possession % 44.9
+6 Shots on target 3
+19 Shots 12
+662 Touches 556
+438 Passes 344
+23 Tackles 35
+50 Clearances 39
+3 Corners 4
+2 Offsides 4
+1 Yellow cards 2
+15 Fouls conceded 14
+
+Match: 6055
+57.8 Possession % 42.2
+7 Shots on target 1
+18 Shots 9
+603 Touches 521
+359 Passes 263
+21 Tackles 40
+38 Clearances 75
+7 Corners 4
+2 Offsides 0
+0 Yellow cards 3
+8 Fouls conceded 21
+
+Match: 6057
+54.5 Possession % 45.5
+7 Shots on target 5
+17 Shots 8
+607 Touches 548
+348 Passes 295
+27 Tackles 16
+77 Clearances 73
+6 Corners 5
+1 Offsides 1
+0 Yellow cards 1
+16 Fouls conceded 25
+
+Match: 6058
+42.6 Possession % 57.4
+6 Shots on target 3
+13 Shots 15
+403 Touches 519
+189 Passes 257
+20 Tackles 13
+61 Clearances 64
+8 Corners 9
+5 Offsides 2
+2 Yellow cards 0
+1 Red cards 0
+12 Fouls conceded 8
+
+Match: 6059
+44.9 Possession % 55.1
+2 Shots on target 1
+8 Shots 11
+559 Touches 684
+305 Passes 402
+27 Tackles 28
+55 Clearances 82
+6 Corners 7
+2 Offsides 5
+1 Yellow cards 0
+14 Fouls conceded 8
+
+Match: 6060
+55.6 Possession % 44.4
+8 Shots on target 6
+14 Shots 12
+584 Touches 534
+402 Passes 319
+26 Tackles 29
+15 Clearances 53
+4 Corners 5
+1 Offsides 0
+2 Yellow cards 2
+15 Fouls conceded 15
+
+Match: 6061
+43.3 Possession % 56.7
+2 Shots on target 5
+13 Shots 14
+573 Touches 714
+392 Passes 535
+25 Tackles 23
+22 Clearances 36
+4 Corners 3
+1 Offsides 2
+2 Yellow cards 1
+17 Fouls conceded 9
+
+Match: 6056
+47.2 Possession % 52.8
+3 Shots on target 4
+18 Shots 11
+669 Touches 727
+415 Passes 470
+26 Tackles 31
+55 Clearances 73
+6 Corners 3
+4 Offsides 7
+0 Yellow cards 1
+8 Fouls conceded 12
+
+Match: 6050
+49.3 Possession % 50.7
+2 Shots on target 3
+15 Shots 10
+606 Touches 615
+334 Passes 347
+26 Tackles 25
+68 Clearances 93
+7 Corners 3
+2 Offsides 0
+2 Yellow cards 1
+18 Fouls conceded 14
+
+Match: 6051
+55.7 Possession % 44.3
+1 Shots on target 3
+7 Shots 8
+626 Touches 536
+387 Passes 306
+29 Tackles 31
+41 Clearances 62
+0 Corners 2
+2 Offsides 2
+1 Yellow cards 1
+11 Fouls conceded 11
+
+Match: 6053
+49.9 Possession % 50.1
+5 Shots on target 4
+11 Shots 10
+605 Touches 612
+412 Passes 428
+28 Tackles 18
+10 Clearances 34
+10 Corners 2
+2 Offsides 0
+4 Yellow cards 5
+12 Fouls conceded 14
+
+Match: 6052
+37.8 Possession % 62.2
+5 Shots on target 2
+12 Shots 12
+548 Touches 779
+307 Passes 527
+44 Tackles 29
+45 Clearances 44
+4 Corners 1
+3 Offsides 3
+3 Yellow cards 3
+17 Fouls conceded 11
+
+Match: 6044
+49.1 Possession % 50.9
+7 Shots on target 5
+22 Shots 13
+526 Touches 532
+285 Passes 301
+18 Tackles 16
+64 Clearances 59
+6 Corners 6
+4 Offsides 3
+0 Yellow cards 1
+12 Fouls conceded 15
+
+Match: 6045
+57.9 Possession % 42.1
+10 Shots on target 4
+21 Shots 9
+708 Touches 534
+496 Passes 354
+23 Tackles 17
+34 Clearances 32
+9 Corners 3
+4 Offsides 2
+2 Yellow cards 2
+12 Fouls conceded 14
+
+Match: 6047
+46.3 Possession % 53.7
+4 Shots on target 2
+13 Shots 13
+518 Touches 549
+276 Passes 328
+27 Tackles 30
+54 Clearances 54
+11 Corners 5
+3 Offsides 2
+2 Yellow cards 4
+20 Fouls conceded 12
+
+Match: 6046
+59.3 Possession % 40.7
+7 Shots on target 3
+19 Shots 9
+731 Touches 565
+516 Passes 345
+26 Tackles 29
+43 Clearances 29
+2 Corners 4
+0 Offsides 6
+0 Yellow cards 2
+10 Fouls conceded 15
+
+Match: 6048
+46.9 Possession % 53.1
+4 Shots on target 1
+11 Shots 6
+513 Touches 516
+266 Passes 302
+32 Tackles 18
+58 Clearances 53
+5 Corners 7
+1 Offsides 7
+0 Yellow cards 1
+16 Fouls conceded 9
+
+Match: 6049
+55.3 Possession % 44.7
+3 Shots on target 2
+12 Shots 8
+593 Touches 533
+354 Passes 311
+28 Tackles 22
+55 Clearances 69
+9 Corners 1
+4 Offsides 1
+0 Yellow cards 4
+1 Red cards 0
+14 Fouls conceded 15
+
+Match: 6043
+49.7 Possession % 50.3
+5 Shots on target 3
+18 Shots 12
+613 Touches 654
+361 Passes 368
+28 Tackles 32
+58 Clearances 77
+5 Corners 5
+0 Offsides 3
+2 Yellow cards 2
+13 Fouls conceded 8
+
+Match: 6042
+53.3 Possession % 46.7
+5 Shots on target 7
+13 Shots 20
+621 Touches 601
+382 Passes 341
+20 Tackles 13
+74 Clearances 84
+6 Corners 7
+0 Offsides 1
+3 Yellow cards 2
+9 Fouls conceded 17
+
+Match: 6037
+40.2 Possession % 59.8
+1 Shots on target 7
+7 Shots 21
+471 Touches 658
+247 Passes 393
+24 Tackles 24
+40 Clearances 97
+9 Corners 6
+0 Offsides 3
+1 Yellow cards 2
+2 Red cards 0
+10 Fouls conceded 16
+
+Match: 6034
+61.3 Possession % 38.7
+4 Shots on target 0
+23 Shots 2
+777 Touches 510
+541 Passes 336
+24 Tackles 21
+48 Clearances 34
+5 Corners 3
+1 Offsides 2
+1 Yellow cards 5
+15 Fouls conceded 22
+
+Match: 6036
+57.2 Possession % 42.8
+7 Shots on target 5
+12 Shots 13
+675 Touches 499
+440 Passes 309
+22 Tackles 17
+76 Clearances 29
+4 Corners 9
+2 Offsides 4
+8 Fouls conceded 6
+
+Match: 6038
+47.6 Possession % 52.4
+8 Shots on target 7
+16 Shots 13
+531 Touches 538
+287 Passes 330
+13 Tackles 19
+62 Clearances 55
+5 Corners 8
+0 Offsides 3
+0 Yellow cards 2
+1 Red cards 0
+10 Fouls conceded 13
+
+Match: 6039
+57.8 Possession % 42.2
+3 Shots on target 7
+13 Shots 13
+561 Touches 463
+383 Passes 268
+16 Tackles 12
+21 Clearances 50
+6 Corners 6
+4 Offsides 3
+3 Yellow cards 2
+18 Fouls conceded 16
+
+Match: 6040
+39.9 Possession % 60.1
+2 Shots on target 5
+9 Shots 13
+477 Touches 694
+303 Passes 478
+25 Tackles 26
+40 Clearances 40
+6 Corners 6
+1 Offsides 3
+1 Yellow cards 1
+10 Fouls conceded 9
+
+Match: 6041
+50.2 Possession % 49.8
+0 Shots on target 4
+7 Shots 16
+509 Touches 529
+331 Passes 317
+26 Tackles 22
+32 Clearances 49
+3 Corners 2
+3 Offsides 1
+2 Yellow cards 3
+11 Fouls conceded 11
+
+Match: 6035
+31.5 Possession % 68.5
+4 Shots on target 13
+14 Shots 23
+502 Touches 823
+257 Passes 596
+32 Tackles 24
+66 Clearances 48
+3 Corners 8
+3 Offsides 0
+1 Yellow cards 2
+2 Red cards 0
+10 Fouls conceded 10
+
+Match: 6026
+59.9 Possession % 40.1
+6 Shots on target 7
+18 Shots 13
+742 Touches 547
+502 Passes 341
+22 Tackles 33
+47 Clearances 45
+8 Corners 2
+3 Offsides 3
+0 Yellow cards 2
+0 Red cards 1
+10 Fouls conceded 11
+
+Match: 6033
+42.3 Possession % 57.7
+3 Shots on target 0
+14 Shots 9
+498 Touches 587
+277 Passes 387
+20 Tackles 24
+58 Clearances 40
+3 Corners 3
+3 Offsides 10
+1 Yellow cards 1
+13 Fouls conceded 18
+
+Match: 6027
+53.9 Possession % 46.1
+5 Shots on target 4
+19 Shots 9
+595 Touches 482
+357 Passes 302
+18 Tackles 20
+65 Clearances 28
+6 Corners 7
+1 Offsides 6
+3 Yellow cards 1
+18 Fouls conceded 13
+
+Match: 6028
+44.4 Possession % 55.6
+4 Shots on target 5
+12 Shots 16
+520 Touches 598
+302 Passes 394
+24 Tackles 21
+36 Clearances 28
+5 Corners 5
+2 Offsides 5
+5 Yellow cards 1
+16 Fouls conceded 11
+
+Match: 6030
+49.4 Possession % 50.6
+7 Shots on target 3
+22 Shots 13
+648 Touches 640
+356 Passes 386
+34 Tackles 27
+56 Clearances 49
+5 Corners 3
+1 Offsides 3
+0 Yellow cards 1
+19 Fouls conceded 11
+
+Match: 6031
+46.1 Possession % 53.9
+8 Shots on target 7
+19 Shots 21
+515 Touches 611
+363 Passes 424
+17 Tackles 12
+18 Clearances 34
+8 Corners 8
+1 Offsides 1
+2 Yellow cards 3
+12 Fouls conceded 15
+
+Match: 6032
+53.7 Possession % 46.3
+8 Shots on target 2
+18 Shots 11
+583 Touches 571
+358 Passes 313
+26 Tackles 23
+39 Clearances 86
+8 Corners 2
+0 Offsides 2
+2 Yellow cards 1
+13 Fouls conceded 19
+
+Match: 6029
+47.8 Possession % 52.2
+11 Shots on target 7
+17 Shots 15
+589 Touches 664
+331 Passes 367
+23 Tackles 35
+44 Clearances 115
+8 Corners 5
+2 Offsides 4
+1 Yellow cards 0
+7 Fouls conceded 18
+
+Match: 6025
+57.6 Possession % 42.4
+9 Shots on target 2
+19 Shots 8
+702 Touches 553
+470 Passes 367
+23 Tackles 30
+34 Clearances 52
+12 Corners 2
+3 Offsides 1
+1 Yellow cards 1
+12 Fouls conceded 9
+
+Match: 6024
+39.9 Possession % 60.1
+5 Shots on target 3
+8 Shots 16
+539 Touches 687
+285 Passes 449
+22 Tackles 36
+69 Clearances 67
+7 Corners 4
+1 Offsides 1
+3 Yellow cards 2
+19 Fouls conceded 13
+
+Match: 6023
+66.4 Possession % 33.6
+8 Shots on target 8
+28 Shots 12
+714 Touches 477
+452 Passes 216
+22 Tackles 26
+60 Clearances 87
+13 Corners 3
+3 Offsides 1
+1 Yellow cards 3
+12 Fouls conceded 14
+
+Match: 6022
+46.5 Possession % 53.5
+9 Shots on target 2
+14 Shots 16
+571 Touches 622
+327 Passes 373
+20 Tackles 21
+81 Clearances 64
+2 Corners 6
+2 Offsides 8
+0 Yellow cards 4
+19 Fouls conceded 22
+
+Match: 6017
+52.3 Possession % 47.7
+10 Shots on target 5
+19 Shots 14
+689 Touches 637
+430 Passes 394
+34 Tackles 18
+78 Clearances 55
+3 Corners 9
+2 Offsides 4
+7 Fouls conceded 11
+
+Match: 6015
+66.9 Possession % 33.1
+3 Shots on target 1
+19 Shots 8
+672 Touches 417
+417 Passes 186
+25 Tackles 36
+48 Clearances 58
+9 Corners 4
+4 Offsides 2
+0 Yellow cards 1
+1 Red cards 0
+9 Fouls conceded 18
+
+Match: 6016
+50.1 Possession % 49.9
+3 Shots on target 7
+10 Shots 15
+586 Touches 530
+343 Passes 327
+27 Tackles 13
+80 Clearances 48
+7 Corners 8
+2 Offsides 0
+3 Yellow cards 2
+16 Fouls conceded 8
+
+Match: 6018
+60.9 Possession % 39.1
+11 Shots on target 6
+23 Shots 12
+631 Touches 460
+383 Passes 229
+22 Tackles 17
+76 Clearances 40
+8 Corners 4
+3 Offsides 0
+1 Yellow cards 1
+6 Fouls conceded 8
+
+Match: 6019
+49.9 Possession % 50.1
+8 Shots on target 6
+19 Shots 16
+654 Touches 699
+397 Passes 427
+39 Tackles 34
+37 Clearances 80
+10 Corners 2
+3 Offsides 0
+1 Yellow cards 0
+11 Fouls conceded 5
+
+Match: 6020
+44.4 Possession % 55.6
+2 Shots on target 9
+9 Shots 16
+522 Touches 616
+305 Passes 380
+36 Tackles 15
+53 Clearances 51
+3 Corners 14
+7 Offsides 2
+2 Yellow cards 2
+16 Fouls conceded 14
+
+Match: 6021
+53.1 Possession % 46.9
+2 Shots on target 5
+10 Shots 20
+583 Touches 606
+394 Passes 331
+19 Tackles 23
+42 Clearances 68
+5 Corners 6
+4 Offsides 3
+2 Yellow cards 1
+13 Fouls conceded 10
+
+Match: 6014
+44.2 Possession % 55.8
+6 Shots on target 3
+18 Shots 11
+594 Touches 679
+320 Passes 424
+37 Tackles 31
+58 Clearances 69
+4 Corners 4
+4 Offsides 4
+3 Yellow cards 1
+14 Fouls conceded 12
+
+Match: 6013
+48.8 Possession % 51.2
+4 Shots on target 7
+13 Shots 14
+595 Touches 604
+358 Passes 375
+24 Tackles 19
+63 Clearances 59
+1 Corners 6
+1 Offsides 3
+1 Yellow cards 3
+17 Fouls conceded 17
+
+Match: 6009
+43.2 Possession % 56.8
+3 Shots on target 4
+8 Shots 11
+519 Touches 641
+311 Passes 411
+25 Tackles 24
+40 Clearances 58
+6 Corners 3
+4 Offsides 0
+1 Yellow cards 0
+18 Fouls conceded 12
+
+Match: 6010
+59.4 Possession % 40.6
+5 Shots on target 5
+13 Shots 13
+673 Touches 542
+418 Passes 280
+28 Tackles 30
+35 Clearances 75
+7 Corners 4
+3 Offsides 1
+0 Yellow cards 3
+6 Fouls conceded 16
+
+Match: 6011
+38.6 Possession % 61.4
+2 Shots on target 5
+6 Shots 15
+468 Touches 649
+252 Passes 395
+21 Tackles 24
+46 Clearances 60
+4 Corners 11
+4 Offsides 3
+0 Yellow cards 2
+14 Fouls conceded 15
+
+Match: 6012
+54.4 Possession % 45.6
+9 Shots on target 0
+22 Shots 4
+695 Touches 645
+494 Passes 419
+30 Tackles 20
+38 Clearances 42
+10 Corners 1
+2 Yellow cards 2
+0 Red cards 1
+13 Fouls conceded 17
+
+Match: 6004
+62 Possession % 38
+8 Shots on target 3
+21 Shots 7
+798 Touches 512
+598 Passes 360
+9 Tackles 25
+39 Clearances 29
+5 Corners 4
+0 Offsides 3
+1 Yellow cards 1
+10 Fouls conceded 12
+
+Match: 6005
+37.2 Possession % 62.8
+3 Shots on target 5
+13 Shots 14
+541 Touches 778
+276 Passes 511
+26 Tackles 29
+69 Clearances 74
+6 Corners 2
+2 Offsides 0
+3 Yellow cards 2
+11 Fouls conceded 9
+
+Match: 6006
+70 Possession % 30
+3 Shots on target 1
+22 Shots 5
+752 Touches 414
+514 Passes 205
+27 Tackles 30
+25 Clearances 30
+11 Corners 2
+5 Offsides 3
+0 Yellow cards 2
+5 Fouls conceded 11
+
+Match: 6007
+54.2 Possession % 45.8
+4 Shots on target 4
+18 Shots 12
+588 Touches 508
+380 Passes 333
+11 Tackles 19
+51 Clearances 43
+7 Corners 2
+0 Offsides 3
+3 Yellow cards 4
+18 Fouls conceded 14
+
+Match: 6008
+46.1 Possession % 53.9
+6 Shots on target 8
+18 Shots 13
+512 Touches 508
+260 Passes 318
+12 Tackles 29
+67 Clearances 31
+6 Corners 7
+3 Offsides 6
+3 Yellow cards 2
+18 Fouls conceded 13
+
+Match: 6003
+46.3 Possession % 53.7
+3 Shots on target 2
+13 Shots 10
+555 Touches 593
+301 Passes 349
+30 Tackles 20
+85 Clearances 50
+5 Corners 5
+3 Offsides 3
+2 Yellow cards 3
+19 Fouls conceded 12
+
+Match: 6002
+53.9 Possession % 46.1
+4 Shots on target 1
+15 Shots 17
+603 Touches 560
+371 Passes 299
+23 Tackles 22
+52 Clearances 59
+8 Corners 6
+1 Offsides 4
+1 Yellow cards 1
+11 Fouls conceded 16
+
+Match: 5996
+39.6 Possession % 60.4
+2 Shots on target 3
+9 Shots 17
+517 Touches 675
+256 Passes 411
+31 Tackles 22
+43 Clearances 83
+3 Corners 6
+1 Offsides 3
+2 Yellow cards 2
+20 Fouls conceded 13
+
+Match: 5997
+47.5 Possession % 52.5
+1 Shots on target 4
+10 Shots 14
+552 Touches 573
+307 Passes 339
+29 Tackles 20
+73 Clearances 49
+5 Corners 4
+4 Offsides 1
+3 Yellow cards 2
+20 Fouls conceded 15
+
+Match: 5999
+44.6 Possession % 55.4
+2 Shots on target 8
+15 Shots 17
+612 Touches 706
+346 Passes 451
+37 Tackles 38
+33 Clearances 45
+8 Corners 4
+6 Offsides 1
+2 Yellow cards 2
+14 Fouls conceded 11
+
+Match: 5994
+52.6 Possession % 47.4
+4 Shots on target 1
+12 Shots 8
+524 Touches 471
+275 Passes 240
+28 Tackles 25
+66 Clearances 45
+6 Corners 5
+2 Offsides 4
+1 Yellow cards 3
+16 Fouls conceded 16
+
+Match: 5998
+49.7 Possession % 50.3
+6 Shots on target 2
+14 Shots 14
+463 Touches 411
+230 Passes 234
+12 Tackles 16
+85 Clearances 40
+8 Corners 8
+3 Offsides 0
+1 Yellow cards 2
+15 Fouls conceded 21
+
+Match: 6000
+45.3 Possession % 54.7
+2 Shots on target 3
+12 Shots 20
+559 Touches 598
+336 Passes 415
+25 Tackles 18
+45 Clearances 21
+5 Corners 8
+4 Offsides 1
+2 Yellow cards 1
+15 Fouls conceded 14
+
+Match: 6001
+53.5 Possession % 46.5
+4 Shots on target 4
+18 Shots 11
+545 Touches 472
+296 Passes 268
+28 Tackles 20
+45 Clearances 45
+9 Corners 4
+4 Offsides 1
+1 Yellow cards 0
+9 Fouls conceded 11
+
+Match: 5995
+57.9 Possession % 42.1
+6 Shots on target 1
+19 Shots 6
+633 Touches 516
+371 Passes 269
+26 Tackles 27
+62 Clearances 83
+9 Corners 2
+6 Offsides 0
+2 Yellow cards 2
+21 Fouls conceded 13
+
+Match: 5991
+52.3 Possession % 47.7
+6 Shots on target 8
+15 Shots 19
+675 Touches 609
+410 Passes 369
+34 Tackles 27
+57 Clearances 36
+8 Corners 5
+1 Offsides 2
+1 Yellow cards 2
+1 Red cards 0
+7 Fouls conceded 13
+
+Match: 5993
+40.2 Possession % 59.8
+8 Shots on target 2
+17 Shots 8
+559 Touches 677
+317 Passes 474
+31 Tackles 24
+30 Clearances 32
+6 Corners 3
+12 Offsides 6
+4 Yellow cards 0
+1 Red cards 1
+25 Fouls conceded 4
+
+Match: 5992
+32 Possession % 68
+5 Shots on target 2
+10 Shots 20
+494 Touches 766
+216 Passes 492
+43 Tackles 31
+95 Clearances 47
+2 Corners 13
+1 Offsides 1
+4 Yellow cards 1
+17 Fouls conceded 12
+
+Match: 5984
+42.9 Possession % 57.1
+5 Shots on target 7
+12 Shots 16
+547 Touches 666
+281 Passes 393
+32 Tackles 23
+71 Clearances 71
+11 Corners 6
+1 Offsides 5
+1 Yellow cards 3
+9 Fouls conceded 11
+
+Match: 5985
+51.2 Possession % 48.8
+4 Shots on target 6
+19 Shots 17
+535 Touches 573
+321 Passes 299
+20 Tackles 25
+33 Clearances 70
+6 Corners 14
+4 Offsides 9
+1 Yellow cards 0
+13 Fouls conceded 10
+
+Match: 5986
+66.2 Possession % 33.8
+11 Shots on target 2
+23 Shots 7
+765 Touches 441
+505 Passes 251
+21 Tackles 21
+38 Clearances 35
+4 Corners 2
+3 Offsides 2
+0 Yellow cards 1
+10 Fouls conceded 14
+
+Match: 5988
+45.3 Possession % 54.7
+8 Shots on target 1
+23 Shots 9
+462 Touches 534
+264 Passes 326
+20 Tackles 23
+33 Clearances 40
+9 Corners 5
+3 Offsides 2
+1 Yellow cards 3
+7 Fouls conceded 12
+
+Match: 5989
+63.1 Possession % 36.9
+6 Shots on target 4
+24 Shots 7
+549 Touches 394
+373 Passes 208
+16 Tackles 24
+14 Clearances 53
+9 Corners 1
+4 Offsides 8
+2 Yellow cards 3
+0 Red cards 1
+15 Fouls conceded 19
+
+Match: 5990
+53.6 Possession % 46.4
+2 Shots on target 8
+13 Shots 16
+562 Touches 550
+307 Passes 289
+21 Tackles 29
+44 Clearances 88
+14 Corners 4
+1 Offsides 6
+0 Yellow cards 1
+10 Fouls conceded 14
+
+Match: 5987
+62.5 Possession % 37.5
+9 Shots on target 0
+20 Shots 6
+907 Touches 635
+671 Passes 402
+23 Tackles 34
+51 Clearances 59
+6 Corners 0
+2 Offsides 0
+1 Yellow cards 2
+10 Fouls conceded 7
+
+Match: 5983
+56.2 Possession % 43.8
+4 Shots on target 4
+11 Shots 9
+626 Touches 501
+398 Passes 315
+20 Tackles 24
+55 Clearances 36
+5 Corners 2
+3 Offsides 4
+6 Yellow cards 3
+13 Fouls conceded 14
+
+Match: 5982
+57.5 Possession % 42.5
+3 Shots on target 2
+15 Shots 11
+701 Touches 572
+493 Passes 360
+30 Tackles 26
+51 Clearances 39
+4 Corners 4
+4 Offsides 5
+2 Yellow cards 3
+18 Fouls conceded 9
+
+Match: 5980
+51.4 Possession % 48.6
+1 Shots on target 8
+11 Shots 18
+580 Touches 590
+345 Passes 338
+24 Tackles 26
+42 Clearances 68
+6 Corners 4
+2 Offsides 1
+1 Yellow cards 1
+13 Fouls conceded 12
+
+Match: 5974
+61.9 Possession % 38.1
+9 Shots on target 3
+25 Shots 11
+705 Touches 492
+492 Passes 301
+20 Tackles 20
+37 Clearances 48
+8 Corners 2
+3 Offsides 5
+0 Yellow cards 1
+11 Fouls conceded 9
+
+Match: 5975
+57.6 Possession % 42.4
+5 Shots on target 4
+26 Shots 11
+510 Touches 372
+279 Passes 204
+11 Tackles 14
+48 Clearances 38
+12 Corners 3
+8 Offsides 1
+1 Yellow cards 1
+0 Red cards 1
+13 Fouls conceded 19
+
+Match: 5976
+49.4 Possession % 50.6
+6 Shots on target 1
+18 Shots 8
+562 Touches 485
+267 Passes 265
+22 Tackles 18
+73 Clearances 43
+10 Corners 7
+4 Offsides 2
+2 Yellow cards 1
+13 Fouls conceded 11
+
+Match: 5977
+62.4 Possession % 37.6
+7 Shots on target 2
+19 Shots 23
+621 Touches 424
+408 Passes 230
+18 Tackles 21
+49 Clearances 23
+4 Corners 6
+4 Offsides 4
+0 Yellow cards 2
+15 Fouls conceded 13
+
+Match: 5978
+59.5 Possession % 40.5
+4 Shots on target 4
+17 Shots 12
+560 Touches 473
+365 Passes 245
+32 Tackles 15
+24 Clearances 55
+6 Corners 4
+0 Offsides 1
+0 Yellow cards 1
+9 Fouls conceded 13
+
+Match: 5981
+60.2 Possession % 39.8
+2 Shots on target 3
+18 Shots 15
+453 Touches 354
+271 Passes 187
+11 Tackles 12
+27 Clearances 53
+6 Corners 1
+7 Offsides 0
+1 Yellow cards 2
+10 Fouls conceded 15
+
+Match: 5979
+52.3 Possession % 47.7
+6 Shots on target 7
+13 Shots 13
+612 Touches 585
+352 Passes 327
+18 Tackles 32
+73 Clearances 94
+5 Corners 7
+3 Offsides 3
+0 Yellow cards 2
+20 Fouls conceded 21
+
+Match: 5973
+39.5 Possession % 60.5
+2 Shots on target 3
+8 Shots 19
+565 Touches 779
+370 Passes 553
+22 Tackles 22
+65 Clearances 35
+0 Corners 11
+2 Offsides 5
+2 Yellow cards 2
+8 Fouls conceded 13
+
+Match: 5971
+49.1 Possession % 50.9
+2 Shots on target 2
+13 Shots 12
+481 Touches 524
+278 Passes 289
+20 Tackles 16
+35 Clearances 59
+5 Corners 4
+6 Offsides 2
+3 Yellow cards 4
+1 Red cards 0
+19 Fouls conceded 15
+
+Match: 5972
+45.1 Possession % 54.9
+3 Shots on target 1
+17 Shots 8
+569 Touches 640
+349 Passes 441
+29 Tackles 17
+47 Clearances 33
+5 Corners 2
+3 Offsides 1
+4 Yellow cards 5
+12 Fouls conceded 18
+
+Match: 5964
+52.7 Possession % 47.3
+3 Shots on target 4
+10 Shots 17
+547 Touches 501
+305 Passes 269
+24 Tackles 27
+58 Clearances 33
+9 Corners 5
+1 Offsides 6
+4 Yellow cards 2
+19 Fouls conceded 16
+
+Match: 5965
+54.8 Possession % 45.2
+5 Shots on target 4
+17 Shots 10
+479 Touches 427
+286 Passes 241
+10 Tackles 16
+28 Clearances 63
+7 Corners 7
+2 Offsides 8
+1 Yellow cards 3
+9 Fouls conceded 12
+
+Match: 5968
+48.8 Possession % 51.2
+2 Shots on target 1
+7 Shots 14
+454 Touches 502
+247 Passes 243
+23 Tackles 15
+55 Clearances 79
+3 Corners 11
+2 Offsides 3
+2 Yellow cards 2
+15 Fouls conceded 10
+
+Match: 5966
+56.1 Possession % 43.9
+1 Shots on target 4
+9 Shots 15
+646 Touches 619
+395 Passes 310
+38 Tackles 33
+45 Clearances 114
+8 Corners 6
+0 Offsides 1
+0 Yellow cards 2
+16 Fouls conceded 11
+
+Match: 5967
+45.7 Possession % 54.3
+5 Shots on target 3
+12 Shots 8
+583 Touches 626
+293 Passes 361
+35 Tackles 19
+82 Clearances 71
+10 Corners 6
+10 Offsides 4
+0 Yellow cards 2
+13 Fouls conceded 11
+
+Match: 5969
+55 Possession % 45
+8 Shots on target 2
+25 Shots 6
+658 Touches 552
+419 Passes 342
+31 Tackles 25
+42 Clearances 41
+9 Corners 2
+1 Offsides 1
+0 Yellow cards 4
+8 Fouls conceded 13
+
+Match: 5970
+39.7 Possession % 60.3
+5 Shots on target 2
+11 Shots 9
+433 Touches 585
+266 Passes 398
+19 Tackles 15
+37 Clearances 25
+5 Corners 9
+3 Offsides 2
+0 Yellow cards 2
+10 Fouls conceded 18
+
+Match: 5958
+43.1 Possession % 56.9
+1 Shots on target 3
+7 Shots 13
+458 Touches 611
+281 Passes 366
+21 Tackles 18
+48 Clearances 63
+2 Corners 7
+2 Offsides 0
+1 Yellow cards 1
+22 Fouls conceded 10
+
+Match: 5959
+56.9 Possession % 43.1
+5 Shots on target 6
+9 Shots 17
+474 Touches 430
+244 Passes 177
+18 Tackles 14
+61 Clearances 71
+9 Corners 8
+6 Offsides 12
+2 Yellow cards 1
+20 Fouls conceded 12
+
+Match: 5960
+54.7 Possession % 45.3
+4 Shots on target 1
+10 Shots 6
+558 Touches 509
+389 Passes 309
+12 Tackles 18
+41 Clearances 36
+4 Corners 4
+1 Offsides 9
+3 Yellow cards 1
+14 Fouls conceded 15
+
+Match: 5961
+32 Possession % 68
+4 Shots on target 7
+7 Shots 20
+386 Touches 685
+187 Passes 425
+30 Tackles 17
+47 Clearances 48
+6 Corners 12
+1 Offsides 4
+1 Yellow cards 1
+1 Red cards 1
+14 Fouls conceded 6
+
+Match: 5962
+39.8 Possession % 60.2
+5 Shots on target 4
+17 Shots 17
+520 Touches 693
+264 Passes 428
+34 Tackles 25
+37 Clearances 58
+4 Corners 11
+3 Offsides 4
+3 Yellow cards 5
+1 Red cards 0
+15 Fouls conceded 20
+
+Match: 5963
+48.7 Possession % 51.3
+6 Shots on target 1
+26 Shots 10
+573 Touches 575
+331 Passes 349
+22 Tackles 16
+55 Clearances 63
+5 Corners 3
+2 Offsides 0
+1 Yellow cards 3
+13 Fouls conceded 22
+
+Match: 5957
+65.9 Possession % 34.1
+5 Shots on target 7
+19 Shots 16
+651 Touches 463
+419 Passes 213
+22 Tackles 26
+36 Clearances 77
+9 Corners 4
+2 Offsides 2
+2 Yellow cards 0
+17 Fouls conceded 9
+
+Match: 5954
+66.3 Possession % 33.7
+12 Shots on target 7
+27 Shots 14
+700 Touches 442
+443 Passes 221
+23 Tackles 22
+55 Clearances 55
+14 Corners 4
+6 Offsides 1
+1 Yellow cards 5
+7 Fouls conceded 20
+
+Match: 5955
+58.2 Possession % 41.8
+8 Shots on target 4
+24 Shots 9
+774 Touches 578
+505 Passes 360
+30 Tackles 37
+33 Clearances 37
+5 Corners 3
+4 Offsides 0
+2 Yellow cards 1
+9 Fouls conceded 13
+
+Match: 5956
+73.2 Possession % 26.8
+9 Shots on target 2
+25 Shots 4
+777 Touches 381
+532 Passes 180
+20 Tackles 27
+35 Clearances 56
+12 Corners 3
+3 Offsides 0
+0 Yellow cards 2
+0 Red cards 1
+8 Fouls conceded 16
+
+Match: 5952
+48.9 Possession % 51.1
+2 Shots on target 2
+13 Shots 6
+625 Touches 641
+374 Passes 412
+29 Tackles 33
+49 Clearances 55
+6 Corners 2
+4 Offsides 6
+1 Yellow cards 1
+15 Fouls conceded 13
+
+Match: 5948
+61.7 Possession % 38.3
+7 Shots on target 5
+13 Shots 10
+523 Touches 379
+323 Passes 192
+20 Tackles 19
+53 Clearances 46
+4 Corners 2
+0 Offsides 4
+1 Yellow cards 1
+16 Fouls conceded 15
+
+Match: 5949
+53.9 Possession % 46.1
+4 Shots on target 5
+12 Shots 12
+507 Touches 436
+300 Passes 262
+18 Tackles 12
+52 Clearances 38
+6 Corners 6
+3 Offsides 3
+1 Yellow cards 2
+16 Fouls conceded 16
+
+Match: 5950
+40.8 Possession % 59.2
+7 Shots on target 3
+13 Shots 14
+422 Touches 551
+211 Passes 332
+12 Tackles 21
+59 Clearances 59
+6 Corners 2
+3 Offsides 6
+8 Fouls conceded 13
+
+Match: 5951
+58 Possession % 42
+4 Shots on target 2
+13 Shots 12
+587 Touches 484
+349 Passes 258
+16 Tackles 18
+65 Clearances 78
+13 Corners 3
+3 Offsides 4
+3 Yellow cards 4
+19 Fouls conceded 18
+
+Match: 5953
+60.9 Possession % 39.1
+2 Shots on target 6
+10 Shots 14
+583 Touches 434
+391 Passes 260
+16 Tackles 19
+28 Clearances 28
+4 Corners 3
+7 Offsides 7
+0 Yellow cards 4
+15 Fouls conceded 13
+
+Match: 5947
+51.3 Possession % 48.7
+4 Shots on target 5
+12 Shots 18
+574 Touches 578
+367 Passes 356
+29 Tackles 24
+29 Clearances 64
+4 Corners 2
+3 Offsides 1
+4 Yellow cards 2
+20 Fouls conceded 14
+
