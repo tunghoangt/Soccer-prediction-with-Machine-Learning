@@ -1,0 +1,381 @@
+MatchID,Home_team,Away_team,Score_home,Score_away
+7837,Chelsea,Blackburn,2,1
+7838,Everton,Newcastle,3,1
+7839,Man City,QPR,3,2
+7840,Norwich,Aston Villa,2,0
+7841,Stoke,Bolton,2,2
+7842,Sunderland,Man Utd,0,1
+7843,Swansea,Liverpool,1,0
+7844,Spurs,Fulham,2,0
+7845,West Brom,Arsenal,2,3
+7846,Wigan,Wolves,3,2
+7836,Liverpool,Chelsea,4,1
+7835,Blackburn,Wigan,0,1
+7832,Newcastle,Man City,0,2
+7828,Aston Villa,Spurs,1,1
+7829,Bolton,West Brom,2,2
+7830,Fulham,Sunderland,2,1
+7833,QPR,Stoke,1,0
+7834,Wolves,Everton,0,0
+7831,Man Utd,Swansea,2,0
+7827,Arsenal,Norwich,3,3
+7826,Chelsea,Newcastle,0,2
+7825,Bolton,Spurs,1,4
+7823,Liverpool,Fulham,0,1
+7824,Stoke,Everton,1,1
+7822,Man City,Man Utd,1,0
+7820,Chelsea,QPR,6,1
+7821,Spurs,Blackburn,2,0
+7813,Everton,Fulham,4,0
+7815,Stoke,Arsenal,1,1
+7816,Sunderland,Bolton,2,2
+7817,Swansea,Wolves,4,4
+7818,West Brom,Aston Villa,0,0
+7819,Wigan,Newcastle,4,0
+7814,Norwich,Liverpool,0,3
+7812,Aston Villa,Bolton,1,2
+7810,Man Utd,Everton,4,4
+7809,Liverpool,West Brom,0,1
+7811,Wolves,Man City,0,2
+7803,Aston Villa,Sunderland,0,0
+7808,QPR,Spurs,1,0
+7802,Arsenal,Chelsea,0,0
+7804,Blackburn,Norwich,2,0
+7805,Bolton,Swansea,1,1
+7806,Fulham,Wigan,2,1
+7807,Newcastle,Stoke,3,0
+7801,Arsenal,Wigan,1,2
+7800,Man Utd,Aston Villa,4,0
+7796,Norwich,Man City,1,6
+7797,Sunderland,Wolves,0,0
+7798,Swansea,Blackburn,3,0
+7799,West Brom,QPR,1,0
+7792,Man City,West Brom,4,0
+7794,Wigan,Man Utd,1,0
+7795,Wolves,Arsenal,0,3
+7793,QPR,Swansea,3,0
+7791,Blackburn,Liverpool,2,3
+7787,Everton,Sunderland,4,0
+7789,Newcastle,Bolton,2,0
+7790,Spurs,Norwich,1,2
+7786,Aston Villa,Stoke,1,1
+7788,Fulham,Chelsea,1,1
+7785,Man Utd,QPR,2,0
+7784,Arsenal,Man City,1,0
+7782,Sunderland,Spurs,0,0
+7777,Bolton,Fulham,0,3
+7778,Chelsea,Wigan,2,1
+7779,Liverpool,Aston Villa,1,1
+7780,Norwich,Everton,2,2
+7783,West Brom,Blackburn,3,0
+7781,Stoke,Wolves,2,1
+7776,Swansea,Newcastle,0,2
+7775,Blackburn,Man Utd,0,2
+7773,Newcastle,Liverpool,2,0
+7774,Spurs,Swansea,3,1
+7766,Aston Villa,Chelsea,2,4
+7767,Everton,West Brom,2,0
+7768,Fulham,Norwich,2,1
+7769,Man City,Sunderland,3,3
+7770,QPR,Arsenal,2,1
+7771,Wigan,Stoke,2,0
+7772,Wolves,Bolton,2,3
+7765,Man Utd,Fulham,1,0
+7764,West Brom,Newcastle,1,3
+7758,Chelsea,Spurs,0,0
+7756,Arsenal,Aston Villa,3,0
+7757,Bolton,Blackburn,2,1
+7759,Liverpool,Wigan,1,2
+7760,Norwich,Wolves,2,1
+7762,Sunderland,QPR,3,1
+7763,Swansea,Everton,0,2
+7761,Stoke,Man City,1,1
+7753,Man City,Chelsea,2,1
+7755,Spurs,Stoke,1,1
+7752,Everton,Arsenal,0,1
+7754,QPR,Liverpool,3,2
+7751,Blackburn,Sunderland,2,0
+7750,Wolves,Man Utd,0,5
+7749,Newcastle,Norwich,1,0
+7747,Fulham,Swansea,0,3
+7748,Wigan,West Brom,1,1
+7746,Liverpool,Everton,3,0
+7745,Arsenal,Newcastle,2,1
+7742,Man Utd,West Brom,2,0
+7744,Swansea,Man City,1,0
+7743,Norwich,Wigan,1,1
+7737,Bolton,QPR,2,1
+7736,Aston Villa,Fulham,1,0
+7738,Chelsea,Stoke,1,0
+7740,Sunderland,Liverpool,1,0
+7741,Wolves,Blackburn,0,2
+7739,Everton,Spurs,1,0
+7734,Newcastle,Sunderland,1,1
+7733,Fulham,Wolves,5,0
+7735,Spurs,Man Utd,1,3
+7726,Blackburn,Aston Villa,1,1
+7728,Man City,Bolton,2,0
+7729,QPR,Everton,1,1
+7730,Stoke,Norwich,1,0
+7731,West Brom,Chelsea,1,0
+7732,Wigan,Swansea,0,2
+7727,Liverpool,Arsenal,1,2
+7723,Arsenal,Spurs,5,2
+7724,Norwich,Man Utd,1,2
+7725,Stoke,Swansea,2,0
+7717,Chelsea,Bolton,3,0
+7719,Newcastle,Wolves,2,2
+7720,QPR,Fulham,0,1
+7721,West Brom,Sunderland,4,0
+7722,Wigan,Aston Villa,0,0
+7718,Man City,Blackburn,3,0
+7716,Wolves,West Brom,1,5
+7715,Aston Villa,Man City,0,1
+7711,Man Utd,Liverpool,2,1
+7707,Blackburn,QPR,3,2
+7708,Bolton,Wigan,1,2
+7709,Everton,Chelsea,2,0
+7710,Fulham,Stoke,2,1
+7712,Sunderland,Arsenal,1,2
+7713,Swansea,Norwich,2,3
+7714,Spurs,Newcastle,5,0
+7706,Liverpool,Spurs,0,0
+7705,Newcastle,Aston Villa,2,1
+7704,Chelsea,Man Utd,3,3
+7697,Arsenal,Blackburn,7,1
+7699,Norwich,Bolton,2,0
+7700,QPR,Wolves,1,2
+7701,Stoke,Sunderland,0,1
+7702,West Brom,Swansea,1,2
+7703,Wigan,Everton,1,1
+7698,Man City,Fulham,3,0
+7692,Aston Villa,QPR,2,2
+7693,Blackburn,Newcastle,0,2
+7694,Bolton,Arsenal,0,0
+7695,Fulham,West Brom,1,1
+7696,Sunderland,Norwich,3,0
+7689,Swansea,Chelsea,1,1
+7690,Spurs,Wigan,3,1
+7691,Wolves,Liverpool,0,3
+7687,Everton,Man City,1,0
+7688,Man Utd,Stoke,2,0
+7686,Man City,Spurs,3,2
+7685,Arsenal,Man Utd,1,2
+7680,Norwich,Chelsea,0,0
+7678,Everton,Blackburn,1,1
+7679,Fulham,Newcastle,5,2
+7681,QPR,Wigan,3,1
+7682,Stoke,West Brom,1,2
+7683,Sunderland,Swansea,2,0
+7684,Wolves,Aston Villa,2,3
+7677,Bolton,Liverpool,3,1
+7676,Wigan,Man City,0,1
+7674,Newcastle,QPR,1,0
+7675,Swansea,Arsenal,3,2
+7667,Aston Villa,Everton,1,1
+7668,Blackburn,Fulham,3,1
+7669,Chelsea,Sunderland,1,0
+7670,Liverpool,Stoke,0,0
+7671,Man Utd,Bolton,3,0
+7672,Spurs,Wolves,1,1
+7673,West Brom,Norwich,1,2
+7666,Spurs,Everton,2,0
+7664,Everton,Bolton,1,2
+7665,Newcastle,Man Utd,3,0
+7662,Spurs,West Brom,1,0
+7663,Wigan,Sunderland,1,4
+7661,Man City,Liverpool,3,0
+7656,Aston Villa,Swansea,0,2
+7657,Blackburn,Stoke,1,2
+7659,QPR,Norwich,1,2
+7660,Wolves,Chelsea,1,2
+7658,Fulham,Arsenal,2,1
+7655,West Brom,Everton,0,1
+7654,Sunderland,Man City,1,0
+7650,Man Utd,Blackburn,2,3
+7647,Arsenal,QPR,1,0
+7648,Bolton,Wolves,1,1
+7649,Chelsea,Aston Villa,1,3
+7651,Norwich,Fulham,1,1
+7652,Stoke,Wigan,2,2
+7653,Swansea,Spurs,1,1
+7646,Liverpool,Newcastle,3,1
+7643,Arsenal,Wolves,1,1
+7645,Swansea,QPR,1,1
+7644,Norwich,Spurs,0,2
+7637,Chelsea,Fulham,1,1
+7636,Bolton,Newcastle,0,2
+7638,Liverpool,Blackburn,1,1
+7639,Man Utd,Wigan,5,0
+7641,Sunderland,Everton,1,1
+7642,West Brom,Man City,0,0
+7640,Stoke,Aston Villa,0,0
+7635,Spurs,Chelsea,1,1
+7628,Aston Villa,Arsenal,1,2
+7631,Man City,Stoke,3,0
+7632,Newcastle,West Brom,2,3
+7629,Everton,Swansea,1,0
+7630,Fulham,Man Utd,0,5
+7633,QPR,Sunderland,2,3
+7634,Wigan,Liverpool,0,0
+7627,Wolves,Norwich,2,2
+7626,Blackburn,Bolton,1,2
+7624,QPR,Man Utd,0,2
+7622,Aston Villa,Liverpool,0,2
+7625,Spurs,Sunderland,1,0
+7623,Man City,Arsenal,1,0
+7616,Blackburn,West Brom,1,2
+7617,Everton,Norwich,1,1
+7618,Fulham,Bolton,2,0
+7619,Newcastle,Swansea,0,0
+7621,Wolves,Stoke,1,2
+7620,Wigan,Chelsea,1,1
+7615,Chelsea,Man City,2,1
+7614,Sunderland,Blackburn,2,1
+7613,Stoke,Spurs,2,1
+7606,Arsenal,Everton,1,0
+7607,Bolton,Aston Villa,1,2
+7608,Liverpool,QPR,1,0
+7609,Man Utd,Wolves,4,1
+7610,Norwich,Newcastle,4,2
+7611,Swansea,Fulham,2,0
+7612,West Brom,Wigan,1,2
+7605,Fulham,Liverpool,1,0
+7603,Everton,Stoke,0,1
+7604,Wolves,Sunderland,2,1
+7599,Newcastle,Chelsea,0,3
+7597,Blackburn,Swansea,4,2
+7598,Man City,Norwich,5,1
+7600,QPR,West Brom,1,1
+7601,Spurs,Bolton,3,0
+7602,Wigan,Arsenal,0,4
+7596,Aston Villa,Man Utd,0,1
+7595,Swansea,Aston Villa,0,0
+7594,Liverpool,Man City,1,1
+7591,Stoke,Blackburn,3,1
+7587,Bolton,Everton,0,2
+7588,Chelsea,Wolves,3,0
+7589,Man Utd,Newcastle,1,1
+7590,Norwich,QPR,2,1
+7592,Sunderland,Wigan,1,2
+7593,West Brom,Spurs,1,3
+7586,Arsenal,Fulham,1,1
+7585,Spurs,Aston Villa,2,0
+7584,Chelsea,Liverpool,1,2
+7578,Norwich,Arsenal,1,2
+7576,Everton,Wolves,2,1
+7577,Man City,Newcastle,3,1
+7579,Stoke,QPR,2,3
+7580,Sunderland,Fulham,0,0
+7582,West Brom,Bolton,2,1
+7583,Wigan,Blackburn,3,3
+7581,Swansea,Man Utd,0,1
+7575,Wolves,Wigan,3,1
+7573,Bolton,Stoke,5,0
+7574,Fulham,Spurs,1,3
+7566,Arsenal,West Brom,3,0
+7567,Aston Villa,Norwich,3,2
+7568,Blackburn,Chelsea,0,1
+7569,Liverpool,Swansea,0,0
+7570,Man Utd,Sunderland,1,0
+7572,QPR,Man City,2,3
+7571,Newcastle,Everton,2,1
+7565,Stoke,Newcastle,1,3
+7564,Spurs,QPR,3,1
+7557,Everton,Man Utd,0,1
+7556,Chelsea,Arsenal,3,5
+7558,Man City,Wolves,3,1
+7559,Norwich,Blackburn,3,3
+7560,Sunderland,Aston Villa,2,2
+7561,Swansea,Bolton,3,1
+7563,Wigan,Fulham,0,2
+7562,West Brom,Liverpool,0,2
+7551,Arsenal,Stoke,3,1
+7553,Fulham,Everton,1,3
+7554,Man Utd,Man City,1,6
+7552,Blackburn,Spurs,1,2
+7555,QPR,Chelsea,1,0
+7550,Wolves,Swansea,2,2
+7546,Aston Villa,West Brom,1,2
+7547,Bolton,Sunderland,0,2
+7549,Newcastle,Wigan,1,0
+7548,Liverpool,Norwich,1,1
+7545,West Brom,Wolves,2,0
+7543,Arsenal,Sunderland,2,1
+7544,Newcastle,Spurs,2,2
+7537,Liverpool,Man Utd,1,1
+7538,Man City,Aston Villa,4,1
+7539,Norwich,Swansea,3,1
+7540,QPR,Blackburn,1,1
+7541,Stoke,Fulham,2,0
+7542,Wigan,Bolton,1,3
+7536,Chelsea,Everton,3,1
+7532,Bolton,Chelsea,1,5
+7533,Fulham,QPR,6,0
+7534,Swansea,Stoke,2,0
+7535,Spurs,Arsenal,2,1
+7526,Aston Villa,Wigan,2,0
+7527,Blackburn,Man City,0,4
+7529,Man Utd,Norwich,2,0
+7530,Sunderland,West Brom,2,2
+7531,Wolves,Newcastle,1,2
+7528,Everton,Liverpool,0,2
+7525,Norwich,Sunderland,2,1
+7524,QPR,Aston Villa,1,1
+7519,Man City,Everton,2,0
+7516,Arsenal,Bolton,3,0
+7517,Chelsea,Swansea,4,1
+7518,Liverpool,Wolves,2,1
+7520,Newcastle,Blackburn,3,1
+7522,West Brom,Fulham,0,0
+7523,Wigan,Spurs,1,2
+7521,Stoke,Man Utd,1,1
+7515,Spurs,Liverpool,4,0
+7512,Fulham,Man City,2,2
+7514,Sunderland,Stoke,4,0
+7513,Man Utd,Chelsea,3,1
+7507,Blackburn,Arsenal,4,3
+7506,Aston Villa,Newcastle,1,1
+7508,Bolton,Norwich,1,2
+7509,Everton,Wigan,3,1
+7510,Swansea,West Brom,3,0
+7511,Wolves,QPR,0,3
+7505,QPR,Newcastle,0,0
+7504,Norwich,West Brom,0,1
+7503,Fulham,Blackburn,1,1
+7496,Arsenal,Swansea,1,0
+7498,Everton,Aston Villa,2,2
+7499,Man City,Wigan,3,0
+7500,Stoke,Liverpool,1,0
+7501,Sunderland,Chelsea,1,2
+7502,Wolves,Spurs,0,2
+7497,Bolton,Man Utd,0,5
+7493,Newcastle,Fulham,2,1
+7494,Spurs,Man City,1,5
+7495,West Brom,Stoke,0,1
+7492,Man Utd,Arsenal,8,2
+7491,Wigan,QPR,2,0
+7487,Blackburn,Everton,0,1
+7488,Chelsea,Norwich,3,1
+7490,Swansea,Sunderland,0,0
+7489,Liverpool,Bolton,3,1
+7486,Aston Villa,Wolves,0,0
+7485,Man Utd,Spurs,3,0
+7483,Norwich,Stoke,1,1
+7484,Wolves,Fulham,2,0
+7482,Bolton,Man City,2,3
+7480,Sunderland,Newcastle,0,1
+7476,Arsenal,Liverpool,0,2
+7477,Aston Villa,Blackburn,3,1
+7479,Everton,QPR,0,1
+7481,Swansea,Wigan,0,0
+7478,Chelsea,West Brom,2,1
+7475,Man City,Swansea,4,0
+7473,Stoke,Chelsea,0,0
+7474,West Brom,Man Utd,1,2
+7467,Blackburn,Wolves,1,2
+7468,Fulham,Aston Villa,0,0
+7469,Liverpool,Sunderland,1,1
+7471,QPR,Bolton,0,4
+7472,Wigan,Norwich,1,1
+7470,Newcastle,Arsenal,0,0

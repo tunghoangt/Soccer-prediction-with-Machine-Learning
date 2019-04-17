@@ -1,0 +1,381 @@
+MatchID,Home_team,Away_team,Score_home,Score_away
+8234,Chelsea,Everton,2,1
+8235,Liverpool,QPR,1,0
+8236,Man City,Norwich,2,3
+8237,Newcastle,Arsenal,0,1
+8238,Southampton,Stoke,1,1
+8239,Swansea,Fulham,0,3
+8240,Spurs,Sunderland,1,0
+8241,West Brom,Man Utd,5,5
+8242,West Ham,Reading,4,2
+8243,Wigan,Aston Villa,2,2
+8232,Arsenal,Wigan,4,1
+8233,Reading,Man City,0,2
+8230,Stoke,Spurs,1,2
+8225,Everton,West Ham,2,0
+8226,Fulham,Liverpool,1,3
+8228,Norwich,West Brom,4,0
+8229,QPR,Newcastle,1,2
+8231,Sunderland,Southampton,1,1
+8227,Man Utd,Swansea,2,1
+8224,Aston Villa,Chelsea,1,2
+8223,Chelsea,Spurs,2,2
+8221,Man City,West Brom,1,0
+8222,Wigan,Swansea,2,3
+8220,Sunderland,Stoke,1,1
+8218,Liverpool,Everton,0,0
+8219,Man Utd,Chelsea,0,1
+8211,Fulham,Reading,2,4
+8212,Norwich,Aston Villa,1,2
+8214,Swansea,Man City,0,0
+8215,Spurs,Southampton,1,0
+8216,West Brom,Wigan,2,3
+8217,West Ham,Newcastle,0,0
+8213,QPR,Arsenal,0,1
+8210,Aston Villa,Sunderland,6,1
+8209,Reading,QPR,0,0
+8208,Chelsea,Swansea,2,0
+8207,Arsenal,Man Utd,1,1
+8201,Everton,Fulham,1,0
+8204,Southampton,West Brom,0,3
+8203,Newcastle,Liverpool,0,6
+8202,Man City,West Ham,2,1
+8205,Stoke,Norwich,1,0
+8206,Wigan,Spurs,2,2
+8200,Man Utd,Aston Villa,3,0
+8199,Spurs,Man City,3,1
+8198,Liverpool,Chelsea,2,2
+8191,Fulham,Arsenal,0,1
+8192,Norwich,Reading,2,1
+8193,QPR,Stoke,0,2
+8194,Sunderland,Everton,1,0
+8195,Swansea,Southampton,0,0
+8196,West Brom,Newcastle,1,1
+8197,West Ham,Wigan,2,0
+8189,Man City,Wigan,1,0
+8190,West Ham,Man Utd,2,2
+8188,Fulham,Chelsea,0,3
+8187,Arsenal,Everton,0,0
+8185,Newcastle,Sunderland,0,3
+8186,Stoke,Man Utd,0,2
+8180,Arsenal,Norwich,3,1
+8181,Aston Villa,Fulham,1,1
+8182,Everton,QPR,2,0
+8183,Reading,Liverpool,0,0
+8184,Southampton,West Ham,1,1
+8179,Man Utd,Man City,1,2
+8175,Liverpool,West Ham,0,0
+8178,Spurs,Everton,2,2
+8174,Chelsea,Sunderland,2,1
+8176,Newcastle,Fulham,1,0
+8177,QPR,Wigan,1,1
+8171,Reading,Southampton,0,2
+8170,Norwich,Swansea,2,2
+8172,Stoke,Aston Villa,1,3
+8173,West Brom,Arsenal,1,2
+8169,Fulham,QPR,3,2
+8168,Aston Villa,Liverpool,1,2
+8160,Arsenal,Reading,4,1
+8162,Man City,Newcastle,4,0
+8163,Southampton,Chelsea,2,1
+8161,Everton,Stoke,1,0
+8164,Sunderland,Man Utd,0,1
+8165,Swansea,Spurs,1,2
+8166,West Ham,West Brom,3,1
+8167,Wigan,Norwich,1,0
+8157,Sunderland,Norwich,1,1
+8158,Spurs,Fulham,0,1
+8156,Chelsea,West Ham,2,0
+8159,Wigan,Newcastle,2,1
+8151,Everton,Man City,2,0
+8150,Aston Villa,QPR,3,2
+8153,Southampton,Liverpool,3,1
+8154,Stoke,West Brom,0,0
+8155,Swansea,Arsenal,0,2
+8152,Man Utd,Reading,1,0
+8149,Newcastle,Stoke,2,1
+8148,Liverpool,Spurs,3,2
+8144,Norwich,Southampton,0,0
+8145,QPR,Sunderland,3,1
+8146,Reading,Aston Villa,1,2
+8147,West Brom,Swansea,2,1
+8143,Aston Villa,Man City,0,1
+8142,Spurs,Arsenal,2,1
+8134,Chelsea,West Brom,1,0
+8135,Everton,Reading,3,1
+8136,Man Utd,Norwich,4,0
+8137,Southampton,QPR,1,2
+8138,Stoke,West Ham,0,1
+8139,Sunderland,Fulham,2,2
+8140,Swansea,Newcastle,1,0
+8141,Wigan,Liverpool,0,4
+8133,West Ham,Spurs,2,3
+8131,Man City,Chelsea,2,0
+8132,Newcastle,Southampton,4,2
+8126,Fulham,Stoke,1,0
+8125,Arsenal,Aston Villa,2,1
+8127,Norwich,Everton,2,1
+8128,QPR,Man Utd,0,2
+8129,Reading,Wigan,0,3
+8130,West Brom,Sunderland,2,1
+8124,Liverpool,Swansea,5,0
+8123,Liverpool,West Brom,0,2
+8121,Aston Villa,West Ham,2,1
+8122,Man Utd,Everton,2,0
+8120,Spurs,Newcastle,2,1
+8114,Chelsea,Wigan,4,1
+8115,Norwich,Fulham,0,0
+8117,Stoke,Reading,2,1
+8118,Sunderland,Arsenal,0,1
+8119,Swansea,QPR,4,1
+8116,Southampton,Man City,3,1
+8113,West Brom,Spurs,0,1
+8112,Man City,Liverpool,2,2
+8108,QPR,Norwich,0,0
+8104,Arsenal,Stoke,1,0
+8105,Everton,Aston Villa,3,3
+8107,Newcastle,Chelsea,3,2
+8109,Reading,Sunderland,2,1
+8110,West Ham,Swansea,1,0
+8111,Wigan,Southampton,2,2
+8106,Fulham,Man Utd,0,1
+8098,Arsenal,Liverpool,2,2
+8099,Everton,West Brom,2,1
+8102,Norwich,Spurs,1,1
+8100,Fulham,West Ham,3,1
+8101,Man Utd,Southampton,2,1
+8103,Reading,Chelsea,2,2
+8094,Aston Villa,Newcastle,1,2
+8095,QPR,Man City,0,0
+8096,Stoke,Wigan,2,2
+8097,Sunderland,Swansea,0,0
+8093,Arsenal,West Ham,5,1
+8092,Southampton,Everton,0,0
+8090,Chelsea,Arsenal,2,1
+8091,Spurs,Man Utd,1,1
+8083,Liverpool,Norwich,5,0
+8084,Man City,Fulham,2,0
+8085,Newcastle,Reading,1,2
+8086,Swansea,Stoke,3,1
+8088,West Ham,QPR,1,1
+8087,West Brom,Aston Villa,2,2
+8089,Wigan,Sunderland,2,3
+8082,Chelsea,Southampton,2,2
+8081,Man Utd,Liverpool,2,1
+8080,Arsenal,Man City,0,2
+8076,QPR,Spurs,0,0
+8072,Aston Villa,Southampton,0,1
+8073,Everton,Swansea,0,0
+8074,Fulham,Wigan,1,1
+8075,Norwich,Newcastle,0,0
+8077,Reading,West Brom,3,2
+8078,Stoke,Chelsea,0,4
+8079,Sunderland,West Ham,3,0
+8069,Chelsea,QPR,0,1
+8070,Liverpool,Sunderland,3,0
+8071,Newcastle,Everton,1,2
+8066,West Brom,Fulham,1,2
+8062,Man City,Stoke,3,0
+8064,Swansea,Aston Villa,2,2
+8065,Spurs,Reading,3,1
+8067,West Ham,Norwich,2,1
+8068,Wigan,Man Utd,0,4
+8063,Southampton,Arsenal,1,1
+8060,Everton,Chelsea,1,2
+8061,QPR,Liverpool,0,3
+8059,Sunderland,Spurs,1,2
+8053,Aston Villa,Wigan,0,3
+8054,Fulham,Swansea,1,2
+8055,Man Utd,West Brom,2,0
+8056,Norwich,Man City,3,4
+8057,Reading,West Ham,1,0
+8058,Stoke,Southampton,3,3
+8052,Arsenal,Newcastle,7,3
+8044,Everton,Wigan,2,1
+8045,Fulham,Southampton,1,1
+8046,Man Utd,Newcastle,4,3
+8047,Norwich,Chelsea,0,1
+8048,QPR,West Brom,1,2
+8049,Reading,Swansea,0,0
+8043,Aston Villa,Spurs,0,4
+8050,Stoke,Liverpool,3,1
+8051,Sunderland,Man City,1,0
+8042,Swansea,Man Utd,1,1
+8041,Chelsea,Aston Villa,8,0
+8040,Wigan,Arsenal,0,1
+8034,Man City,Reading,1,0
+8035,Newcastle,QPR,1,0
+8036,Southampton,Sunderland,0,1
+8037,Spurs,Stoke,0,0
+8038,West Brom,Norwich,2,1
+8039,West Ham,Everton,1,2
+8033,Liverpool,Fulham,4,0
+8032,Reading,Arsenal,2,5
+8030,Spurs,Swansea,1,0
+8031,West Brom,West Ham,0,0
+8026,Newcastle,Man City,1,3
+8024,Liverpool,Aston Villa,1,3
+8025,Man Utd,Sunderland,3,1
+8027,Norwich,Wigan,2,1
+8028,QPR,Fulham,2,1
+8029,Stoke,Everton,1,1
+8023,Sunderland,Reading,3,0
+8022,Fulham,Newcastle,2,1
+8020,Man City,Man Utd,2,3
+8019,Everton,Spurs,2,1
+8021,West Ham,Liverpool,2,3
+8013,Arsenal,West Brom,2,0
+8014,Aston Villa,Stoke,0,0
+8015,Southampton,Reading,1,0
+8016,Sunderland,Chelsea,1,3
+8017,Swansea,Norwich,3,4
+8018,Wigan,QPR,2,2
+8012,Newcastle,Wigan,3,0
+8011,Norwich,Sunderland,2,1
+8003,Arsenal,Swansea,0,2
+8004,Fulham,Spurs,0,3
+8005,Liverpool,Southampton,1,0
+8006,Man City,Everton,1,1
+8007,QPR,Aston Villa,1,1
+8009,West Brom,Stoke,0,1
+8008,Reading,Man Utd,3,4
+8010,West Ham,Chelsea,3,1
+7995,Chelsea,Fulham,0,0
+7996,Everton,Arsenal,1,1
+7998,Southampton,Norwich,1,1
+7999,Stoke,Newcastle,2,1
+8000,Swansea,West Brom,3,1
+8001,Spurs,Liverpool,2,1
+7997,Man Utd,West Ham,1,0
+8002,Wigan,Man City,0,2
+7994,Sunderland,QPR,0,0
+7993,Aston Villa,Reading,1,0
+7991,Swansea,Liverpool,0,0
+7990,Southampton,Newcastle,2,0
+7989,Chelsea,Man City,0,0
+7992,Spurs,West Ham,3,1
+7987,Sunderland,West Brom,2,4
+7984,Everton,Norwich,1,1
+7985,Man Utd,QPR,3,1
+7986,Stoke,Fulham,1,0
+7988,Wigan,Reading,3,2
+7983,Aston Villa,Arsenal,0,0
+7982,West Ham,Stoke,1,1
+7981,Fulham,Sunderland,1,3
+7973,Arsenal,Spurs,5,2
+7974,Liverpool,Wigan,3,0
+7975,Man City,Aston Villa,5,0
+7976,Newcastle,Swansea,1,2
+7978,QPR,Southampton,1,3
+7979,Reading,Everton,2,1
+7980,West Brom,Chelsea,2,1
+7977,Norwich,Man Utd,1,0
+7971,Man City,Spurs,2,1
+7972,Newcastle,West Ham,0,1
+7970,Chelsea,Liverpool,1,1
+7963,Arsenal,Fulham,3,3
+7965,Everton,Sunderland,2,1
+7966,Reading,Norwich,0,0
+7967,Southampton,Swansea,1,1
+7968,Stoke,QPR,1,0
+7964,Aston Villa,Man Utd,2,3
+7969,Wigan,West Brom,1,2
+7962,West Brom,Southampton,2,0
+7961,QPR,Reading,1,1
+7960,Liverpool,Newcastle,1,1
+7954,Man Utd,Arsenal,2,1
+7953,Fulham,Everton,2,2
+7955,Norwich,Stoke,1,0
+7956,Sunderland,Aston Villa,0,1
+7957,Swansea,Chelsea,1,1
+7958,Spurs,Wigan,0,1
+7959,West Ham,Man City,0,0
+7950,Everton,Liverpool,2,2
+7951,Newcastle,West Brom,2,1
+7952,Southampton,Spurs,1,2
+7949,Chelsea,Man Utd,2,3
+7944,Aston Villa,Norwich,1,1
+7943,Arsenal,QPR,1,0
+7946,Reading,Fulham,3,3
+7947,Stoke,Sunderland,0,0
+7948,Wigan,West Ham,2,1
+7945,Man City,Swansea,1,0
+7942,Sunderland,Newcastle,1,1
+7941,QPR,Everton,1,1
+7938,Spurs,Chelsea,2,4
+7933,Fulham,Aston Villa,1,0
+7934,Liverpool,Reading,1,0
+7935,Man Utd,Stoke,4,2
+7937,Swansea,Wigan,2,1
+7939,West Brom,Man City,1,2
+7940,West Ham,Southampton,4,1
+7936,Norwich,Arsenal,1,0
+7931,Southampton,Fulham,2,2
+7929,Liverpool,Stoke,0,0
+7932,Spurs,Aston Villa,2,0
+7930,Newcastle,Man Utd,0,3
+7923,Chelsea,Norwich,4,1
+7925,Swansea,Reading,2,2
+7926,West Brom,QPR,3,2
+7928,Wigan,Everton,2,2
+7927,West Ham,Arsenal,1,3
+7924,Man City,Sunderland,3,0
+7922,QPR,West Ham,1,2
+7921,Aston Villa,West Brom,1,1
+7913,Arsenal,Chelsea,1,2
+7914,Everton,Southampton,3,1
+7915,Fulham,Man City,1,2
+7917,Norwich,Liverpool,2,5
+7918,Reading,Newcastle,2,2
+7919,Stoke,Swansea,2,0
+7920,Sunderland,Wigan,1,0
+7916,Man Utd,Spurs,2,3
+7909,Liverpool,Man Utd,1,2
+7911,Newcastle,Norwich,1,0
+7910,Man City,Arsenal,1,1
+7912,Spurs,QPR,2,1
+7905,Swansea,Everton,0,3
+7903,Chelsea,Stoke,1,0
+7904,Southampton,Aston Villa,4,1
+7906,West Brom,Reading,1,0
+7907,West Ham,Sunderland,1,1
+7908,Wigan,Fulham,1,2
+7902,Everton,Newcastle,2,2
+7901,Reading,Spurs,1,3
+7897,Norwich,West Ham,0,0
+7893,Arsenal,Southampton,6,1
+7894,Aston Villa,Swansea,2,0
+7895,Fulham,West Brom,3,0
+7896,Man Utd,Wigan,4,0
+7898,QPR,Chelsea,0,0
+7899,Stoke,Man City,1,1
+7900,Sunderland,Liverpool,1,1
+7890,Liverpool,Arsenal,0,2
+7891,Newcastle,Aston Villa,1,1
+7892,Southampton,Man Utd,2,3
+7888,West Ham,Fulham,3,0
+7885,Swansea,Sunderland,2,2
+7886,Spurs,Norwich,1,1
+7887,West Brom,Everton,2,0
+7889,Wigan,Stoke,2,2
+7884,Man City,QPR,3,1
+7883,Stoke,Arsenal,0,0
+7882,Liverpool,Man City,2,2
+7880,Swansea,West Ham,3,0
+7875,Aston Villa,Everton,1,3
+7877,Man Utd,Fulham,3,2
+7878,Norwich,QPR,1,1
+7879,Southampton,Wigan,0,2
+7881,Spurs,West Brom,1,1
+7876,Chelsea,Newcastle,2,0
+7874,Chelsea,Reading,4,2
+7873,Everton,Man Utd,1,0
+7872,Wigan,Chelsea,0,2
+7871,Man City,Southampton,3,2
+7864,Arsenal,Sunderland,0,0
+7865,Fulham,Norwich,5,0
+7867,QPR,Swansea,0,5
+7868,Reading,Stoke,1,1
+7869,West Brom,Liverpool,3,0
+7870,West Ham,Aston Villa,1,0
+7866,Newcastle,Spurs,2,1

@@ -1,0 +1,381 @@
+MatchID,Home_team,Away_team,Score_home,Score_away
+6317,Birmingham,Blackburn,4,1
+6318,Chelsea,Bolton,1,1
+6319,Derby,Reading,0,4
+6320,Everton,Newcastle,3,1
+6321,Middlesbrough,Man City,8,1
+6322,Portsmouth,Fulham,0,1
+6323,Sunderland,Arsenal,0,1
+6324,Spurs,Liverpool,0,2
+6325,West Ham,Aston Villa,2,2
+6326,Wigan,Man Utd,0,2
+6316,Newcastle,Chelsea,0,2
+6314,Arsenal,Everton,1,0
+6315,Liverpool,Man City,1,0
+6311,Man Utd,West Ham,4,1
+6307,Aston Villa,Wigan,0,2
+6308,Blackburn,Derby,3,1
+6310,Fulham,Birmingham,2,0
+6312,Middlesbrough,Portsmouth,2,0
+6313,Reading,Spurs,0,1
+6309,Bolton,Sunderland,2,0
+6306,Derby,Arsenal,2,6
+6305,Portsmouth,Blackburn,0,1
+6304,Everton,Aston Villa,2,2
+6298,Chelsea,Man Utd,2,1
+6297,Birmingham,Liverpool,2,2
+6299,Man City,Fulham,2,3
+6300,Sunderland,Middlesbrough,3,2
+6301,Spurs,Bolton,1,1
+6302,West Ham,Newcastle,2,2
+6303,Wigan,Reading,0,0
+6294,Aston Villa,Birmingham,5,1
+6296,Newcastle,Sunderland,2,0
+6295,Man City,Portsmouth,3,1
+6288,Arsenal,Reading,2,0
+6290,Fulham,Liverpool,0,2
+6291,Middlesbrough,Bolton,0,1
+6292,West Ham,Derby,2,1
+6293,Wigan,Spurs,1,1
+6289,Blackburn,Man Utd,1,1
+6287,Everton,Chelsea,0,1
+6286,Chelsea,Wigan,1,1
+6284,Liverpool,Blackburn,3,1
+6285,Man Utd,Arsenal,2,1
+6277,Birmingham,Everton,1,1
+6278,Bolton,West Ham,1,0
+6279,Derby,Aston Villa,0,6
+6281,Reading,Fulham,0,2
+6282,Sunderland,Man City,1,2
+6283,Spurs,Middlesbrough,1,1
+6280,Portsmouth,Newcastle,0,0
+6276,West Ham,Portsmouth,0,1
+6275,Middlesbrough,Man Utd,2,2
+6274,Everton,Derby,1,0
+6267,Arsenal,Liverpool,1,1
+6268,Aston Villa,Bolton,4,0
+6269,Blackburn,Spurs,1,1
+6270,Fulham,Sunderland,1,3
+6271,Man City,Chelsea,0,2
+6272,Newcastle,Reading,3,0
+6273,Wigan,Birmingham,2,0
+6264,Chelsea,Middlesbrough,1,0
+6266,Spurs,Newcastle,1,4
+6265,Liverpool,Everton,1,0
+6257,Birmingham,Man City,3,1
+6258,Bolton,Arsenal,2,3
+6259,Derby,Fulham,2,2
+6261,Portsmouth,Wigan,2,0
+6262,Reading,Blackburn,0,0
+6263,Sunderland,West Ham,2,1
+6260,Man Utd,Aston Villa,4,0
+6256,Man Utd,Liverpool,3,0
+6255,Chelsea,Arsenal,2,1
+6254,Spurs,Portsmouth,2,0
+6247,Aston Villa,Sunderland,0,1
+6248,Blackburn,Wigan,3,1
+6249,Bolton,Man City,0,0
+6251,Middlesbrough,Derby,1,0
+6252,Newcastle,Fulham,2,0
+6253,Reading,Birmingham,2,1
+6250,Everton,West Ham,1,1
+6245,Man Utd,Bolton,2,0
+6246,Spurs,Chelsea,4,4
+6244,Birmingham,Newcastle,1,1
+6241,Fulham,Everton,1,0
+6243,Wigan,Bolton,1,0
+6242,Man City,Spurs,2,1
+6236,Derby,Man Utd,0,1
+6237,Liverpool,Reading,2,1
+6238,Portsmouth,Aston Villa,2,0
+6239,Sunderland,Chelsea,0,1
+6240,West Ham,Blackburn,2,1
+6235,Arsenal,Middlesbrough,1,1
+6232,Aston Villa,Middlesbrough,1,1
+6234,Portsmouth,Birmingham,4,2
+6233,Chelsea,Derby,6,1
+6229,Sunderland,Everton,0,1
+6230,Spurs,West Ham,4,0
+6231,Wigan,Arsenal,0,0
+6226,Blackburn,Fulham,1,1
+6227,Liverpool,Newcastle,3,0
+6228,Reading,Man City,2,0
+6225,Liverpool,West Ham,4,0
+6223,Bolton,Liverpool,1,3
+6224,Everton,Portsmouth,3,1
+6215,Arsenal,Aston Villa,1,1
+6216,Birmingham,Spurs,4,1
+6217,Derby,Sunderland,0,0
+6218,Fulham,Man Utd,0,3
+6220,Middlesbrough,Reading,0,1
+6221,Newcastle,Blackburn,0,1
+6222,West Ham,Chelsea,0,4
+6219,Man City,Wigan,0,0
+6214,Man City,Everton,0,2
+6213,Reading,Aston Villa,1,2
+6212,Blackburn,Bolton,4,1
+6207,Fulham,West Ham,0,1
+6208,Liverpool,Middlesbrough,3,2
+6210,Portsmouth,Sunderland,1,0
+6211,Wigan,Derby,2,0
+6209,Newcastle,Man Utd,1,5
+6206,Birmingham,Arsenal,2,2
+6205,Arsenal,Blackburn,2,0
+6204,Man Utd,Man City,1,2
+6203,Chelsea,Liverpool,0,0
+6196,Aston Villa,Newcastle,4,1
+6197,Bolton,Portsmouth,0,1
+6198,Derby,Spurs,0,3
+6199,Everton,Reading,1,0
+6200,Middlesbrough,Fulham,1,0
+6201,Sunderland,Wigan,2,0
+6202,West Ham,Birmingham,1,1
+6195,Newcastle,Middlesbrough,1,1
+6194,Fulham,Aston Villa,2,1
+6189,Man City,Arsenal,1,3
+6186,Birmingham,Derby,1,1
+6187,Blackburn,Everton,0,0
+6190,Portsmouth,Chelsea,1,1
+6191,Reading,Bolton,0,2
+6192,Spurs,Man Utd,1,1
+6193,Wigan,West Ham,1,0
+6188,Liverpool,Sunderland,3,0
+6181,Chelsea,Reading,1,0
+6182,Derby,Man City,1,1
+6185,West Ham,Liverpool,1,0
+6183,Everton,Spurs,0,0
+6184,Man Utd,Portsmouth,2,0
+6177,Arsenal,Newcastle,3,0
+6178,Bolton,Fulham,0,0
+6179,Middlesbrough,Wigan,1,0
+6180,Sunderland,Birmingham,2,0
+6176,Aston Villa,Blackburn,1,1
+6175,Liverpool,Aston Villa,2,2
+6174,Wigan,Everton,1,2
+6173,Man City,West Ham,1,1
+6166,Birmingham,Chelsea,0,1
+6167,Blackburn,Middlesbrough,1,1
+6168,Fulham,Arsenal,0,3
+6170,Portsmouth,Derby,3,1
+6171,Reading,Man Utd,0,2
+6169,Newcastle,Bolton,0,0
+6172,Spurs,Sunderland,2,0
+6165,Sunderland,Portsmouth,2,0
+6164,Bolton,Blackburn,1,2
+6156,Arsenal,Birmingham,1,1
+6157,Aston Villa,Reading,3,1
+6158,Chelsea,Spurs,2,0
+6159,Derby,Wigan,0,1
+6160,Everton,Man City,1,0
+6162,Middlesbrough,Liverpool,1,1
+6163,West Ham,Fulham,2,1
+6161,Man Utd,Newcastle,6,0
+6155,Newcastle,Man City,0,2
+6152,Blackburn,Sunderland,1,0
+6153,Bolton,Derby,1,0
+6154,Liverpool,Wigan,1,1
+6148,Fulham,Chelsea,1,2
+6146,Arsenal,West Ham,2,0
+6149,Man Utd,Birmingham,1,0
+6150,Middlesbrough,Everton,0,2
+6151,Reading,Portsmouth,0,2
+6147,Aston Villa,Spurs,2,1
+6144,Derby,Blackburn,1,2
+6145,Man City,Liverpool,0,0
+6136,Birmingham,Fulham,1,1
+6137,Chelsea,Newcastle,2,1
+6139,Portsmouth,Middlesbrough,0,1
+6140,Sunderland,Bolton,3,1
+6141,Spurs,Reading,6,4
+6142,West Ham,Man Utd,2,1
+6143,Wigan,Aston Villa,1,2
+6138,Everton,Arsenal,1,4
+6135,Man City,Blackburn,2,2
+6127,Chelsea,Aston Villa,4,4
+6132,Spurs,Fulham,5,1
+6126,Birmingham,Middlesbrough,3,0
+6128,Derby,Liverpool,1,2
+6129,Everton,Bolton,2,0
+6131,Sunderland,Man Utd,0,4
+6134,Wigan,Newcastle,1,0
+6130,Portsmouth,Arsenal,0,0
+6133,West Ham,Reading,1,1
+6124,Man Utd,Everton,2,1
+6125,Newcastle,Derby,2,2
+6123,Blackburn,Chelsea,0,1
+6116,Arsenal,Spurs,2,1
+6117,Aston Villa,Man City,1,1
+6118,Bolton,Birmingham,3,0
+6119,Fulham,Wigan,1,1
+6120,Liverpool,Portsmouth,4,1
+6121,Middlesbrough,West Ham,1,2
+6122,Reading,Sunderland,2,1
+6115,Liverpool,Man Utd,0,1
+6114,Arsenal,Chelsea,1,0
+6106,Birmingham,Reading,1,1
+6107,Derby,Middlesbrough,0,1
+6109,Man City,Bolton,4,2
+6110,Portsmouth,Spurs,0,1
+6111,Sunderland,Aston Villa,1,1
+6112,West Ham,Everton,0,2
+6113,Wigan,Blackburn,5,3
+6108,Fulham,Newcastle,0,1
+6104,Middlesbrough,Arsenal,2,1
+6103,Bolton,Wigan,4,1
+6105,Spurs,Man City,2,1
+6102,Blackburn,West Ham,0,1
+6096,Aston Villa,Portsmouth,1,3
+6097,Chelsea,Sunderland,2,0
+6098,Everton,Fulham,3,0
+6099,Man Utd,Derby,4,1
+6100,Newcastle,Birmingham,2,1
+6101,Reading,Liverpool,3,1
+6095,Newcastle,Arsenal,1,1
+6094,Man Utd,Fulham,2,0
+6092,Liverpool,Bolton,4,0
+6093,Spurs,Birmingham,2,3
+6086,Blackburn,Newcastle,3,1
+6088,Portsmouth,Everton,0,0
+6089,Reading,Middlesbrough,1,1
+6090,Sunderland,Derby,1,0
+6085,Aston Villa,Arsenal,1,2
+6087,Chelsea,West Ham,1,0
+6091,Wigan,Man City,1,1
+6084,Blackburn,Aston Villa,0,4
+6083,West Ham,Spurs,1,1
+6082,Fulham,Blackburn,2,2
+6081,Newcastle,Liverpool,0,3
+6074,Arsenal,Wigan,2,0
+6075,Birmingham,Portsmouth,0,2
+6076,Bolton,Man Utd,1,0
+6078,Everton,Sunderland,7,1
+6079,Man City,Reading,2,1
+6080,Middlesbrough,Aston Villa,0,3
+6077,Derby,Chelsea,0,2
+6073,Reading,Arsenal,1,3
+6067,Birmingham,Aston Villa,1,2
+6069,Chelsea,Everton,1,1
+6068,Bolton,Middlesbrough,0,0
+6070,Man Utd,Blackburn,2,0
+6072,Spurs,Wigan,4,0
+6071,Portsmouth,Man City,0,0
+6066,Sunderland,Newcastle,1,1
+6064,Derby,West Ham,0,5
+6065,Liverpool,Fulham,2,0
+6063,Man City,Sunderland,1,0
+6062,West Ham,Bolton,1,1
+6054,Arsenal,Man Utd,2,2
+6055,Aston Villa,Derby,2,0
+6057,Everton,Birmingham,3,1
+6058,Fulham,Reading,3,1
+6059,Middlesbrough,Spurs,1,1
+6060,Newcastle,Portsmouth,1,4
+6061,Wigan,Chelsea,0,2
+6056,Blackburn,Liverpool,0,0
+6050,Bolton,Aston Villa,1,1
+6051,Derby,Everton,0,2
+6053,Spurs,Blackburn,1,2
+6052,Liverpool,Arsenal,1,1
+6044,Birmingham,Wigan,3,2
+6045,Chelsea,Man City,6,0
+6047,Portsmouth,West Ham,0,0
+6046,Man Utd,Middlesbrough,4,1
+6048,Reading,Newcastle,2,1
+6049,Sunderland,Fulham,1,1
+6043,Newcastle,Spurs,3,1
+6042,West Ham,Sunderland,3,1
+6037,Everton,Liverpool,1,2
+6034,Arsenal,Bolton,2,0
+6036,Blackburn,Reading,4,2
+6038,Fulham,Derby,0,0
+6039,Man City,Birmingham,1,0
+6040,Middlesbrough,Chelsea,0,2
+6041,Wigan,Portsmouth,0,2
+6035,Aston Villa,Man Utd,1,4
+6026,Arsenal,Sunderland,3,2
+6033,Reading,Derby,1,0
+6027,Blackburn,Birmingham,2,1
+6028,Bolton,Chelsea,0,1
+6030,Liverpool,Spurs,2,2
+6031,Man City,Middlesbrough,3,1
+6032,Newcastle,Everton,3,2
+6029,Fulham,Portsmouth,0,2
+6025,Man Utd,Wigan,4,0
+6024,Aston Villa,West Ham,1,0
+6023,Spurs,Aston Villa,4,4
+6022,Everton,Middlesbrough,2,0
+6017,Man City,Newcastle,3,1
+6015,Chelsea,Fulham,0,0
+6016,Derby,Bolton,1,1
+6018,Portsmouth,Reading,7,4
+6019,Sunderland,Blackburn,1,2
+6020,West Ham,Arsenal,0,1
+6021,Wigan,Liverpool,0,1
+6014,Birmingham,Man Utd,0,1
+6013,Newcastle,West Ham,3,1
+6009,Aston Villa,Everton,2,0
+6010,Blackburn,Portsmouth,0,1
+6011,Bolton,Spurs,1,1
+6012,Man Utd,Chelsea,2,0
+6004,Arsenal,Derby,5,0
+6005,Fulham,Man City,3,3
+6006,Liverpool,Birmingham,0,0
+6007,Middlesbrough,Sunderland,2,2
+6008,Reading,Wigan,2,1
+6003,Derby,Newcastle,1,0
+6002,Man City,Aston Villa,1,0
+5996,Everton,Man Utd,0,1
+5997,Portsmouth,Liverpool,0,0
+5999,Spurs,Arsenal,1,3
+5994,Birmingham,Bolton,1,0
+5998,Sunderland,Reading,2,1
+6000,West Ham,Middlesbrough,3,0
+6001,Wigan,Fulham,1,1
+5995,Chelsea,Blackburn,0,0
+5991,Arsenal,Portsmouth,3,1
+5993,Blackburn,Man City,1,0
+5992,Aston Villa,Chelsea,2,0
+5984,Bolton,Everton,1,2
+5985,Fulham,Spurs,3,3
+5986,Liverpool,Derby,6,0
+5988,Middlesbrough,Birmingham,2,0
+5989,Newcastle,Wigan,1,0
+5990,Reading,West Ham,0,3
+5987,Man Utd,Sunderland,1,0
+5983,Middlesbrough,Newcastle,2,2
+5982,Man Utd,Spurs,1,0
+5980,Sunderland,Liverpool,0,2
+5974,Arsenal,Man City,1,0
+5975,Aston Villa,Fulham,2,1
+5976,Bolton,Reading,3,0
+5977,Chelsea,Portsmouth,1,0
+5978,Derby,Birmingham,1,2
+5981,West Ham,Wigan,1,1
+5979,Everton,Blackburn,1,1
+5973,Man City,Man Utd,1,0
+5971,Blackburn,Arsenal,1,1
+5972,Liverpool,Chelsea,1,1
+5964,Birmingham,West Ham,0,1
+5965,Fulham,Middlesbrough,1,2
+5968,Reading,Everton,1,0
+5966,Newcastle,Aston Villa,0,0
+5967,Portsmouth,Bolton,3,1
+5969,Spurs,Derby,4,0
+5970,Wigan,Sunderland,3,0
+5958,Birmingham,Sunderland,2,2
+5959,Fulham,Bolton,2,1
+5960,Man City,Derby,1,0
+5961,Portsmouth,Man Utd,1,1
+5962,Reading,Chelsea,1,2
+5963,Wigan,Middlesbrough,1,0
+5957,Spurs,Everton,1,3
+5954,Arsenal,Fulham,2,1
+5955,Chelsea,Birmingham,3,2
+5956,Man Utd,Reading,0,0
+5952,Sunderland,Spurs,1,0
+5948,Bolton,Newcastle,1,3
+5949,Derby,Portsmouth,2,2
+5950,Everton,Wigan,2,1
+5951,Middlesbrough,Blackburn,1,2
+5953,West Ham,Man City,0,2
+5947,Aston Villa,Liverpool,1,2

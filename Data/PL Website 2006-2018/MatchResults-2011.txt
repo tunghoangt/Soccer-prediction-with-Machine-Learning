@@ -1,0 +1,1520 @@
+Aston Villa
+1-0
+Liverpool Villa Park, Birmingham
+7457
+Bolton
+0-2
+Man City Macron Stadium, Bolton
+7458
+Everton
+1-0
+Chelsea Goodison Park, Liverpool
+7459
+Fulham
+2-2
+Arsenal Craven Cottage, London
+7460
+Man Utd
+4-2
+Blackpool Old Trafford, Manchester
+7461
+Newcastle
+3-3
+West Brom Sports Direct Arena, Newcastle
+7462
+Stoke
+0-1
+Wigan Britannia Stadium, Stoke
+7463
+Spurs
+2-1
+Birmingham White Hart Lane, London
+7464
+West Ham
+0-3
+Sunderland Boleyn Ground, London
+7465
+Wolves
+2-3
+Blackburn Molineux Stadium, Wolverhampton
+7466
+Man City
+3-0
+Stoke Etihad Stadium, Manchester
+7456
+Chelsea
+2-2
+Newcastle Stamford Bridge, London
+7453
+Arsenal
+1-2
+Aston Villa Emirates Stadium, London
+7451
+Birmingham
+0-2
+Fulham St Andrews, Birmingham
+7452
+Liverpool
+0-2
+Spurs Anfield, Liverpool
+7454
+Wigan
+3-2
+West Ham DW Stadium, Wigan
+7455
+Blackburn
+1-1
+Man Utd Ewood Park, Blackburn
+7447
+Blackpool
+4-3
+Bolton Bloomfield Road, Blackpool
+7448
+Sunderland
+1-3
+Wolves Stadium of Light, Sunderland
+7449
+West Brom
+1-0
+Everton The Hawthorns, West Bromwich
+7450
+Man City
+1-0
+Spurs Etihad Stadium, Manchester
+7446
+Fulham
+2-5
+Liverpool Craven Cottage, London
+7445
+Wolves
+3-1
+West Brom Molineux Stadium, Wolverhampton
+7444
+Stoke
+3-1
+Arsenal Britannia Stadium, Stoke
+7443
+Man Utd
+2-1
+Chelsea Old Trafford, Manchester
+7442
+Aston Villa
+1-1
+Wigan Villa Park, Birmingham
+7436
+Bolton
+1-2
+Sunderland Macron Stadium, Bolton
+7437
+Everton
+2-1
+Man City Goodison Park, Liverpool
+7438
+Newcastle
+2-1
+Birmingham Sports Direct Arena, Newcastle
+7439
+West Ham
+1-1
+Blackburn Boleyn Ground, London
+7441
+Spurs
+1-1
+Blackpool White Hart Lane, London
+7440
+Birmingham
+1-1
+Wolves St Andrews, Birmingham
+7433
+Liverpool
+3-0
+Newcastle Anfield, Liverpool
+7434
+Arsenal
+1-0
+Man Utd Emirates Stadium, London
+7432
+Man City
+2-1
+West Ham Etihad Stadium, Manchester
+7435
+Blackburn
+1-0
+Bolton Ewood Park, Blackburn
+7426
+Blackpool
+0-0
+Stoke Bloomfield Road, Blackpool
+7427
+Sunderland
+0-3
+Fulham Stadium of Light, Sunderland
+7429
+West Brom
+2-1
+Aston Villa The Hawthorns, West Bromwich
+7430
+Chelsea
+2-1
+Spurs Stamford Bridge, London
+7428
+Wigan
+1-1
+Everton DW Stadium, Wigan
+7431
+Fulham
+3-0
+Bolton Craven Cottage, London
+7425
+Stoke
+3-0
+Wolves Britannia Stadium, Stoke
+7424
+Blackburn
+0-1
+Man City Ewood Park, Blackburn
+7423
+Bolton
+2-1
+Arsenal Macron Stadium, Bolton
+7422
+Man Utd
+1-0
+Everton Old Trafford, Manchester
+7418
+Aston Villa
+1-1
+Stoke Villa Park, Birmingham
+7414
+Blackpool
+1-1
+Newcastle Bloomfield Road, Blackpool
+7415
+Liverpool
+5-0
+Birmingham Anfield, Liverpool
+7417
+Sunderland
+4-2
+Wigan Stadium of Light, Sunderland
+7419
+Spurs
+2-2
+West Brom White Hart Lane, London
+7420
+Wolves
+1-1
+Fulham Molineux Stadium, Wolverhampton
+7421
+Chelsea
+3-0
+West Ham Stamford Bridge, London
+7416
+Chelsea
+3-1
+Birmingham Stamford Bridge, London
+7412
+Spurs
+3-3
+Arsenal White Hart Lane, London
+7413
+Newcastle
+0-0
+Man Utd Sports Direct Arena, Newcastle
+7411
+Arsenal
+1-1
+Liverpool Emirates Stadium, London
+7410
+Birmingham
+2-0
+Sunderland St Andrews, Birmingham
+7405
+Blackpool
+1-3
+Wigan Bloomfield Road, Blackpool
+7406
+Everton
+2-0
+Blackburn Goodison Park, Liverpool
+7407
+West Brom
+1-3
+Chelsea The Hawthorns, West Bromwich
+7408
+West Ham
+1-2
+Aston Villa Boleyn Ground, London
+7409
+Liverpool
+3-0
+Man City Anfield, Liverpool
+7404
+Blackpool
+1-3
+Arsenal Bloomfield Road, Blackpool
+7403
+Aston Villa
+1-0
+Newcastle Villa Park, Birmingham
+7402
+Wolves
+0-3
+Everton Molineux Stadium, Wolverhampton
+7401
+Blackburn
+1-1
+Birmingham Ewood Park, Blackburn
+7395
+Bolton
+3-0
+West Ham Macron Stadium, Bolton
+7396
+Chelsea
+1-0
+Wigan Stamford Bridge, London
+7397
+Man Utd
+2-0
+Fulham Old Trafford, Manchester
+7398
+Sunderland
+2-3
+West Brom Stadium of Light, Sunderland
+7399
+Spurs
+3-2
+Stoke White Hart Lane, London
+7400
+Fulham
+3-0
+Blackpool Craven Cottage, London
+7393
+Man City
+5-0
+Sunderland Etihad Stadium, Manchester
+7394
+Birmingham
+2-1
+Bolton St Andrews, Birmingham
+7386
+Everton
+2-2
+Aston Villa Goodison Park, Liverpool
+7387
+Newcastle
+4-1
+Wolves Sports Direct Arena, Newcastle
+7388
+Stoke
+1-1
+Chelsea Britannia Stadium, Stoke
+7389
+West Brom
+2-1
+Liverpool The Hawthorns, West Bromwich
+7390
+Arsenal
+0-0
+Blackburn Emirates Stadium, London
+7385
+West Ham
+2-4
+Man Utd Boleyn Ground, London
+7391
+Wigan
+0-0
+Spurs DW Stadium, Wigan
+7392
+Sunderland
+0-2
+Liverpool Stadium of Light, Sunderland
+7384
+Chelsea
+2-0
+Man City Stamford Bridge, London
+7383
+Spurs
+0-0
+West Ham White Hart Lane, London
+7380
+Aston Villa
+0-1
+Wolves Villa Park, Birmingham
+7375
+Blackburn
+2-2
+Blackpool Ewood Park, Blackburn
+7376
+Man Utd
+1-0
+Bolton Old Trafford, Manchester
+7378
+Stoke
+4-0
+Newcastle Britannia Stadium, Stoke
+7379
+West Brom
+2-2
+Arsenal The Hawthorns, West Bromwich
+7381
+Wigan
+2-1
+Birmingham DW Stadium, Wigan
+7382
+Everton
+2-1
+Fulham Goodison Park, Liverpool
+7377
+Everton
+1-1
+Birmingham Goodison Park, Liverpool
+7374
+Blackpool
+1-3
+Chelsea Bloomfield Road, Blackpool
+7373
+Liverpool
+3-1
+Man Utd Anfield, Liverpool
+7371
+Wolves
+3-3
+Spurs Molineux Stadium, Wolverhampton
+7372
+Birmingham
+1-3
+West Brom St Andrews, Birmingham
+7365
+Arsenal
+0-0
+Sunderland Emirates Stadium, London
+7364
+Bolton
+3-2
+Aston Villa Macron Stadium, Bolton
+7366
+Fulham
+3-2
+Blackburn Craven Cottage, London
+7367
+Newcastle
+1-2
+Everton Sports Direct Arena, Newcastle
+7369
+West Ham
+3-0
+Stoke Boleyn Ground, London
+7370
+Man City
+1-0
+Wigan Etihad Stadium, Manchester
+7368
+Chelsea
+2-1
+Man Utd Stamford Bridge, London
+7363
+Stoke
+1-1
+West Brom Britannia Stadium, Stoke
+7362
+West Ham
+3-1
+Liverpool Boleyn Ground, London
+7361
+Man City
+1-1
+Fulham Etihad Stadium, Manchester
+7360
+Aston Villa
+4-1
+Blackburn Villa Park, Birmingham
+7355
+Everton
+2-0
+Sunderland Goodison Park, Liverpool
+7356
+Newcastle
+1-1
+Bolton Sports Direct Arena, Newcastle
+7357
+Wigan
+0-4
+Man Utd DW Stadium, Wigan
+7358
+Wolves
+4-0
+Blackpool Molineux Stadium, Wolverhampton
+7359
+Arsenal
+1-0
+Stoke Emirates Stadium, London
+7354
+Blackpool
+3-1
+Spurs Bloomfield Road, Blackpool
+7353
+West Brom
+1-1
+Wolves The Hawthorns, West Bromwich
+7352
+Birmingham
+0-2
+Newcastle St Andrews, Birmingham
+7351
+Fulham
+0-0
+Chelsea Craven Cottage, London
+7350
+Bolton
+2-0
+Everton Macron Stadium, Bolton
+7349
+Arsenal
+2-0
+Wolves Emirates Stadium, London
+7341
+Sunderland
+1-2
+Spurs Stadium of Light, Sunderland
+7347
+Man Utd
+2-1
+Man City Old Trafford, Manchester
+7346
+Birmingham
+1-0
+Stoke St Andrews, Birmingham
+7342
+Blackburn
+0-0
+Newcastle Ewood Park, Blackburn
+7343
+Blackpool
+1-1
+Aston Villa Bloomfield Road, Blackpool
+7344
+Liverpool
+1-1
+Wigan Anfield, Liverpool
+7345
+West Brom
+3-3
+West Ham The Hawthorns, West Bromwich
+7348
+West Ham
+0-1
+Birmingham Boleyn Ground, London
+7340
+Chelsea
+0-1
+Liverpool Stamford Bridge, London
+7339
+Stoke
+3-2
+Sunderland Britannia Stadium, Stoke
+7335
+Aston Villa
+2-2
+Fulham Villa Park, Birmingham
+7331
+Everton
+5-3
+Blackpool Goodison Park, Liverpool
+7332
+Man City
+3-0
+West Brom Etihad Stadium, Manchester
+7333
+Newcastle
+4-4
+Arsenal Sports Direct Arena, Newcastle
+7334
+Spurs
+2-1
+Bolton White Hart Lane, London
+7336
+Wigan
+4-3
+Blackburn DW Stadium, Wigan
+7337
+Wolves
+2-1
+Man Utd Molineux Stadium, Wolverhampton
+7338
+Birmingham
+2-2
+Man City St Andrews, Birmingham
+7325
+Blackburn
+0-1
+Spurs Ewood Park, Blackburn
+7326
+Blackpool
+1-3
+West Ham Bloomfield Road, Blackpool
+7327
+Bolton
+1-0
+Wolves Macron Stadium, Bolton
+7328
+Fulham
+1-0
+Newcastle Craven Cottage, London
+7329
+Liverpool
+2-0
+Stoke Anfield, Liverpool
+7330
+Arsenal
+2-1
+Everton Emirates Stadium, London
+7321
+Sunderland
+2-4
+Chelsea Stadium of Light, Sunderland
+7323
+Man Utd
+3-1
+Aston Villa Old Trafford, Manchester
+7322
+West Brom
+2-2
+Wigan The Hawthorns, West Bromwich
+7324
+Liverpool
+1-0
+Fulham Anfield, Liverpool
+7320
+Blackpool
+2-3
+Man Utd Bloomfield Road, Blackpool
+7318
+Wigan
+1-2
+Aston Villa DW Stadium, Wigan
+7319
+Bolton
+0-4
+Chelsea Macron Stadium, Bolton
+7317
+Blackburn
+2-0
+West Brom Ewood Park, Blackburn
+7316
+Wolves
+0-3
+Liverpool Molineux Stadium, Wolverhampton
+7315
+Arsenal
+3-0
+Wigan Emirates Stadium, London
+7308
+Blackpool
+1-2
+Sunderland Bloomfield Road, Blackpool
+7310
+Everton
+2-2
+West Ham Goodison Park, Liverpool
+7311
+Fulham
+2-0
+Stoke Craven Cottage, London
+7312
+Man Utd
+5-0
+Birmingham Old Trafford, Manchester
+7313
+Newcastle
+1-1
+Spurs Sports Direct Arena, Newcastle
+7314
+Aston Villa
+1-0
+Man City Villa Park, Birmingham
+7309
+Spurs
+0-0
+Man Utd White Hart Lane, London
+7307
+Birmingham
+1-1
+Aston Villa St Andrews, Birmingham
+7304
+Sunderland
+1-1
+Newcastle Stadium of Light, Sunderland
+7306
+Liverpool
+2-2
+Everton Anfield, Liverpool
+7305
+Chelsea
+2-0
+Blackburn Stamford Bridge, London
+7298
+Man City
+4-3
+Wolves Etihad Stadium, Manchester
+7299
+Stoke
+2-0
+Bolton Britannia Stadium, Stoke
+7300
+West Brom
+3-2
+Blackpool The Hawthorns, West Bromwich
+7301
+Wigan
+1-1
+Fulham DW Stadium, Wigan
+7303
+West Ham
+0-3
+Arsenal Boleyn Ground, London
+7302
+Blackpool
+2-1
+Liverpool Bloomfield Road, Blackpool
+7297
+Arsenal
+0-0
+Man City Emirates Stadium, London
+7290
+Aston Villa
+0-1
+Sunderland Villa Park, Birmingham
+7291
+Newcastle
+5-0
+West Ham Sports Direct Arena, Newcastle
+7295
+Wolves
+1-0
+Chelsea Molineux Stadium, Wolverhampton
+7296
+Blackburn
+3-1
+Liverpool Ewood Park, Blackburn
+7292
+Bolton
+1-1
+Wigan Macron Stadium, Bolton
+7293
+Everton
+2-1
+Spurs Goodison Park, Liverpool
+7294
+Blackpool
+1-2
+Birmingham Bloomfield Road, Blackpool
+7287
+Fulham
+3-0
+West Brom Craven Cottage, London
+7288
+Man Utd
+2-1
+Stoke Old Trafford, Manchester
+7289
+Chelsea
+3-3
+Aston Villa Stamford Bridge, London
+7285
+Wigan
+0-1
+Newcastle DW Stadium, Wigan
+7286
+West Brom
+1-2
+Man Utd The Hawthorns, West Bromwich
+7283
+Liverpool
+2-1
+Bolton Anfield, Liverpool
+7278
+Man City
+1-0
+Blackpool Etihad Stadium, Manchester
+7279
+Stoke
+2-0
+Everton Britannia Stadium, Stoke
+7280
+Sunderland
+3-0
+Blackburn Stadium of Light, Sunderland
+7281
+Spurs
+1-0
+Fulham White Hart Lane, London
+7282
+West Ham
+2-0
+Wolves Boleyn Ground, London
+7284
+Birmingham
+0-3
+Arsenal St Andrews, Birmingham
+7277
+Chelsea
+1-0
+Bolton Stamford Bridge, London
+7274
+Wigan
+2-2
+Arsenal DW Stadium, Wigan
+7276
+Liverpool
+0-1
+Wolves Anfield, Liverpool
+7275
+Man City
+4-0
+Aston Villa Etihad Stadium, Manchester
+7268
+Stoke
+0-2
+Fulham Britannia Stadium, Stoke
+7269
+Sunderland
+0-2
+Blackpool Stadium of Light, Sunderland
+7270
+Spurs
+2-0
+Newcastle White Hart Lane, London
+7271
+West Brom
+1-3
+Blackburn The Hawthorns, West Bromwich
+7272
+West Ham
+1-1
+Everton Boleyn Ground, London
+7273
+Birmingham
+1-1
+Man Utd St Andrews, Birmingham
+7267
+Arsenal
+3-1
+Chelsea Emirates Stadium, London
+7266
+Fulham
+1-3
+West Ham Craven Cottage, London
+7262
+Blackburn
+0-2
+Stoke Ewood Park, Blackburn
+7260
+Bolton
+2-0
+West Brom Macron Stadium, Bolton
+7261
+Man Utd
+2-0
+Sunderland Old Trafford, Manchester
+7263
+Newcastle
+1-3
+Man City Sports Direct Arena, Newcastle
+7264
+Wolves
+1-2
+Wigan Molineux Stadium, Wolverhampton
+7265
+Aston Villa
+1-2
+Spurs Villa Park, Birmingham
+7259
+Man City
+1-2
+Everton Etihad Stadium, Manchester
+7258
+Sunderland
+1-0
+Bolton Stadium of Light, Sunderland
+7257
+Blackburn
+1-1
+West Ham Ewood Park, Blackburn
+7256
+Man Utd
+1-0
+Arsenal Old Trafford, Manchester
+7255
+Bolton
+2-1
+Blackburn Macron Stadium, Bolton
+7252
+Wolves
+1-0
+Birmingham Molineux Stadium, Wolverhampton
+7254
+Spurs
+1-1
+Chelsea White Hart Lane, London
+7253
+Aston Villa
+2-1
+West Brom Villa Park, Birmingham
+7246
+Everton
+0-0
+Wigan Goodison Park, Liverpool
+7247
+Fulham
+0-0
+Sunderland Craven Cottage, London
+7248
+Stoke
+0-1
+Blackpool Britannia Stadium, Stoke
+7250
+West Ham
+1-3
+Man City Boleyn Ground, London
+7251
+Newcastle
+3-1
+Liverpool Sports Direct Arena, Newcastle
+7249
+Liverpool
+3-0
+Aston Villa Anfield, Liverpool
+7245
+West Brom
+3-1
+Newcastle The Hawthorns, West Bromwich
+7244
+Sunderland
+1-0
+West Ham Stadium of Light, Sunderland
+7243
+Arsenal
+2-1
+Fulham Emirates Stadium, London
+7237
+Birmingham
+1-1
+Spurs St Andrews, Birmingham
+7238
+Blackburn
+3-0
+Wolves Ewood Park, Blackburn
+7239
+Chelsea
+1-1
+Everton Stamford Bridge, London
+7240
+Man City
+1-0
+Bolton Etihad Stadium, Manchester
+7241
+Wigan
+2-2
+Stoke DW Stadium, Wigan
+7242
+Newcastle
+1-1
+Chelsea Sports Direct Arena, Newcastle
+7235
+Spurs
+2-1
+Liverpool White Hart Lane, London
+7236
+Aston Villa
+2-4
+Arsenal Villa Park, Birmingham
+7227
+Bolton
+2-2
+Blackpool Macron Stadium, Bolton
+7228
+Everton
+1-4
+West Brom Goodison Park, Liverpool
+7229
+Fulham
+1-1
+Birmingham Craven Cottage, London
+7230
+Man Utd
+7-1
+Blackburn Old Trafford, Manchester
+7231
+Stoke
+1-1
+Man City Britannia Stadium, Stoke
+7232
+West Ham
+3-1
+Wigan Boleyn Ground, London
+7233
+Wolves
+3-2
+Sunderland Molineux Stadium, Wolverhampton
+7234
+Sunderland
+2-2
+Everton Stadium of Light, Sunderland
+7226
+Blackburn
+2-0
+Aston Villa Ewood Park, Blackburn
+7224
+Fulham
+1-4
+Man City Craven Cottage, London
+7225
+Arsenal
+2-3
+Spurs Emirates Stadium, London
+7217
+Birmingham
+1-0
+Chelsea St Andrews, Birmingham
+7218
+Blackpool
+2-1
+Wolves Bloomfield Road, Blackpool
+7219
+Bolton
+5-1
+Newcastle Macron Stadium, Bolton
+7220
+Man Utd
+2-0
+Wigan Old Trafford, Manchester
+7222
+West Brom
+0-3
+Stoke The Hawthorns, West Bromwich
+7223
+Liverpool
+3-0
+West Ham Anfield, Liverpool
+7221
+Everton
+1-2
+Arsenal Goodison Park, Liverpool
+7216
+Chelsea
+0-3
+Sunderland Stamford Bridge, London
+7215
+Aston Villa
+2-2
+Man Utd Villa Park, Birmingham
+7207
+Man City
+0-0
+Birmingham Etihad Stadium, Manchester
+7208
+Newcastle
+0-0
+Fulham Sports Direct Arena, Newcastle
+7209
+Spurs
+4-2
+Blackburn White Hart Lane, London
+7211
+West Ham
+0-0
+Blackpool Boleyn Ground, London
+7212
+Wigan
+1-0
+West Brom DW Stadium, Wigan
+7213
+Wolves
+2-3
+Bolton Molineux Stadium, Wolverhampton
+7214
+Stoke
+2-0
+Liverpool Britannia Stadium, Stoke
+7210
+Aston Villa
+3-2
+Blackpool Villa Park, Birmingham
+7199
+Chelsea
+1-0
+Fulham Stamford Bridge, London
+7200
+Newcastle
+1-2
+Blackburn Sports Direct Arena, Newcastle
+7203
+West Ham
+2-2
+West Brom Boleyn Ground, London
+7204
+Wigan
+1-1
+Liverpool DW Stadium, Wigan
+7205
+Wolves
+0-2
+Arsenal Molineux Stadium, Wolverhampton
+7206
+Everton
+1-1
+Bolton Goodison Park, Liverpool
+7201
+Man City
+0-0
+Man Utd Etihad Stadium, Manchester
+7202
+Stoke
+3-2
+Birmingham Britannia Stadium, Stoke
+7197
+Spurs
+1-1
+Sunderland White Hart Lane, London
+7198
+Arsenal
+0-1
+Newcastle Emirates Stadium, London
+7194
+West Brom
+0-2
+Man City The Hawthorns, West Bromwich
+7196
+Liverpool
+2-0
+Chelsea Anfield, Liverpool
+7195
+Bolton
+4-2
+Spurs Macron Stadium, Bolton
+7190
+Birmingham
+2-2
+West Ham St Andrews, Birmingham
+7187
+Blackburn
+2-1
+Wigan Ewood Park, Blackburn
+7188
+Blackpool
+2-2
+Everton Bloomfield Road, Blackpool
+7189
+Fulham
+1-1
+Aston Villa Craven Cottage, London
+7191
+Man Utd
+2-1
+Wolves Old Trafford, Manchester
+7192
+Sunderland
+2-0
+Stoke Stadium of Light, Sunderland
+7193
+Blackpool
+2-1
+West Brom Bloomfield Road, Blackpool
+7186
+Aston Villa
+0-0
+Birmingham Villa Park, Birmingham
+7183
+Newcastle
+5-1
+Sunderland Sports Direct Arena, Newcastle
+7185
+Bolton
+0-1
+Liverpool Macron Stadium, Bolton
+7184
+Arsenal
+1-0
+West Ham Emirates Stadium, London
+7177
+Blackburn
+1-2
+Chelsea Ewood Park, Blackburn
+7178
+Everton
+1-0
+Stoke Goodison Park, Liverpool
+7179
+Fulham
+2-0
+Wigan Craven Cottage, London
+7180
+Wolves
+2-1
+Man City Molineux Stadium, Wolverhampton
+7182
+Man Utd
+2-0
+Spurs Old Trafford, Manchester
+7181
+Stoke
+1-2
+Man Utd Britannia Stadium, Stoke
+7176
+Liverpool
+2-1
+Blackburn Anfield, Liverpool
+7174
+Man City
+0-3
+Arsenal Etihad Stadium, Manchester
+7175
+Spurs
+1-1
+Everton White Hart Lane, London
+7170
+Birmingham
+2-0
+Blackpool St Andrews, Birmingham
+7167
+Chelsea
+2-0
+Wolves Stamford Bridge, London
+7168
+Sunderland
+1-0
+Aston Villa Stadium of Light, Sunderland
+7169
+West Brom
+2-1
+Fulham The Hawthorns, West Bromwich
+7171
+Wigan
+1-1
+Bolton DW Stadium, Wigan
+7173
+West Ham
+1-2
+Newcastle Boleyn Ground, London
+7172
+Blackburn
+0-0
+Sunderland Ewood Park, Blackburn
+7166
+Everton
+2-0
+Liverpool Goodison Park, Liverpool
+7165
+Blackpool
+2-3
+Man City Bloomfield Road, Blackpool
+7164
+Arsenal
+2-1
+Birmingham Emirates Stadium, London
+7157
+Bolton
+2-1
+Stoke Macron Stadium, Bolton
+7159
+Fulham
+1-2
+Spurs Craven Cottage, London
+7160
+Man Utd
+2-2
+West Brom Old Trafford, Manchester
+7161
+Newcastle
+2-2
+Wigan Sports Direct Arena, Newcastle
+7162
+Wolves
+1-1
+West Ham Molineux Stadium, Wolverhampton
+7163
+Aston Villa
+0-0
+Chelsea Villa Park, Birmingham
+7158
+Man City
+2-1
+Newcastle Etihad Stadium, Manchester
+7156
+Liverpool
+1-2
+Blackpool Anfield, Liverpool
+7155
+Chelsea
+2-0
+Arsenal Stamford Bridge, London
+7154
+Wigan
+2-0
+Wolves DW Stadium, Wigan
+7153
+Birmingham
+0-2
+Everton St Andrews, Birmingham
+7147
+Stoke
+1-0
+Blackburn Britannia Stadium, Stoke
+7148
+Sunderland
+0-0
+Man Utd Stadium of Light, Sunderland
+7149
+Spurs
+2-1
+Aston Villa White Hart Lane, London
+7150
+West Brom
+1-1
+Bolton The Hawthorns, West Bromwich
+7151
+West Ham
+1-1
+Fulham Boleyn Ground, London
+7152
+Bolton
+2-2
+Man Utd Macron Stadium, Bolton
+7144
+Wolves
+1-2
+Aston Villa Molineux Stadium, Wolverhampton
+7146
+Newcastle
+1-2
+Stoke Sports Direct Arena, Newcastle
+7145
+Man City
+1-0
+Chelsea Etihad Stadium, Manchester
+7142
+Arsenal
+2-3
+West Brom Emirates Stadium, London
+7137
+Birmingham
+0-0
+Wigan St Andrews, Birmingham
+7138
+Blackpool
+1-2
+Blackburn Bloomfield Road, Blackpool
+7139
+Fulham
+0-0
+Everton Craven Cottage, London
+7140
+Liverpool
+2-2
+Sunderland Anfield, Liverpool
+7141
+West Ham
+1-0
+Spurs Boleyn Ground, London
+7143
+Man Utd
+3-2
+Liverpool Old Trafford, Manchester
+7135
+Wigan
+0-2
+Man City DW Stadium, Wigan
+7136
+Chelsea
+4-0
+Blackpool Stamford Bridge, London
+7134
+Stoke
+1-1
+West Ham Britannia Stadium, Stoke
+7130
+Aston Villa
+1-1
+Bolton Villa Park, Birmingham
+7127
+Blackburn
+1-1
+Fulham Ewood Park, Blackburn
+7128
+Everton
+0-1
+Newcastle Goodison Park, Liverpool
+7129
+Spurs
+3-1
+Wolves White Hart Lane, London
+7132
+West Brom
+3-1
+Birmingham The Hawthorns, West Bromwich
+7133
+Sunderland
+1-1
+Arsenal Stadium of Light, Sunderland
+7131
+Stoke
+2-1
+Aston Villa Britannia Stadium, Stoke
+7126
+Birmingham
+0-0
+Liverpool St Andrews, Birmingham
+7125
+Everton
+3-3
+Man Utd Goodison Park, Liverpool
+7118
+Arsenal
+4-1
+Bolton Emirates Stadium, London
+7117
+Fulham
+2-1
+Wolves Craven Cottage, London
+7119
+Man City
+1-1
+Blackburn Etihad Stadium, Manchester
+7120
+Newcastle
+0-2
+Blackpool Sports Direct Arena, Newcastle
+7121
+West Brom
+1-1
+Spurs The Hawthorns, West Bromwich
+7122
+West Ham
+1-3
+Chelsea Boleyn Ground, London
+7123
+Wigan
+1-1
+Sunderland DW Stadium, Wigan
+7124
+Bolton
+2-2
+Birmingham Macron Stadium, Bolton
+7114
+Liverpool
+1-0
+West Brom Anfield, Liverpool
+7115
+Sunderland
+1-0
+Man City Stadium of Light, Sunderland
+7116
+Aston Villa
+1-0
+Everton Villa Park, Birmingham
+7113
+Blackburn
+1-2
+Arsenal Ewood Park, Blackburn
+7107
+Blackpool
+2-2
+Fulham Bloomfield Road, Blackpool
+7108
+Chelsea
+2-0
+Stoke Stamford Bridge, London
+7109
+Spurs
+0-1
+Wigan White Hart Lane, London
+7111
+Wolves
+1-1
+Newcastle Molineux Stadium, Wolverhampton
+7112
+Man Utd
+3-0
+West Ham Old Trafford, Manchester
+7110
+Man City
+3-0
+Liverpool Etihad Stadium, Manchester
+7106
+Newcastle
+6-0
+Aston Villa Sports Direct Arena, Newcastle
+7105
+Fulham
+2-2
+Man Utd Craven Cottage, London
+7104
+Arsenal
+6-0
+Blackpool Emirates Stadium, London
+7097
+Birmingham
+2-1
+Blackburn St Andrews, Birmingham
+7098
+Everton
+1-1
+Wolves Goodison Park, Liverpool
+7099
+Stoke
+1-2
+Spurs Britannia Stadium, Stoke
+7100
+West Brom
+1-0
+Sunderland The Hawthorns, West Bromwich
+7101
+West Ham
+1-3
+Bolton Boleyn Ground, London
+7102
+Wigan
+0-6
+Chelsea DW Stadium, Wigan
+7103
+Man Utd
+3-0
+Newcastle Old Trafford, Manchester
+7096
+Liverpool
+1-1
+Arsenal Anfield, Liverpool
+7095
+Spurs
+0-0
+Man City White Hart Lane, London
+7092
+Aston Villa
+3-0
+West Ham Villa Park, Birmingham
+7087
+Blackburn
+1-0
+Everton Ewood Park, Blackburn
+7088
+Bolton
+0-0
+Fulham Macron Stadium, Bolton
+7089
+Sunderland
+2-2
+Birmingham Stadium of Light, Sunderland
+7091
+Wigan
+0-4
+Blackpool DW Stadium, Wigan
+7093
+Wolves
+2-1
+Stoke Molineux Stadium, Wolverhampton
+7094
+Chelsea
+6-0
+West Brom Stamford Bridge, London
+7090

@@ -1,0 +1,381 @@
+MatchID,Home_team,Away_team,Score_home,Score_away
+9981,Arsenal,West Brom,4,1
+9982,Aston Villa,Burnley,0,1
+9983,Chelsea,Sunderland,3,1
+9984,Crystal Palace,Swansea,1,0
+9985,Everton,Spurs,0,1
+9986,Hull,Man Utd,0,0
+9987,Leicester,QPR,5,1
+9988,Man City,Southampton,2,0
+9989,Newcastle,West Ham,2,0
+9990,Stoke,Liverpool,6,1
+9980,Arsenal,Sunderland,0,0
+9979,West Brom,Chelsea,3,0
+9978,Swansea,Man City,2,4
+9977,Man Utd,Arsenal,1,1
+9973,Southampton,Aston Villa,6,1
+9970,Burnley,Stoke,0,0
+9972,QPR,Newcastle,2,1
+9974,Sunderland,Leicester,0,0
+9975,Spurs,Hull,2,0
+9976,West Ham,Everton,1,2
+9971,Liverpool,Crystal Palace,1,3
+9969,Arsenal,Swansea,0,1
+9968,Man City,QPR,6,0
+9967,Chelsea,Liverpool,1,1
+9962,Everton,Sunderland,0,2
+9960,Aston Villa,West Ham,1,0
+9963,Hull,Burnley,0,1
+9964,Leicester,Southampton,2,0
+9965,Newcastle,West Brom,1,1
+9966,Stoke,Spurs,3,0
+9961,Crystal Palace,Man Utd,1,2
+9959,Hull,Arsenal,1,3
+9957,Chelsea,Crystal Palace,1,0
+9958,Spurs,Man City,0,1
+9950,Aston Villa,Everton,3,2
+9952,Liverpool,QPR,2,1
+9954,Sunderland,Southampton,2,1
+9955,Swansea,Stoke,2,0
+9956,West Ham,Burnley,1,0
+9953,Man Utd,West Brom,0,1
+9951,Leicester,Newcastle,3,0
+9949,Leicester,Chelsea,1,3
+9948,Hull,Liverpool,1,0
+9947,Everton,Man Utd,3,0
+9946,Arsenal,Chelsea,0,0
+9943,Southampton,Spurs,2,2
+9938,Burnley,Leicester,0,1
+9939,Crystal Palace,Hull,0,2
+9941,Newcastle,Swansea,2,3
+9942,QPR,West Ham,0,0
+9944,Stoke,Sunderland,1,1
+9945,West Brom,Liverpool,0,0
+9940,Man City,Aston Villa,3,2
+9936,Man City,West Ham,2,0
+9937,Newcastle,Spurs,1,3
+9932,Crystal Palace,West Brom,0,2
+9933,Everton,Burnley,1,0
+9934,Leicester,Swansea,2,0
+9935,Stoke,Southampton,2,1
+9931,Chelsea,Man Utd,1,0
+9930,Liverpool,Newcastle,2,0
+9929,QPR,Chelsea,0,1
+9928,Man Utd,Man City,4,2
+9924,Swansea,Everton,1,1
+9922,Southampton,Hull,2,0
+9923,Sunderland,Crystal Palace,1,4
+9925,Spurs,Aston Villa,0,1
+9926,West Brom,Leicester,2,3
+9927,West Ham,Stoke,1,1
+9921,Burnley,Arsenal,0,1
+9920,Aston Villa,QPR,3,3
+9919,Crystal Palace,Man City,2,1
+9917,Burnley,Spurs,0,0
+9918,Sunderland,Newcastle,1,0
+9912,Everton,Southampton,1,0
+9913,Leicester,West Ham,2,1
+9914,Man Utd,Aston Villa,3,1
+9915,Swansea,Hull,3,1
+9916,West Brom,QPR,1,4
+9911,Chelsea,Stoke,2,1
+9910,Arsenal,Liverpool,4,1
+9908,Liverpool,Man Utd,1,2
+9907,Hull,Chelsea,2,3
+9909,QPR,Everton,1,2
+9901,Man City,West Brom,3,0
+9900,Aston Villa,Swansea,0,1
+9902,Newcastle,Arsenal,1,2
+9903,Southampton,Burnley,2,0
+9904,Stoke,Crystal Palace,1,2
+9905,Spurs,Leicester,4,3
+9906,West Ham,Sunderland,1,0
+9899,Swansea,Liverpool,0,1
+9896,Chelsea,Southampton,1,1
+9897,Everton,Newcastle,3,0
+9898,Man Utd,Spurs,3,0
+9892,Crystal Palace,QPR,3,1
+9890,Arsenal,West Ham,3,0
+9893,Leicester,Hull,0,0
+9894,Sunderland,Aston Villa,0,4
+9895,West Brom,Stoke,1,0
+9891,Burnley,Man City,1,0
+9889,QPR,Spurs,1,2
+9883,Man City,Leicester,2,0
+9884,Newcastle,Man Utd,0,1
+9885,QPR,Arsenal,1,2
+9886,Stoke,Everton,2,0
+9887,Spurs,Swansea,3,2
+9888,West Ham,Chelsea,0,1
+9882,Liverpool,Burnley,2,0
+9879,Aston Villa,West Brom,2,1
+9880,Hull,Sunderland,1,1
+9881,Southampton,Crystal Palace,1,0
+9878,Liverpool,Man City,2,1
+9877,Arsenal,Everton,2,0
+9876,West Ham,Crystal Palace,1,3
+9871,Burnley,Swansea,0,1
+9872,Man Utd,Sunderland,2,0
+9873,Newcastle,Aston Villa,1,0
+9874,Stoke,Hull,1,0
+9875,West Brom,Southampton,1,0
+9870,Spurs,West Ham,2,2
+9868,Everton,Leicester,2,2
+9869,Southampton,Liverpool,0,2
+9861,Aston Villa,Stoke,1,2
+9862,Chelsea,Burnley,1,1
+9863,Crystal Palace,Arsenal,1,2
+9864,Hull,QPR,2,1
+9866,Sunderland,West Brom,0,0
+9867,Swansea,Man Utd,2,1
+9865,Man City,Newcastle,5,0
+9855,Chelsea,Everton,1,0
+9857,Man Utd,Burnley,3,1
+9858,Southampton,West Ham,0,0
+9859,Stoke,Man City,1,4
+9856,Crystal Palace,Newcastle,1,1
+9860,West Brom,Swansea,2,0
+9851,Arsenal,Leicester,2,1
+9852,Hull,Aston Villa,2,0
+9854,Sunderland,QPR,0,2
+9853,Liverpool,Spurs,3,2
+9848,Burnley,West Brom,2,2
+9849,Newcastle,Stoke,1,1
+9850,West Ham,Man Utd,1,1
+9847,Spurs,Arsenal,2,1
+9841,Aston Villa,Chelsea,1,2
+9843,Leicester,Crystal Palace,0,1
+9844,Man City,Hull,1,1
+9845,QPR,Southampton,0,1
+9846,Swansea,Sunderland,1,1
+9842,Everton,Liverpool,0,0
+9839,Arsenal,Aston Villa,5,0
+9840,Southampton,Swansea,0,1
+9833,Hull,Newcastle,0,3
+9832,Crystal Palace,Everton,0,1
+9834,Liverpool,West Ham,2,0
+9835,Man Utd,Leicester,3,1
+9836,Stoke,QPR,3,1
+9837,Sunderland,Burnley,2,0
+9838,West Brom,Spurs,0,3
+9831,Chelsea,Man City,1,1
+9830,Everton,West Brom,0,0
+9829,West Ham,Hull,3,0
+9828,Man City,Arsenal,0,2
+9821,Aston Villa,Liverpool,0,2
+9822,Burnley,Crystal Palace,2,3
+9823,Leicester,Stoke,0,1
+9825,QPR,Man Utd,0,2
+9826,Swansea,Chelsea,0,5
+9827,Spurs,Sunderland,2,1
+9824,Newcastle,Southampton,1,2
+9819,Arsenal,Stoke,3,0
+9820,Man Utd,Southampton,0,1
+9816,Sunderland,Liverpool,0,1
+9811,Burnley,QPR,2,1
+9812,Chelsea,Newcastle,2,0
+9814,Everton,Man City,1,1
+9815,Leicester,Aston Villa,1,0
+9817,Swansea,West Ham,1,1
+9818,West Brom,Hull,1,0
+9813,Crystal Palace,Spurs,2,1
+9808,Stoke,Man Utd,1,1
+9801,Aston Villa,Crystal Palace,0,0
+9802,Hull,Everton,2,0
+9803,Liverpool,Leicester,2,2
+9804,Man City,Sunderland,3,2
+9805,Newcastle,Burnley,3,3
+9806,QPR,Swansea,1,1
+9807,Southampton,Arsenal,2,0
+9810,West Ham,West Brom,1,1
+9809,Spurs,Chelsea,5,3
+9800,Liverpool,Swansea,4,1
+9798,Spurs,Man Utd,0,0
+9796,Southampton,Chelsea,1,1
+9791,Aston Villa,Sunderland,0,0
+9792,Hull,Leicester,0,1
+9793,Man City,Burnley,2,2
+9795,QPR,Crystal Palace,0,0
+9797,Stoke,West Brom,2,0
+9799,West Ham,Arsenal,1,2
+9794,Newcastle,Everton,3,2
+9783,Chelsea,West Ham,2,0
+9782,Burnley,Liverpool,0,1
+9784,Crystal Palace,Southampton,1,3
+9785,Everton,Stoke,0,1
+9786,Leicester,Spurs,1,2
+9787,Man Utd,Newcastle,3,1
+9788,Sunderland,Hull,1,3
+9789,Swansea,Aston Villa,1,0
+9790,West Brom,Man City,1,3
+9781,Arsenal,QPR,2,1
+9780,Stoke,Chelsea,0,2
+9779,Newcastle,Sunderland,0,1
+9778,Liverpool,Arsenal,2,2
+9773,Man City,Crystal Palace,3,0
+9771,Aston Villa,Man Utd,1,1
+9772,Hull,Swansea,0,1
+9774,QPR,West Brom,3,2
+9775,Southampton,Everton,3,0
+9776,Spurs,Burnley,2,1
+9777,West Ham,Leicester,2,0
+9770,Everton,QPR,3,1
+9768,Man Utd,Liverpool,3,0
+9769,Swansea,Spurs,1,2
+9762,Burnley,Southampton,1,0
+9763,Chelsea,Hull,2,0
+9764,Crystal Palace,Stoke,1,1
+9765,Leicester,Man City,0,1
+9766,Sunderland,West Ham,1,1
+9767,West Brom,Aston Villa,1,0
+9761,Arsenal,Newcastle,4,1
+9760,Southampton,Man Utd,1,2
+9759,West Ham,Swansea,3,1
+9758,Aston Villa,Leicester,2,1
+9754,Newcastle,Chelsea,2,1
+9751,Hull,West Brom,0,0
+9752,Liverpool,Sunderland,0,0
+9755,QPR,Burnley,2,0
+9756,Stoke,Arsenal,3,2
+9757,Spurs,Crystal Palace,0,0
+9753,Man City,Everton,1,0
+9747,Arsenal,Southampton,1,0
+9748,Chelsea,Spurs,3,0
+9749,Everton,Hull,1,1
+9750,Sunderland,Man City,1,4
+9741,Burnley,Newcastle,1,1
+9743,Leicester,Liverpool,1,3
+9744,Man Utd,Stoke,2,1
+9745,Swansea,QPR,2,0
+9742,Crystal Palace,Aston Villa,0,1
+9746,West Brom,West Ham,1,2
+9739,Southampton,Man City,0,3
+9740,Spurs,Everton,2,1
+9737,West Brom,Arsenal,0,1
+9731,Burnley,Aston Villa,1,1
+9732,Liverpool,Stoke,1,0
+9733,Man Utd,Hull,3,0
+9734,QPR,Leicester,3,2
+9736,Swansea,Crystal Palace,1,1
+9738,West Ham,Newcastle,1,0
+9735,Sunderland,Chelsea,0,0
+9730,Aston Villa,Southampton,1,1
+9728,Crystal Palace,Liverpool,3,1
+9729,Hull,Spurs,1,2
+9722,Chelsea,West Brom,2,0
+9723,Everton,West Ham,2,1
+9724,Leicester,Sunderland,0,0
+9725,Man City,Swansea,2,1
+9726,Newcastle,QPR,1,0
+9727,Stoke,Burnley,1,2
+9721,Arsenal,Man Utd,1,2
+9717,Sunderland,Everton,1,1
+9719,Spurs,Stoke,1,2
+9720,West Brom,Newcastle,0,2
+9718,Swansea,Arsenal,2,1
+9712,Liverpool,Chelsea,1,2
+9711,Burnley,Hull,1,0
+9713,Man Utd,Crystal Palace,1,0
+9715,Southampton,Leicester,2,0
+9716,West Ham,Aston Villa,0,0
+9714,QPR,Man City,2,2
+9710,Crystal Palace,Sunderland,1,3
+9709,Man City,Man Utd,1,0
+9708,Aston Villa,Spurs,1,2
+9706,Newcastle,Liverpool,1,0
+9701,Arsenal,Burnley,3,0
+9702,Chelsea,QPR,2,1
+9703,Everton,Swansea,0,0
+9704,Hull,Southampton,0,1
+9705,Leicester,West Brom,0,1
+9707,Stoke,West Ham,2,2
+9700,QPR,Aston Villa,2,0
+9697,Burnley,Everton,1,3
+9699,Spurs,Newcastle,1,2
+9698,Man Utd,Chelsea,1,1
+9696,West Ham,Man City,2,1
+9691,Liverpool,Hull,0,0
+9692,Southampton,Stoke,1,0
+9693,Sunderland,Arsenal,0,2
+9695,West Brom,Crystal Palace,2,2
+9694,Swansea,Leicester,2,0
+9690,West Brom,Man Utd,2,2
+9688,QPR,Liverpool,2,3
+9689,Stoke,Swansea,2,1
+9685,Man City,Spurs,4,1
+9681,Arsenal,Hull,2,2
+9682,Burnley,West Ham,1,3
+9683,Crystal Palace,Chelsea,1,2
+9684,Everton,Aston Villa,3,0
+9686,Newcastle,Leicester,1,0
+9687,Southampton,Sunderland,8,0
+9678,Man Utd,Everton,2,1
+9677,Chelsea,Arsenal,2,0
+9679,Spurs,Southampton,1,0
+9680,West Ham,QPR,2,0
+9672,Hull,Crystal Palace,2,0
+9673,Leicester,Burnley,2,2
+9674,Liverpool,West Brom,2,1
+9675,Sunderland,Stoke,3,1
+9676,Swansea,Newcastle,2,2
+9671,Aston Villa,Man City,0,2
+9670,Stoke,Newcastle,1,0
+9669,West Brom,Burnley,4,0
+9665,Liverpool,Everton,1,1
+9662,Chelsea,Aston Villa,3,0
+9663,Crystal Palace,Leicester,2,0
+9664,Hull,Man City,2,4
+9666,Man Utd,West Ham,2,1
+9667,Southampton,QPR,2,1
+9668,Sunderland,Swansea,0,0
+9661,Arsenal,Spurs,1,1
+9658,Leicester,Man Utd,5,3
+9660,Spurs,West Brom,0,1
+9657,Everton,Crystal Palace,2,3
+9659,Man City,Chelsea,1,1
+9654,QPR,Stoke,2,2
+9651,Aston Villa,Arsenal,0,3
+9652,Burnley,Sunderland,0,0
+9653,Newcastle,Hull,2,2
+9655,Swansea,Southampton,0,1
+9656,West Ham,Liverpool,3,1
+9650,Hull,West Ham,2,2
+9649,Man Utd,QPR,4,0
+9641,Arsenal,Man City,2,2
+9642,Chelsea,Swansea,4,2
+9643,Crystal Palace,Burnley,0,0
+9645,Southampton,Newcastle,4,0
+9646,Stoke,Leicester,0,1
+9647,Sunderland,Spurs,2,2
+9648,West Brom,Everton,0,2
+9644,Liverpool,Aston Villa,0,1
+9638,Aston Villa,Hull,2,1
+9640,Spurs,Liverpool,0,3
+9639,Leicester,Arsenal,1,1
+9631,Burnley,Man Utd,0,0
+9633,Man City,Stoke,0,1
+9634,Newcastle,Crystal Palace,3,3
+9635,QPR,Sunderland,1,0
+9636,Swansea,West Brom,3,0
+9637,West Ham,Southampton,1,3
+9632,Everton,Chelsea,3,6
+9630,Man City,Liverpool,3,1
+9627,Hull,Stoke,1,1
+9629,Spurs,QPR,4,0
+9628,Sunderland,Man Utd,1,1
+9621,Aston Villa,Newcastle,0,0
+9622,Chelsea,Leicester,2,0
+9623,Crystal Palace,West Ham,1,3
+9625,Southampton,West Brom,0,0
+9626,Swansea,Burnley,1,0
+9624,Everton,Arsenal,2,2
+9620,Burnley,Chelsea,1,3
+9618,Liverpool,Southampton,2,1
+9619,Newcastle,Man City,0,2
+9613,Man Utd,Swansea,1,2
+9612,Leicester,Everton,2,2
+9614,QPR,Hull,0,1
+9615,Stoke,Aston Villa,0,1
+9616,West Brom,Sunderland,2,2
+9617,West Ham,Spurs,0,1
+9611,Arsenal,Crystal Palace,2,1

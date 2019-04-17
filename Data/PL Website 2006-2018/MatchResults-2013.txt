@@ -1,0 +1,1520 @@
+Chelsea
+2-1
+Everton Stamford Bridge, London
+8234
+Liverpool
+1-0
+QPR Anfield, Liverpool
+8235
+Man City
+2-3
+Norwich Etihad Stadium, Manchester
+8236
+Newcastle
+0-1
+Arsenal St James' Park, Newcastle
+8237
+Southampton
+1-1
+Stoke The Friends Provident St Mary's Stadium, Southampton
+8238
+Swansea
+0-3
+Fulham Liberty Stadium, Swansea
+8239
+Spurs
+1-0
+Sunderland White Hart Lane, London
+8240
+West Brom
+5-5
+Man Utd The Hawthorns, West Bromwich
+8241
+West Ham
+4-2
+Reading Boleyn Ground, London
+8242
+Wigan
+2-2
+Aston Villa DW Stadium, Wigan
+8243
+Arsenal
+4-1
+Wigan Emirates Stadium, London
+8232
+Reading
+0-2
+Man City Madejski Stadium, Reading
+8233
+Stoke
+1-2
+Spurs bet365 Stadium, Stoke
+8230
+Everton
+2-0
+West Ham Goodison Park, Liverpool
+8225
+Fulham
+1-3
+Liverpool Craven Cottage, London
+8226
+Norwich
+4-0
+West Brom Carrow Road, Norwich
+8228
+QPR
+1-2
+Newcastle Loftus Road, London
+8229
+Sunderland
+1-1
+Southampton Stadium of Light, Sunderland
+8231
+Man Utd
+2-1
+Swansea Old Trafford, Manchester
+8227
+Aston Villa
+1-2
+Chelsea Villa Park, Birmingham
+8224
+Chelsea
+2-2
+Spurs Stamford Bridge, London
+8223
+Man City
+1-0
+West Brom Etihad Stadium, Manchester
+8221
+Wigan
+2-3
+Swansea DW Stadium, Wigan
+8222
+Sunderland
+1-1
+Stoke Stadium of Light, Sunderland
+8220
+Liverpool
+0-0
+Everton Anfield, Liverpool
+8218
+Man Utd
+0-1
+Chelsea Old Trafford, Manchester
+8219
+Fulham
+2-4
+Reading Craven Cottage, London
+8211
+Norwich
+1-2
+Aston Villa Carrow Road, Norwich
+8212
+Swansea
+0-0
+Man City Liberty Stadium, Swansea
+8214
+Spurs
+1-0
+Southampton White Hart Lane, London
+8215
+West Brom
+2-3
+Wigan The Hawthorns, West Bromwich
+8216
+West Ham
+0-0
+Newcastle Boleyn Ground, London
+8217
+QPR
+0-1
+Arsenal Loftus Road, London
+8213
+Aston Villa
+6-1
+Sunderland Villa Park, Birmingham
+8210
+Reading
+0-0
+QPR Madejski Stadium, Reading
+8209
+Chelsea
+2-0
+Swansea Stamford Bridge, London
+8208
+Arsenal
+1-1
+Man Utd Emirates Stadium, London
+8207
+Everton
+1-0
+Fulham Goodison Park, Liverpool
+8201
+Southampton
+0-3
+West Brom The Friends Provident St Mary's Stadium, Southampton
+8204
+Newcastle
+0-6
+Liverpool St James' Park, Newcastle
+8203
+Man City
+2-1
+West Ham Etihad Stadium, Manchester
+8202
+Stoke
+1-0
+Norwich bet365 Stadium, Stoke
+8205
+Wigan
+2-2
+Spurs DW Stadium, Wigan
+8206
+Man Utd
+3-0
+Aston Villa Old Trafford, Manchester
+8200
+Spurs
+3-1
+Man City White Hart Lane, London
+8199
+Liverpool
+2-2
+Chelsea Anfield, Liverpool
+8198
+Fulham
+0-1
+Arsenal Craven Cottage, London
+8191
+Norwich
+2-1
+Reading Carrow Road, Norwich
+8192
+QPR
+0-2
+Stoke Loftus Road, London
+8193
+Sunderland
+1-0
+Everton Stadium of Light, Sunderland
+8194
+Swansea
+0-0
+Southampton Liberty Stadium, Swansea
+8195
+West Brom
+1-1
+Newcastle The Hawthorns, West Bromwich
+8196
+West Ham
+2-0
+Wigan Boleyn Ground, London
+8197
+Man City
+1-0
+Wigan Etihad Stadium, Manchester
+8189
+West Ham
+2-2
+Man Utd Boleyn Ground, London
+8190
+Fulham
+0-3
+Chelsea Craven Cottage, London
+8188
+Arsenal
+0-0
+Everton Emirates Stadium, London
+8187
+Newcastle
+0-3
+Sunderland St James' Park, Newcastle
+8185
+Stoke
+0-2
+Man Utd bet365 Stadium, Stoke
+8186
+Arsenal
+3-1
+Norwich Emirates Stadium, London
+8180
+Aston Villa
+1-1
+Fulham Villa Park, Birmingham
+8181
+Everton
+2-0
+QPR Goodison Park, Liverpool
+8182
+Reading
+0-0
+Liverpool Madejski Stadium, Reading
+8183
+Southampton
+1-1
+West Ham The Friends Provident St Mary's Stadium, Southampton
+8184
+Man Utd
+1-2
+Man City Old Trafford, Manchester
+8179
+Liverpool
+0-0
+West Ham Anfield, Liverpool
+8175
+Spurs
+2-2
+Everton White Hart Lane, London
+8178
+Chelsea
+2-1
+Sunderland Stamford Bridge, London
+8174
+Newcastle
+1-0
+Fulham St James' Park, Newcastle
+8176
+QPR
+1-1
+Wigan Loftus Road, London
+8177
+Reading
+0-2
+Southampton Madejski Stadium, Reading
+8171
+Norwich
+2-2
+Swansea Carrow Road, Norwich
+8170
+Stoke
+1-3
+Aston Villa bet365 Stadium, Stoke
+8172
+West Brom
+1-2
+Arsenal The Hawthorns, West Bromwich
+8173
+Fulham
+3-2
+QPR Craven Cottage, London
+8169
+Aston Villa
+1-2
+Liverpool Villa Park, Birmingham
+8168
+Arsenal
+4-1
+Reading Emirates Stadium, London
+8160
+Man City
+4-0
+Newcastle Etihad Stadium, Manchester
+8162
+Southampton
+2-1
+Chelsea The Friends Provident St Mary's Stadium, Southampton
+8163
+Everton
+1-0
+Stoke Goodison Park, Liverpool
+8161
+Sunderland
+0-1
+Man Utd Stadium of Light, Sunderland
+8164
+Swansea
+1-2
+Spurs Liberty Stadium, Swansea
+8165
+West Ham
+3-1
+West Brom Boleyn Ground, London
+8166
+Wigan
+1-0
+Norwich DW Stadium, Wigan
+8167
+Sunderland
+1-1
+Norwich Stadium of Light, Sunderland
+8157
+Spurs
+0-1
+Fulham White Hart Lane, London
+8158
+Chelsea
+2-0
+West Ham Stamford Bridge, London
+8156
+Wigan
+2-1
+Newcastle DW Stadium, Wigan
+8159
+Everton
+2-0
+Man City Goodison Park, Liverpool
+8151
+Aston Villa
+3-2
+QPR Villa Park, Birmingham
+8150
+Southampton
+3-1
+Liverpool The Friends Provident St Mary's Stadium, Southampton
+8153
+Stoke
+0-0
+West Brom bet365 Stadium, Stoke
+8154
+Swansea
+0-2
+Arsenal Liberty Stadium, Swansea
+8155
+Man Utd
+1-0
+Reading Old Trafford, Manchester
+8152
+Newcastle
+2-1
+Stoke St James' Park, Newcastle
+8149
+Liverpool
+3-2
+Spurs Anfield, Liverpool
+8148
+Norwich
+0-0
+Southampton Carrow Road, Norwich
+8144
+QPR
+3-1
+Sunderland Loftus Road, London
+8145
+Reading
+1-2
+Aston Villa Madejski Stadium, Reading
+8146
+West Brom
+2-1
+Swansea The Hawthorns, West Bromwich
+8147
+Aston Villa
+0-1
+Man City Villa Park, Birmingham
+8143
+Spurs
+2-1
+Arsenal White Hart Lane, London
+8142
+Chelsea
+1-0
+West Brom Stamford Bridge, London
+8134
+Everton
+3-1
+Reading Goodison Park, Liverpool
+8135
+Man Utd
+4-0
+Norwich Old Trafford, Manchester
+8136
+Southampton
+1-2
+QPR The Friends Provident St Mary's Stadium, Southampton
+8137
+Stoke
+0-1
+West Ham bet365 Stadium, Stoke
+8138
+Sunderland
+2-2
+Fulham Stadium of Light, Sunderland
+8139
+Swansea
+1-0
+Newcastle Liberty Stadium, Swansea
+8140
+Wigan
+0-4
+Liverpool DW Stadium, Wigan
+8141
+West Ham
+2-3
+Spurs Boleyn Ground, London
+8133
+Man City
+2-0
+Chelsea Etihad Stadium, Manchester
+8131
+Newcastle
+4-2
+Southampton St James' Park, Newcastle
+8132
+Fulham
+1-0
+Stoke Craven Cottage, London
+8126
+Arsenal
+2-1
+Aston Villa Emirates Stadium, London
+8125
+Norwich
+2-1
+Everton Carrow Road, Norwich
+8127
+QPR
+0-2
+Man Utd Loftus Road, London
+8128
+Reading
+0-3
+Wigan Madejski Stadium, Reading
+8129
+West Brom
+2-1
+Sunderland The Hawthorns, West Bromwich
+8130
+Liverpool
+5-0
+Swansea Anfield, Liverpool
+8124
+Liverpool
+0-2
+West Brom Anfield, Liverpool
+8123
+Aston Villa
+2-1
+West Ham Villa Park, Birmingham
+8121
+Man Utd
+2-0
+Everton Old Trafford, Manchester
+8122
+Spurs
+2-1
+Newcastle White Hart Lane, London
+8120
+Chelsea
+4-1
+Wigan Stamford Bridge, London
+8114
+Norwich
+0-0
+Fulham Carrow Road, Norwich
+8115
+Stoke
+2-1
+Reading bet365 Stadium, Stoke
+8117
+Sunderland
+0-1
+Arsenal Stadium of Light, Sunderland
+8118
+Swansea
+4-1
+QPR Liberty Stadium, Swansea
+8119
+Southampton
+3-1
+Man City The Friends Provident St Mary's Stadium, Southampton
+8116
+West Brom
+0-1
+Spurs The Hawthorns, West Bromwich
+8113
+Man City
+2-2
+Liverpool Etihad Stadium, Manchester
+8112
+QPR
+0-0
+Norwich Loftus Road, London
+8108
+Arsenal
+1-0
+Stoke Emirates Stadium, London
+8104
+Everton
+3-3
+Aston Villa Goodison Park, Liverpool
+8105
+Newcastle
+3-2
+Chelsea St James' Park, Newcastle
+8107
+Reading
+2-1
+Sunderland Madejski Stadium, Reading
+8109
+West Ham
+1-0
+Swansea Boleyn Ground, London
+8110
+Wigan
+2-2
+Southampton DW Stadium, Wigan
+8111
+Fulham
+0-1
+Man Utd Craven Cottage, London
+8106
+Arsenal
+2-2
+Liverpool Emirates Stadium, London
+8098
+Everton
+2-1
+West Brom Goodison Park, Liverpool
+8099
+Norwich
+1-1
+Spurs Carrow Road, Norwich
+8102
+Fulham
+3-1
+West Ham Craven Cottage, London
+8100
+Man Utd
+2-1
+Southampton Old Trafford, Manchester
+8101
+Reading
+2-2
+Chelsea Madejski Stadium, Reading
+8103
+Aston Villa
+1-2
+Newcastle Villa Park, Birmingham
+8094
+QPR
+0-0
+Man City Loftus Road, London
+8095
+Stoke
+2-2
+Wigan bet365 Stadium, Stoke
+8096
+Sunderland
+0-0
+Swansea Stadium of Light, Sunderland
+8097
+Arsenal
+5-1
+West Ham Emirates Stadium, London
+8093
+Southampton
+0-0
+Everton The Friends Provident St Mary's Stadium, Southampton
+8092
+Chelsea
+2-1
+Arsenal Stamford Bridge, London
+8090
+Spurs
+1-1
+Man Utd White Hart Lane, London
+8091
+Liverpool
+5-0
+Norwich Anfield, Liverpool
+8083
+Man City
+2-0
+Fulham Etihad Stadium, Manchester
+8084
+Newcastle
+1-2
+Reading St James' Park, Newcastle
+8085
+Swansea
+3-1
+Stoke Liberty Stadium, Swansea
+8086
+West Ham
+1-1
+QPR Boleyn Ground, London
+8088
+West Brom
+2-2
+Aston Villa The Hawthorns, West Bromwich
+8087
+Wigan
+2-3
+Sunderland DW Stadium, Wigan
+8089
+Chelsea
+2-2
+Southampton Stamford Bridge, London
+8082
+Man Utd
+2-1
+Liverpool Old Trafford, Manchester
+8081
+Arsenal
+0-2
+Man City Emirates Stadium, London
+8080
+QPR
+0-0
+Spurs Loftus Road, London
+8076
+Aston Villa
+0-1
+Southampton Villa Park, Birmingham
+8072
+Everton
+0-0
+Swansea Goodison Park, Liverpool
+8073
+Fulham
+1-1
+Wigan Craven Cottage, London
+8074
+Norwich
+0-0
+Newcastle Carrow Road, Norwich
+8075
+Reading
+3-2
+West Brom Madejski Stadium, Reading
+8077
+Stoke
+0-4
+Chelsea bet365 Stadium, Stoke
+8078
+Sunderland
+3-0
+West Ham Stadium of Light, Sunderland
+8079
+Chelsea
+0-1
+QPR Stamford Bridge, London
+8069
+Liverpool
+3-0
+Sunderland Anfield, Liverpool
+8070
+Newcastle
+1-2
+Everton St James' Park, Newcastle
+8071
+West Brom
+1-2
+Fulham The Hawthorns, West Bromwich
+8066
+Man City
+3-0
+Stoke Etihad Stadium, Manchester
+8062
+Swansea
+2-2
+Aston Villa Liberty Stadium, Swansea
+8064
+Spurs
+3-1
+Reading White Hart Lane, London
+8065
+West Ham
+2-1
+Norwich Boleyn Ground, London
+8067
+Wigan
+0-4
+Man Utd DW Stadium, Wigan
+8068
+Southampton
+1-1
+Arsenal The Friends Provident St Mary's Stadium, Southampton
+8063
+Everton
+1-2
+Chelsea Goodison Park, Liverpool
+8060
+QPR
+0-3
+Liverpool Loftus Road, London
+8061
+Sunderland
+1-2
+Spurs Stadium of Light, Sunderland
+8059
+Aston Villa
+0-3
+Wigan Villa Park, Birmingham
+8053
+Fulham
+1-2
+Swansea Craven Cottage, London
+8054
+Man Utd
+2-0
+West Brom Old Trafford, Manchester
+8055
+Norwich
+3-4
+Man City Carrow Road, Norwich
+8056
+Reading
+1-0
+West Ham Madejski Stadium, Reading
+8057
+Stoke
+3-3
+Southampton bet365 Stadium, Stoke
+8058
+Arsenal
+7-3
+Newcastle Emirates Stadium, London
+8052
+Everton
+2-1
+Wigan Goodison Park, Liverpool
+8044
+Fulham
+1-1
+Southampton Craven Cottage, London
+8045
+Man Utd
+4-3
+Newcastle Old Trafford, Manchester
+8046
+Norwich
+0-1
+Chelsea Carrow Road, Norwich
+8047
+QPR
+1-2
+West Brom Loftus Road, London
+8048
+Reading
+0-0
+Swansea Madejski Stadium, Reading
+8049
+Aston Villa
+0-4
+Spurs Villa Park, Birmingham
+8043
+Stoke
+3-1
+Liverpool bet365 Stadium, Stoke
+8050
+Sunderland
+1-0
+Man City Stadium of Light, Sunderland
+8051
+Swansea
+1-1
+Man Utd Liberty Stadium, Swansea
+8042
+Chelsea
+8-0
+Aston Villa Stamford Bridge, London
+8041
+Wigan
+0-1
+Arsenal DW Stadium, Wigan
+8040
+Man City
+1-0
+Reading Etihad Stadium, Manchester
+8034
+Newcastle
+1-0
+QPR St James' Park, Newcastle
+8035
+Southampton
+0-1
+Sunderland The Friends Provident St Mary's Stadium, Southampton
+8036
+Spurs
+0-0
+Stoke White Hart Lane, London
+8037
+West Brom
+2-1
+Norwich The Hawthorns, West Bromwich
+8038
+West Ham
+1-2
+Everton Boleyn Ground, London
+8039
+Liverpool
+4-0
+Fulham Anfield, Liverpool
+8033
+Reading
+2-5
+Arsenal Madejski Stadium, Reading
+8032
+Spurs
+1-0
+Swansea White Hart Lane, London
+8030
+West Brom
+0-0
+West Ham The Hawthorns, West Bromwich
+8031
+Newcastle
+1-3
+Man City St James' Park, Newcastle
+8026
+Liverpool
+1-3
+Aston Villa Anfield, Liverpool
+8024
+Man Utd
+3-1
+Sunderland Old Trafford, Manchester
+8025
+Norwich
+2-1
+Wigan Carrow Road, Norwich
+8027
+QPR
+2-1
+Fulham Loftus Road, London
+8028
+Stoke
+1-1
+Everton bet365 Stadium, Stoke
+8029
+Sunderland
+3-0
+Reading Stadium of Light, Sunderland
+8023
+Fulham
+2-1
+Newcastle Craven Cottage, London
+8022
+Man City
+2-3
+Man Utd Etihad Stadium, Manchester
+8020
+Everton
+2-1
+Spurs Goodison Park, Liverpool
+8019
+West Ham
+2-3
+Liverpool Boleyn Ground, London
+8021
+Arsenal
+2-0
+West Brom Emirates Stadium, London
+8013
+Aston Villa
+0-0
+Stoke Villa Park, Birmingham
+8014
+Southampton
+1-0
+Reading The Friends Provident St Mary's Stadium, Southampton
+8015
+Sunderland
+1-3
+Chelsea Stadium of Light, Sunderland
+8016
+Swansea
+3-4
+Norwich Liberty Stadium, Swansea
+8017
+Wigan
+2-2
+QPR DW Stadium, Wigan
+8018
+Newcastle
+3-0
+Wigan St James' Park, Newcastle
+8012
+Norwich
+2-1
+Sunderland Carrow Road, Norwich
+8011
+Arsenal
+0-2
+Swansea Emirates Stadium, London
+8003
+Fulham
+0-3
+Spurs Craven Cottage, London
+8004
+Liverpool
+1-0
+Southampton Anfield, Liverpool
+8005
+Man City
+1-1
+Everton Etihad Stadium, Manchester
+8006
+QPR
+1-1
+Aston Villa Loftus Road, London
+8007
+West Brom
+0-1
+Stoke The Hawthorns, West Bromwich
+8009
+Reading
+3-4
+Man Utd Madejski Stadium, Reading
+8008
+West Ham
+3-1
+Chelsea Boleyn Ground, London
+8010
+Chelsea
+0-0
+Fulham Stamford Bridge, London
+7995
+Everton
+1-1
+Arsenal Goodison Park, Liverpool
+7996
+Southampton
+1-1
+Norwich The Friends Provident St Mary's Stadium, Southampton
+7998
+Stoke
+2-1
+Newcastle bet365 Stadium, Stoke
+7999
+Swansea
+3-1
+West Brom Liberty Stadium, Swansea
+8000
+Spurs
+2-1
+Liverpool White Hart Lane, London
+8001
+Man Utd
+1-0
+West Ham Old Trafford, Manchester
+7997
+Wigan
+0-2
+Man City DW Stadium, Wigan
+8002
+Sunderland
+0-0
+QPR Stadium of Light, Sunderland
+7994
+Aston Villa
+1-0
+Reading Villa Park, Birmingham
+7993
+Swansea
+0-0
+Liverpool Liberty Stadium, Swansea
+7991
+Southampton
+2-0
+Newcastle The Friends Provident St Mary's Stadium, Southampton
+7990
+Chelsea
+0-0
+Man City Stamford Bridge, London
+7989
+Spurs
+3-1
+West Ham White Hart Lane, London
+7992
+Sunderland
+2-4
+West Brom Stadium of Light, Sunderland
+7987
+Everton
+1-1
+Norwich Goodison Park, Liverpool
+7984
+Man Utd
+3-1
+QPR Old Trafford, Manchester
+7985
+Stoke
+1-0
+Fulham bet365 Stadium, Stoke
+7986
+Wigan
+3-2
+Reading DW Stadium, Wigan
+7988
+Aston Villa
+0-0
+Arsenal Villa Park, Birmingham
+7983
+West Ham
+1-1
+Stoke Boleyn Ground, London
+7982
+Fulham
+1-3
+Sunderland Craven Cottage, London
+7981
+Arsenal
+5-2
+Spurs Emirates Stadium, London
+7973
+Liverpool
+3-0
+Wigan Anfield, Liverpool
+7974
+Man City
+5-0
+Aston Villa Etihad Stadium, Manchester
+7975
+Newcastle
+1-2
+Swansea St James' Park, Newcastle
+7976
+QPR
+1-3
+Southampton Loftus Road, London
+7978
+Reading
+2-1
+Everton Madejski Stadium, Reading
+7979
+West Brom
+2-1
+Chelsea The Hawthorns, West Bromwich
+7980
+Norwich
+1-0
+Man Utd Carrow Road, Norwich
+7977
+Man City
+2-1
+Spurs Etihad Stadium, Manchester
+7971
+Newcastle
+0-1
+West Ham St James' Park, Newcastle
+7972
+Chelsea
+1-1
+Liverpool Stamford Bridge, London
+7970
+Arsenal
+3-3
+Fulham Emirates Stadium, London
+7963
+Everton
+2-1
+Sunderland Goodison Park, Liverpool
+7965
+Reading
+0-0
+Norwich Madejski Stadium, Reading
+7966
+Southampton
+1-1
+Swansea The Friends Provident St Mary's Stadium, Southampton
+7967
+Stoke
+1-0
+QPR bet365 Stadium, Stoke
+7968
+Aston Villa
+2-3
+Man Utd Villa Park, Birmingham
+7964
+Wigan
+1-2
+West Brom DW Stadium, Wigan
+7969
+West Brom
+2-0
+Southampton The Hawthorns, West Bromwich
+7962
+QPR
+1-1
+Reading Loftus Road, London
+7961
+Liverpool
+1-1
+Newcastle Anfield, Liverpool
+7960
+Man Utd
+2-1
+Arsenal Old Trafford, Manchester
+7954
+Fulham
+2-2
+Everton Craven Cottage, London
+7953
+Norwich
+1-0
+Stoke Carrow Road, Norwich
+7955
+Sunderland
+0-1
+Aston Villa Stadium of Light, Sunderland
+7956
+Swansea
+1-1
+Chelsea Liberty Stadium, Swansea
+7957
+Spurs
+0-1
+Wigan White Hart Lane, London
+7958
+West Ham
+0-0
+Man City Boleyn Ground, London
+7959
+Everton
+2-2
+Liverpool Goodison Park, Liverpool
+7950
+Newcastle
+2-1
+West Brom St James' Park, Newcastle
+7951
+Southampton
+1-2
+Spurs The Friends Provident St Mary's Stadium, Southampton
+7952
+Chelsea
+2-3
+Man Utd Stamford Bridge, London
+7949
+Aston Villa
+1-1
+Norwich Villa Park, Birmingham
+7944
+Arsenal
+1-0
+QPR Emirates Stadium, London
+7943
+Reading
+3-3
+Fulham Madejski Stadium, Reading
+7946
+Stoke
+0-0
+Sunderland bet365 Stadium, Stoke
+7947
+Wigan
+2-1
+West Ham DW Stadium, Wigan
+7948
+Man City
+1-0
+Swansea Etihad Stadium, Manchester
+7945
+Sunderland
+1-1
+Newcastle Stadium of Light, Sunderland
+7942
+QPR
+1-1
+Everton Loftus Road, London
+7941
+Spurs
+2-4
+Chelsea White Hart Lane, London
+7938
+Fulham
+1-0
+Aston Villa Craven Cottage, London
+7933
+Liverpool
+1-0
+Reading Anfield, Liverpool
+7934
+Man Utd
+4-2
+Stoke Old Trafford, Manchester
+7935
+Swansea
+2-1
+Wigan Liberty Stadium, Swansea
+7937
+West Brom
+1-2
+Man City The Hawthorns, West Bromwich
+7939
+West Ham
+4-1
+Southampton Boleyn Ground, London
+7940
+Norwich
+1-0
+Arsenal Carrow Road, Norwich
+7936
+Southampton
+2-2
+Fulham The Friends Provident St Mary's Stadium, Southampton
+7931
+Liverpool
+0-0
+Stoke Anfield, Liverpool
+7929
+Spurs
+2-0
+Aston Villa White Hart Lane, London
+7932
+Newcastle
+0-3
+Man Utd St James' Park, Newcastle
+7930
+Chelsea
+4-1
+Norwich Stamford Bridge, London
+7923
+Swansea
+2-2
+Reading Liberty Stadium, Swansea
+7925
+West Brom
+3-2
+QPR The Hawthorns, West Bromwich
+7926
+Wigan
+2-2
+Everton DW Stadium, Wigan
+7928
+West Ham
+1-3
+Arsenal Boleyn Ground, London
+7927
+Man City
+3-0
+Sunderland Etihad Stadium, Manchester
+7924
+QPR
+1-2
+West Ham Loftus Road, London
+7922
+Aston Villa
+1-1
+West Brom Villa Park, Birmingham
+7921
+Arsenal
+1-2
+Chelsea Emirates Stadium, London
+7913
+Everton
+3-1
+Southampton Goodison Park, Liverpool
+7914
+Fulham
+1-2
+Man City Craven Cottage, London
+7915
+Norwich
+2-5
+Liverpool Carrow Road, Norwich
+7917
+Reading
+2-2
+Newcastle Madejski Stadium, Reading
+7918
+Stoke
+2-0
+Swansea bet365 Stadium, Stoke
+7919
+Sunderland
+1-0
+Wigan Stadium of Light, Sunderland
+7920
+Man Utd
+2-3
+Spurs Old Trafford, Manchester
+7916
+Liverpool
+1-2
+Man Utd Anfield, Liverpool
+7909
+Newcastle
+1-0
+Norwich St James' Park, Newcastle
+7911
+Man City
+1-1
+Arsenal Etihad Stadium, Manchester
+7910
+Spurs
+2-1
+QPR White Hart Lane, London
+7912
+Swansea
+0-3
+Everton Liberty Stadium, Swansea
+7905
+Chelsea
+1-0
+Stoke Stamford Bridge, London
+7903
+Southampton
+4-1
+Aston Villa The Friends Provident St Mary's Stadium, Southampton
+7904
+West Brom
+1-0
+Reading The Hawthorns, West Bromwich
+7906
+West Ham
+1-1
+Sunderland Boleyn Ground, London
+7907
+Wigan
+1-2
+Fulham DW Stadium, Wigan
+7908
+Everton
+2-2
+Newcastle Goodison Park, Liverpool
+7902
+Reading
+1-3
+Spurs Madejski Stadium, Reading
+7901
+Norwich
+0-0
+West Ham Carrow Road, Norwich
+7897
+Arsenal
+6-1
+Southampton Emirates Stadium, London
+7893
+Aston Villa
+2-0
+Swansea Villa Park, Birmingham
+7894
+Fulham
+3-0
+West Brom Craven Cottage, London
+7895
+Man Utd
+4-0
+Wigan Old Trafford, Manchester
+7896
+QPR
+0-0
+Chelsea Loftus Road, London
+7898
+Stoke
+1-1
+Man City bet365 Stadium, Stoke
+7899
+Sunderland
+1-1
+Liverpool Stadium of Light, Sunderland
+7900
+Liverpool
+0-2
+Arsenal Anfield, Liverpool
+7890
+Newcastle
+1-1
+Aston Villa St James' Park, Newcastle
+7891
+Southampton
+2-3
+Man Utd The Friends Provident St Mary's Stadium, Southampton
+7892
+West Ham
+3-0
+Fulham Boleyn Ground, London
+7888
+Swansea
+2-2
+Sunderland Liberty Stadium, Swansea
+7885
+Spurs
+1-1
+Norwich White Hart Lane, London
+7886
+West Brom
+2-0
+Everton The Hawthorns, West Bromwich
+7887
+Wigan
+2-2
+Stoke DW Stadium, Wigan
+7889
+Man City
+3-1
+QPR Etihad Stadium, Manchester
+7884
+Stoke
+0-0
+Arsenal bet365 Stadium, Stoke
+7883
+Liverpool
+2-2
+Man City Anfield, Liverpool
+7882
+Swansea
+3-0
+West Ham Liberty Stadium, Swansea
+7880
+Aston Villa
+1-3
+Everton Villa Park, Birmingham
+7875
+Man Utd
+3-2
+Fulham Old Trafford, Manchester
+7877
+Norwich
+1-1
+QPR Carrow Road, Norwich
+7878
+Southampton
+0-2
+Wigan The Friends Provident St Mary's Stadium, Southampton
+7879
+Spurs
+1-1
+West Brom White Hart Lane, London
+7881
+Chelsea
+2-0
+Newcastle Stamford Bridge, London
+7876
+Chelsea
+4-2
+Reading Stamford Bridge, London
+7874
+Everton
+1-0
+Man Utd Goodison Park, Liverpool
+7873
+Wigan
+0-2
+Chelsea DW Stadium, Wigan
+7872
+Man City
+3-2
+Southampton Etihad Stadium, Manchester
+7871
+Arsenal
+0-0
+Sunderland Emirates Stadium, London
+7864
+Fulham
+5-0
+Norwich Craven Cottage, London
+7865
+QPR
+0-5
+Swansea Loftus Road, London
+7867
+Reading
+1-1
+Stoke Madejski Stadium, Reading
+7868
+West Brom
+3-0
+Liverpool The Hawthorns, West Bromwich
+7869
+West Ham
+1-0
+Aston Villa Boleyn Ground, London
+7870
+Newcastle
+2-1
+Spurs St James' Park, Newcastle
+7866

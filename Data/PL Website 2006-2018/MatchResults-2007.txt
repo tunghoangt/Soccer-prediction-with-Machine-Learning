@@ -1,0 +1,800 @@
+Blackburn
+3-3
+Reading Ewood Park, Blackburn
+5937
+Bolton
+2-2
+Aston Villa Macron Stadium, Bolton
+5938
+Chelsea
+1-1
+Everton Stamford Bridge, London
+5939
+Liverpool
+2-2
+Charlton Anfield, Liverpool
+5940
+Man Utd
+0-1
+West Ham Old Trafford, Manchester
+5941
+Middlesbrough
+3-1
+Fulham Riverside Stadium, Middlesbrough
+5942
+Portsmouth
+0-0
+Arsenal Fratton Park, Portsmouth
+5943
+Sheffield Utd
+1-2
+Wigan Bramall Lane, Sheffield
+5944
+Spurs
+2-1
+Man City White Hart Lane, London
+5945
+Watford
+1-1
+Newcastle Vicarage Road, Watford
+5946
+Spurs
+1-1
+Blackburn White Hart Lane, London
+5936
+Chelsea
+0-0
+Man Utd Stamford Bridge, London
+5935
+Charlton
+0-2
+Spurs The Valley, London
+5934
+Arsenal
+1-1
+Chelsea Emirates Stadium, London
+5933
+Man City
+0-1
+Man Utd Etihad Stadium, Manchester
+5928
+Everton
+3-0
+Portsmouth Goodison Park, Liverpool
+5926
+Fulham
+1-0
+Liverpool Craven Cottage, London
+5927
+Newcastle
+0-2
+Blackburn Sports Direct Arena, Newcastle
+5929
+Reading
+0-2
+Watford Madejski Stadium, Reading
+5930
+West Ham
+3-1
+Bolton Boleyn Ground, London
+5931
+Wigan
+0-1
+Middlesbrough DW Stadium, Wigan
+5932
+Aston Villa
+3-0
+Sheffield Utd Villa Park, Birmingham
+5925
+Reading
+1-0
+Newcastle Madejski Stadium, Reading
+5924
+Arsenal
+3-1
+Fulham Emirates Stadium, London
+5923
+Chelsea
+2-2
+Bolton Stamford Bridge, London
+5916
+Everton
+2-4
+Man Utd Goodison Park, Liverpool
+5917
+Blackburn
+4-1
+Charlton Ewood Park, Blackburn
+5915
+Man City
+0-2
+Aston Villa Etihad Stadium, Manchester
+5918
+Middlesbrough
+2-3
+Spurs Riverside Stadium, Middlesbrough
+5919
+Portsmouth
+2-1
+Liverpool Fratton Park, Portsmouth
+5920
+Sheffield Utd
+1-0
+Watford Bramall Lane, Sheffield
+5921
+Wigan
+0-3
+West Ham DW Stadium, Wigan
+5922
+Newcastle
+0-0
+Chelsea Sports Direct Arena, Newcastle
+5914
+Aston Villa
+0-0
+Portsmouth Villa Park, Birmingham
+5913
+Bolton
+1-3
+Reading Macron Stadium, Bolton
+5905
+Charlton
+1-1
+Sheffield Utd The Valley, London
+5906
+Fulham
+1-1
+Blackburn Craven Cottage, London
+5907
+Liverpool
+2-0
+Wigan Anfield, Liverpool
+5908
+Watford
+1-1
+Man City Vicarage Road, Watford
+5911
+Man Utd
+1-1
+Middlesbrough Old Trafford, Manchester
+5909
+Spurs
+2-2
+Arsenal White Hart Lane, London
+5910
+West Ham
+1-0
+Everton Boleyn Ground, London
+5912
+Blackburn
+3-1
+Watford Ewood Park, Blackburn
+5902
+Liverpool
+2-0
+Middlesbrough Anfield, Liverpool
+5903
+West Ham
+1-4
+Chelsea Boleyn Ground, London
+5904
+Arsenal
+3-1
+Man City Emirates Stadium, London
+5900
+Man Utd
+2-0
+Sheffield Utd Old Trafford, Manchester
+5901
+Wigan
+3-3
+Spurs DW Stadium, Wigan
+5899
+Everton
+2-1
+Charlton Goodison Park, Liverpool
+5898
+Arsenal
+2-1
+Bolton Emirates Stadium, London
+5892
+Man City
+0-0
+Liverpool Etihad Stadium, Manchester
+5893
+Middlesbrough
+1-3
+Aston Villa Riverside Stadium, Middlesbrough
+5894
+Portsmouth
+2-1
+Newcastle Fratton Park, Portsmouth
+5895
+Reading
+1-0
+Fulham Madejski Stadium, Reading
+5896
+Sheffield Utd
+3-0
+West Ham Bramall Lane, Sheffield
+5897
+Watford
+4-2
+Portsmouth Vicarage Road, Watford
+5891
+Aston Villa
+1-1
+Wigan Villa Park, Birmingham
+5886
+Bolton
+1-1
+Everton Macron Stadium, Bolton
+5887
+Fulham
+1-3
+Man City Craven Cottage, London
+5889
+Newcastle
+0-0
+Arsenal Sports Direct Arena, Newcastle
+5890
+Charlton
+0-0
+Reading The Valley, London
+5888
+Chelsea
+1-0
+Spurs Stamford Bridge, London
+5880
+Arsenal
+0-1
+West Ham Emirates Stadium, London
+5878
+Blackburn
+1-2
+Aston Villa Ewood Park, Blackburn
+5879
+Middlesbrough
+4-1
+Watford Riverside Stadium, Middlesbrough
+5881
+Reading
+1-2
+Liverpool Madejski Stadium, Reading
+5883
+Sheffield Utd
+1-2
+Newcastle Bramall Lane, Sheffield
+5884
+Wigan
+1-3
+Bolton DW Stadium, Wigan
+5885
+Portsmouth
+2-1
+Man Utd Fratton Park, Portsmouth
+5882
+Man City
+0-0
+Charlton Etihad Stadium, Manchester
+5877
+Everton
+4-1
+Fulham Goodison Park, Liverpool
+5876
+Aston Villa
+1-1
+Everton Villa Park, Birmingham
+5875
+Spurs
+1-0
+Reading White Hart Lane, London
+5874
+Bolton
+1-0
+Sheffield Utd Macron Stadium, Bolton
+5866
+Charlton
+1-0
+Wigan The Valley, London
+5867
+Fulham
+1-1
+Portsmouth Craven Cottage, London
+5868
+Man Utd
+4-1
+Blackburn Old Trafford, Manchester
+5870
+Newcastle
+0-1
+Man City Sports Direct Arena, Newcastle
+5871
+West Ham
+2-0
+Middlesbrough Boleyn Ground, London
+5873
+Watford
+0-1
+Chelsea Vicarage Road, Watford
+5872
+Liverpool
+4-1
+Arsenal Anfield, Liverpool
+5869
+Charlton
+2-0
+Newcastle The Valley, London
+5864
+Aston Villa
+0-0
+Liverpool Villa Park, Birmingham
+5863
+Everton
+1-0
+Arsenal Goodison Park, Liverpool
+5865
+Man Utd
+4-1
+Bolton Old Trafford, Manchester
+5858
+Chelsea
+3-0
+Sheffield Utd Stamford Bridge, London
+5857
+Middlesbrough
+0-2
+Man City Riverside Stadium, Middlesbrough
+5859
+Reading
+0-0
+Portsmouth Madejski Stadium, Reading
+5860
+Spurs
+3-1
+Watford White Hart Lane, London
+5861
+Wigan
+0-0
+Fulham DW Stadium, Wigan
+5862
+Blackburn
+1-2
+West Ham Ewood Park, Blackburn
+5856
+Aston Villa
+0-1
+Arsenal Villa Park, Birmingham
+5854
+Man City
+0-1
+Chelsea Etihad Stadium, Manchester
+5855
+Bolton
+1-2
+Blackburn Macron Stadium, Bolton
+5852
+West Ham
+3-4
+Spurs Boleyn Ground, London
+5853
+Liverpool
+0-1
+Man Utd Anfield, Liverpool
+5846
+Arsenal
+2-1
+Reading Emirates Stadium, London
+5844
+Fulham
+1-1
+Aston Villa Craven Cottage, London
+5845
+Man City
+0-1
+Wigan Etihad Stadium, Manchester
+5847
+Newcastle
+0-0
+Middlesbrough Sports Direct Arena, Newcastle
+5848
+Sheffield Utd
+1-1
+Everton Bramall Lane, Sheffield
+5850
+Watford
+2-2
+Charlton Vicarage Road, Watford
+5851
+Portsmouth
+0-2
+Chelsea Fratton Park, Portsmouth
+5849
+Wigan
+1-0
+Newcastle DW Stadium, Wigan
+5843
+Blackburn
+3-0
+Portsmouth Ewood Park, Blackburn
+5841
+Spurs
+4-1
+Bolton White Hart Lane, London
+5842
+Fulham
+1-2
+Man Utd Craven Cottage, London
+5837
+Charlton
+4-0
+West Ham The Valley, London
+5836
+Liverpool
+4-0
+Sheffield Utd Anfield, Liverpool
+5838
+Middlesbrough
+2-1
+Reading Riverside Stadium, Middlesbrough
+5839
+Watford
+0-3
+Everton Vicarage Road, Watford
+5840
+Watford
+1-1
+Wigan Vicarage Road, Watford
+5835
+Everton
+1-2
+Spurs Goodison Park, Liverpool
+5834
+Bolton
+2-1
+Fulham Macron Stadium, Bolton
+5833
+Arsenal
+2-1
+Wigan Emirates Stadium, London
+5832
+Chelsea
+3-0
+Middlesbrough Stamford Bridge, London
+5824
+Everton
+1-0
+Blackburn Goodison Park, Liverpool
+5825
+Man Utd
+2-0
+Charlton Old Trafford, Manchester
+5826
+Newcastle
+2-1
+Liverpool Sports Direct Arena, Newcastle
+5827
+Portsmouth
+2-1
+Man City Fratton Park, Portsmouth
+5828
+Reading
+2-0
+Aston Villa Madejski Stadium, Reading
+5829
+Sheffield Utd
+2-1
+Spurs Bramall Lane, Sheffield
+5830
+West Ham
+0-1
+Watford Boleyn Ground, London
+5831
+Spurs
+0-4
+Man Utd White Hart Lane, London
+5823
+Liverpool
+0-0
+Everton Anfield, Liverpool
+5818
+Aston Villa
+1-0
+West Ham Villa Park, Birmingham
+5814
+Blackburn
+2-1
+Sheffield Utd Ewood Park, Blackburn
+5815
+Charlton
+0-1
+Chelsea The Valley, London
+5816
+Fulham
+2-1
+Newcastle Craven Cottage, London
+5817
+Man City
+0-2
+Reading Etihad Stadium, Manchester
+5819
+Watford
+0-1
+Bolton Vicarage Road, Watford
+5821
+Wigan
+1-0
+Portsmouth DW Stadium, Wigan
+5822
+Middlesbrough
+1-1
+Arsenal Riverside Stadium, Middlesbrough
+5820
+Chelsea
+3-0
+Blackburn Stamford Bridge, London
+5811
+Bolton
+1-1
+Charlton Macron Stadium, Bolton
+5810
+Man Utd
+4-0
+Watford Old Trafford, Manchester
+5812
+Newcastle
+3-1
+Aston Villa Sports Direct Arena, Newcastle
+5813
+Portsmouth
+0-0
+Middlesbrough Fratton Park, Portsmouth
+5806
+Sheffield Utd
+2-0
+Fulham Bramall Lane, Sheffield
+5808
+West Ham
+1-2
+Liverpool Boleyn Ground, London
+5809
+Reading
+3-2
+Wigan Madejski Stadium, Reading
+5807
+Watford
+2-1
+Blackburn Vicarage Road, Watford
+5805
+Wigan
+0-2
+Everton DW Stadium, Wigan
+5804
+Arsenal
+2-1
+Man Utd Emirates Stadium, London
+5803
+Liverpool
+2-0
+Chelsea Anfield, Liverpool
+5797
+Aston Villa
+2-0
+Watford Villa Park, Birmingham
+5795
+Fulham
+1-1
+Spurs Craven Cottage, London
+5796
+Middlesbrough
+5-1
+Bolton Riverside Stadium, Middlesbrough
+5799
+Newcastle
+2-2
+West Ham Sports Direct Arena, Newcastle
+5800
+Portsmouth
+0-1
+Charlton Fratton Park, Portsmouth
+5801
+Reading
+3-1
+Sheffield Utd Madejski Stadium, Reading
+5802
+Man City
+0-3
+Blackburn Etihad Stadium, Manchester
+5798
+Everton
+1-1
+Reading Goodison Park, Liverpool
+5793
+Spurs
+2-3
+Newcastle White Hart Lane, London
+5794
+Bolton
+0-0
+Man City Macron Stadium, Bolton
+5786
+Charlton
+1-3
+Middlesbrough The Valley, London
+5787
+Chelsea
+4-0
+Wigan Stamford Bridge, London
+5788
+Man Utd
+3-1
+Aston Villa Old Trafford, Manchester
+5789
+Sheffield Utd
+1-1
+Portsmouth Bramall Lane, Sheffield
+5790
+Blackburn
+0-2
+Arsenal Ewood Park, Blackburn
+5785
+Watford
+0-3
+Liverpool Vicarage Road, Watford
+5791
+West Ham
+3-3
+Fulham Boleyn Ground, London
+5792
+Arsenal
+4-0
+Charlton Emirates Stadium, London
+5783
+Aston Villa
+0-0
+Chelsea Villa Park, Birmingham
+5784
+Liverpool
+3-0
+Bolton Anfield, Liverpool
+5776
+Fulham
+0-0
+Watford Craven Cottage, London
+5775
+Man City
+2-1
+Everton Etihad Stadium, Manchester
+5777
+Middlesbrough
+3-1
+Sheffield Utd Riverside Stadium, Middlesbrough
+5778
+Portsmouth
+1-1
+Spurs Fratton Park, Portsmouth
+5780
+Reading
+6-0
+West Ham Madejski Stadium, Reading
+5781
+Wigan
+0-3
+Blackburn DW Stadium, Wigan
+5782
+Newcastle
+2-2
+Man Utd Sports Direct Arena, Newcastle
+5779
+Charlton
+2-1
+Aston Villa The Valley, London
+5768
+Blackburn
+2-1
+Middlesbrough Ewood Park, Blackburn
+5766
+Bolton
+3-2
+Portsmouth Macron Stadium, Bolton
+5767
+Chelsea
+2-2
+Fulham Stamford Bridge, London
+5769
+Everton
+3-0
+Newcastle Goodison Park, Liverpool
+5770
+Man Utd
+3-2
+Reading Old Trafford, Manchester
+5771
+Spurs
+0-1
+Liverpool White Hart Lane, London
+5773
+West Ham
+0-1
+Man City Boleyn Ground, London
+5774
+Sheffield Utd
+1-0
+Arsenal Bramall Lane, Sheffield
+5772
+Charlton
+2-2
+Fulham The Valley, London
+5765
+Chelsea
+2-2
+Reading Stamford Bridge, London
+5758
+Spurs
+2-1
+Aston Villa White Hart Lane, London
+5762
+West Ham
+1-2
+Portsmouth Boleyn Ground, London
+5764
+Blackburn
+1-0
+Liverpool Ewood Park, Blackburn
+5756
+Bolton
+2-1
+Newcastle Macron Stadium, Bolton
+5757
+Everton
+0-0
+Middlesbrough Goodison Park, Liverpool
+5759
+Man Utd
+3-1
+Wigan Old Trafford, Manchester
+5760
+Sheffield Utd
+0-1
+Man City Bramall Lane, Sheffield
+5761
+Watford
+1-2
+Arsenal Vicarage Road, Watford
+5763
+Arsenal
+6-2
+Blackburn Emirates Stadium, London
+5746
+Aston Villa
+0-3
+Man Utd Villa Park, Birmingham
+5747
+Liverpool
+2-0
+Watford Anfield, Liverpool
+5749
+Man City
+0-2
+Bolton Etihad Stadium, Manchester
+5750
+Middlesbrough
+2-0
+Charlton Riverside Stadium, Middlesbrough
+5751
+Newcastle
+3-1
+Spurs Sports Direct Arena, Newcastle
+5752
+Portsmouth
+3-1
+Sheffield Utd Fratton Park, Portsmouth
+5753
+Reading
+0-2
+Everton Madejski Stadium, Reading
+5754
+Wigan
+2-3
+Chelsea DW Stadium, Wigan
+5755

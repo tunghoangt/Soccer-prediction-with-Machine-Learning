@@ -1,0 +1,1520 @@
+Arsenal
+4-1
+West Brom Emirates Stadium, London
+9981
+Aston Villa
+0-1
+Burnley Villa Park, Birmingham
+9982
+Chelsea
+3-1
+Sunderland Stamford Bridge, London
+9983
+Crystal Palace
+1-0
+Swansea Selhurst Park, London
+9984
+Everton
+0-1
+Spurs Goodison Park, Liverpool
+9985
+Hull
+0-0
+Man Utd KCOM Stadium, Hull
+9986
+Leicester
+5-1
+QPR King Power Stadium, Leicester
+9987
+Man City
+2-0
+Southampton Etihad Stadium, Manchester
+9988
+Newcastle
+2-0
+West Ham St. James' Park, Newcastle
+9989
+Stoke
+6-1
+Liverpool Britannia Stadium, Stoke
+9990
+Arsenal
+0-0
+Sunderland Emirates Stadium, London
+9980
+West Brom
+3-0
+Chelsea The Hawthorns, West Bromwich
+9979
+Swansea
+2-4
+Man City Liberty Stadium, Swansea
+9978
+Man Utd
+1-1
+Arsenal Old Trafford, Manchester
+9977
+Southampton
+6-1
+Aston Villa St. Mary's Stadium, Southampton
+9973
+Burnley
+0-0
+Stoke Turf Moor, Burnley
+9970
+QPR
+2-1
+Newcastle Loftus Road, London
+9972
+Sunderland
+0-0
+Leicester Stadium of Light, Sunderland
+9974
+Spurs
+2-0
+Hull White Hart Lane, London
+9975
+West Ham
+1-2
+Everton Boleyn Ground, London
+9976
+Liverpool
+1-3
+Crystal Palace Anfield, Liverpool
+9971
+Arsenal
+0-1
+Swansea Emirates Stadium, London
+9969
+Man City
+6-0
+QPR Etihad Stadium, Manchester
+9968
+Chelsea
+1-1
+Liverpool Stamford Bridge, London
+9967
+Everton
+0-2
+Sunderland Goodison Park, Liverpool
+9962
+Aston Villa
+1-0
+West Ham Villa Park, Birmingham
+9960
+Hull
+0-1
+Burnley KCOM Stadium, Hull
+9963
+Leicester
+2-0
+Southampton King Power Stadium, Leicester
+9964
+Newcastle
+1-1
+West Brom St. James' Park, Newcastle
+9965
+Stoke
+3-0
+Spurs Britannia Stadium, Stoke
+9966
+Crystal Palace
+1-2
+Man Utd Selhurst Park, London
+9961
+Hull
+1-3
+Arsenal KCOM Stadium, Hull
+9959
+Chelsea
+1-0
+Crystal Palace Stamford Bridge, London
+9957
+Spurs
+0-1
+Man City White Hart Lane, London
+9958
+Aston Villa
+3-2
+Everton Villa Park, Birmingham
+9950
+Liverpool
+2-1
+QPR Anfield, Liverpool
+9952
+Sunderland
+2-1
+Southampton Stadium of Light, Sunderland
+9954
+Swansea
+2-0
+Stoke Liberty Stadium, Swansea
+9955
+West Ham
+1-0
+Burnley Boleyn Ground, London
+9956
+Man Utd
+0-1
+West Brom Old Trafford, Manchester
+9953
+Leicester
+3-0
+Newcastle King Power Stadium, Leicester
+9951
+Leicester
+1-3
+Chelsea King Power Stadium, Leicester
+9949
+Hull
+1-0
+Liverpool KCOM Stadium, Hull
+9948
+Everton
+3-0
+Man Utd Goodison Park, Liverpool
+9947
+Arsenal
+0-0
+Chelsea Emirates Stadium, London
+9946
+Southampton
+2-2
+Spurs St. Mary's Stadium, Southampton
+9943
+Burnley
+0-1
+Leicester Turf Moor, Burnley
+9938
+Crystal Palace
+0-2
+Hull Selhurst Park, London
+9939
+Newcastle
+2-3
+Swansea St. James' Park, Newcastle
+9941
+QPR
+0-0
+West Ham Loftus Road, London
+9942
+Stoke
+1-1
+Sunderland Britannia Stadium, Stoke
+9944
+West Brom
+0-0
+Liverpool The Hawthorns, West Bromwich
+9945
+Man City
+3-2
+Aston Villa Etihad Stadium, Manchester
+9940
+Man City
+2-0
+West Ham Etihad Stadium, Manchester
+9936
+Newcastle
+1-3
+Spurs St. James' Park, Newcastle
+9937
+Crystal Palace
+0-2
+West Brom Selhurst Park, London
+9932
+Everton
+1-0
+Burnley Goodison Park, Liverpool
+9933
+Leicester
+2-0
+Swansea King Power Stadium, Leicester
+9934
+Stoke
+2-1
+Southampton Britannia Stadium, Stoke
+9935
+Chelsea
+1-0
+Man Utd Stamford Bridge, London
+9931
+Liverpool
+2-0
+Newcastle Anfield, Liverpool
+9930
+QPR
+0-1
+Chelsea Loftus Road, London
+9929
+Man Utd
+4-2
+Man City Old Trafford, Manchester
+9928
+Swansea
+1-1
+Everton Liberty Stadium, Swansea
+9924
+Southampton
+2-0
+Hull St. Mary's Stadium, Southampton
+9922
+Sunderland
+1-4
+Crystal Palace Stadium of Light, Sunderland
+9923
+Spurs
+0-1
+Aston Villa White Hart Lane, London
+9925
+West Brom
+2-3
+Leicester The Hawthorns, West Bromwich
+9926
+West Ham
+1-1
+Stoke Boleyn Ground, London
+9927
+Burnley
+0-1
+Arsenal Turf Moor, Burnley
+9921
+Aston Villa
+3-3
+QPR Villa Park, Birmingham
+9920
+Crystal Palace
+2-1
+Man City Selhurst Park, London
+9919
+Burnley
+0-0
+Spurs Turf Moor, Burnley
+9917
+Sunderland
+1-0
+Newcastle Stadium of Light, Sunderland
+9918
+Everton
+1-0
+Southampton Goodison Park, Liverpool
+9912
+Leicester
+2-1
+West Ham King Power Stadium, Leicester
+9913
+Man Utd
+3-1
+Aston Villa Old Trafford, Manchester
+9914
+Swansea
+3-1
+Hull Liberty Stadium, Swansea
+9915
+West Brom
+1-4
+QPR The Hawthorns, West Bromwich
+9916
+Chelsea
+2-1
+Stoke Stamford Bridge, London
+9911
+Arsenal
+4-1
+Liverpool Emirates Stadium, London
+9910
+Liverpool
+1-2
+Man Utd Anfield, Liverpool
+9908
+Hull
+2-3
+Chelsea KCOM Stadium, Hull
+9907
+QPR
+1-2
+Everton Loftus Road, London
+9909
+Man City
+3-0
+West Brom Etihad Stadium, Manchester
+9901
+Aston Villa
+0-1
+Swansea Villa Park, Birmingham
+9900
+Newcastle
+1-2
+Arsenal St. James' Park, Newcastle
+9902
+Southampton
+2-0
+Burnley St. Mary's Stadium, Southampton
+9903
+Stoke
+1-2
+Crystal Palace Britannia Stadium, Stoke
+9904
+Spurs
+4-3
+Leicester White Hart Lane, London
+9905
+West Ham
+1-0
+Sunderland Boleyn Ground, London
+9906
+Swansea
+0-1
+Liverpool Liberty Stadium, Swansea
+9899
+Chelsea
+1-1
+Southampton Stamford Bridge, London
+9896
+Everton
+3-0
+Newcastle Goodison Park, Liverpool
+9897
+Man Utd
+3-0
+Spurs Old Trafford, Manchester
+9898
+Crystal Palace
+3-1
+QPR Selhurst Park, London
+9892
+Arsenal
+3-0
+West Ham Emirates Stadium, London
+9890
+Leicester
+0-0
+Hull King Power Stadium, Leicester
+9893
+Sunderland
+0-4
+Aston Villa Stadium of Light, Sunderland
+9894
+West Brom
+1-0
+Stoke The Hawthorns, West Bromwich
+9895
+Burnley
+1-0
+Man City Turf Moor, Burnley
+9891
+QPR
+1-2
+Spurs Loftus Road, London
+9889
+Man City
+2-0
+Leicester Etihad Stadium, Manchester
+9883
+Newcastle
+0-1
+Man Utd St. James' Park, Newcastle
+9884
+QPR
+1-2
+Arsenal Loftus Road, London
+9885
+Stoke
+2-0
+Everton Britannia Stadium, Stoke
+9886
+Spurs
+3-2
+Swansea White Hart Lane, London
+9887
+West Ham
+0-1
+Chelsea Boleyn Ground, London
+9888
+Liverpool
+2-0
+Burnley Anfield, Liverpool
+9882
+Aston Villa
+2-1
+West Brom Villa Park, Birmingham
+9879
+Hull
+1-1
+Sunderland KCOM Stadium, Hull
+9880
+Southampton
+1-0
+Crystal Palace St. Mary's Stadium, Southampton
+9881
+Liverpool
+2-1
+Man City Anfield, Liverpool
+9878
+Arsenal
+2-0
+Everton Emirates Stadium, London
+9877
+West Ham
+1-3
+Crystal Palace Boleyn Ground, London
+9876
+Burnley
+0-1
+Swansea Turf Moor, Burnley
+9871
+Man Utd
+2-0
+Sunderland Old Trafford, Manchester
+9872
+Newcastle
+1-0
+Aston Villa St. James' Park, Newcastle
+9873
+Stoke
+1-0
+Hull Britannia Stadium, Stoke
+9874
+West Brom
+1-0
+Southampton The Hawthorns, West Bromwich
+9875
+Spurs
+2-2
+West Ham White Hart Lane, London
+9870
+Everton
+2-2
+Leicester Goodison Park, Liverpool
+9868
+Southampton
+0-2
+Liverpool St. Mary's Stadium, Southampton
+9869
+Aston Villa
+1-2
+Stoke Villa Park, Birmingham
+9861
+Chelsea
+1-1
+Burnley Stamford Bridge, London
+9862
+Crystal Palace
+1-2
+Arsenal Selhurst Park, London
+9863
+Hull
+2-1
+QPR KCOM Stadium, Hull
+9864
+Sunderland
+0-0
+West Brom Stadium of Light, Sunderland
+9866
+Swansea
+2-1
+Man Utd Liberty Stadium, Swansea
+9867
+Man City
+5-0
+Newcastle Etihad Stadium, Manchester
+9865
+Chelsea
+1-0
+Everton Stamford Bridge, London
+9855
+Man Utd
+3-1
+Burnley Old Trafford, Manchester
+9857
+Southampton
+0-0
+West Ham St. Mary's Stadium, Southampton
+9858
+Stoke
+1-4
+Man City Britannia Stadium, Stoke
+9859
+Crystal Palace
+1-1
+Newcastle Selhurst Park, London
+9856
+West Brom
+2-0
+Swansea The Hawthorns, West Bromwich
+9860
+Arsenal
+2-1
+Leicester Emirates Stadium, London
+9851
+Hull
+2-0
+Aston Villa KCOM Stadium, Hull
+9852
+Sunderland
+0-2
+QPR Stadium of Light, Sunderland
+9854
+Liverpool
+3-2
+Spurs Anfield, Liverpool
+9853
+Burnley
+2-2
+West Brom Turf Moor, Burnley
+9848
+Newcastle
+1-1
+Stoke St. James' Park, Newcastle
+9849
+West Ham
+1-1
+Man Utd Boleyn Ground, London
+9850
+Spurs
+2-1
+Arsenal White Hart Lane, London
+9847
+Aston Villa
+1-2
+Chelsea Villa Park, Birmingham
+9841
+Leicester
+0-1
+Crystal Palace King Power Stadium, Leicester
+9843
+Man City
+1-1
+Hull Etihad Stadium, Manchester
+9844
+QPR
+0-1
+Southampton Loftus Road, London
+9845
+Swansea
+1-1
+Sunderland Liberty Stadium, Swansea
+9846
+Everton
+0-0
+Liverpool Goodison Park, Liverpool
+9842
+Arsenal
+5-0
+Aston Villa Emirates Stadium, London
+9839
+Southampton
+0-1
+Swansea St. Mary's Stadium, Southampton
+9840
+Hull
+0-3
+Newcastle KCOM Stadium, Hull
+9833
+Crystal Palace
+0-1
+Everton Selhurst Park, London
+9832
+Liverpool
+2-0
+West Ham Anfield, Liverpool
+9834
+Man Utd
+3-1
+Leicester Old Trafford, Manchester
+9835
+Stoke
+3-1
+QPR Britannia Stadium, Stoke
+9836
+Sunderland
+2-0
+Burnley Stadium of Light, Sunderland
+9837
+West Brom
+0-3
+Spurs The Hawthorns, West Bromwich
+9838
+Chelsea
+1-1
+Man City Stamford Bridge, London
+9831
+Everton
+0-0
+West Brom Goodison Park, Liverpool
+9830
+West Ham
+3-0
+Hull Boleyn Ground, London
+9829
+Man City
+0-2
+Arsenal Etihad Stadium, Manchester
+9828
+Aston Villa
+0-2
+Liverpool Villa Park, Birmingham
+9821
+Burnley
+2-3
+Crystal Palace Turf Moor, Burnley
+9822
+Leicester
+0-1
+Stoke King Power Stadium, Leicester
+9823
+QPR
+0-2
+Man Utd Loftus Road, London
+9825
+Swansea
+0-5
+Chelsea Liberty Stadium, Swansea
+9826
+Spurs
+2-1
+Sunderland White Hart Lane, London
+9827
+Newcastle
+1-2
+Southampton St. James' Park, Newcastle
+9824
+Arsenal
+3-0
+Stoke Emirates Stadium, London
+9819
+Man Utd
+0-1
+Southampton Old Trafford, Manchester
+9820
+Sunderland
+0-1
+Liverpool Stadium of Light, Sunderland
+9816
+Burnley
+2-1
+QPR Turf Moor, Burnley
+9811
+Chelsea
+2-0
+Newcastle Stamford Bridge, London
+9812
+Everton
+1-1
+Man City Goodison Park, Liverpool
+9814
+Leicester
+1-0
+Aston Villa King Power Stadium, Leicester
+9815
+Swansea
+1-1
+West Ham Liberty Stadium, Swansea
+9817
+West Brom
+1-0
+Hull The Hawthorns, West Bromwich
+9818
+Crystal Palace
+2-1
+Spurs Selhurst Park, London
+9813
+Stoke
+1-1
+Man Utd Britannia Stadium, Stoke
+9808
+Aston Villa
+0-0
+Crystal Palace Villa Park, Birmingham
+9801
+Hull
+2-0
+Everton KCOM Stadium, Hull
+9802
+Liverpool
+2-2
+Leicester Anfield, Liverpool
+9803
+Man City
+3-2
+Sunderland Etihad Stadium, Manchester
+9804
+Newcastle
+3-3
+Burnley St. James' Park, Newcastle
+9805
+QPR
+1-1
+Swansea Loftus Road, London
+9806
+Southampton
+2-0
+Arsenal St. Mary's Stadium, Southampton
+9807
+West Ham
+1-1
+West Brom Boleyn Ground, London
+9810
+Spurs
+5-3
+Chelsea White Hart Lane, London
+9809
+Liverpool
+4-1
+Swansea Anfield, Liverpool
+9800
+Spurs
+0-0
+Man Utd White Hart Lane, London
+9798
+Southampton
+1-1
+Chelsea St. Mary's Stadium, Southampton
+9796
+Aston Villa
+0-0
+Sunderland Villa Park, Birmingham
+9791
+Hull
+0-1
+Leicester KCOM Stadium, Hull
+9792
+Man City
+2-2
+Burnley Etihad Stadium, Manchester
+9793
+QPR
+0-0
+Crystal Palace Loftus Road, London
+9795
+Stoke
+2-0
+West Brom Britannia Stadium, Stoke
+9797
+West Ham
+1-2
+Arsenal Boleyn Ground, London
+9799
+Newcastle
+3-2
+Everton St. James' Park, Newcastle
+9794
+Chelsea
+2-0
+West Ham Stamford Bridge, London
+9783
+Burnley
+0-1
+Liverpool Turf Moor, Burnley
+9782
+Crystal Palace
+1-3
+Southampton Selhurst Park, London
+9784
+Everton
+0-1
+Stoke Goodison Park, Liverpool
+9785
+Leicester
+1-2
+Spurs King Power Stadium, Leicester
+9786
+Man Utd
+3-1
+Newcastle Old Trafford, Manchester
+9787
+Sunderland
+1-3
+Hull Stadium of Light, Sunderland
+9788
+Swansea
+1-0
+Aston Villa Liberty Stadium, Swansea
+9789
+West Brom
+1-3
+Man City The Hawthorns, West Bromwich
+9790
+Arsenal
+2-1
+QPR Emirates Stadium, London
+9781
+Stoke
+0-2
+Chelsea Britannia Stadium, Stoke
+9780
+Newcastle
+0-1
+Sunderland St. James' Park, Newcastle
+9779
+Liverpool
+2-2
+Arsenal Anfield, Liverpool
+9778
+Man City
+3-0
+Crystal Palace Etihad Stadium, Manchester
+9773
+Aston Villa
+1-1
+Man Utd Villa Park, Birmingham
+9771
+Hull
+0-1
+Swansea KCOM Stadium, Hull
+9772
+QPR
+3-2
+West Brom Loftus Road, London
+9774
+Southampton
+3-0
+Everton St. Mary's Stadium, Southampton
+9775
+Spurs
+2-1
+Burnley White Hart Lane, London
+9776
+West Ham
+2-0
+Leicester Boleyn Ground, London
+9777
+Everton
+3-1
+QPR Goodison Park, Liverpool
+9770
+Man Utd
+3-0
+Liverpool Old Trafford, Manchester
+9768
+Swansea
+1-2
+Spurs Liberty Stadium, Swansea
+9769
+Burnley
+1-0
+Southampton Turf Moor, Burnley
+9762
+Chelsea
+2-0
+Hull Stamford Bridge, London
+9763
+Crystal Palace
+1-1
+Stoke Selhurst Park, London
+9764
+Leicester
+0-1
+Man City King Power Stadium, Leicester
+9765
+Sunderland
+1-1
+West Ham Stadium of Light, Sunderland
+9766
+West Brom
+1-0
+Aston Villa The Hawthorns, West Bromwich
+9767
+Arsenal
+4-1
+Newcastle Emirates Stadium, London
+9761
+Southampton
+1-2
+Man Utd St. Mary's Stadium, Southampton
+9760
+West Ham
+3-1
+Swansea Boleyn Ground, London
+9759
+Aston Villa
+2-1
+Leicester Villa Park, Birmingham
+9758
+Newcastle
+2-1
+Chelsea St. James' Park, Newcastle
+9754
+Hull
+0-0
+West Brom KCOM Stadium, Hull
+9751
+Liverpool
+0-0
+Sunderland Anfield, Liverpool
+9752
+QPR
+2-0
+Burnley Loftus Road, London
+9755
+Stoke
+3-2
+Arsenal Britannia Stadium, Stoke
+9756
+Spurs
+0-0
+Crystal Palace White Hart Lane, London
+9757
+Man City
+1-0
+Everton Etihad Stadium, Manchester
+9753
+Arsenal
+1-0
+Southampton Emirates Stadium, London
+9747
+Chelsea
+3-0
+Spurs Stamford Bridge, London
+9748
+Everton
+1-1
+Hull Goodison Park, Liverpool
+9749
+Sunderland
+1-4
+Man City Stadium of Light, Sunderland
+9750
+Burnley
+1-1
+Newcastle Turf Moor, Burnley
+9741
+Leicester
+1-3
+Liverpool King Power Stadium, Leicester
+9743
+Man Utd
+2-1
+Stoke Old Trafford, Manchester
+9744
+Swansea
+2-0
+QPR Liberty Stadium, Swansea
+9745
+Crystal Palace
+0-1
+Aston Villa Selhurst Park, London
+9742
+West Brom
+1-2
+West Ham The Hawthorns, West Bromwich
+9746
+Southampton
+0-3
+Man City St. Mary's Stadium, Southampton
+9739
+Spurs
+2-1
+Everton White Hart Lane, London
+9740
+West Brom
+0-1
+Arsenal The Hawthorns, West Bromwich
+9737
+Burnley
+1-1
+Aston Villa Turf Moor, Burnley
+9731
+Liverpool
+1-0
+Stoke Anfield, Liverpool
+9732
+Man Utd
+3-0
+Hull Old Trafford, Manchester
+9733
+QPR
+3-2
+Leicester Loftus Road, London
+9734
+Swansea
+1-1
+Crystal Palace Liberty Stadium, Swansea
+9736
+West Ham
+1-0
+Newcastle Boleyn Ground, London
+9738
+Sunderland
+0-0
+Chelsea Stadium of Light, Sunderland
+9735
+Aston Villa
+1-1
+Southampton Villa Park, Birmingham
+9730
+Crystal Palace
+3-1
+Liverpool Selhurst Park, London
+9728
+Hull
+1-2
+Spurs KCOM Stadium, Hull
+9729
+Chelsea
+2-0
+West Brom Stamford Bridge, London
+9722
+Everton
+2-1
+West Ham Goodison Park, Liverpool
+9723
+Leicester
+0-0
+Sunderland King Power Stadium, Leicester
+9724
+Man City
+2-1
+Swansea Etihad Stadium, Manchester
+9725
+Newcastle
+1-0
+QPR St. James' Park, Newcastle
+9726
+Stoke
+1-2
+Burnley Britannia Stadium, Stoke
+9727
+Arsenal
+1-2
+Man Utd Emirates Stadium, London
+9721
+Sunderland
+1-1
+Everton Stadium of Light, Sunderland
+9717
+Spurs
+1-2
+Stoke White Hart Lane, London
+9719
+West Brom
+0-2
+Newcastle The Hawthorns, West Bromwich
+9720
+Swansea
+2-1
+Arsenal Liberty Stadium, Swansea
+9718
+Liverpool
+1-2
+Chelsea Anfield, Liverpool
+9712
+Burnley
+1-0
+Hull Turf Moor, Burnley
+9711
+Man Utd
+1-0
+Crystal Palace Old Trafford, Manchester
+9713
+Southampton
+2-0
+Leicester St. Mary's Stadium, Southampton
+9715
+West Ham
+0-0
+Aston Villa Boleyn Ground, London
+9716
+QPR
+2-2
+Man City Loftus Road, London
+9714
+Crystal Palace
+1-3
+Sunderland Selhurst Park, London
+9710
+Man City
+1-0
+Man Utd Etihad Stadium, Manchester
+9709
+Aston Villa
+1-2
+Spurs Villa Park, Birmingham
+9708
+Newcastle
+1-0
+Liverpool St. James' Park, Newcastle
+9706
+Arsenal
+3-0
+Burnley Emirates Stadium, London
+9701
+Chelsea
+2-1
+QPR Stamford Bridge, London
+9702
+Everton
+0-0
+Swansea Goodison Park, Liverpool
+9703
+Hull
+0-1
+Southampton KCOM Stadium, Hull
+9704
+Leicester
+0-1
+West Brom King Power Stadium, Leicester
+9705
+Stoke
+2-2
+West Ham Britannia Stadium, Stoke
+9707
+QPR
+2-0
+Aston Villa Loftus Road, London
+9700
+Burnley
+1-3
+Everton Turf Moor, Burnley
+9697
+Spurs
+1-2
+Newcastle White Hart Lane, London
+9699
+Man Utd
+1-1
+Chelsea Old Trafford, Manchester
+9698
+West Ham
+2-1
+Man City Boleyn Ground, London
+9696
+Liverpool
+0-0
+Hull Anfield, Liverpool
+9691
+Southampton
+1-0
+Stoke St. Mary's Stadium, Southampton
+9692
+Sunderland
+0-2
+Arsenal Stadium of Light, Sunderland
+9693
+West Brom
+2-2
+Crystal Palace The Hawthorns, West Bromwich
+9695
+Swansea
+2-0
+Leicester Liberty Stadium, Swansea
+9694
+West Brom
+2-2
+Man Utd The Hawthorns, West Bromwich
+9690
+QPR
+2-3
+Liverpool Loftus Road, London
+9688
+Stoke
+2-1
+Swansea Britannia Stadium, Stoke
+9689
+Man City
+4-1
+Spurs Etihad Stadium, Manchester
+9685
+Arsenal
+2-2
+Hull Emirates Stadium, London
+9681
+Burnley
+1-3
+West Ham Turf Moor, Burnley
+9682
+Crystal Palace
+1-2
+Chelsea Selhurst Park, London
+9683
+Everton
+3-0
+Aston Villa Goodison Park, Liverpool
+9684
+Newcastle
+1-0
+Leicester St. James' Park, Newcastle
+9686
+Southampton
+8-0
+Sunderland St. Mary's Stadium, Southampton
+9687
+Man Utd
+2-1
+Everton Old Trafford, Manchester
+9678
+Chelsea
+2-0
+Arsenal Stamford Bridge, London
+9677
+Spurs
+1-0
+Southampton White Hart Lane, London
+9679
+West Ham
+2-0
+QPR Boleyn Ground, London
+9680
+Hull
+2-0
+Crystal Palace KCOM Stadium, Hull
+9672
+Leicester
+2-2
+Burnley King Power Stadium, Leicester
+9673
+Liverpool
+2-1
+West Brom Anfield, Liverpool
+9674
+Sunderland
+3-1
+Stoke Stadium of Light, Sunderland
+9675
+Swansea
+2-2
+Newcastle Liberty Stadium, Swansea
+9676
+Aston Villa
+0-2
+Man City Villa Park, Birmingham
+9671
+Stoke
+1-0
+Newcastle Britannia Stadium, Stoke
+9670
+West Brom
+4-0
+Burnley The Hawthorns, West Bromwich
+9669
+Liverpool
+1-1
+Everton Anfield, Liverpool
+9665
+Chelsea
+3-0
+Aston Villa Stamford Bridge, London
+9662
+Crystal Palace
+2-0
+Leicester Selhurst Park, London
+9663
+Hull
+2-4
+Man City KCOM Stadium, Hull
+9664
+Man Utd
+2-1
+West Ham Old Trafford, Manchester
+9666
+Southampton
+2-1
+QPR St. Mary's Stadium, Southampton
+9667
+Sunderland
+0-0
+Swansea Stadium of Light, Sunderland
+9668
+Arsenal
+1-1
+Spurs Emirates Stadium, London
+9661
+Leicester
+5-3
+Man Utd King Power Stadium, Leicester
+9658
+Spurs
+0-1
+West Brom White Hart Lane, London
+9660
+Everton
+2-3
+Crystal Palace Goodison Park, Liverpool
+9657
+Man City
+1-1
+Chelsea Etihad Stadium, Manchester
+9659
+QPR
+2-2
+Stoke Loftus Road, London
+9654
+Aston Villa
+0-3
+Arsenal Villa Park, Birmingham
+9651
+Burnley
+0-0
+Sunderland Turf Moor, Burnley
+9652
+Newcastle
+2-2
+Hull St. James' Park, Newcastle
+9653
+Swansea
+0-1
+Southampton Liberty Stadium, Swansea
+9655
+West Ham
+3-1
+Liverpool Boleyn Ground, London
+9656
+Hull
+2-2
+West Ham KCOM Stadium, Hull
+9650
+Man Utd
+4-0
+QPR Old Trafford, Manchester
+9649
+Arsenal
+2-2
+Man City Emirates Stadium, London
+9641
+Chelsea
+4-2
+Swansea Stamford Bridge, London
+9642
+Crystal Palace
+0-0
+Burnley Selhurst Park, London
+9643
+Southampton
+4-0
+Newcastle St. Mary's Stadium, Southampton
+9645
+Stoke
+0-1
+Leicester Britannia Stadium, Stoke
+9646
+Sunderland
+2-2
+Spurs Stadium of Light, Sunderland
+9647
+West Brom
+0-2
+Everton The Hawthorns, West Bromwich
+9648
+Liverpool
+0-1
+Aston Villa Anfield, Liverpool
+9644
+Aston Villa
+2-1
+Hull Villa Park, Birmingham
+9638
+Spurs
+0-3
+Liverpool White Hart Lane, London
+9640
+Leicester
+1-1
+Arsenal King Power Stadium, Leicester
+9639
+Burnley
+0-0
+Man Utd Turf Moor, Burnley
+9631
+Man City
+0-1
+Stoke Etihad Stadium, Manchester
+9633
+Newcastle
+3-3
+Crystal Palace St. James' Park, Newcastle
+9634
+QPR
+1-0
+Sunderland Loftus Road, London
+9635
+Swansea
+3-0
+West Brom Liberty Stadium, Swansea
+9636
+West Ham
+1-3
+Southampton Boleyn Ground, London
+9637
+Everton
+3-6
+Chelsea Goodison Park, Liverpool
+9632
+Man City
+3-1
+Liverpool Etihad Stadium, Manchester
+9630
+Hull
+1-1
+Stoke KCOM Stadium, Hull
+9627
+Spurs
+4-0
+QPR White Hart Lane, London
+9629
+Sunderland
+1-1
+Man Utd Stadium of Light, Sunderland
+9628
+Aston Villa
+0-0
+Newcastle Villa Park, Birmingham
+9621
+Chelsea
+2-0
+Leicester Stamford Bridge, London
+9622
+Crystal Palace
+1-3
+West Ham Selhurst Park, London
+9623
+Southampton
+0-0
+West Brom St. Mary's Stadium, Southampton
+9625
+Swansea
+1-0
+Burnley Liberty Stadium, Swansea
+9626
+Everton
+2-2
+Arsenal Goodison Park, Liverpool
+9624
+Burnley
+1-3
+Chelsea Turf Moor, Burnley
+9620
+Liverpool
+2-1
+Southampton Anfield, Liverpool
+9618
+Newcastle
+0-2
+Man City St. James' Park, Newcastle
+9619
+Man Utd
+1-2
+Swansea Old Trafford, Manchester
+9613
+Leicester
+2-2
+Everton King Power Stadium, Leicester
+9612
+QPR
+0-1
+Hull Loftus Road, London
+9614
+Stoke
+0-1
+Aston Villa Britannia Stadium, Stoke
+9615
+West Brom
+2-2
+Sunderland The Hawthorns, West Bromwich
+9616
+West Ham
+0-1
+Spurs Boleyn Ground, London
+9617
+Arsenal
+2-1
+Crystal Palace Emirates Stadium, London
+9611

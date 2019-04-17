@@ -1,0 +1,1520 @@
+Birmingham
+4-1
+Blackburn St Andrews, Birmingham
+6317
+Chelsea
+1-1
+Bolton Stamford Bridge, London
+6318
+Derby
+0-4
+Reading Pride Park Stadium, Derby
+6319
+Everton
+3-1
+Newcastle Goodison Park, Liverpool
+6320
+Middlesbrough
+8-1
+Man City Riverside Stadium, Middlesbrough
+6321
+Portsmouth
+0-1
+Fulham Fratton Park, Portsmouth
+6322
+Sunderland
+0-1
+Arsenal Stadium of Light, Sunderland
+6323
+Spurs
+0-2
+Liverpool White Hart Lane, London
+6324
+West Ham
+2-2
+Aston Villa Boleyn Ground, London
+6325
+Wigan
+0-2
+Man Utd DW Stadium, Wigan
+6326
+Newcastle
+0-2
+Chelsea Sports Direct Arena, Newcastle
+6316
+Arsenal
+1-0
+Everton Emirates Stadium, London
+6314
+Liverpool
+1-0
+Man City Anfield, Liverpool
+6315
+Man Utd
+4-1
+West Ham Old Trafford, Manchester
+6311
+Aston Villa
+0-2
+Wigan Villa Park, Birmingham
+6307
+Blackburn
+3-1
+Derby Ewood Park, Blackburn
+6308
+Fulham
+2-0
+Birmingham Craven Cottage, London
+6310
+Middlesbrough
+2-0
+Portsmouth Riverside Stadium, Middlesbrough
+6312
+Reading
+0-1
+Spurs Madejski Stadium, Reading
+6313
+Bolton
+2-0
+Sunderland Macron Stadium, Bolton
+6309
+Derby
+2-6
+Arsenal Pride Park Stadium, Derby
+6306
+Portsmouth
+0-1
+Blackburn Fratton Park, Portsmouth
+6305
+Everton
+2-2
+Aston Villa Goodison Park, Liverpool
+6304
+Chelsea
+2-1
+Man Utd Stamford Bridge, London
+6298
+Birmingham
+2-2
+Liverpool St Andrews, Birmingham
+6297
+Man City
+2-3
+Fulham Etihad Stadium, Manchester
+6299
+Sunderland
+3-2
+Middlesbrough Stadium of Light, Sunderland
+6300
+Spurs
+1-1
+Bolton White Hart Lane, London
+6301
+West Ham
+2-2
+Newcastle Boleyn Ground, London
+6302
+Wigan
+0-0
+Reading DW Stadium, Wigan
+6303
+Aston Villa
+5-1
+Birmingham Villa Park, Birmingham
+6294
+Newcastle
+2-0
+Sunderland Sports Direct Arena, Newcastle
+6296
+Man City
+3-1
+Portsmouth Etihad Stadium, Manchester
+6295
+Arsenal
+2-0
+Reading Emirates Stadium, London
+6288
+Fulham
+0-2
+Liverpool Craven Cottage, London
+6290
+Middlesbrough
+0-1
+Bolton Riverside Stadium, Middlesbrough
+6291
+West Ham
+2-1
+Derby Boleyn Ground, London
+6292
+Wigan
+1-1
+Spurs DW Stadium, Wigan
+6293
+Blackburn
+1-1
+Man Utd Ewood Park, Blackburn
+6289
+Everton
+0-1
+Chelsea Goodison Park, Liverpool
+6287
+Chelsea
+1-1
+Wigan Stamford Bridge, London
+6286
+Liverpool
+3-1
+Blackburn Anfield, Liverpool
+6284
+Man Utd
+2-1
+Arsenal Old Trafford, Manchester
+6285
+Birmingham
+1-1
+Everton St Andrews, Birmingham
+6277
+Bolton
+1-0
+West Ham Macron Stadium, Bolton
+6278
+Derby
+0-6
+Aston Villa Pride Park Stadium, Derby
+6279
+Reading
+0-2
+Fulham Madejski Stadium, Reading
+6281
+Sunderland
+1-2
+Man City Stadium of Light, Sunderland
+6282
+Spurs
+1-1
+Middlesbrough White Hart Lane, London
+6283
+Portsmouth
+0-0
+Newcastle Fratton Park, Portsmouth
+6280
+West Ham
+0-1
+Portsmouth Boleyn Ground, London
+6276
+Middlesbrough
+2-2
+Man Utd Riverside Stadium, Middlesbrough
+6275
+Everton
+1-0
+Derby Goodison Park, Liverpool
+6274
+Arsenal
+1-1
+Liverpool Emirates Stadium, London
+6267
+Aston Villa
+4-0
+Bolton Villa Park, Birmingham
+6268
+Blackburn
+1-1
+Spurs Ewood Park, Blackburn
+6269
+Fulham
+1-3
+Sunderland Craven Cottage, London
+6270
+Man City
+0-2
+Chelsea Etihad Stadium, Manchester
+6271
+Newcastle
+3-0
+Reading Sports Direct Arena, Newcastle
+6272
+Wigan
+2-0
+Birmingham DW Stadium, Wigan
+6273
+Chelsea
+1-0
+Middlesbrough Stamford Bridge, London
+6264
+Spurs
+1-4
+Newcastle White Hart Lane, London
+6266
+Liverpool
+1-0
+Everton Anfield, Liverpool
+6265
+Birmingham
+3-1
+Man City St Andrews, Birmingham
+6257
+Bolton
+2-3
+Arsenal Macron Stadium, Bolton
+6258
+Derby
+2-2
+Fulham Pride Park Stadium, Derby
+6259
+Portsmouth
+2-0
+Wigan Fratton Park, Portsmouth
+6261
+Reading
+0-0
+Blackburn Madejski Stadium, Reading
+6262
+Sunderland
+2-1
+West Ham Stadium of Light, Sunderland
+6263
+Man Utd
+4-0
+Aston Villa Old Trafford, Manchester
+6260
+Man Utd
+3-0
+Liverpool Old Trafford, Manchester
+6256
+Chelsea
+2-1
+Arsenal Stamford Bridge, London
+6255
+Spurs
+2-0
+Portsmouth White Hart Lane, London
+6254
+Aston Villa
+0-1
+Sunderland Villa Park, Birmingham
+6247
+Blackburn
+3-1
+Wigan Ewood Park, Blackburn
+6248
+Bolton
+0-0
+Man City Macron Stadium, Bolton
+6249
+Middlesbrough
+1-0
+Derby Riverside Stadium, Middlesbrough
+6251
+Newcastle
+2-0
+Fulham Sports Direct Arena, Newcastle
+6252
+Reading
+2-1
+Birmingham Madejski Stadium, Reading
+6253
+Everton
+1-1
+West Ham Goodison Park, Liverpool
+6250
+Man Utd
+2-0
+Bolton Old Trafford, Manchester
+6245
+Spurs
+4-4
+Chelsea White Hart Lane, London
+6246
+Birmingham
+1-1
+Newcastle St Andrews, Birmingham
+6244
+Fulham
+1-0
+Everton Craven Cottage, London
+6241
+Wigan
+1-0
+Bolton DW Stadium, Wigan
+6243
+Man City
+2-1
+Spurs Etihad Stadium, Manchester
+6242
+Derby
+0-1
+Man Utd Pride Park Stadium, Derby
+6236
+Liverpool
+2-1
+Reading Anfield, Liverpool
+6237
+Portsmouth
+2-0
+Aston Villa Fratton Park, Portsmouth
+6238
+Sunderland
+0-1
+Chelsea Stadium of Light, Sunderland
+6239
+West Ham
+2-1
+Blackburn Boleyn Ground, London
+6240
+Arsenal
+1-1
+Middlesbrough Emirates Stadium, London
+6235
+Aston Villa
+1-1
+Middlesbrough Villa Park, Birmingham
+6232
+Portsmouth
+4-2
+Birmingham Fratton Park, Portsmouth
+6234
+Chelsea
+6-1
+Derby Stamford Bridge, London
+6233
+Sunderland
+0-1
+Everton Stadium of Light, Sunderland
+6229
+Spurs
+4-0
+West Ham White Hart Lane, London
+6230
+Wigan
+0-0
+Arsenal DW Stadium, Wigan
+6231
+Blackburn
+1-1
+Fulham Ewood Park, Blackburn
+6226
+Liverpool
+3-0
+Newcastle Anfield, Liverpool
+6227
+Reading
+2-0
+Man City Madejski Stadium, Reading
+6228
+Liverpool
+4-0
+West Ham Anfield, Liverpool
+6225
+Bolton
+1-3
+Liverpool Macron Stadium, Bolton
+6223
+Everton
+3-1
+Portsmouth Goodison Park, Liverpool
+6224
+Arsenal
+1-1
+Aston Villa Emirates Stadium, London
+6215
+Birmingham
+4-1
+Spurs St Andrews, Birmingham
+6216
+Derby
+0-0
+Sunderland Pride Park Stadium, Derby
+6217
+Fulham
+0-3
+Man Utd Craven Cottage, London
+6218
+Middlesbrough
+0-1
+Reading Riverside Stadium, Middlesbrough
+6220
+Newcastle
+0-1
+Blackburn Sports Direct Arena, Newcastle
+6221
+West Ham
+0-4
+Chelsea Boleyn Ground, London
+6222
+Man City
+0-0
+Wigan Etihad Stadium, Manchester
+6219
+Man City
+0-2
+Everton Etihad Stadium, Manchester
+6214
+Reading
+1-2
+Aston Villa Madejski Stadium, Reading
+6213
+Blackburn
+4-1
+Bolton Ewood Park, Blackburn
+6212
+Fulham
+0-1
+West Ham Craven Cottage, London
+6207
+Liverpool
+3-2
+Middlesbrough Anfield, Liverpool
+6208
+Portsmouth
+1-0
+Sunderland Fratton Park, Portsmouth
+6210
+Wigan
+2-0
+Derby DW Stadium, Wigan
+6211
+Newcastle
+1-5
+Man Utd Sports Direct Arena, Newcastle
+6209
+Birmingham
+2-2
+Arsenal St Andrews, Birmingham
+6206
+Arsenal
+2-0
+Blackburn Emirates Stadium, London
+6205
+Man Utd
+1-2
+Man City Old Trafford, Manchester
+6204
+Chelsea
+0-0
+Liverpool Stamford Bridge, London
+6203
+Aston Villa
+4-1
+Newcastle Villa Park, Birmingham
+6196
+Bolton
+0-1
+Portsmouth Macron Stadium, Bolton
+6197
+Derby
+0-3
+Spurs Pride Park Stadium, Derby
+6198
+Everton
+1-0
+Reading Goodison Park, Liverpool
+6199
+Middlesbrough
+1-0
+Fulham Riverside Stadium, Middlesbrough
+6200
+Sunderland
+2-0
+Wigan Stadium of Light, Sunderland
+6201
+West Ham
+1-1
+Birmingham Boleyn Ground, London
+6202
+Newcastle
+1-1
+Middlesbrough Sports Direct Arena, Newcastle
+6195
+Fulham
+2-1
+Aston Villa Craven Cottage, London
+6194
+Man City
+1-3
+Arsenal Etihad Stadium, Manchester
+6189
+Birmingham
+1-1
+Derby St Andrews, Birmingham
+6186
+Blackburn
+0-0
+Everton Ewood Park, Blackburn
+6187
+Portsmouth
+1-1
+Chelsea Fratton Park, Portsmouth
+6190
+Reading
+0-2
+Bolton Madejski Stadium, Reading
+6191
+Spurs
+1-1
+Man Utd White Hart Lane, London
+6192
+Wigan
+1-0
+West Ham DW Stadium, Wigan
+6193
+Liverpool
+3-0
+Sunderland Anfield, Liverpool
+6188
+Chelsea
+1-0
+Reading Stamford Bridge, London
+6181
+Derby
+1-1
+Man City Pride Park Stadium, Derby
+6182
+West Ham
+1-0
+Liverpool Boleyn Ground, London
+6185
+Everton
+0-0
+Spurs Goodison Park, Liverpool
+6183
+Man Utd
+2-0
+Portsmouth Old Trafford, Manchester
+6184
+Arsenal
+3-0
+Newcastle Emirates Stadium, London
+6177
+Bolton
+0-0
+Fulham Macron Stadium, Bolton
+6178
+Middlesbrough
+1-0
+Wigan Riverside Stadium, Middlesbrough
+6179
+Sunderland
+2-0
+Birmingham Stadium of Light, Sunderland
+6180
+Aston Villa
+1-1
+Blackburn Villa Park, Birmingham
+6176
+Liverpool
+2-2
+Aston Villa Anfield, Liverpool
+6175
+Wigan
+1-2
+Everton DW Stadium, Wigan
+6174
+Man City
+1-1
+West Ham Etihad Stadium, Manchester
+6173
+Birmingham
+0-1
+Chelsea St Andrews, Birmingham
+6166
+Blackburn
+1-1
+Middlesbrough Ewood Park, Blackburn
+6167
+Fulham
+0-3
+Arsenal Craven Cottage, London
+6168
+Portsmouth
+3-1
+Derby Fratton Park, Portsmouth
+6170
+Reading
+0-2
+Man Utd Madejski Stadium, Reading
+6171
+Newcastle
+0-0
+Bolton Sports Direct Arena, Newcastle
+6169
+Spurs
+2-0
+Sunderland White Hart Lane, London
+6172
+Sunderland
+2-0
+Portsmouth Stadium of Light, Sunderland
+6165
+Bolton
+1-2
+Blackburn Macron Stadium, Bolton
+6164
+Arsenal
+1-1
+Birmingham Emirates Stadium, London
+6156
+Aston Villa
+3-1
+Reading Villa Park, Birmingham
+6157
+Chelsea
+2-0
+Spurs Stamford Bridge, London
+6158
+Derby
+0-1
+Wigan Pride Park Stadium, Derby
+6159
+Everton
+1-0
+Man City Goodison Park, Liverpool
+6160
+Middlesbrough
+1-1
+Liverpool Riverside Stadium, Middlesbrough
+6162
+West Ham
+2-1
+Fulham Boleyn Ground, London
+6163
+Man Utd
+6-0
+Newcastle Old Trafford, Manchester
+6161
+Newcastle
+0-2
+Man City Sports Direct Arena, Newcastle
+6155
+Blackburn
+1-0
+Sunderland Ewood Park, Blackburn
+6152
+Bolton
+1-0
+Derby Macron Stadium, Bolton
+6153
+Liverpool
+1-1
+Wigan Anfield, Liverpool
+6154
+Fulham
+1-2
+Chelsea Craven Cottage, London
+6148
+Arsenal
+2-0
+West Ham Emirates Stadium, London
+6146
+Man Utd
+1-0
+Birmingham Old Trafford, Manchester
+6149
+Middlesbrough
+0-2
+Everton Riverside Stadium, Middlesbrough
+6150
+Reading
+0-2
+Portsmouth Madejski Stadium, Reading
+6151
+Aston Villa
+2-1
+Spurs Villa Park, Birmingham
+6147
+Derby
+1-2
+Blackburn Pride Park Stadium, Derby
+6144
+Man City
+0-0
+Liverpool Etihad Stadium, Manchester
+6145
+Birmingham
+1-1
+Fulham St Andrews, Birmingham
+6136
+Chelsea
+2-1
+Newcastle Stamford Bridge, London
+6137
+Portsmouth
+0-1
+Middlesbrough Fratton Park, Portsmouth
+6139
+Sunderland
+3-1
+Bolton Stadium of Light, Sunderland
+6140
+Spurs
+6-4
+Reading White Hart Lane, London
+6141
+West Ham
+2-1
+Man Utd Boleyn Ground, London
+6142
+Wigan
+1-2
+Aston Villa DW Stadium, Wigan
+6143
+Everton
+1-4
+Arsenal Goodison Park, Liverpool
+6138
+Man City
+2-2
+Blackburn Etihad Stadium, Manchester
+6135
+Chelsea
+4-4
+Aston Villa Stamford Bridge, London
+6127
+Spurs
+5-1
+Fulham White Hart Lane, London
+6132
+Birmingham
+3-0
+Middlesbrough St Andrews, Birmingham
+6126
+Derby
+1-2
+Liverpool Pride Park Stadium, Derby
+6128
+Everton
+2-0
+Bolton Goodison Park, Liverpool
+6129
+Sunderland
+0-4
+Man Utd Stadium of Light, Sunderland
+6131
+Wigan
+1-0
+Newcastle DW Stadium, Wigan
+6134
+Portsmouth
+0-0
+Arsenal Fratton Park, Portsmouth
+6130
+West Ham
+1-1
+Reading Boleyn Ground, London
+6133
+Man Utd
+2-1
+Everton Old Trafford, Manchester
+6124
+Newcastle
+2-2
+Derby Sports Direct Arena, Newcastle
+6125
+Blackburn
+0-1
+Chelsea Ewood Park, Blackburn
+6123
+Arsenal
+2-1
+Spurs Emirates Stadium, London
+6116
+Aston Villa
+1-1
+Man City Villa Park, Birmingham
+6117
+Bolton
+3-0
+Birmingham Macron Stadium, Bolton
+6118
+Fulham
+1-1
+Wigan Craven Cottage, London
+6119
+Liverpool
+4-1
+Portsmouth Anfield, Liverpool
+6120
+Middlesbrough
+1-2
+West Ham Riverside Stadium, Middlesbrough
+6121
+Reading
+2-1
+Sunderland Madejski Stadium, Reading
+6122
+Liverpool
+0-1
+Man Utd Anfield, Liverpool
+6115
+Arsenal
+1-0
+Chelsea Emirates Stadium, London
+6114
+Birmingham
+1-1
+Reading St Andrews, Birmingham
+6106
+Derby
+0-1
+Middlesbrough Pride Park Stadium, Derby
+6107
+Man City
+4-2
+Bolton Etihad Stadium, Manchester
+6109
+Portsmouth
+0-1
+Spurs Fratton Park, Portsmouth
+6110
+Sunderland
+1-1
+Aston Villa Stadium of Light, Sunderland
+6111
+West Ham
+0-2
+Everton Boleyn Ground, London
+6112
+Wigan
+5-3
+Blackburn DW Stadium, Wigan
+6113
+Fulham
+0-1
+Newcastle Craven Cottage, London
+6108
+Middlesbrough
+2-1
+Arsenal Riverside Stadium, Middlesbrough
+6104
+Bolton
+4-1
+Wigan Macron Stadium, Bolton
+6103
+Spurs
+2-1
+Man City White Hart Lane, London
+6105
+Blackburn
+0-1
+West Ham Ewood Park, Blackburn
+6102
+Aston Villa
+1-3
+Portsmouth Villa Park, Birmingham
+6096
+Chelsea
+2-0
+Sunderland Stamford Bridge, London
+6097
+Everton
+3-0
+Fulham Goodison Park, Liverpool
+6098
+Man Utd
+4-1
+Derby Old Trafford, Manchester
+6099
+Newcastle
+2-1
+Birmingham Sports Direct Arena, Newcastle
+6100
+Reading
+3-1
+Liverpool Madejski Stadium, Reading
+6101
+Newcastle
+1-1
+Arsenal Sports Direct Arena, Newcastle
+6095
+Man Utd
+2-0
+Fulham Old Trafford, Manchester
+6094
+Liverpool
+4-0
+Bolton Anfield, Liverpool
+6092
+Spurs
+2-3
+Birmingham White Hart Lane, London
+6093
+Blackburn
+3-1
+Newcastle Ewood Park, Blackburn
+6086
+Portsmouth
+0-0
+Everton Fratton Park, Portsmouth
+6088
+Reading
+1-1
+Middlesbrough Madejski Stadium, Reading
+6089
+Sunderland
+1-0
+Derby Stadium of Light, Sunderland
+6090
+Aston Villa
+1-2
+Arsenal Villa Park, Birmingham
+6085
+Chelsea
+1-0
+West Ham Stamford Bridge, London
+6087
+Wigan
+1-1
+Man City DW Stadium, Wigan
+6091
+Blackburn
+0-4
+Aston Villa Ewood Park, Blackburn
+6084
+West Ham
+1-1
+Spurs Boleyn Ground, London
+6083
+Fulham
+2-2
+Blackburn Craven Cottage, London
+6082
+Newcastle
+0-3
+Liverpool Sports Direct Arena, Newcastle
+6081
+Arsenal
+2-0
+Wigan Emirates Stadium, London
+6074
+Birmingham
+0-2
+Portsmouth St Andrews, Birmingham
+6075
+Bolton
+1-0
+Man Utd Macron Stadium, Bolton
+6076
+Everton
+7-1
+Sunderland Goodison Park, Liverpool
+6078
+Man City
+2-1
+Reading Etihad Stadium, Manchester
+6079
+Middlesbrough
+0-3
+Aston Villa Riverside Stadium, Middlesbrough
+6080
+Derby
+0-2
+Chelsea Pride Park Stadium, Derby
+6077
+Reading
+1-3
+Arsenal Madejski Stadium, Reading
+6073
+Birmingham
+1-2
+Aston Villa St Andrews, Birmingham
+6067
+Chelsea
+1-1
+Everton Stamford Bridge, London
+6069
+Bolton
+0-0
+Middlesbrough Macron Stadium, Bolton
+6068
+Man Utd
+2-0
+Blackburn Old Trafford, Manchester
+6070
+Spurs
+4-0
+Wigan White Hart Lane, London
+6072
+Portsmouth
+0-0
+Man City Fratton Park, Portsmouth
+6071
+Sunderland
+1-1
+Newcastle Stadium of Light, Sunderland
+6066
+Derby
+0-5
+West Ham Pride Park Stadium, Derby
+6064
+Liverpool
+2-0
+Fulham Anfield, Liverpool
+6065
+Man City
+1-0
+Sunderland Etihad Stadium, Manchester
+6063
+West Ham
+1-1
+Bolton Boleyn Ground, London
+6062
+Arsenal
+2-2
+Man Utd Emirates Stadium, London
+6054
+Aston Villa
+2-0
+Derby Villa Park, Birmingham
+6055
+Everton
+3-1
+Birmingham Goodison Park, Liverpool
+6057
+Fulham
+3-1
+Reading Craven Cottage, London
+6058
+Middlesbrough
+1-1
+Spurs Riverside Stadium, Middlesbrough
+6059
+Newcastle
+1-4
+Portsmouth Sports Direct Arena, Newcastle
+6060
+Wigan
+0-2
+Chelsea DW Stadium, Wigan
+6061
+Blackburn
+0-0
+Liverpool Ewood Park, Blackburn
+6056
+Bolton
+1-1
+Aston Villa Macron Stadium, Bolton
+6050
+Derby
+0-2
+Everton Pride Park Stadium, Derby
+6051
+Spurs
+1-2
+Blackburn White Hart Lane, London
+6053
+Liverpool
+1-1
+Arsenal Anfield, Liverpool
+6052
+Birmingham
+3-2
+Wigan St Andrews, Birmingham
+6044
+Chelsea
+6-0
+Man City Stamford Bridge, London
+6045
+Portsmouth
+0-0
+West Ham Fratton Park, Portsmouth
+6047
+Man Utd
+4-1
+Middlesbrough Old Trafford, Manchester
+6046
+Reading
+2-1
+Newcastle Madejski Stadium, Reading
+6048
+Sunderland
+1-1
+Fulham Stadium of Light, Sunderland
+6049
+Newcastle
+3-1
+Spurs Sports Direct Arena, Newcastle
+6043
+West Ham
+3-1
+Sunderland Boleyn Ground, London
+6042
+Everton
+1-2
+Liverpool Goodison Park, Liverpool
+6037
+Arsenal
+2-0
+Bolton Emirates Stadium, London
+6034
+Blackburn
+4-2
+Reading Ewood Park, Blackburn
+6036
+Fulham
+0-0
+Derby Craven Cottage, London
+6038
+Man City
+1-0
+Birmingham Etihad Stadium, Manchester
+6039
+Middlesbrough
+0-2
+Chelsea Riverside Stadium, Middlesbrough
+6040
+Wigan
+0-2
+Portsmouth DW Stadium, Wigan
+6041
+Aston Villa
+1-4
+Man Utd Villa Park, Birmingham
+6035
+Arsenal
+3-2
+Sunderland Emirates Stadium, London
+6026
+Reading
+1-0
+Derby Madejski Stadium, Reading
+6033
+Blackburn
+2-1
+Birmingham Ewood Park, Blackburn
+6027
+Bolton
+0-1
+Chelsea Macron Stadium, Bolton
+6028
+Liverpool
+2-2
+Spurs Anfield, Liverpool
+6030
+Man City
+3-1
+Middlesbrough Etihad Stadium, Manchester
+6031
+Newcastle
+3-2
+Everton Sports Direct Arena, Newcastle
+6032
+Fulham
+0-2
+Portsmouth Craven Cottage, London
+6029
+Man Utd
+4-0
+Wigan Old Trafford, Manchester
+6025
+Aston Villa
+1-0
+West Ham Villa Park, Birmingham
+6024
+Spurs
+4-4
+Aston Villa White Hart Lane, London
+6023
+Everton
+2-0
+Middlesbrough Goodison Park, Liverpool
+6022
+Man City
+3-1
+Newcastle Etihad Stadium, Manchester
+6017
+Chelsea
+0-0
+Fulham Stamford Bridge, London
+6015
+Derby
+1-1
+Bolton Pride Park Stadium, Derby
+6016
+Portsmouth
+7-4
+Reading Fratton Park, Portsmouth
+6018
+Sunderland
+1-2
+Blackburn Stadium of Light, Sunderland
+6019
+West Ham
+0-1
+Arsenal Boleyn Ground, London
+6020
+Wigan
+0-1
+Liverpool DW Stadium, Wigan
+6021
+Birmingham
+0-1
+Man Utd St Andrews, Birmingham
+6014
+Newcastle
+3-1
+West Ham Sports Direct Arena, Newcastle
+6013
+Aston Villa
+2-0
+Everton Villa Park, Birmingham
+6009
+Blackburn
+0-1
+Portsmouth Ewood Park, Blackburn
+6010
+Bolton
+1-1
+Spurs Macron Stadium, Bolton
+6011
+Man Utd
+2-0
+Chelsea Old Trafford, Manchester
+6012
+Arsenal
+5-0
+Derby Emirates Stadium, London
+6004
+Fulham
+3-3
+Man City Craven Cottage, London
+6005
+Liverpool
+0-0
+Birmingham Anfield, Liverpool
+6006
+Middlesbrough
+2-2
+Sunderland Riverside Stadium, Middlesbrough
+6007
+Reading
+2-1
+Wigan Madejski Stadium, Reading
+6008
+Derby
+1-0
+Newcastle Pride Park Stadium, Derby
+6003
+Man City
+1-0
+Aston Villa Etihad Stadium, Manchester
+6002
+Everton
+0-1
+Man Utd Goodison Park, Liverpool
+5996
+Portsmouth
+0-0
+Liverpool Fratton Park, Portsmouth
+5997
+Spurs
+1-3
+Arsenal White Hart Lane, London
+5999
+Birmingham
+1-0
+Bolton St Andrews, Birmingham
+5994
+Sunderland
+2-1
+Reading Stadium of Light, Sunderland
+5998
+West Ham
+3-0
+Middlesbrough Boleyn Ground, London
+6000
+Wigan
+1-1
+Fulham DW Stadium, Wigan
+6001
+Chelsea
+0-0
+Blackburn Stamford Bridge, London
+5995
+Arsenal
+3-1
+Portsmouth Emirates Stadium, London
+5991
+Blackburn
+1-0
+Man City Ewood Park, Blackburn
+5993
+Aston Villa
+2-0
+Chelsea Villa Park, Birmingham
+5992
+Bolton
+1-2
+Everton Macron Stadium, Bolton
+5984
+Fulham
+3-3
+Spurs Craven Cottage, London
+5985
+Liverpool
+6-0
+Derby Anfield, Liverpool
+5986
+Middlesbrough
+2-0
+Birmingham Riverside Stadium, Middlesbrough
+5988
+Newcastle
+1-0
+Wigan Sports Direct Arena, Newcastle
+5989
+Reading
+0-3
+West Ham Madejski Stadium, Reading
+5990
+Man Utd
+1-0
+Sunderland Old Trafford, Manchester
+5987
+Middlesbrough
+2-2
+Newcastle Riverside Stadium, Middlesbrough
+5983
+Man Utd
+1-0
+Spurs Old Trafford, Manchester
+5982
+Sunderland
+0-2
+Liverpool Stadium of Light, Sunderland
+5980
+Arsenal
+1-0
+Man City Emirates Stadium, London
+5974
+Aston Villa
+2-1
+Fulham Villa Park, Birmingham
+5975
+Bolton
+3-0
+Reading Macron Stadium, Bolton
+5976
+Chelsea
+1-0
+Portsmouth Stamford Bridge, London
+5977
+Derby
+1-2
+Birmingham Pride Park Stadium, Derby
+5978
+West Ham
+1-1
+Wigan Boleyn Ground, London
+5981
+Everton
+1-1
+Blackburn Goodison Park, Liverpool
+5979
+Man City
+1-0
+Man Utd Etihad Stadium, Manchester
+5973
+Blackburn
+1-1
+Arsenal Ewood Park, Blackburn
+5971
+Liverpool
+1-1
+Chelsea Anfield, Liverpool
+5972
+Birmingham
+0-1
+West Ham St Andrews, Birmingham
+5964
+Fulham
+1-2
+Middlesbrough Craven Cottage, London
+5965
+Reading
+1-0
+Everton Madejski Stadium, Reading
+5968
+Newcastle
+0-0
+Aston Villa Sports Direct Arena, Newcastle
+5966
+Portsmouth
+3-1
+Bolton Fratton Park, Portsmouth
+5967
+Spurs
+4-0
+Derby White Hart Lane, London
+5969
+Wigan
+3-0
+Sunderland DW Stadium, Wigan
+5970
+Birmingham
+2-2
+Sunderland St Andrews, Birmingham
+5958
+Fulham
+2-1
+Bolton Craven Cottage, London
+5959
+Man City
+1-0
+Derby Etihad Stadium, Manchester
+5960
+Portsmouth
+1-1
+Man Utd Fratton Park, Portsmouth
+5961
+Reading
+1-2
+Chelsea Madejski Stadium, Reading
+5962
+Wigan
+1-0
+Middlesbrough DW Stadium, Wigan
+5963
+Spurs
+1-3
+Everton White Hart Lane, London
+5957
+Arsenal
+2-1
+Fulham Emirates Stadium, London
+5954
+Chelsea
+3-2
+Birmingham Stamford Bridge, London
+5955
+Man Utd
+0-0
+Reading Old Trafford, Manchester
+5956
+Sunderland
+1-0
+Spurs Stadium of Light, Sunderland
+5952
+Bolton
+1-3
+Newcastle Macron Stadium, Bolton
+5948
+Derby
+2-2
+Portsmouth Pride Park Stadium, Derby
+5949
+Everton
+2-1
+Wigan Goodison Park, Liverpool
+5950
+Middlesbrough
+1-2
+Blackburn Riverside Stadium, Middlesbrough
+5951
+West Ham
+0-2
+Man City Boleyn Ground, London
+5953
+Aston Villa
+1-2
+Liverpool Villa Park, Birmingham
+5947

@@ -1,0 +1,1752 @@
+Burnley
+1-2
+Bournemouth Turf Moor, Burnley Live On
+22712
+Crystal Palace
+2-0
+West Brom Selhurst Park, London Live On
+22713
+Huddersfield
+0-1
+Arsenal John Smith's Stadium, Huddersfield Live On
+22714
+Liverpool
+4-0
+Brighton Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22715
+Man Utd
+1-0
+Watford Old Trafford, Manchester Live On
+22716
+Newcastle
+3-0
+Chelsea St. James' Park, Newcastle Live On
+22717
+Southampton
+0-1
+Man City St. Mary's Stadium, Southampton
+Multiple Broadcasters
+Open multiple broadcasters modal
+22718
+Swansea
+1-2
+Stoke Liberty Stadium, Swansea Live On
+22719
+Spurs
+5-4
+Leicester Wembley Stadium, London Live On
+22720
+West Ham
+3-1
+Everton London Stadium, London Live On
+22721
+West Ham
+0-0
+Man Utd London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22651
+Chelsea
+1-1
+Huddersfield Stamford Bridge, London Live On
+22685
+Leicester
+3-1
+Arsenal King Power Stadium, Leicester Live On
+22645
+Man City
+3-1
+Brighton Etihad Stadium, Manchester Live On
+22647
+Spurs
+1-0
+Newcastle Wembley Stadium, London Live On
+22650
+Swansea
+0-1
+Southampton Liberty Stadium, Swansea Live On
+22649
+Man City
+0-0
+Huddersfield Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22708
+Arsenal
+5-0
+Burnley Emirates Stadium, London Live On
+22702
+Chelsea
+1-0
+Liverpool Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22705
+Stoke
+1-2
+Crystal Palace bet365 Stadium, Stoke Live On
+22709
+Bournemouth
+1-0
+Swansea Vitality Stadium, Bournemouth Live On
+22703
+Leicester
+0-2
+West Ham King Power Stadium, Leicester Live On
+22707
+Watford
+2-1
+Newcastle Vicarage Road, Watford Live On
+22710
+West Brom
+1-0
+Spurs The Hawthorns, West Bromwich Live On
+22711
+Everton
+1-1
+Southampton Goodison Park, Liverpool Live On
+22706
+Brighton
+1-0
+Man Utd Amex Stadium, Falmer
+Multiple Broadcasters
+Open multiple broadcasters modal
+22704
+Spurs
+2-0
+Watford Wembley Stadium, London Live On
+22700
+West Ham
+1-4
+Man City London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22701
+Man Utd
+2-1
+Arsenal Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22696
+Liverpool
+0-0
+Stoke Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22695
+Burnley
+0-0
+Brighton Turf Moor, Burnley Live On
+22692
+Crystal Palace
+5-0
+Leicester Selhurst Park, London Live On
+22693
+Huddersfield
+0-2
+Everton John Smith's Stadium, Huddersfield Live On
+22694
+Newcastle
+0-1
+West Brom St. James' Park, Newcastle
+Multiple Broadcasters
+Open multiple broadcasters modal
+22697
+Southampton
+2-1
+Bournemouth St. Mary's Stadium, Southampton Live On
+22698
+Swansea
+0-1
+Chelsea Liberty Stadium, Swansea
+Multiple Broadcasters
+Open multiple broadcasters modal
+22699
+Everton
+1-0
+Newcastle Goodison Park, Liverpool Live On
+22686
+Arsenal
+4-1
+West Ham Emirates Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22682
+Stoke
+1-1
+Burnley bet365 Stadium, Stoke Live On
+22689
+Man City
+5-0
+Swansea Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22688
+West Brom
+2-2
+Liverpool The Hawthorns, West Bromwich Live On
+22691
+Watford
+0-0
+Crystal Palace Vicarage Road, Watford Live On
+22690
+Burnley
+1-2
+Chelsea Turf Moor, Burnley
+Multiple Broadcasters
+Open multiple broadcasters modal
+22643
+Leicester
+0-0
+Southampton King Power Stadium, Leicester Live On
+22687
+Bournemouth
+0-2
+Man Utd Vitality Stadium, Bournemouth
+Multiple Broadcasters
+Open multiple broadcasters modal
+22683
+Brighton
+1-1
+Spurs Amex Stadium, Falmer Live On
+22684
+West Ham
+1-1
+Stoke London Stadium, London Live On
+22681
+Newcastle
+2-1
+Arsenal St. James' Park, Newcastle
+Multiple Broadcasters
+Open multiple broadcasters modal
+22677
+Man Utd
+0-1
+West Brom Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22676
+Southampton
+2-3
+Chelsea St. Mary's Stadium, Southampton Live On
+22678
+Burnley
+2-1
+Leicester Turf Moor, Burnley Live On
+22672
+Crystal Palace
+3-2
+Brighton Selhurst Park, London Live On
+22673
+Huddersfield
+1-0
+Watford John Smith's Stadium, Huddersfield Live On
+22674
+Swansea
+1-1
+Everton Liberty Stadium, Swansea Live On
+22679
+Liverpool
+3-0
+Bournemouth Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22675
+Spurs
+1-3
+Man City Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22680
+Arsenal
+3-2
+Southampton Emirates Stadium, London Live On
+22662
+Chelsea
+1-1
+West Ham Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22665
+Everton
+0-0
+Liverpool Goodison Park, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22666
+Bournemouth
+2-2
+Crystal Palace Vitality Stadium, Bournemouth Live On
+22663
+Brighton
+1-1
+Huddersfield Amex Stadium, Falmer Live On
+22664
+Leicester
+1-2
+Newcastle King Power Stadium, Leicester Live On
+22667
+Stoke
+1-2
+Spurs bet365 Stadium, Stoke Live On
+22669
+Watford
+1-2
+Burnley Vicarage Road, Watford Live On
+22670
+West Brom
+1-1
+Swansea The Hawthorns, West Bromwich Live On
+22671
+Man City
+2-3
+Man Utd Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22668
+Arsenal
+3-0
+Stoke Emirates Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22652
+Chelsea
+1-3
+Spurs Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22654
+Crystal Palace
+1-2
+Liverpool Selhurst Park, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22655
+Brighton
+0-2
+Leicester Amex Stadium, Falmer
+Multiple Broadcasters
+Open multiple broadcasters modal
+22653
+Man Utd
+2-0
+Swansea Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22657
+Newcastle
+1-0
+Huddersfield St. James' Park, Newcastle
+Multiple Broadcasters
+Open multiple broadcasters modal
+22658
+Watford
+2-2
+Bournemouth Vicarage Road, Watford
+Multiple Broadcasters
+Open multiple broadcasters modal
+22660
+West Brom
+1-2
+Burnley The Hawthorns, West Bromwich
+Multiple Broadcasters
+Open multiple broadcasters modal
+22661
+West Ham
+3-0
+Southampton London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22361
+Everton
+1-3
+Man City Goodison Park, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22656
+Bournemouth
+2-1
+West Brom Vitality Stadium, Bournemouth Live On
+22642
+Huddersfield
+0-2
+Crystal Palace John Smith's Stadium, Huddersfield Live On
+22644
+Stoke
+1-2
+Everton bet365 Stadium, Stoke Live On
+22648
+Liverpool
+5-0
+Watford Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22646
+Stoke
+0-2
+Man City bet365 Stadium, Stoke
+Multiple Broadcasters
+Open multiple broadcasters modal
+22639
+Arsenal
+3-0
+Watford Emirates Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22632
+Bournemouth
+1-4
+Spurs Vitality Stadium, Bournemouth
+Multiple Broadcasters
+Open multiple broadcasters modal
+22633
+Man Utd
+2-1
+Liverpool Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22637
+Everton
+2-0
+Brighton Goodison Park, Liverpool Live On
+22635
+Huddersfield
+0-0
+Swansea John Smith's Stadium, Huddersfield Live On
+22636
+Newcastle
+3-0
+Southampton St. James' Park, Newcastle Live On
+22638
+West Brom
+1-4
+Leicester The Hawthorns, West Bromwich Live On
+22640
+West Ham
+0-3
+Burnley London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22641
+Chelsea
+2-1
+Crystal Palace Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22634
+Crystal Palace
+2-3
+Man Utd Selhurst Park, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22624
+Brighton
+2-1
+Arsenal Amex Stadium, Falmer Live On
+22622
+Man City
+1-0
+Chelsea Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22627
+Burnley
+2-1
+Everton Turf Moor, Burnley Live On
+22623
+Leicester
+1-1
+Bournemouth King Power Stadium, Leicester Live On
+22625
+Southampton
+0-0
+Stoke St. Mary's Stadium, Southampton Live On
+22628
+Swansea
+4-1
+West Ham Liberty Stadium, Swansea Live On
+22629
+Spurs
+2-0
+Huddersfield Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22630
+Watford
+1-0
+West Brom Vicarage Road, Watford Live On
+22631
+Liverpool
+2-0
+Newcastle Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22626
+Arsenal
+0-3
+Man City Emirates Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22612
+Crystal Palace
+0-1
+Spurs Selhurst Park, London Live On
+22616
+Man Utd
+2-1
+Chelsea Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22619
+Leicester
+1-1
+Stoke King Power Stadium, Leicester Live On
+22617
+Bournemouth
+2-2
+Newcastle Vitality Stadium, Bournemouth Live On
+22613
+Brighton
+4-1
+Swansea Amex Stadium, Falmer Live On
+22614
+Burnley
+1-1
+Southampton Turf Moor, Burnley Live On
+22615
+Liverpool
+4-1
+West Ham Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22618
+West Brom
+1-2
+Huddersfield The Hawthorns, West Bromwich Live On
+22621
+Watford
+1-0
+Everton Vicarage Road, Watford
+Multiple Broadcasters
+Open multiple broadcasters modal
+22620
+Chelsea
+3-0
+West Brom Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22602
+Huddersfield
+4-1
+Bournemouth John Smith's Stadium, Huddersfield Live On
+22604
+Newcastle
+1-0
+Man Utd St. James' Park, Newcastle
+Multiple Broadcasters
+Open multiple broadcasters modal
+22606
+Southampton
+0-2
+Liverpool St. Mary's Stadium, Southampton
+Multiple Broadcasters
+Open multiple broadcasters modal
+22607
+Spurs
+1-0
+Arsenal Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22610
+Everton
+3-1
+Crystal Palace Goodison Park, Liverpool Live On
+22603
+Stoke
+1-1
+Brighton bet365 Stadium, Stoke Live On
+22608
+Swansea
+1-0
+Burnley Liberty Stadium, Swansea Live On
+22609
+West Ham
+2-0
+Watford London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22611
+Man City
+5-1
+Leicester Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22605
+Watford
+4-1
+Chelsea Vicarage Road, Watford
+Multiple Broadcasters
+Open multiple broadcasters modal
+22600
+Crystal Palace
+1-1
+Newcastle Selhurst Park, London Live On
+22596
+Liverpool
+2-2
+Spurs Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22598
+Burnley
+1-1
+Man City Turf Moor, Burnley
+Multiple Broadcasters
+Open multiple broadcasters modal
+22595
+Bournemouth
+2-1
+Stoke Vitality Stadium, Bournemouth Live On
+22593
+Brighton
+3-1
+West Ham Amex Stadium, Falmer Live On
+22594
+Leicester
+1-1
+Swansea King Power Stadium, Leicester Live On
+22597
+Man Utd
+2-0
+Huddersfield Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22599
+West Brom
+2-3
+Southampton The Hawthorns, West Bromwich Live On
+22601
+Arsenal
+5-1
+Everton Emirates Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22592
+Chelsea
+0-3
+Bournemouth Stamford Bridge, London Live On
+22585
+Everton
+2-1
+Leicester Goodison Park, Liverpool Live On
+22586
+Newcastle
+1-1
+Burnley St. James' Park, Newcastle Live On
+22588
+Southampton
+1-1
+Brighton St. Mary's Stadium, Southampton Live On
+22589
+Man City
+3-0
+West Brom Etihad Stadium, Manchester Live On
+22587
+Stoke
+0-0
+Watford bet365 Stadium, Stoke Live On
+22590
+Spurs
+2-0
+Man Utd Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22591
+Swansea
+3-1
+Arsenal Liberty Stadium, Swansea Live On
+22583
+West Ham
+1-1
+Crystal Palace London Stadium, London Live On
+22584
+Huddersfield
+0-3
+Liverpool John Smith's Stadium, Huddersfield
+Multiple Broadcasters
+Open multiple broadcasters modal
+22582
+Swansea
+1-0
+Liverpool Liberty Stadium, Swansea
+Multiple Broadcasters
+Open multiple broadcasters modal
+22580
+Southampton
+1-1
+Spurs St. Mary's Stadium, Southampton
+Multiple Broadcasters
+Open multiple broadcasters modal
+22578
+Brighton
+0-4
+Chelsea Amex Stadium, Falmer
+Multiple Broadcasters
+Open multiple broadcasters modal
+22573
+Arsenal
+4-1
+Crystal Palace Emirates Stadium, London Live On
+22572
+Burnley
+0-1
+Man Utd Turf Moor, Burnley
+Multiple Broadcasters
+Open multiple broadcasters modal
+22574
+Everton
+1-1
+West Brom Goodison Park, Liverpool Live On
+22575
+Leicester
+2-0
+Watford King Power Stadium, Leicester Live On
+22576
+Stoke
+2-0
+Huddersfield bet365 Stadium, Stoke Live On
+22579
+West Ham
+1-1
+Bournemouth London Stadium, London Live On
+22581
+Man City
+3-1
+Newcastle Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22577
+Man Utd
+3-0
+Stoke Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22567
+Bournemouth
+2-1
+Arsenal Vitality Stadium, Bournemouth
+Multiple Broadcasters
+Open multiple broadcasters modal
+22562
+Liverpool
+4-3
+Man City Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22566
+Chelsea
+0-0
+Leicester Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22563
+Crystal Palace
+1-0
+Burnley Selhurst Park, London Live On
+22564
+Huddersfield
+1-4
+West Ham John Smith's Stadium, Huddersfield Live On
+22565
+Newcastle
+1-1
+Swansea St. James' Park, Newcastle Live On
+22568
+Watford
+2-2
+Southampton Vicarage Road, Watford Live On
+22570
+West Brom
+2-0
+Brighton The Hawthorns, West Bromwich Live On
+22571
+Spurs
+4-0
+Everton Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22569
+Spurs
+1-1
+West Ham Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22549
+Arsenal
+2-2
+Chelsea Emirates Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22552
+Southampton
+1-2
+Crystal Palace St. Mary's Stadium, Southampton Live On
+22558
+Swansea
+0-2
+Spurs Liberty Stadium, Swansea
+Multiple Broadcasters
+Open multiple broadcasters modal
+22560
+West Ham
+2-1
+West Brom London Stadium, London Live On
+22561
+Man City
+3-1
+Watford Etihad Stadium, Manchester Live On
+22557
+Brighton
+2-2
+Bournemouth Amex Stadium, Falmer Live On
+22553
+Burnley
+1-2
+Liverpool Turf Moor, Burnley
+Multiple Broadcasters
+Open multiple broadcasters modal
+22554
+Leicester
+3-0
+Huddersfield King Power Stadium, Leicester Live On
+22556
+Stoke
+0-1
+Newcastle bet365 Stadium, Stoke Live On
+22559
+Everton
+0-2
+Man Utd Goodison Park, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22555
+Crystal Palace
+0-0
+Man City Selhurst Park, London Live On
+22544
+West Brom
+1-1
+Arsenal The Hawthorns, West Bromwich Live On
+22551
+Bournemouth
+2-1
+Everton Vitality Stadium, Bournemouth Live On
+22542
+Chelsea
+5-0
+Stoke Stamford Bridge, London Live On
+22543
+Huddersfield
+0-0
+Burnley John Smith's Stadium, Huddersfield Live On
+22545
+Liverpool
+2-1
+Leicester Anfield, Liverpool Live On
+22546
+Newcastle
+0-0
+Brighton St. James' Park, Newcastle Live On
+22548
+Watford
+1-2
+Swansea Vicarage Road, Watford Live On
+22550
+Man Utd
+0-0
+Southampton Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22547
+Crystal Palace
+2-3
+Arsenal Selhurst Park, London Live On
+22534
+Newcastle
+0-1
+Man City St. James' Park, Newcastle Live On
+22538
+Spurs
+5-2
+Southampton Wembley Stadium, London Live On
+22539
+Bournemouth
+3-3
+West Ham Vitality Stadium, Bournemouth Live On
+22532
+Chelsea
+2-0
+Brighton Stamford Bridge, London Live On
+22533
+Huddersfield
+1-1
+Stoke John Smith's Stadium, Huddersfield Live On
+22535
+Man Utd
+2-2
+Burnley Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22537
+Watford
+2-1
+Leicester Vicarage Road, Watford Live On
+22540
+West Brom
+0-0
+Everton The Hawthorns, West Bromwich Live On
+22541
+Liverpool
+5-0
+Swansea Anfield, Liverpool Live On
+22536
+Everton
+0-0
+Chelsea Goodison Park, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22525
+Brighton
+1-0
+Watford Amex Stadium, Falmer Live On
+22523
+Man City
+4-0
+Bournemouth Etihad Stadium, Manchester Live On
+22527
+Southampton
+1-1
+Huddersfield St. Mary's Stadium, Southampton Live On
+22528
+Stoke
+3-1
+West Brom bet365 Stadium, Stoke Live On
+22529
+Swansea
+1-1
+Crystal Palace Liberty Stadium, Swansea Live On
+22530
+West Ham
+2-3
+Newcastle London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22531
+Burnley
+0-3
+Spurs Turf Moor, Burnley Live On
+22524
+Leicester
+2-2
+Man Utd King Power Stadium, Leicester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22526
+Arsenal
+3-3
+Liverpool Emirates Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22522
+Everton
+3-1
+Swansea Goodison Park, Liverpool Live On
+22516
+West Brom
+1-2
+Man Utd The Hawthorns, West Bromwich Live On
+22521
+Bournemouth
+0-4
+Liverpool Vitality Stadium, Bournemouth Live On
+22513
+Leicester
+0-3
+Crystal Palace King Power Stadium, Leicester Live On
+22517
+Arsenal
+1-0
+Newcastle Emirates Stadium, London Live On
+22512
+Brighton
+0-0
+Burnley Amex Stadium, Falmer Live On
+22514
+Chelsea
+1-0
+Southampton Stamford Bridge, London Live On
+22515
+Watford
+1-4
+Huddersfield Vicarage Road, Watford Live On
+22520
+Stoke
+0-3
+West Ham bet365 Stadium, Stoke Live On
+22519
+Man City
+4-1
+Spurs Etihad Stadium, Manchester Live On
+22518
+Newcastle
+0-1
+Everton St. James' Park, Newcastle Live On
+22509
+Southampton
+1-4
+Leicester St. Mary's Stadium, Southampton Live On
+22510
+Swansea
+0-4
+Man City Liberty Stadium, Swansea Live On
+22506
+Liverpool
+0-0
+West Brom Anfield, Liverpool Live On
+22508
+Man Utd
+1-0
+Bournemouth Old Trafford, Manchester Live On
+22505
+Spurs
+2-0
+Brighton Wembley Stadium, London Live On
+22511
+West Ham
+0-0
+Arsenal London Stadium, London Live On
+22507
+Burnley
+1-0
+Stoke Turf Moor, Burnley Live On
+22502
+Crystal Palace
+2-1
+Watford Selhurst Park, London Live On
+22503
+Huddersfield
+1-3
+Chelsea John Smith's Stadium, Huddersfield Live On
+22504
+Southampton
+1-1
+Arsenal St. Mary's Stadium, Southampton Live On
+22498
+Liverpool
+1-1
+Everton Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22495
+Man Utd
+1-2
+Man City Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22496
+West Ham
+1-0
+Chelsea London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22501
+Burnley
+1-0
+Watford Turf Moor, Burnley Live On
+22492
+Crystal Palace
+2-2
+Bournemouth Selhurst Park, London Live On
+22493
+Huddersfield
+2-0
+Brighton John Smith's Stadium, Huddersfield Live On
+22494
+Swansea
+1-0
+West Brom Liberty Stadium, Swansea Live On
+22499
+Spurs
+5-1
+Stoke Wembley Stadium, London Live On
+22500
+Newcastle
+2-3
+Leicester St. James' Park, Newcastle Live On
+22497
+Bournemouth
+1-1
+Southampton Vitality Stadium, Bournemouth Live On
+22483
+Man City
+2-1
+West Ham Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22488
+Chelsea
+3-1
+Newcastle Stamford Bridge, London Live On
+22485
+Brighton
+1-5
+Liverpool Amex Stadium, Falmer Live On
+22484
+Everton
+2-0
+Huddersfield Goodison Park, Liverpool Live On
+22486
+Leicester
+1-0
+Burnley King Power Stadium, Leicester Live On
+22487
+Stoke
+2-1
+Swansea bet365 Stadium, Stoke Live On
+22489
+Watford
+1-1
+Spurs Vicarage Road, Watford Live On
+22490
+West Brom
+0-0
+Crystal Palace The Hawthorns, West Bromwich Live On
+22491
+Arsenal
+1-3
+Man Utd Emirates Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22482
+Bournemouth
+1-2
+Burnley Vitality Stadium, Bournemouth Live On
+22473
+Arsenal
+5-0
+Huddersfield Emirates Stadium, London Live On
+22472
+Chelsea
+1-0
+Swansea Stamford Bridge, London Live On
+22478
+Everton
+4-0
+West Ham Goodison Park, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22479
+Man City
+2-1
+Southampton Etihad Stadium, Manchester Live On
+22480
+Stoke
+0-3
+Liverpool bet365 Stadium, Stoke Live On
+22481
+Brighton
+0-0
+Crystal Palace Amex Stadium, Falmer Live On
+22474
+Leicester
+2-1
+Spurs King Power Stadium, Leicester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22475
+Watford
+2-4
+Man Utd Vicarage Road, Watford Live On
+22476
+West Brom
+2-2
+Newcastle The Hawthorns, West Bromwich Live On
+22477
+Southampton
+4-1
+Everton St. Mary's Stadium, Southampton Live On
+22468
+Burnley
+0-1
+Arsenal Turf Moor, Burnley Live On
+22462
+Huddersfield
+1-2
+Man City John Smith's Stadium, Huddersfield Live On
+22464
+Crystal Palace
+2-1
+Stoke Selhurst Park, London Live On
+22463
+Man Utd
+1-0
+Brighton Old Trafford, Manchester Live On
+22466
+Newcastle
+0-3
+Watford St. James' Park, Newcastle Live On
+22467
+Swansea
+0-0
+Bournemouth Liberty Stadium, Swansea Live On
+22469
+Spurs
+1-1
+West Brom Wembley Stadium, London Live On
+22470
+Liverpool
+1-1
+Chelsea Anfield, Liverpool Live On
+22465
+West Ham
+1-1
+Leicester London Stadium, London Live On
+22471
+Brighton
+2-2
+Stoke Amex Stadium, Falmer Live On
+22454
+Watford
+2-0
+West Ham Vicarage Road, Watford Live On
+22460
+Arsenal
+2-0
+Spurs Emirates Stadium, London Live On
+22452
+Bournemouth
+4-0
+Huddersfield Vitality Stadium, Bournemouth Live On
+22453
+Burnley
+2-0
+Swansea Turf Moor, Burnley Live On
+22455
+Crystal Palace
+2-2
+Everton Selhurst Park, London Live On
+22456
+Leicester
+0-2
+Man City King Power Stadium, Leicester Live On
+22457
+Liverpool
+3-0
+Southampton Anfield, Liverpool Live On
+22458
+West Brom
+0-4
+Chelsea The Hawthorns, West Bromwich Live On
+22461
+Man Utd
+4-1
+Newcastle Old Trafford, Manchester Live On
+22459
+Spurs
+1-0
+Crystal Palace Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22450
+Man City
+3-1
+Arsenal Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22445
+Chelsea
+1-0
+Man Utd Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22442
+Everton
+3-2
+Watford Goodison Park, Liverpool Live On
+22443
+Stoke
+2-2
+Leicester bet365 Stadium, Stoke Live On
+22448
+Huddersfield
+1-0
+West Brom John Smith's Stadium, Huddersfield Live On
+22444
+Newcastle
+0-1
+Bournemouth St. James' Park, Newcastle Live On
+22446
+Southampton
+0-1
+Burnley St. Mary's Stadium, Southampton Live On
+22447
+Swansea
+0-1
+Brighton Liberty Stadium, Swansea Live On
+22449
+West Ham
+1-4
+Liverpool London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22451
+Burnley
+1-0
+Newcastle Turf Moor, Burnley Live On
+22435
+Brighton
+1-1
+Southampton Amex Stadium, Falmer Live On
+22434
+Leicester
+2-0
+Everton King Power Stadium, Leicester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22437
+Man Utd
+1-0
+Spurs Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22439
+Arsenal
+2-1
+Swansea Emirates Stadium, London Live On
+22432
+Crystal Palace
+2-2
+West Ham Selhurst Park, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22436
+Liverpool
+3-0
+Huddersfield Anfield, Liverpool Live On
+22438
+Watford
+0-1
+Stoke Vicarage Road, Watford Live On
+22440
+West Brom
+2-3
+Man City The Hawthorns, West Bromwich Live On
+22441
+Bournemouth
+0-1
+Chelsea Vitality Stadium, Bournemouth
+Multiple Broadcasters
+Open multiple broadcasters modal
+22433
+Everton
+2-5
+Arsenal Goodison Park, Liverpool Live On
+22423
+Spurs
+4-1
+Liverpool Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22430
+Chelsea
+4-2
+Watford Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22422
+Huddersfield
+2-1
+Man Utd John Smith's Stadium, Huddersfield Live On
+22424
+Man City
+3-0
+Burnley Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22425
+Newcastle
+1-0
+Crystal Palace St. James' Park, Newcastle Live On
+22426
+Stoke
+1-2
+Bournemouth bet365 Stadium, Stoke Live On
+22428
+Swansea
+1-2
+Leicester Liberty Stadium, Swansea Live On
+22429
+Southampton
+1-0
+West Brom St. Mary's Stadium, Southampton Live On
+22427
+West Ham
+0-3
+Brighton London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22431
+Leicester
+1-1
+West Brom King Power Stadium, Leicester Live On
+22415
+Brighton
+1-1
+Everton Amex Stadium, Falmer Live On
+22412
+Southampton
+2-2
+Newcastle St. Mary's Stadium, Southampton Live On
+22418
+Liverpool
+0-0
+Man Utd Anfield, Liverpool Live On
+22416
+Burnley
+1-1
+West Ham Turf Moor, Burnley Live On
+22413
+Crystal Palace
+2-1
+Chelsea Selhurst Park, London Live On
+22414
+Man City
+7-2
+Stoke Etihad Stadium, Manchester Live On
+22417
+Swansea
+2-0
+Huddersfield Liberty Stadium, Swansea Live On
+22419
+Spurs
+1-0
+Bournemouth Wembley Stadium, London Live On
+22420
+Watford
+2-1
+Arsenal Vicarage Road, Watford Live On
+22421
+Arsenal
+2-0
+Brighton Emirates Stadium, London Live On
+22402
+Everton
+0-1
+Burnley Goodison Park, Liverpool Live On
+22405
+Newcastle
+1-1
+Liverpool St. James' Park, Newcastle
+Multiple Broadcasters
+Open multiple broadcasters modal
+22408
+Huddersfield
+0-4
+Spurs John Smith's Stadium, Huddersfield
+Multiple Broadcasters
+Open multiple broadcasters modal
+22406
+Bournemouth
+0-0
+Leicester Vitality Stadium, Bournemouth Live On
+22403
+Man Utd
+4-0
+Crystal Palace Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22407
+Stoke
+2-1
+Southampton bet365 Stadium, Stoke Live On
+22409
+West Brom
+2-2
+Watford The Hawthorns, West Bromwich Live On
+22410
+West Ham
+1-0
+Swansea London Stadium, London Live On
+22411
+Chelsea
+0-1
+Man City Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22404
+Arsenal
+2-0
+West Brom Emirates Stadium, London Live On
+22392
+Brighton
+1-0
+Newcastle Amex Stadium, Falmer
+Multiple Broadcasters
+Open multiple broadcasters modal
+22393
+West Ham
+2-3
+Spurs London Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22401
+Burnley
+0-0
+Huddersfield Turf Moor, Burnley Live On
+22394
+Everton
+2-1
+Bournemouth Goodison Park, Liverpool Live On
+22395
+Man City
+5-0
+Crystal Palace Etihad Stadium, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22397
+Southampton
+0-1
+Man Utd St. Mary's Stadium, Southampton Live On
+22398
+Stoke
+0-4
+Chelsea bet365 Stadium, Stoke Live On
+22399
+Swansea
+1-2
+Watford Liberty Stadium, Swansea Live On
+22400
+Leicester
+2-3
+Liverpool King Power Stadium, Leicester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22396
+Chelsea
+0-0
+Arsenal Stamford Bridge, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22383
+Man Utd
+4-0
+Everton Old Trafford, Manchester
+Multiple Broadcasters
+Open multiple broadcasters modal
+22387
+Crystal Palace
+0-1
+Southampton Selhurst Park, London Live On
+22384
+Huddersfield
+1-1
+Leicester John Smith's Stadium, Huddersfield Live On
+22385
+Liverpool
+1-1
+Burnley Anfield, Liverpool Live On
+22386
+Newcastle
+2-1
+Stoke St. James' Park, Newcastle Live On
+22388
+Watford
+0-6
+Man City Vicarage Road, Watford Live On
+22390
+West Brom
+0-0
+West Ham The Hawthorns, West Bromwich
+Multiple Broadcasters
+Open multiple broadcasters modal
+22391
+Spurs
+0-0
+Swansea Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22389
+Bournemouth
+2-1
+Brighton Vitality Stadium, Bournemouth Live On
+22382
+West Ham
+2-0
+Huddersfield London Stadium, London Live On
+22381
+Burnley
+1-0
+Crystal Palace Turf Moor, Burnley Live On
+22374
+Swansea
+0-1
+Newcastle Liberty Stadium, Swansea Live On
+22380
+Man City
+5-0
+Liverpool Etihad Stadium, Manchester Live On
+22377
+Arsenal
+3-0
+Bournemouth Emirates Stadium, London Live On
+22372
+Brighton
+3-1
+West Brom Amex Stadium, Falmer Live On
+22373
+Everton
+0-3
+Spurs Goodison Park, Liverpool Live On
+22375
+Leicester
+1-2
+Chelsea King Power Stadium, Leicester Live On
+22376
+Southampton
+0-2
+Watford St. Mary's Stadium, Southampton Live On
+22378
+Stoke
+2-2
+Man Utd bet365 Stadium, Stoke Live On
+22379
+Chelsea
+2-0
+Everton Stamford Bridge, London Live On
+22363
+West Brom
+1-1
+Stoke The Hawthorns, West Bromwich Live On
+22371
+Liverpool
+4-0
+Arsenal Anfield, Liverpool Live On
+22366
+Spurs
+1-1
+Burnley Wembley Stadium, London Live On
+22369
+Bournemouth
+1-2
+Man City Vitality Stadium, Bournemouth Live On
+22362
+Crystal Palace
+0-2
+Swansea Selhurst Park, London Live On
+22364
+Huddersfield
+0-0
+Southampton John Smith's Stadium, Huddersfield Live On
+22365
+Newcastle
+3-0
+West Ham St. James' Park, Newcastle Live On
+22368
+Watford
+0-0
+Brighton Vicarage Road, Watford Live On
+22370
+Man Utd
+2-0
+Leicester Old Trafford, Manchester Live On
+22367
+Man City
+1-1
+Everton Etihad Stadium, Manchester Live On
+22357
+Huddersfield
+1-0
+Newcastle John Smith's Stadium, Huddersfield Live On
+22354
+Spurs
+1-2
+Chelsea Wembley Stadium, London
+Multiple Broadcasters
+Open multiple broadcasters modal
+22360
+Swansea
+0-4
+Man Utd Liberty Stadium, Swansea
+Multiple Broadcasters
+Open multiple broadcasters modal
+22359
+Bournemouth
+0-2
+Watford Vitality Stadium, Bournemouth Live On
+22352
+Burnley
+0-1
+West Brom Turf Moor, Burnley Live On
+22353
+Leicester
+2-0
+Brighton King Power Stadium, Leicester Live On
+22355
+Liverpool
+1-0
+Crystal Palace Anfield, Liverpool
+Multiple Broadcasters
+Open multiple broadcasters modal
+22356
+Southampton
+3-2
+West Ham St. Mary's Stadium, Southampton Live On
+22659
+Stoke
+1-0
+Arsenal bet365 Stadium, Stoke
+Multiple Broadcasters
+Open multiple broadcasters modal
+22358
+Newcastle
+0-2
+Spurs St. James' Park, Newcastle Live On
+22348
+Man Utd
+4-0
+West Ham Old Trafford, Manchester Live On
+22347
+Watford
+3-3
+Liverpool Vicarage Road, Watford Live On
+22350
+Chelsea
+2-3
+Burnley Stamford Bridge, London Live On
+22344
+Crystal Palace
+0-3
+Huddersfield Selhurst Park, London Live On
+22345
+Everton
+1-0
+Stoke Goodison Park, Liverpool Live On
+22346
+Southampton
+0-0
+Swansea St. Mary's Stadium, Southampton Live On
+22349
+West Brom
+1-0
+Bournemouth The Hawthorns, West Bromwich Live On
+22351
+Brighton
+0-2
+Man City Amex Stadium, Falmer Live On
+22343
+Arsenal
+4-3
+Leicester Emirates Stadium, London Live On
+22342

@@ -1,0 +1,1900 @@
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-382")>]
+Blackburn
+Reading
+Blackburn
+5937
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-383")>]
+Bolton
+Aston Villa
+Bolton
+5938
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-384")>]
+Chelsea
+Everton
+Chelsea
+5939
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-385")>]
+Liverpool
+Charlton
+Liverpool
+5940
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-386")>]
+Man Utd
+West Ham
+Man Utd
+5941
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-387")>]
+Middlesbrough
+Fulham
+Middlesbrough
+5942
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-388")>]
+Portsmouth
+Arsenal
+Portsmouth
+5943
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-389")>]
+Sheffield Utd
+Wigan
+Sheffield Utd
+5944
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-390")>]
+Spurs
+Man City
+Spurs
+5945
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-391")>]
+Watford
+Newcastle
+Watford
+5946
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-392")>]
+Spurs
+Blackburn
+Spurs
+5936
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-393")>]
+Chelsea
+Man Utd
+Chelsea
+5935
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-394")>]
+Charlton
+Spurs
+Charlton
+5934
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-395")>]
+Arsenal
+Chelsea
+Arsenal
+5933
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-396")>]
+Man City
+Man Utd
+Man City
+5928
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-397")>]
+Everton
+Portsmouth
+Everton
+5926
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-398")>]
+Fulham
+Liverpool
+Fulham
+5927
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-399")>]
+Newcastle
+Blackburn
+Newcastle
+5929
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-400")>]
+Reading
+Watford
+Reading
+5930
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-401")>]
+West Ham
+Bolton
+West Ham
+5931
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-402")>]
+Wigan
+Middlesbrough
+Wigan
+5932
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-403")>]
+Aston Villa
+Sheffield Utd
+Aston Villa
+5925
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-404")>]
+Reading
+Newcastle
+Reading
+5924
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-405")>]
+Arsenal
+Fulham
+Arsenal
+5923
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-406")>]
+Chelsea
+Bolton
+Chelsea
+5916
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-407")>]
+Everton
+Man Utd
+Everton
+5917
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-408")>]
+Blackburn
+Charlton
+Blackburn
+5915
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-409")>]
+Man City
+Aston Villa
+Man City
+5918
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-410")>]
+Middlesbrough
+Spurs
+Middlesbrough
+5919
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-411")>]
+Portsmouth
+Liverpool
+Portsmouth
+5920
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-412")>]
+Sheffield Utd
+Watford
+Sheffield Utd
+5921
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-413")>]
+Wigan
+West Ham
+Wigan
+5922
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-414")>]
+Newcastle
+Chelsea
+Newcastle
+5914
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-415")>]
+Aston Villa
+Portsmouth
+Aston Villa
+5913
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-416")>]
+Bolton
+Reading
+Bolton
+5905
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-417")>]
+Charlton
+Sheffield Utd
+Charlton
+5906
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-418")>]
+Fulham
+Blackburn
+Fulham
+5907
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-419")>]
+Liverpool
+Wigan
+Liverpool
+5908
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-420")>]
+Watford
+Man City
+Watford
+5911
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-421")>]
+Man Utd
+Middlesbrough
+Man Utd
+5909
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-422")>]
+Spurs
+Arsenal
+Spurs
+5910
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-423")>]
+West Ham
+Everton
+West Ham
+5912
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-424")>]
+Blackburn
+Watford
+Blackburn
+5902
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-425")>]
+Liverpool
+Middlesbrough
+Liverpool
+5903
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-426")>]
+West Ham
+Chelsea
+West Ham
+5904
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-427")>]
+Arsenal
+Man City
+Arsenal
+5900
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-428")>]
+Man Utd
+Sheffield Utd
+Man Utd
+5901
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-429")>]
+Wigan
+Spurs
+Wigan
+5899
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-430")>]
+Everton
+Charlton
+Everton
+5898
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-431")>]
+Arsenal
+Bolton
+Arsenal
+5892
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-432")>]
+Man City
+Liverpool
+Man City
+5893
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-433")>]
+Middlesbrough
+Aston Villa
+Middlesbrough
+5894
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-434")>]
+Portsmouth
+Newcastle
+Portsmouth
+5895
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-435")>]
+Reading
+Fulham
+Reading
+5896
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-436")>]
+Sheffield Utd
+West Ham
+Sheffield Utd
+5897
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-437")>]
+Watford
+Portsmouth
+Watford
+5891
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-438")>]
+Aston Villa
+Wigan
+Aston Villa
+5886
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-439")>]
+Bolton
+Everton
+Bolton
+5887
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-440")>]
+Fulham
+Man City
+Fulham
+5889
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-441")>]
+Newcastle
+Arsenal
+Newcastle
+5890
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-442")>]
+Charlton
+Reading
+Charlton
+5888
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-443")>]
+Chelsea
+Spurs
+Chelsea
+5880
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-444")>]
+Arsenal
+West Ham
+Arsenal
+5878
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-445")>]
+Blackburn
+Aston Villa
+Blackburn
+5879
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-446")>]
+Middlesbrough
+Watford
+Middlesbrough
+5881
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-447")>]
+Reading
+Liverpool
+Reading
+5883
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-448")>]
+Sheffield Utd
+Newcastle
+Sheffield Utd
+5884
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-449")>]
+Wigan
+Bolton
+Wigan
+5885
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-450")>]
+Portsmouth
+Man Utd
+Portsmouth
+5882
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-451")>]
+Man City
+Charlton
+Man City
+5877
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-452")>]
+Everton
+Fulham
+Everton
+5876
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-453")>]
+Aston Villa
+Everton
+Aston Villa
+5875
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-454")>]
+Spurs
+Reading
+Spurs
+5874
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-455")>]
+Bolton
+Sheffield Utd
+Bolton
+5866
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-456")>]
+Charlton
+Wigan
+Charlton
+5867
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-457")>]
+Fulham
+Portsmouth
+Fulham
+5868
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-458")>]
+Man Utd
+Blackburn
+Man Utd
+5870
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-459")>]
+Newcastle
+Man City
+Newcastle
+5871
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-460")>]
+West Ham
+Middlesbrough
+West Ham
+5873
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-461")>]
+Watford
+Chelsea
+Watford
+5872
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-462")>]
+Liverpool
+Arsenal
+Liverpool
+5869
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-463")>]
+Charlton
+Newcastle
+Charlton
+5864
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-464")>]
+Aston Villa
+Liverpool
+Aston Villa
+5863
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-465")>]
+Everton
+Arsenal
+Everton
+5865
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-466")>]
+Man Utd
+Bolton
+Man Utd
+5858
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-467")>]
+Chelsea
+Sheffield Utd
+Chelsea
+5857
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-468")>]
+Middlesbrough
+Man City
+Middlesbrough
+5859
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-469")>]
+Reading
+Portsmouth
+Reading
+5860
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-470")>]
+Spurs
+Watford
+Spurs
+5861
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-471")>]
+Wigan
+Fulham
+Wigan
+5862
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-472")>]
+Blackburn
+West Ham
+Blackburn
+5856
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-473")>]
+Aston Villa
+Arsenal
+Aston Villa
+5854
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-474")>]
+Man City
+Chelsea
+Man City
+5855
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-475")>]
+Bolton
+Blackburn
+Bolton
+5852
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-476")>]
+West Ham
+Spurs
+West Ham
+5853
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-477")>]
+Liverpool
+Man Utd
+Liverpool
+5846
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-478")>]
+Arsenal
+Reading
+Arsenal
+5844
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-479")>]
+Fulham
+Aston Villa
+Fulham
+5845
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-480")>]
+Man City
+Wigan
+Man City
+5847
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-481")>]
+Newcastle
+Middlesbrough
+Newcastle
+5848
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-482")>]
+Sheffield Utd
+Everton
+Sheffield Utd
+5850
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-483")>]
+Watford
+Charlton
+Watford
+5851
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-484")>]
+Portsmouth
+Chelsea
+Portsmouth
+5849
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-485")>]
+Wigan
+Newcastle
+Wigan
+5843
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-486")>]
+Blackburn
+Portsmouth
+Blackburn
+5841
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-487")>]
+Spurs
+Bolton
+Spurs
+5842
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-488")>]
+Fulham
+Man Utd
+Fulham
+5837
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-489")>]
+Charlton
+West Ham
+Charlton
+5836
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-490")>]
+Liverpool
+Sheffield Utd
+Liverpool
+5838
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-491")>]
+Middlesbrough
+Reading
+Middlesbrough
+5839
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-492")>]
+Watford
+Everton
+Watford
+5840
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-493")>]
+Watford
+Wigan
+Watford
+5835
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-494")>]
+Everton
+Spurs
+Everton
+5834
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-495")>]
+Bolton
+Fulham
+Bolton
+5833
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-496")>]
+Arsenal
+Wigan
+Arsenal
+5832
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-497")>]
+Chelsea
+Middlesbrough
+Chelsea
+5824
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-498")>]
+Everton
+Blackburn
+Everton
+5825
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-499")>]
+Man Utd
+Charlton
+Man Utd
+5826
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-500")>]
+Newcastle
+Liverpool
+Newcastle
+5827
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-501")>]
+Portsmouth
+Man City
+Portsmouth
+5828
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-502")>]
+Reading
+Aston Villa
+Reading
+5829
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-503")>]
+Sheffield Utd
+Spurs
+Sheffield Utd
+5830
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-504")>]
+West Ham
+Watford
+West Ham
+5831
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-505")>]
+Spurs
+Man Utd
+Spurs
+5823
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-506")>]
+Liverpool
+Everton
+Liverpool
+5818
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-507")>]
+Aston Villa
+West Ham
+Aston Villa
+5814
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-508")>]
+Blackburn
+Sheffield Utd
+Blackburn
+5815
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-509")>]
+Charlton
+Chelsea
+Charlton
+5816
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-510")>]
+Fulham
+Newcastle
+Fulham
+5817
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-511")>]
+Man City
+Reading
+Man City
+5819
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-512")>]
+Watford
+Bolton
+Watford
+5821
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-513")>]
+Wigan
+Portsmouth
+Wigan
+5822
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-514")>]
+Middlesbrough
+Arsenal
+Middlesbrough
+5820
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-515")>]
+Chelsea
+Blackburn
+Chelsea
+5811
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-516")>]
+Bolton
+Charlton
+Bolton
+5810
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-517")>]
+Man Utd
+Watford
+Man Utd
+5812
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-518")>]
+Newcastle
+Aston Villa
+Newcastle
+5813
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-519")>]
+Portsmouth
+Middlesbrough
+Portsmouth
+5806
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-520")>]
+Sheffield Utd
+Fulham
+Sheffield Utd
+5808
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-521")>]
+West Ham
+Liverpool
+West Ham
+5809
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-522")>]
+Reading
+Wigan
+Reading
+5807
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-523")>]
+Watford
+Blackburn
+Watford
+5805
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-524")>]
+Wigan
+Everton
+Wigan
+5804
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-525")>]
+Arsenal
+Man Utd
+Arsenal
+5803
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-526")>]
+Liverpool
+Chelsea
+Liverpool
+5797
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-527")>]
+Aston Villa
+Watford
+Aston Villa
+5795
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-528")>]
+Fulham
+Spurs
+Fulham
+5796
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-529")>]
+Middlesbrough
+Bolton
+Middlesbrough
+5799
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-530")>]
+Newcastle
+West Ham
+Newcastle
+5800
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-531")>]
+Portsmouth
+Charlton
+Portsmouth
+5801
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-532")>]
+Reading
+Sheffield Utd
+Reading
+5802
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-533")>]
+Man City
+Blackburn
+Man City
+5798
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-534")>]
+Everton
+Reading
+Everton
+5793
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-535")>]
+Spurs
+Newcastle
+Spurs
+5794
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-536")>]
+Bolton
+Man City
+Bolton
+5786
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-537")>]
+Charlton
+Middlesbrough
+Charlton
+5787
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-538")>]
+Chelsea
+Wigan
+Chelsea
+5788
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-539")>]
+Man Utd
+Aston Villa
+Man Utd
+5789
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-540")>]
+Sheffield Utd
+Portsmouth
+Sheffield Utd
+5790
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-541")>]
+Blackburn
+Arsenal
+Blackburn
+5785
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-542")>]
+Watford
+Liverpool
+Watford
+5791
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-543")>]
+West Ham
+Fulham
+West Ham
+5792
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-544")>]
+Arsenal
+Charlton
+Arsenal
+5783
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-545")>]
+Aston Villa
+Chelsea
+Aston Villa
+5784
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-546")>]
+Liverpool
+Bolton
+Liverpool
+5776
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-547")>]
+Fulham
+Watford
+Fulham
+5775
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-548")>]
+Man City
+Everton
+Man City
+5777
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-549")>]
+Middlesbrough
+Sheffield Utd
+Middlesbrough
+5778
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-550")>]
+Portsmouth
+Spurs
+Portsmouth
+5780
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-551")>]
+Reading
+West Ham
+Reading
+5781
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-552")>]
+Wigan
+Blackburn
+Wigan
+5782
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-553")>]
+Newcastle
+Man Utd
+Newcastle
+5779
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-554")>]
+Charlton
+Aston Villa
+Charlton
+5768
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-555")>]
+Blackburn
+Middlesbrough
+Blackburn
+5766
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-556")>]
+Bolton
+Portsmouth
+Bolton
+5767
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-557")>]
+Chelsea
+Fulham
+Chelsea
+5769
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-558")>]
+Everton
+Newcastle
+Everton
+5770
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-559")>]
+Man Utd
+Reading
+Man Utd
+5771
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-560")>]
+Spurs
+Liverpool
+Spurs
+5773
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-561")>]
+West Ham
+Man City
+West Ham
+5774
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-562")>]
+Sheffield Utd
+Arsenal
+Sheffield Utd
+5772
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-563")>]
+Charlton
+Fulham
+Charlton
+5765
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-564")>]
+Chelsea
+Reading
+Chelsea
+5758
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-565")>]
+Spurs
+Aston Villa
+Spurs
+5762
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-566")>]
+West Ham
+Portsmouth
+West Ham
+5764
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-567")>]
+Blackburn
+Liverpool
+Blackburn
+5756
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-568")>]
+Bolton
+Newcastle
+Bolton
+5757
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-569")>]
+Everton
+Middlesbrough
+Everton
+5759
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-570")>]
+Man Utd
+Wigan
+Man Utd
+5760
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-571")>]
+Sheffield Utd
+Man City
+Sheffield Utd
+5761
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-572")>]
+Watford
+Arsenal
+Watford
+5763
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-573")>]
+Arsenal
+Blackburn
+Arsenal
+5746
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-574")>]
+Aston Villa
+Man Utd
+Aston Villa
+5747
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-575")>]
+Liverpool
+Watford
+Liverpool
+5749
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-576")>]
+Man City
+Bolton
+Man City
+5750
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-577")>]
+Middlesbrough
+Charlton
+Middlesbrough
+5751
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-578")>]
+Newcastle
+Spurs
+Newcastle
+5752
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-579")>]
+Portsmouth
+Sheffield Utd
+Portsmouth
+5753
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-580")>]
+Reading
+Everton
+Reading
+5754
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-581")>]
+Wigan
+Chelsea
+Wigan
+5755
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-582")>]
+Fulham
+West Ham
+Fulham
+5748
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-583")>]
+Fulham
+Middlesbrough
+Fulham
+5745
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-584")>]
+Everton
+Chelsea
+Everton
+5742
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-585")>]
+Man City
+Spurs
+Man City
+5743
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-586")>]
+West Ham
+Man Utd
+West Ham
+5744
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-587")>]
+Charlton
+Liverpool
+Charlton
+5738
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-588")>]
+Arsenal
+Portsmouth
+Arsenal
+5736
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-589")>]
+Newcastle
+Watford
+Newcastle
+5739
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-590")>]
+Reading
+Blackburn
+Reading
+5740
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-591")>]
+Wigan
+Sheffield Utd
+Wigan
+5741
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-592")>]
+Aston Villa
+Bolton
+Aston Villa
+5737
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-593")>]
+Chelsea
+Newcastle
+Chelsea
+5734
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-594")>]
+Wigan
+Arsenal
+Wigan
+5735
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-595")>]
+Sheffield Utd
+Aston Villa
+Sheffield Utd
+5733
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-596")>]
+Chelsea
+Arsenal
+Chelsea
+5732
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-597")>]
+Man Utd
+Man City
+Man Utd
+5727
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-598")>]
+Blackburn
+Newcastle
+Blackburn
+5724
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-599")>]
+Liverpool
+Fulham
+Liverpool
+5726
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-600")>]
+Middlesbrough
+Wigan
+Middlesbrough
+5728
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-601")>]
+Portsmouth
+Everton
+Portsmouth
+5729
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-602")>]
+Spurs
+Charlton
+Spurs
+5730
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-603")>]
+Watford
+Reading
+Watford
+5731
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-604")>]
+Bolton
+West Ham
+Bolton
+5725
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-605")>]
+Newcastle
+Reading
+Newcastle
+5722
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-606")>]
+West Ham
+Wigan
+West Ham
+5723
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-607")>]
+Charlton
+Blackburn
+Charlton
+5720
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-608")>]
+Spurs
+Middlesbrough
+Spurs
+5721
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-609")>]
+Man City
+Watford
+Man City
+5719
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-610")>]
+Everton
+West Ham
+Everton
+5718
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-611")>]
+Arsenal
+Spurs
+Arsenal
+5711
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-612")>]
+Blackburn
+Fulham
+Blackburn
+5712
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-613")>]
+Portsmouth
+Aston Villa
+Portsmouth
+5714
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-614")>]
+Reading
+Bolton
+Reading
+5715
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-615")>]
+Sheffield Utd
+Charlton
+Sheffield Utd
+5716
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-616")>]
+Wigan
+Liverpool
+Wigan
+5717
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-617")>]
+Middlesbrough
+Man Utd
+Middlesbrough
+5713
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-618")>]
+Aston Villa
+Man City
+Aston Villa
+5706
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-619")>]
+Bolton
+Chelsea
+Bolton
+5707
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-620")>]
+Liverpool
+Portsmouth
+Liverpool
+5709
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-621")>]
+Man Utd
+Everton
+Man Utd
+5710
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-622")>]
+Fulham
+Arsenal
+Fulham
+5708
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-623")>]
+Watford
+Sheffield Utd
+Watford
+5705
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-624")>]
+Newcastle
+Portsmouth
+Newcastle
+5703
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-625")>]
+Spurs
+Wigan
+Spurs
+5704
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-626")>]
+Man Utd
+Chelsea
+Man Utd
+5702
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-627")>]
+Charlton
+Everton
+Charlton
+5698
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-628")>]
+Aston Villa
+Middlesbrough
+Aston Villa
+5696
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-629")>]
+Fulham
+Reading
+Fulham
+5699
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-630")>]
+Liverpool
+Man City
+Liverpool
+5700
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-631")>]
+West Ham
+Sheffield Utd
+West Ham
+5701
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-632")>]
+Bolton
+Arsenal
+Bolton
+5697
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-633")>]
+Wigan
+Aston Villa
+Wigan
+5695
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-634")>]
+Blackburn
+Spurs
+Blackburn
+5694
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-635")>]
+Man City
+Fulham
+Man City
+5689
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-636")>]
+Arsenal
+Newcastle
+Arsenal
+5686
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-637")>]
+Chelsea
+West Ham
+Chelsea
+5687
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-638")>]
+Everton
+Bolton
+Everton
+5688
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-639")>]
+Portsmouth
+Watford
+Portsmouth
+5691
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-640")>]
+Reading
+Charlton
+Reading
+5692
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-641")>]
+Sheffield Utd
+Man Utd
+Sheffield Utd
+5693
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-642")>]
+Middlesbrough
+Liverpool
+Middlesbrough
+5690
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-643")>]
+Reading
+Spurs
+Reading
+5685
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-644")>]
+Arsenal
+Liverpool
+Arsenal
+5684
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-645")>]
+Man City
+Newcastle
+Man City
+5679
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-646")>]
+Chelsea
+Watford
+Chelsea
+5677
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-647")>]
+Everton
+Aston Villa
+Everton
+5678
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-648")>]
+Middlesbrough
+West Ham
+Middlesbrough
+5680
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-649")>]
+Portsmouth
+Fulham
+Portsmouth
+5681
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-650")>]
+Sheffield Utd
+Bolton
+Sheffield Utd
+5682
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-651")>]
+Wigan
+Charlton
+Wigan
+5683
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-652")>]
+Blackburn
+Man Utd
+Blackburn
+5676
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-653")>]
+West Ham
+Arsenal
+West Ham
+5675
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-654")>]
+Aston Villa
+Blackburn
+Aston Villa
+5673
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-655")>]
+Spurs
+Chelsea
+Spurs
+5674
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-656")>]
+Bolton
+Wigan
+Bolton
+5666
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-657")>]
+Charlton
+Man City
+Charlton
+5667
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-658")>]
+Liverpool
+Reading
+Liverpool
+5669
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-659")>]
+Man Utd
+Portsmouth
+Man Utd
+5670
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-660")>]
+Watford
+Middlesbrough
+Watford
+5672
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-661")>]
+Newcastle
+Sheffield Utd
+Newcastle
+5671
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-662")>]
+Fulham
+Everton
+Fulham
+5668
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-663")>]
+Man City
+Middlesbrough
+Man City
+5665
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-664")>]
+West Ham
+Blackburn
+West Ham
+5664
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-665")>]
+Sheffield Utd
+Chelsea
+Sheffield Utd
+5662
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-666")>]
+Arsenal
+Everton
+Arsenal
+5656
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-667")>]
+Bolton
+Man Utd
+Bolton
+5657
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-668")>]
+Fulham
+Wigan
+Fulham
+5658
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-669")>]
+Liverpool
+Aston Villa
+Liverpool
+5659
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-670")>]
+Portsmouth
+Reading
+Portsmouth
+5661
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-671")>]
+Watford
+Spurs
+Watford
+5663
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-672")>]
+Newcastle
+Charlton
+Newcastle
+5660
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-673")>]
+Man Utd
+Liverpool
+Man Utd
+5652
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-674")>]
+Blackburn
+Bolton
+Blackburn
+5651
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-675")>]
+Middlesbrough
+Newcastle
+Middlesbrough
+5653
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-676")>]
+Spurs
+West Ham
+Spurs
+5655
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-677")>]
+Reading
+Arsenal
+Reading
+5654
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-678")>]
+Wigan
+Man City
+Wigan
+5650
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-679")>]
+Charlton
+Watford
+Charlton
+5647
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-680")>]
+Chelsea
+Portsmouth
+Chelsea
+5648
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-681")>]
+Everton
+Sheffield Utd
+Everton
+5649
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-682")>]
+Aston Villa
+Fulham
+Aston Villa
+5646
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-683")>]
+Fulham
+Charlton
+Fulham
+5645
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-684")>]
+Newcastle
+Bolton
+Newcastle
+5644
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-685")>]
+Wigan
+Man Utd
+Wigan
+5643
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-686")>]
+Arsenal
+Watford
+Arsenal
+5636
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-687")>]
+Aston Villa
+Spurs
+Aston Villa
+5637
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-688")>]
+Liverpool
+Blackburn
+Liverpool
+5638
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-689")>]
+Man City
+Sheffield Utd
+Man City
+5639
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-690")>]
+Middlesbrough
+Everton
+Middlesbrough
+5640
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-691")>]
+Portsmouth
+West Ham
+Portsmouth
+5641
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-692")>]
+Reading
+Chelsea
+Reading
+5642
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-693")>]
+Watford
+Fulham
+Watford
+5635
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-694")>]
+West Ham
+Reading
+West Ham
+5634
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-695")>]
+Blackburn
+Wigan
+Blackburn
+5631
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-696")>]
+Man Utd
+Newcastle
+Man Utd
+5632
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-697")>]
+Spurs
+Portsmouth
+Spurs
+5633
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-698")>]
+Charlton
+Arsenal
+Charlton
+5627
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-699")>]
+Chelsea
+Aston Villa
+Chelsea
+5628
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-700")>]
+Everton
+Man City
+Everton
+5629
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-701")>]
+Sheffield Utd
+Middlesbrough
+Sheffield Utd
+5630
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-702")>]
+Bolton
+Liverpool
+Bolton
+5626
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-703")>]
+Portsmouth
+Bolton
+Portsmouth
+5625
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-704")>]
+Newcastle
+Everton
+Newcastle
+5624
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-705")>]
+Liverpool
+Spurs
+Liverpool
+5619
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-706")>]
+Arsenal
+Sheffield Utd
+Arsenal
+5616
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-707")>]
+Aston Villa
+Charlton
+Aston Villa
+5617
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-708")>]
+Fulham
+Chelsea
+Fulham
+5618
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-709")>]
+Man City
+West Ham
+Man City
+5620
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-710")>]
+Middlesbrough
+Blackburn
+Middlesbrough
+5621
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-711")>]
+Wigan
+Watford
+Wigan
+5623
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-712")>]
+Reading
+Man Utd
+Reading
+5622
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-713")>]
+Liverpool
+Newcastle
+Liverpool
+5615
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-714")>]
+Chelsea
+Liverpool
+Chelsea
+5611
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-715")>]
+Blackburn
+Man City
+Blackburn
+5610
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-716")>]
+Spurs
+Fulham
+Spurs
+5613
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-717")>]
+West Ham
+Newcastle
+West Ham
+5614
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-718")>]
+Man Utd
+Arsenal
+Man Utd
+5612
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-719")>]
+Charlton
+Portsmouth
+Charlton
+5606
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-720")>]
+Bolton
+Middlesbrough
+Bolton
+5605
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-721")>]
+Everton
+Wigan
+Everton
+5607
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-722")>]
+Sheffield Utd
+Reading
+Sheffield Utd
+5608
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-723")>]
+Watford
+Aston Villa
+Watford
+5609
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-724")>]
+Reading
+Man City
+Reading
+5604
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-725")>]
+West Ham
+Aston Villa
+West Ham
+5603
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-726")>]
+Everton
+Liverpool
+Everton
+5598
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-727")>]
+Arsenal
+Middlesbrough
+Arsenal
+5595
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-728")>]
+Bolton
+Watford
+Bolton
+5596
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-729")>]
+Chelsea
+Charlton
+Chelsea
+5597
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-730")>]
+Newcastle
+Fulham
+Newcastle
+5600
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-731")>]
+Portsmouth
+Wigan
+Portsmouth
+5601
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-732")>]
+Sheffield Utd
+Blackburn
+Sheffield Utd
+5602
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-733")>]
+Man Utd
+Spurs
+Man Utd
+5599
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-734")>]
+Middlesbrough
+Portsmouth
+Middlesbrough
+5594
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-735")>]
+Aston Villa
+Newcastle
+Aston Villa
+5592
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-736")>]
+Blackburn
+Chelsea
+Blackburn
+5593
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-737")>]
+Charlton
+Bolton
+Charlton
+5585
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-738")>]
+Fulham
+Sheffield Utd
+Fulham
+5586
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-739")>]
+Spurs
+Everton
+Spurs
+5589
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-740")>]
+Watford
+Man Utd
+Watford
+5590
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-741")>]
+Man City
+Arsenal
+Man City
+5588
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-742")>]
+Liverpool
+West Ham
+Liverpool
+5587
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-743")>]
+Wigan
+Reading
+Wigan
+5591
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-744")>]
+Aston Villa
+Reading
+Aston Villa
+5579
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-745")>]
+Man City
+Portsmouth
+Man City
+5583
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-746")>]
+Blackburn
+Everton
+Blackburn
+5580
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-747")>]
+Charlton
+Man Utd
+Charlton
+5581
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-748")>]
+Fulham
+Bolton
+Fulham
+5582
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-749")>]
+Middlesbrough
+Chelsea
+Middlesbrough
+5584
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-750")>]
+Watford
+West Ham
+Watford
+5578
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-751")>]
+Spurs
+Sheffield Utd
+Spurs
+5577
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-752")>]
+Man Utd
+Fulham
+Man Utd
+5576
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-753")>]
+Chelsea
+Man City
+Chelsea
+5575
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-754")>]
+Sheffield Utd
+Liverpool
+Sheffield Utd
+5573
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-755")>]
+Arsenal
+Aston Villa
+Arsenal
+5567
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-756")>]
+Everton
+Watford
+Everton
+5569
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-757")>]
+Newcastle
+Wigan
+Newcastle
+5570
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-758")>]
+Portsmouth
+Blackburn
+Portsmouth
+5571
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-759")>]
+Reading
+Middlesbrough
+Reading
+5572
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-760")>]
+West Ham
+Charlton
+West Ham
+5574
+[<selenium.webdriver.remote.webelement.WebElement (session="3ea6828bdf2740b369dfeab35fcf6f55", element="0.34225263300887665-761")>]
+Bolton
+Spurs
+Bolton
+5568

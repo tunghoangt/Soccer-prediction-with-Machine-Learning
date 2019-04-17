@@ -1,0 +1,381 @@
+MatchID,Home_team,Away_team,Score_home,Score_away
+12494,Man Utd,Bournemouth,3,1
+12485,Arsenal,Aston Villa,4,0
+12486,Chelsea,Leicester,1,1
+12487,Everton,Norwich,3,0
+12488,Newcastle,Spurs,5,1
+12489,Southampton,Crystal Palace,4,1
+12490,Stoke,West Ham,2,1
+12491,Swansea,Man City,1,1
+12492,Watford,Sunderland,2,2
+12493,West Brom,Liverpool,1,1
+12483,Norwich,Watford,4,2
+12484,Sunderland,Everton,3,0
+12482,Liverpool,Chelsea,1,1
+12481,West Ham,Man Utd,3,2
+12480,Spurs,Southampton,1,2
+12478,Liverpool,Watford,2,0
+12479,Man City,Arsenal,2,2
+12475,Norwich,Man Utd,0,1
+12472,Bournemouth,West Brom,1,1
+12471,Aston Villa,Newcastle,0,0
+12473,Crystal Palace,Stoke,2,1
+12476,Sunderland,Chelsea,3,2
+12477,West Ham,Swansea,1,4
+12474,Leicester,Everton,3,1
+12470,Chelsea,Spurs,2,2
+12469,Swansea,Liverpool,3,1
+12467,Man Utd,Leicester,1,1
+12468,Southampton,Man City,4,2
+12462,Everton,Bournemouth,2,1
+12463,Newcastle,Crystal Palace,1,0
+12464,Stoke,Sunderland,1,1
+12465,Watford,Aston Villa,3,2
+12466,West Brom,West Ham,0,3
+12461,Arsenal,Norwich,1,0
+12460,Spurs,West Brom,1,1
+12459,Sunderland,Arsenal,0,0
+12458,Leicester,Swansea,4,0
+12455,Bournemouth,Chelsea,1,4
+12454,Aston Villa,Southampton,2,4
+12456,Liverpool,Newcastle,2,2
+12457,Man City,Stoke,4,0
+12453,Arsenal,West Brom,2,0
+12452,West Ham,Watford,3,1
+12450,Liverpool,Everton,4,0
+12451,Man Utd,Crystal Palace,2,0
+12449,Newcastle,Man City,1,1
+12448,Stoke,Spurs,0,4
+12446,Bournemouth,Liverpool,1,2
+12447,Leicester,West Ham,2,2
+12445,Arsenal,Crystal Palace,1,1
+12443,Norwich,Sunderland,0,3
+12440,Everton,Southampton,1,1
+12441,Man Utd,Aston Villa,1,0
+12442,Newcastle,Swansea,3,0
+12444,West Brom,Watford,0,1
+12439,Chelsea,Man City,0,3
+12438,Crystal Palace,Everton,0,0
+12436,Sunderland,Leicester,0,2
+12435,Liverpool,Stoke,4,1
+12437,Spurs,Man Utd,3,0
+12434,West Ham,Arsenal,3,3
+12428,Aston Villa,Bournemouth,1,2
+12429,Crystal Palace,Norwich,1,0
+12431,Southampton,Newcastle,3,1
+12432,Swansea,Chelsea,1,0
+12433,Watford,Everton,1,1
+12430,Man City,West Brom,2,1
+12426,Leicester,Southampton,1,0
+12427,Man Utd,Everton,1,0
+12419,Aston Villa,Chelsea,0,4
+12420,Bournemouth,Man City,0,4
+12418,Arsenal,Watford,4,0
+12422,Norwich,Newcastle,3,2
+12423,Stoke,Swansea,2,2
+12424,Sunderland,West Brom,0,0
+12425,West Ham,Crystal Palace,2,2
+12421,Liverpool,Spurs,1,1
+12415,Newcastle,Sunderland,1,1
+12414,Man City,Man Utd,0,1
+12417,Spurs,Bournemouth,3,0
+12416,Southampton,Liverpool,3,2
+12410,Everton,Arsenal,0,2
+12408,Chelsea,West Ham,2,2
+12409,Crystal Palace,Leicester,0,1
+12412,Watford,Stoke,1,2
+12413,West Brom,Norwich,0,1
+12411,Swansea,Aston Villa,1,0
+12407,Leicester,Newcastle,1,0
+12406,Aston Villa,Spurs,0,2
+12404,Norwich,Man City,0,0
+12403,Bournemouth,Swansea,3,2
+12405,Stoke,Southampton,1,2
+12401,Crystal Palace,Liverpool,1,2
+12402,West Brom,Man Utd,1,0
+12399,Spurs,Arsenal,2,2
+12393,Chelsea,Stoke,1,1
+12394,Everton,West Ham,2,3
+12395,Man City,Aston Villa,4,0
+12396,Newcastle,Bournemouth,1,3
+12397,Southampton,Sunderland,1,1
+12398,Swansea,Norwich,1,0
+12400,Watford,Leicester,0,1
+12388,Arsenal,Swansea,1,2
+12391,Stoke,Newcastle,1,0
+12392,West Ham,Spurs,1,0
+12389,Liverpool,Man City,3,0
+12390,Man Utd,Watford,1,0
+12384,Bournemouth,Southampton,2,0
+12383,Aston Villa,Everton,1,3
+12385,Leicester,West Brom,2,2
+12386,Norwich,Chelsea,1,2
+12387,Sunderland,Crystal Palace,2,2
+12381,Man Utd,Arsenal,3,2
+12382,Spurs,Swansea,2,1
+12380,West Ham,Sunderland,1,0
+12375,Leicester,Norwich,1,0
+12376,Southampton,Chelsea,1,2
+12377,Stoke,Aston Villa,2,1
+12378,Watford,Bournemouth,0,0
+12379,West Brom,Crystal Palace,3,2
+12372,Arsenal,Leicester,2,1
+12373,Aston Villa,Liverpool,0,6
+12374,Man City,Spurs,1,2
+12370,Sunderland,Man Utd,2,1
+12365,Bournemouth,Stoke,1,3
+12367,Crystal Palace,Watford,1,2
+12368,Everton,West Brom,0,1
+12369,Norwich,West Ham,2,2
+12371,Swansea,Southampton,0,1
+12366,Chelsea,Newcastle,5,1
+12363,Bournemouth,Arsenal,0,2
+12364,Chelsea,Man Utd,1,1
+12357,Man City,Leicester,1,3
+12355,Aston Villa,Norwich,2,0
+12356,Liverpool,Sunderland,2,2
+12358,Newcastle,West Brom,1,0
+12360,Stoke,Everton,0,3
+12361,Swansea,Crystal Palace,1,1
+12362,Spurs,Watford,1,0
+12359,Southampton,West Ham,1,0
+12353,Everton,Newcastle,3,0
+12354,Watford,Chelsea,0,0
+12345,Arsenal,Southampton,0,0
+12347,Leicester,Liverpool,2,0
+12349,Norwich,Spurs,0,3
+12350,Sunderland,Man City,0,1
+12352,West Ham,Aston Villa,2,0
+12346,Crystal Palace,Bournemouth,1,2
+12348,Man Utd,Stoke,3,0
+12351,West Brom,Swansea,1,1
+12344,Everton,Swansea,1,2
+12343,Arsenal,Chelsea,0,1
+12338,Norwich,Liverpool,4,5
+12335,Crystal Palace,Spurs,1,3
+12336,Leicester,Stoke,3,0
+12337,Man Utd,Southampton,0,1
+12339,Sunderland,Bournemouth,1,1
+12340,Watford,Newcastle,2,1
+12341,West Brom,Aston Villa,0,0
+12342,West Ham,Man City,2,2
+12334,Swansea,Watford,1,0
+12332,Liverpool,Man Utd,0,1
+12333,Stoke,Arsenal,0,0
+12331,Spurs,Sunderland,4,1
+12326,Bournemouth,Norwich,3,0
+12327,Chelsea,Everton,3,3
+12328,Man City,Crystal Palace,4,0
+12329,Newcastle,West Ham,2,1
+12330,Southampton,West Brom,3,0
+12325,Aston Villa,Leicester,1,1
+12318,Chelsea,West Brom,2,2
+12320,Man City,Everton,0,0
+12321,Southampton,Watford,2,0
+12322,Stoke,Norwich,3,1
+12323,Swansea,Sunderland,2,4
+12319,Liverpool,Arsenal,3,3
+12324,Spurs,Leicester,0,1
+12316,Bournemouth,West Ham,1,3
+12315,Aston Villa,Crystal Palace,1,0
+12317,Newcastle,Man Utd,3,3
+12313,Crystal Palace,Chelsea,0,3
+12314,Everton,Spurs,1,1
+12312,West Ham,Liverpool,2,0
+12305,Arsenal,Newcastle,1,0
+12306,Leicester,Bournemouth,0,0
+12307,Man Utd,Swansea,2,1
+12308,Norwich,Southampton,1,0
+12309,Sunderland,Aston Villa,3,1
+12311,West Brom,Stoke,2,1
+12310,Watford,Man City,1,2
+12304,Sunderland,Liverpool,0,1
+12303,Leicester,Man City,0,0
+12296,Crystal Palace,Swansea,0,0
+12297,Everton,Stoke,3,4
+12299,Norwich,Aston Villa,2,0
+12300,Watford,Spurs,1,2
+12301,West Brom,Newcastle,1,0
+12295,Arsenal,Bournemouth,2,0
+12298,Man Utd,Chelsea,0,0
+12302,West Ham,Southampton,2,1
+12292,Stoke,Man Utd,2,0
+12286,Bournemouth,Crystal Palace,0,0
+12285,Aston Villa,West Ham,1,1
+12287,Chelsea,Watford,2,2
+12288,Liverpool,Leicester,1,0
+12289,Man City,Sunderland,4,1
+12293,Swansea,West Brom,1,0
+12294,Spurs,Norwich,3,0
+12290,Newcastle,Everton,0,1
+12291,Southampton,Arsenal,4,0
+12284,Arsenal,Man City,2,1
+12283,Watford,Liverpool,3,0
+12282,Swansea,West Ham,0,0
+12275,Chelsea,Sunderland,3,1
+12276,Everton,Leicester,2,3
+12277,Man Utd,Norwich,1,2
+12279,Southampton,Spurs,0,2
+12280,Stoke,Crystal Palace,1,2
+12281,West Brom,Bournemouth,1,2
+12278,Newcastle,Aston Villa,1,1
+12274,Leicester,Chelsea,2,1
+12271,Aston Villa,Arsenal,0,2
+12272,Liverpool,West Brom,2,2
+12273,Spurs,Newcastle,1,2
+12268,Norwich,Everton,1,1
+12266,Crystal Palace,Southampton,1,0
+12267,Man City,Swansea,2,1
+12269,Sunderland,Watford,0,1
+12270,West Ham,Stoke,0,0
+12265,Bournemouth,Man Utd,2,1
+12264,Everton,Crystal Palace,1,1
+12263,Newcastle,Liverpool,2,0
+12259,Stoke,Man City,2,0
+12255,Arsenal,Sunderland,3,1
+12257,Man Utd,West Ham,0,0
+12258,Southampton,Aston Villa,1,1
+12260,Swansea,Leicester,0,3
+12261,Watford,Norwich,2,0
+12262,West Brom,Spurs,1,1
+12256,Chelsea,Bournemouth,0,1
+12253,Spurs,Chelsea,0,0
+12254,West Ham,West Brom,1,1
+12251,Liverpool,Swansea,1,0
+12252,Norwich,Arsenal,1,1
+12246,Bournemouth,Everton,3,3
+12245,Aston Villa,Watford,2,3
+12247,Crystal Palace,Newcastle,5,1
+12249,Man City,Southampton,3,1
+12250,Sunderland,Stoke,2,0
+12248,Leicester,Man Utd,1,1
+12244,Crystal Palace,Sunderland,0,1
+12243,Spurs,West Ham,4,1
+12241,Watford,Man Utd,1,2
+12235,Chelsea,Norwich,1,0
+12236,Everton,Aston Villa,4,0
+12238,Newcastle,Leicester,0,3
+12239,Southampton,Stoke,0,1
+12240,Swansea,Bournemouth,2,2
+12242,West Brom,Arsenal,2,1
+12237,Man City,Liverpool,1,4
+12233,Aston Villa,Man City,0,0
+12232,Arsenal,Spurs,1,1
+12234,Liverpool,Crystal Palace,1,2
+12225,Bournemouth,Newcastle,0,1
+12226,Leicester,Watford,2,1
+12227,Man Utd,West Brom,2,0
+12228,Norwich,Swansea,1,0
+12230,Sunderland,Southampton,0,1
+12231,West Ham,Everton,1,1
+12229,Stoke,Chelsea,1,0
+12224,Spurs,Aston Villa,3,1
+12222,Everton,Sunderland,6,2
+12223,Southampton,Bournemouth,2,0
+12215,Chelsea,Liverpool,1,3
+12216,Crystal Palace,Man Utd,0,0
+12217,Man City,Norwich,2,1
+12218,Newcastle,Stoke,0,0
+12219,Swansea,Arsenal,0,3
+12220,Watford,West Ham,2,0
+12221,West Brom,Leicester,2,3
+12214,Sunderland,Newcastle,3,0
+12211,Bournemouth,Spurs,1,5
+12213,Man Utd,Man City,0,0
+12212,Liverpool,Southampton,1,1
+12206,Aston Villa,Swansea,1,2
+12207,Leicester,Crystal Palace,1,0
+12208,Norwich,West Brom,0,1
+12209,Stoke,Watford,0,2
+12210,West Ham,Chelsea,2,1
+12205,Arsenal,Everton,2,1
+12204,Swansea,Stoke,0,1
+12203,Newcastle,Norwich,6,2
+12200,Spurs,Liverpool,0,0
+12195,Chelsea,Aston Villa,2,0
+12196,Crystal Palace,West Ham,1,3
+12197,Everton,Man Utd,0,3
+12198,Man City,Bournemouth,5,1
+12199,Southampton,Leicester,2,2
+12202,West Brom,Sunderland,1,0
+12201,Watford,Arsenal,0,3
+12193,Everton,Liverpool,1,1
+12192,Arsenal,Man Utd,3,0
+12194,Swansea,Spurs,2,2
+12188,Crystal Palace,West Brom,2,0
+12186,Bournemouth,Watford,1,1
+12185,Aston Villa,Stoke,0,1
+12189,Man City,Newcastle,6,1
+12190,Norwich,Leicester,1,2
+12191,Sunderland,West Ham,2,2
+12187,Chelsea,Southampton,1,3
+12184,West Brom,Everton,2,3
+12183,Watford,Crystal Palace,0,1
+12181,Spurs,Man City,4,1
+12175,Leicester,Arsenal,2,5
+12176,Liverpool,Aston Villa,3,2
+12177,Man Utd,Sunderland,3,0
+12179,Southampton,Swansea,3,1
+12180,Stoke,Bournemouth,2,1
+12182,West Ham,Norwich,2,2
+12178,Newcastle,Chelsea,2,2
+12174,Spurs,Crystal Palace,1,0
+12172,Liverpool,Norwich,1,1
+12173,Southampton,Man Utd,2,3
+12167,Chelsea,Arsenal,2,0
+12166,Bournemouth,Sunderland,2,0
+12165,Aston Villa,West Brom,0,1
+12169,Newcastle,Watford,1,2
+12170,Stoke,Leicester,2,2
+12171,Swansea,Everton,0,0
+12168,Man City,West Ham,1,2
+12164,West Ham,Newcastle,2,0
+12163,Sunderland,Spurs,0,1
+12162,Leicester,Aston Villa,3,2
+12157,Everton,Chelsea,3,1
+12155,Arsenal,Stoke,2,0
+12156,Crystal Palace,Man City,0,1
+12159,Norwich,Bournemouth,3,1
+12160,Watford,Swansea,1,0
+12161,West Brom,Southampton,0,0
+12158,Man Utd,Liverpool,3,1
+12153,Southampton,Norwich,3,0
+12154,Swansea,Man Utd,2,1
+12150,Newcastle,Arsenal,0,1
+12146,Bournemouth,Leicester,1,1
+12145,Aston Villa,Sunderland,2,2
+12147,Chelsea,Crystal Palace,1,2
+12148,Liverpool,West Ham,0,3
+12149,Man City,Watford,2,0
+12151,Stoke,West Brom,0,1
+12152,Spurs,Everton,0,0
+12144,Arsenal,Liverpool,0,0
+12143,West Brom,Chelsea,2,3
+12141,Everton,Man City,0,2
+12142,Watford,Southampton,0,0
+12137,Man Utd,Newcastle,0,0
+12135,Crystal Palace,Aston Villa,2,1
+12136,Leicester,Spurs,1,1
+12138,Norwich,Stoke,1,1
+12139,Sunderland,Swansea,1,1
+12140,West Ham,Bournemouth,3,4
+12134,Liverpool,Bournemouth,1,0
+12132,Crystal Palace,Arsenal,1,2
+12133,Man City,Chelsea,3,0
+12126,Southampton,Everton,0,3
+12127,Sunderland,Norwich,1,3
+12128,Swansea,Newcastle,2,0
+12129,Spurs,Stoke,2,2
+12130,Watford,West Brom,0,0
+12131,West Ham,Leicester,1,2
+12125,Aston Villa,Man Utd,0,1
+12124,West Brom,Man City,0,3
+12121,Arsenal,West Ham,0,2
+12122,Newcastle,Southampton,2,2
+12123,Stoke,Liverpool,0,1
+12119,Man Utd,Spurs,1,0
+12115,Bournemouth,Aston Villa,0,1
+12117,Everton,Watford,2,2
+12118,Leicester,Sunderland,4,2
+12120,Norwich,Crystal Palace,1,3
+12116,Chelsea,Swansea,2,2

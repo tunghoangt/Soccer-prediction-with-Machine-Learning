@@ -1,0 +1,1520 @@
+Arsenal
+4-0
+Fulham Emirates Stadium, London
+7077
+Aston Villa
+0-1
+Blackburn Villa Park, Birmingham
+7078
+Bolton
+2-1
+Birmingham Macron Stadium, Bolton
+7079
+Burnley
+4-2
+Spurs Turf Moor, Burnley
+7080
+Chelsea
+8-0
+Wigan Stamford Bridge, London
+7081
+Everton
+1-0
+Portsmouth Goodison Park, Liverpool
+7082
+Hull
+0-0
+Liverpool KCOM Stadium, Hull
+7083
+Man Utd
+4-0
+Stoke Old Trafford, Manchester
+7084
+West Ham
+1-1
+Man City Boleyn Ground, London
+7085
+Wolves
+2-1
+Sunderland Molineux Stadium, Wolverhampton
+7086
+Fulham
+0-1
+Stoke Craven Cottage, London
+7075
+Man City
+0-1
+Spurs Etihad Stadium, Manchester
+7076
+Wigan
+2-2
+Hull DW Stadium, Wigan
+7074
+Blackburn
+2-1
+Arsenal Ewood Park, Blackburn
+7073
+Liverpool
+0-2
+Chelsea Anfield, Liverpool
+7071
+Fulham
+3-2
+West Ham Craven Cottage, London
+7070
+Sunderland
+0-1
+Man Utd Stadium of Light, Sunderland
+7072
+Birmingham
+2-1
+Burnley St Andrews, Birmingham
+7065
+Man City
+3-1
+Aston Villa Etihad Stadium, Manchester
+7066
+Portsmouth
+3-1
+Wolves Fratton Park, Portsmouth
+7067
+Stoke
+0-0
+Everton Britannia Stadium, Stoke
+7068
+Spurs
+1-0
+Bolton White Hart Lane, London
+7069
+Aston Villa
+1-0
+Birmingham Villa Park, Birmingham
+7061
+Burnley
+0-4
+Liverpool Turf Moor, Burnley
+7062
+Everton
+2-1
+Fulham Goodison Park, Liverpool
+7064
+Chelsea
+7-0
+Stoke Stamford Bridge, London
+7063
+Man Utd
+3-1
+Spurs Old Trafford, Manchester
+7058
+Bolton
+2-2
+Portsmouth Macron Stadium, Bolton
+7056
+Hull
+0-1
+Sunderland KCOM Stadium, Hull
+7057
+West Ham
+3-2
+Wigan Boleyn Ground, London
+7059
+Wolves
+1-1
+Blackburn Molineux Stadium, Wolverhampton
+7060
+Arsenal
+0-0
+Man City Emirates Stadium, London
+7055
+Hull
+0-2
+Aston Villa KCOM Stadium, Hull
+7054
+Liverpool
+3-0
+West Ham Anfield, Liverpool
+7053
+Wigan
+3-2
+Arsenal DW Stadium, Wigan
+7052
+Portsmouth
+1-2
+Aston Villa Fratton Park, Portsmouth
+7051
+Birmingham
+0-0
+Hull St Andrews, Birmingham
+7044
+Blackburn
+2-3
+Everton Ewood Park, Blackburn
+7045
+Fulham
+0-0
+Wolves Craven Cottage, London
+7046
+Spurs
+2-1
+Chelsea White Hart Lane, London
+7050
+Man City
+0-1
+Man Utd Etihad Stadium, Manchester
+7047
+Stoke
+1-2
+Bolton Britannia Stadium, Stoke
+7048
+Sunderland
+2-1
+Burnley Stadium of Light, Sunderland
+7049
+Aston Villa
+2-2
+Everton Villa Park, Birmingham
+7041
+Wigan
+0-0
+Portsmouth DW Stadium, Wigan
+7043
+Spurs
+2-1
+Arsenal White Hart Lane, London
+7042
+Chelsea
+1-0
+Bolton Stamford Bridge, London
+7040
+Wolves
+0-0
+Stoke Molineux Stadium, Wolverhampton
+7039
+Blackburn
+0-0
+Man Utd Ewood Park, Blackburn
+7036
+Liverpool
+0-0
+Fulham Anfield, Liverpool
+7037
+Man City
+5-1
+Birmingham Etihad Stadium, Manchester
+7038
+Hull
+1-4
+Burnley KCOM Stadium, Hull
+7034
+West Ham
+1-0
+Sunderland Boleyn Ground, London
+7035
+Birmingham
+1-1
+Liverpool St Andrews, Birmingham
+7031
+Fulham
+2-1
+Wigan Craven Cottage, London
+7033
+Everton
+2-2
+West Ham Goodison Park, Liverpool
+7032
+Man Utd
+1-2
+Chelsea Old Trafford, Manchester
+7027
+Arsenal
+1-0
+Wolves Emirates Stadium, London
+7024
+Bolton
+0-1
+Aston Villa Macron Stadium, Bolton
+7025
+Portsmouth
+0-0
+Blackburn Fratton Park, Portsmouth
+7028
+Stoke
+2-0
+Hull Britannia Stadium, Stoke
+7029
+Sunderland
+3-1
+Spurs Stadium of Light, Sunderland
+7030
+Burnley
+1-6
+Man City Turf Moor, Burnley
+7026
+Man City
+3-0
+Wigan Etihad Stadium, Manchester
+7023
+Burnley
+0-1
+Blackburn Turf Moor, Burnley
+7021
+Liverpool
+3-0
+Sunderland Anfield, Liverpool
+7022
+Birmingham
+1-1
+Arsenal St Andrews, Birmingham
+7014
+Chelsea
+7-1
+Aston Villa Stamford Bridge, London
+7016
+Hull
+2-0
+Fulham KCOM Stadium, Hull
+7017
+Spurs
+2-0
+Portsmouth White Hart Lane, London
+7018
+West Ham
+0-1
+Stoke Boleyn Ground, London
+7019
+Wolves
+0-0
+Everton Molineux Stadium, Wolverhampton
+7020
+Bolton
+0-4
+Man Utd Macron Stadium, Bolton
+7015
+Aston Villa
+1-1
+Sunderland Villa Park, Birmingham
+7010
+Man City
+0-2
+Everton Etihad Stadium, Manchester
+7012
+Portsmouth
+0-5
+Chelsea Fratton Park, Portsmouth
+7013
+Blackburn
+2-1
+Birmingham Ewood Park, Blackburn
+7011
+West Ham
+1-3
+Wolves Boleyn Ground, London
+7009
+Fulham
+1-2
+Man City Craven Cottage, London
+7007
+Blackburn
+1-1
+Chelsea Ewood Park, Blackburn
+7006
+Man Utd
+2-1
+Liverpool Old Trafford, Manchester
+7008
+Aston Villa
+2-2
+Wolves Villa Park, Birmingham
+7000
+Everton
+2-0
+Bolton Goodison Park, Liverpool
+7001
+Portsmouth
+3-2
+Hull Fratton Park, Portsmouth
+7002
+Stoke
+1-2
+Spurs Britannia Stadium, Stoke
+7003
+Sunderland
+3-1
+Birmingham Stadium of Light, Sunderland
+7004
+Wigan
+1-0
+Burnley DW Stadium, Wigan
+7005
+Arsenal
+2-0
+West Ham Emirates Stadium, London
+6999
+Wigan
+1-2
+Aston Villa DW Stadium, Wigan
+6998
+Liverpool
+4-1
+Portsmouth Anfield, Liverpool
+6997
+Man Utd
+3-0
+Fulham Old Trafford, Manchester
+6995
+Sunderland
+1-1
+Man City Stadium of Light, Sunderland
+6996
+Spurs
+3-1
+Blackburn White Hart Lane, London
+6994
+Birmingham
+2-2
+Everton St Andrews, Birmingham
+6988
+Bolton
+4-0
+Wigan Macron Stadium, Bolton
+6989
+Burnley
+1-2
+Wolves Turf Moor, Burnley
+6990
+Chelsea
+4-1
+West Ham Stamford Bridge, London
+6991
+Stoke
+0-0
+Aston Villa Britannia Stadium, Stoke
+6993
+Hull
+1-2
+Arsenal KCOM Stadium, Hull
+6992
+Burnley
+1-1
+Stoke Turf Moor, Burnley
+6987
+Portsmouth
+1-2
+Birmingham Fratton Park, Portsmouth
+6985
+Sunderland
+4-0
+Bolton Stadium of Light, Sunderland
+6986
+Wigan
+1-0
+Liverpool DW Stadium, Wigan
+6984
+Everton
+5-1
+Hull Goodison Park, Liverpool
+6983
+Arsenal
+3-1
+Burnley Emirates Stadium, London
+6980
+West Ham
+1-2
+Bolton Boleyn Ground, London
+6981
+Wolves
+0-1
+Man Utd Molineux Stadium, Wolverhampton
+6982
+Spurs
+2-1
+Everton White Hart Lane, London
+6979
+Liverpool
+2-1
+Blackburn Anfield, Liverpool
+6977
+Sunderland
+0-0
+Fulham Stadium of Light, Sunderland
+6978
+Chelsea
+2-4
+Man City Stamford Bridge, London
+6975
+Birmingham
+1-0
+Wigan St Andrews, Birmingham
+6972
+Bolton
+1-0
+Wolves Macron Stadium, Bolton
+6973
+Burnley
+1-2
+Portsmouth Turf Moor, Burnley
+6974
+Stoke
+1-3
+Arsenal Britannia Stadium, Stoke
+6976
+Man Utd
+3-0
+West Ham Old Trafford, Manchester
+6971
+Aston Villa
+5-2
+Burnley Villa Park, Birmingham
+6966
+Fulham
+2-1
+Birmingham Craven Cottage, London
+6968
+Man City
+0-0
+Liverpool Etihad Stadium, Manchester
+6969
+Wigan
+0-3
+Spurs DW Stadium, Wigan
+6970
+Blackburn
+3-0
+Bolton Ewood Park, Blackburn
+6967
+Everton
+3-1
+Man Utd Goodison Park, Liverpool
+6962
+Arsenal
+2-0
+Sunderland Emirates Stadium, London
+6961
+West Ham
+3-0
+Hull Boleyn Ground, London
+6964
+Wolves
+0-2
+Chelsea Molineux Stadium, Wolverhampton
+6965
+Portsmouth
+1-2
+Stoke Fratton Park, Portsmouth
+6963
+Wigan
+0-0
+Bolton DW Stadium, Wigan
+6960
+Stoke
+1-1
+Man City Britannia Stadium, Stoke
+6959
+Arsenal
+1-0
+Liverpool Emirates Stadium, London
+6953
+Aston Villa
+1-1
+Man Utd Villa Park, Birmingham
+6954
+West Ham
+2-0
+Birmingham Boleyn Ground, London
+6957
+Wolves
+1-0
+Spurs Molineux Stadium, Wolverhampton
+6958
+Blackburn
+1-0
+Hull Ewood Park, Blackburn
+6955
+Everton
+2-1
+Chelsea Goodison Park, Liverpool
+6956
+Man City
+2-0
+Bolton Etihad Stadium, Manchester
+6950
+Portsmouth
+1-1
+Sunderland Fratton Park, Portsmouth
+6951
+Wigan
+1-1
+Stoke DW Stadium, Wigan
+6952
+Fulham
+3-0
+Burnley Craven Cottage, London
+6949
+Birmingham
+2-1
+Wolves St Andrews, Birmingham
+6947
+Chelsea
+2-0
+Arsenal Stamford Bridge, London
+6948
+Liverpool
+1-0
+Everton Anfield, Liverpool
+6942
+Bolton
+0-0
+Fulham Macron Stadium, Bolton
+6939
+Burnley
+2-1
+West Ham Turf Moor, Burnley
+6940
+Hull
+2-1
+Man City KCOM Stadium, Hull
+6941
+Man Utd
+5-0
+Portsmouth Old Trafford, Manchester
+6943
+Stoke
+3-0
+Blackburn Britannia Stadium, Stoke
+6944
+Sunderland
+1-1
+Wigan Stadium of Light, Sunderland
+6945
+Spurs
+0-0
+Aston Villa White Hart Lane, London
+6946
+Fulham
+1-0
+Portsmouth Craven Cottage, London
+6938
+Hull
+1-1
+Chelsea KCOM Stadium, Hull
+6937
+Sunderland
+0-0
+Stoke Stadium of Light, Sunderland
+6936
+Man City
+2-0
+Portsmouth Etihad Stadium, Manchester
+6935
+Arsenal
+1-3
+Man Utd Emirates Stadium, London
+6934
+Birmingham
+1-1
+Spurs St Andrews, Birmingham
+6927
+Fulham
+0-2
+Aston Villa Craven Cottage, London
+6929
+Hull
+2-2
+Wolves KCOM Stadium, Hull
+6930
+Liverpool
+2-0
+Bolton Anfield, Liverpool
+6931
+West Ham
+0-0
+Blackburn Boleyn Ground, London
+6932
+Wigan
+0-1
+Everton DW Stadium, Wigan
+6933
+Burnley
+1-2
+Chelsea Turf Moor, Burnley
+6928
+Aston Villa
+0-0
+Arsenal Villa Park, Birmingham
+6923
+Chelsea
+3-0
+Birmingham Stamford Bridge, London
+6925
+Blackburn
+2-1
+Wigan Ewood Park, Blackburn
+6924
+Everton
+2-0
+Sunderland Goodison Park, Liverpool
+6926
+Portsmouth
+1-1
+West Ham Fratton Park, Portsmouth
+6920
+Wolves
+0-0
+Liverpool Molineux Stadium, Wolverhampton
+6922
+Bolton
+1-0
+Burnley Macron Stadium, Bolton
+6919
+Spurs
+2-0
+Fulham White Hart Lane, London
+6921
+Man Utd
+4-0
+Hull Old Trafford, Manchester
+6918
+Arsenal
+4-2
+Bolton Emirates Stadium, London
+6916
+Liverpool
+2-0
+Spurs Anfield, Liverpool
+6917
+Aston Villa
+0-0
+West Ham Villa Park, Birmingham
+6913
+Blackburn
+2-0
+Fulham Ewood Park, Blackburn
+6914
+Bolton
+0-2
+Arsenal Macron Stadium, Bolton
+6915
+Stoke
+1-1
+Liverpool Britannia Stadium, Stoke
+6910
+Chelsea
+7-2
+Sunderland Stamford Bridge, London
+6907
+Man Utd
+3-0
+Burnley Old Trafford, Manchester
+6909
+Spurs
+0-0
+Hull White Hart Lane, London
+6911
+Wolves
+0-2
+Wigan Molineux Stadium, Wolverhampton
+6912
+Everton
+2-0
+Man City Goodison Park, Liverpool
+6908
+Man City
+4-1
+Blackburn Etihad Stadium, Manchester
+6906
+Arsenal
+2-2
+Everton Emirates Stadium, London
+6904
+Birmingham
+1-1
+Man Utd St Andrews, Birmingham
+6905
+Stoke
+3-2
+Fulham Britannia Stadium, Stoke
+6903
+Portsmouth
+1-4
+Arsenal Fratton Park, Portsmouth
+6902
+Man Utd
+5-0
+Wigan Old Trafford, Manchester
+6901
+Aston Villa
+0-1
+Liverpool Villa Park, Birmingham
+6899
+Bolton
+2-2
+Hull Macron Stadium, Bolton
+6900
+Spurs
+2-0
+West Ham White Hart Lane, London
+6897
+Blackburn
+2-2
+Sunderland Ewood Park, Blackburn
+6893
+Chelsea
+2-1
+Fulham Stamford Bridge, London
+6894
+Everton
+2-0
+Burnley Goodison Park, Liverpool
+6895
+Stoke
+0-1
+Birmingham Britannia Stadium, Stoke
+6896
+Wolves
+0-3
+Man City Molineux Stadium, Wolverhampton
+6898
+Arsenal
+3-0
+Aston Villa Emirates Stadium, London
+6891
+Hull
+1-3
+Man Utd KCOM Stadium, Hull
+6892
+Man City
+2-0
+Stoke Etihad Stadium, Manchester
+6887
+Sunderland
+1-1
+Everton Stadium of Light, Sunderland
+6888
+Wigan
+1-1
+Blackburn DW Stadium, Wigan
+6890
+Liverpool
+2-0
+Wolves Anfield, Liverpool
+6886
+Birmingham
+0-0
+Chelsea St Andrews, Birmingham
+6883
+Fulham
+0-0
+Spurs Craven Cottage, London
+6885
+West Ham
+2-0
+Portsmouth Boleyn Ground, London
+6889
+Burnley
+1-1
+Bolton Turf Moor, Burnley
+6884
+Wolves
+2-0
+Burnley Molineux Stadium, Wolverhampton
+6882
+Everton
+1-1
+Birmingham Goodison Park, Liverpool
+6880
+West Ham
+1-1
+Chelsea Boleyn Ground, London
+6881
+Portsmouth
+2-0
+Liverpool Fratton Park, Portsmouth
+6879
+Aston Villa
+1-0
+Stoke Villa Park, Birmingham
+6875
+Blackburn
+0-2
+Spurs Ewood Park, Blackburn
+6876
+Fulham
+3-0
+Man Utd Craven Cottage, London
+6877
+Man City
+4-3
+Sunderland Etihad Stadium, Manchester
+6878
+Arsenal
+3-0
+Hull Emirates Stadium, London
+6874
+Burnley
+1-1
+Arsenal Turf Moor, Burnley
+6870
+Chelsea
+2-1
+Portsmouth Stamford Bridge, London
+6871
+Liverpool
+2-1
+Wigan Anfield, Liverpool
+6872
+Spurs
+3-0
+Man City White Hart Lane, London
+6873
+Sunderland
+0-2
+Aston Villa Stadium of Light, Sunderland
+6869
+Birmingham
+2-1
+Blackburn St Andrews, Birmingham
+6866
+Bolton
+3-1
+West Ham Macron Stadium, Bolton
+6867
+Man Utd
+3-0
+Wolves Old Trafford, Manchester
+6868
+Liverpool
+1-2
+Arsenal Anfield, Liverpool
+6865
+Stoke
+2-2
+Wigan Britannia Stadium, Stoke
+6862
+Birmingham
+1-0
+West Ham St Andrews, Birmingham
+6856
+Bolton
+3-3
+Man City Macron Stadium, Bolton
+6857
+Burnley
+1-1
+Fulham Turf Moor, Burnley
+6858
+Chelsea
+3-3
+Everton Stamford Bridge, London
+6859
+Hull
+0-0
+Blackburn KCOM Stadium, Hull
+6860
+Sunderland
+1-1
+Portsmouth Stadium of Light, Sunderland
+6863
+Spurs
+0-1
+Wolves White Hart Lane, London
+6864
+Man Utd
+0-1
+Aston Villa Old Trafford, Manchester
+6861
+Fulham
+1-0
+Sunderland Craven Cottage, London
+6855
+Everton
+2-2
+Spurs Goodison Park, Liverpool
+6854
+Arsenal
+2-0
+Stoke Emirates Stadium, London
+6846
+Aston Villa
+3-0
+Hull Villa Park, Birmingham
+6847
+Blackburn
+0-0
+Liverpool Ewood Park, Blackburn
+6848
+West Ham
+0-4
+Man Utd Boleyn Ground, London
+6851
+Wigan
+2-3
+Birmingham DW Stadium, Wigan
+6852
+Wolves
+2-1
+Bolton Molineux Stadium, Wolverhampton
+6853
+Man City
+2-1
+Chelsea Etihad Stadium, Manchester
+6849
+Portsmouth
+2-0
+Burnley Fratton Park, Portsmouth
+6850
+Wolves
+0-1
+Birmingham Molineux Stadium, Wolverhampton
+6845
+Everton
+0-2
+Liverpool Goodison Park, Liverpool
+6844
+Arsenal
+0-3
+Chelsea Emirates Stadium, London
+6843
+Blackburn
+0-0
+Stoke Ewood Park, Blackburn
+6837
+Fulham
+1-1
+Bolton Craven Cottage, London
+6838
+Man City
+1-1
+Hull Etihad Stadium, Manchester
+6839
+Portsmouth
+1-4
+Man Utd Fratton Park, Portsmouth
+6840
+West Ham
+5-3
+Burnley Boleyn Ground, London
+6841
+Wigan
+1-0
+Sunderland DW Stadium, Wigan
+6842
+Aston Villa
+1-1
+Spurs Villa Park, Birmingham
+6836
+Hull
+3-2
+Everton KCOM Stadium, Hull
+6835
+Fulham
+3-0
+Blackburn Craven Cottage, London
+6834
+Bolton
+0-2
+Blackburn Macron Stadium, Bolton
+6831
+Spurs
+9-1
+Wigan White Hart Lane, London
+6833
+Stoke
+1-0
+Portsmouth Britannia Stadium, Stoke
+6832
+Liverpool
+2-2
+Man City Anfield, Liverpool
+6828
+Birmingham
+1-0
+Fulham St Andrews, Birmingham
+6824
+Burnley
+1-1
+Aston Villa Turf Moor, Burnley
+6825
+Chelsea
+4-0
+Wolves Stamford Bridge, London
+6826
+Hull
+3-3
+West Ham KCOM Stadium, Hull
+6827
+Sunderland
+1-0
+Arsenal Stadium of Light, Sunderland
+6830
+Man Utd
+3-0
+Everton Old Trafford, Manchester
+6829
+Liverpool
+2-2
+Birmingham Anfield, Liverpool
+6823
+Hull
+2-1
+Stoke KCOM Stadium, Hull
+6820
+West Ham
+1-2
+Everton Boleyn Ground, London
+6821
+Wigan
+1-1
+Fulham DW Stadium, Wigan
+6822
+Chelsea
+1-0
+Man Utd Stamford Bridge, London
+6819
+Aston Villa
+5-1
+Bolton Villa Park, Birmingham
+6814
+Blackburn
+3-1
+Portsmouth Ewood Park, Blackburn
+6815
+Man City
+3-3
+Burnley Etihad Stadium, Manchester
+6816
+Spurs
+2-0
+Sunderland White Hart Lane, London
+6817
+Wolves
+1-4
+Arsenal Molineux Stadium, Wolverhampton
+6818
+West Ham
+2-1
+Aston Villa Boleyn Ground, London
+6813
+Birmingham
+0-0
+Man City St Andrews, Birmingham
+6812
+Bolton
+0-4
+Chelsea Macron Stadium, Bolton
+6804
+Burnley
+2-0
+Hull Turf Moor, Burnley
+6805
+Everton
+1-1
+Aston Villa Goodison Park, Liverpool
+6806
+Fulham
+3-1
+Liverpool Craven Cottage, London
+6807
+Man Utd
+2-0
+Blackburn Old Trafford, Manchester
+6808
+Arsenal
+3-0
+Spurs Emirates Stadium, London
+6803
+Portsmouth
+4-0
+Wigan Fratton Park, Portsmouth
+6809
+Stoke
+2-2
+Wolves Britannia Stadium, Stoke
+6810
+Sunderland
+2-2
+West Ham Stadium of Light, Sunderland
+6811
+Bolton
+3-2
+Everton Macron Stadium, Bolton
+6799
+Liverpool
+2-0
+Man Utd Anfield, Liverpool
+6800
+Man City
+2-2
+Fulham Etihad Stadium, Manchester
+6801
+West Ham
+2-2
+Arsenal Boleyn Ground, London
+6802
+Wolves
+1-1
+Aston Villa Molineux Stadium, Wolverhampton
+6798
+Birmingham
+2-1
+Sunderland St Andrews, Birmingham
+6793
+Burnley
+1-3
+Wigan Turf Moor, Burnley
+6794
+Hull
+0-0
+Portsmouth KCOM Stadium, Hull
+6796
+Spurs
+0-1
+Stoke White Hart Lane, London
+6797
+Chelsea
+5-0
+Blackburn Stamford Bridge, London
+6795
+Fulham
+2-0
+Hull Craven Cottage, London
+6792
+Blackburn
+3-2
+Burnley Ewood Park, Blackburn
+6790
+Wigan
+1-1
+Man City DW Stadium, Wigan
+6791
+Aston Villa
+2-1
+Chelsea Villa Park, Birmingham
+6784
+Arsenal
+3-1
+Birmingham Emirates Stadium, London
+6783
+Everton
+1-1
+Wolves Goodison Park, Liverpool
+6785
+Man Utd
+2-1
+Bolton Old Trafford, Manchester
+6786
+Portsmouth
+1-2
+Spurs Fratton Park, Portsmouth
+6787
+Stoke
+2-1
+West Ham Britannia Stadium, Stoke
+6788
+Sunderland
+1-0
+Liverpool Stadium of Light, Sunderland
+6789
+Aston Villa
+1-1
+Man City Villa Park, Birmingham
+6782
+Arsenal
+6-2
+Blackburn Emirates Stadium, London
+6778
+Everton
+1-1
+Stoke Goodison Park, Liverpool
+6780
+West Ham
+2-2
+Fulham Boleyn Ground, London
+6781
+Chelsea
+2-0
+Liverpool Stamford Bridge, London
+6779
+Bolton
+2-2
+Spurs Macron Stadium, Bolton
+6773
+Burnley
+2-1
+Birmingham Turf Moor, Burnley
+6774
+Hull
+2-1
+Wigan KCOM Stadium, Hull
+6775
+Wolves
+0-1
+Portsmouth Molineux Stadium, Wolverhampton
+6777
+Man Utd
+2-2
+Sunderland Old Trafford, Manchester
+6776
+Man City
+3-1
+West Ham Etihad Stadium, Manchester
+6772
+Sunderland
+5-2
+Wolves Stadium of Light, Sunderland
+6771
+Birmingham
+1-2
+Bolton St Andrews, Birmingham
+6763
+Blackburn
+2-1
+Aston Villa Ewood Park, Blackburn
+6764
+Liverpool
+6-1
+Hull Anfield, Liverpool
+6766
+Fulham
+0-1
+Arsenal Craven Cottage, London
+6765
+Portsmouth
+0-1
+Everton Fratton Park, Portsmouth
+6767
+Stoke
+0-2
+Man Utd Britannia Stadium, Stoke
+6768
+Spurs
+5-0
+Burnley White Hart Lane, London
+6769
+Wigan
+3-1
+Chelsea DW Stadium, Wigan
+6770
+Man Utd
+4-3
+Man City Old Trafford, Manchester
+6761
+Wolves
+2-1
+Fulham Molineux Stadium, Wolverhampton
+6762
+Everton
+3-0
+Blackburn Goodison Park, Liverpool
+6760
+Chelsea
+3-0
+Spurs Stamford Bridge, London
+6759
+Burnley
+3-1
+Sunderland Turf Moor, Burnley
+6756
+Arsenal
+4-0
+Wigan Emirates Stadium, London
+6753
+Aston Villa
+2-0
+Portsmouth Villa Park, Birmingham
+6754
+Bolton
+1-1
+Stoke Macron Stadium, Bolton
+6755
+Hull
+0-1
+Birmingham KCOM Stadium, Hull
+6757
+West Ham
+2-3
+Liverpool Boleyn Ground, London
+6758
+Birmingham
+0-1
+Aston Villa St Andrews, Birmingham
+6751
+Fulham
+2-1
+Everton Craven Cottage, London
+6752
+Blackburn
+3-1
+Wolves Ewood Park, Blackburn
+6743
+Liverpool
+4-0
+Burnley Anfield, Liverpool
+6744
+Man City
+4-2
+Arsenal Etihad Stadium, Manchester
+6745
+Portsmouth
+2-3
+Bolton Fratton Park, Portsmouth
+6746
+Stoke
+1-2
+Chelsea Britannia Stadium, Stoke
+6747
+Sunderland
+4-1
+Hull Stadium of Light, Sunderland
+6748
+Wigan
+1-0
+West Ham DW Stadium, Wigan
+6750
+Spurs
+1-3
+Man Utd White Hart Lane, London
+6749
+Portsmouth
+0-1
+Man City Fratton Park, Portsmouth
+6742
+Everton
+2-1
+Wigan Goodison Park, Liverpool
+6741
+Aston Villa
+2-0
+Fulham Villa Park, Birmingham
+6740
+Chelsea
+3-0
+Burnley Stamford Bridge, London
+6735
+Blackburn
+0-0
+West Ham Ewood Park, Blackburn
+6733
+Bolton
+2-3
+Liverpool Macron Stadium, Bolton
+6734
+Stoke
+1-0
+Sunderland Britannia Stadium, Stoke
+6737
+Spurs
+2-1
+Birmingham White Hart Lane, London
+6738
+Wolves
+1-1
+Hull Molineux Stadium, Wolverhampton
+6739
+Man Utd
+2-1
+Arsenal Old Trafford, Manchester
+6736
+Liverpool
+1-3
+Aston Villa Anfield, Liverpool
+6732
+West Ham
+1-2
+Spurs Boleyn Ground, London
+6731
+Burnley
+1-0
+Everton Turf Moor, Burnley
+6729
+Fulham
+0-2
+Chelsea Craven Cottage, London
+6730
+Arsenal
+4-1
+Portsmouth Emirates Stadium, London
+6723
+Birmingham
+0-0
+Stoke St Andrews, Birmingham
+6724
+Hull
+1-0
+Bolton KCOM Stadium, Hull
+6725
+Man City
+1-0
+Wolves Etihad Stadium, Manchester
+6726
+Sunderland
+2-1
+Blackburn Stadium of Light, Sunderland
+6727
+Wigan
+0-5
+Man Utd DW Stadium, Wigan
+6728
+Birmingham
+1-0
+Portsmouth St Andrews, Birmingham
+6719
+Burnley
+1-0
+Man Utd Turf Moor, Burnley
+6720
+Hull
+1-5
+Spurs KCOM Stadium, Hull
+6721
+Liverpool
+4-0
+Stoke Anfield, Liverpool
+6722
+Sunderland
+1-3
+Chelsea Stadium of Light, Sunderland
+6717
+Wigan
+0-1
+Wolves DW Stadium, Wigan
+6718
+Man Utd
+1-0
+Birmingham Old Trafford, Manchester
+6715
+Spurs
+2-1
+Liverpool White Hart Lane, London
+6716
+Chelsea
+2-1
+Hull Stamford Bridge, London
+6710
+Aston Villa
+0-2
+Wigan Villa Park, Birmingham
+6707
+Blackburn
+0-2
+Man City Ewood Park, Blackburn
+6708
+Bolton
+0-1
+Sunderland Macron Stadium, Bolton
+6709
+Portsmouth
+0-1
+Fulham Fratton Park, Portsmouth
+6712
+Stoke
+2-0
+Burnley Britannia Stadium, Stoke
+6713
+Wolves
+0-2
+West Ham Molineux Stadium, Wolverhampton
+6714
+Everton
+1-6
+Arsenal Goodison Park, Liverpool
+6711

@@ -1,0 +1,381 @@
+MatchID,Home_team,Away_team,Score_home,Score_away
+22712,Burnley,Bournemouth,1,2
+22713,Crystal Palace,West Brom,2,0
+22714,Huddersfield,Arsenal,0,1
+22715,Liverpool,Brighton,4,0
+22716,Man Utd,Watford,1,0
+22717,Newcastle,Chelsea,3,0
+22718,Southampton,Man City,0,1
+22719,Swansea,Stoke,1,2
+22720,Spurs,Leicester,5,4
+22721,West Ham,Everton,3,1
+22651,West Ham,Man Utd,0,0
+22685,Chelsea,Huddersfield,1,1
+22645,Leicester,Arsenal,3,1
+22647,Man City,Brighton,3,1
+22650,Spurs,Newcastle,1,0
+22649,Swansea,Southampton,0,1
+22708,Man City,Huddersfield,0,0
+22702,Arsenal,Burnley,5,0
+22705,Chelsea,Liverpool,1,0
+22709,Stoke,Crystal Palace,1,2
+22703,Bournemouth,Swansea,1,0
+22707,Leicester,West Ham,0,2
+22710,Watford,Newcastle,2,1
+22711,West Brom,Spurs,1,0
+22706,Everton,Southampton,1,1
+22704,Brighton,Man Utd,1,0
+22700,Spurs,Watford,2,0
+22701,West Ham,Man City,1,4
+22696,Man Utd,Arsenal,2,1
+22695,Liverpool,Stoke,0,0
+22692,Burnley,Brighton,0,0
+22693,Crystal Palace,Leicester,5,0
+22694,Huddersfield,Everton,0,2
+22697,Newcastle,West Brom,0,1
+22698,Southampton,Bournemouth,2,1
+22699,Swansea,Chelsea,0,1
+22686,Everton,Newcastle,1,0
+22682,Arsenal,West Ham,4,1
+22689,Stoke,Burnley,1,1
+22688,Man City,Swansea,5,0
+22691,West Brom,Liverpool,2,2
+22690,Watford,Crystal Palace,0,0
+22643,Burnley,Chelsea,1,2
+22687,Leicester,Southampton,0,0
+22683,Bournemouth,Man Utd,0,2
+22684,Brighton,Spurs,1,1
+22681,West Ham,Stoke,1,1
+22677,Newcastle,Arsenal,2,1
+22676,Man Utd,West Brom,0,1
+22678,Southampton,Chelsea,2,3
+22672,Burnley,Leicester,2,1
+22673,Crystal Palace,Brighton,3,2
+22674,Huddersfield,Watford,1,0
+22679,Swansea,Everton,1,1
+22675,Liverpool,Bournemouth,3,0
+22680,Spurs,Man City,1,3
+22662,Arsenal,Southampton,3,2
+22665,Chelsea,West Ham,1,1
+22666,Everton,Liverpool,0,0
+22663,Bournemouth,Crystal Palace,2,2
+22664,Brighton,Huddersfield,1,1
+22667,Leicester,Newcastle,1,2
+22669,Stoke,Spurs,1,2
+22670,Watford,Burnley,1,2
+22671,West Brom,Swansea,1,1
+22668,Man City,Man Utd,2,3
+22652,Arsenal,Stoke,3,0
+22654,Chelsea,Spurs,1,3
+22655,Crystal Palace,Liverpool,1,2
+22653,Brighton,Leicester,0,2
+22657,Man Utd,Swansea,2,0
+22658,Newcastle,Huddersfield,1,0
+22660,Watford,Bournemouth,2,2
+22661,West Brom,Burnley,1,2
+22361,West Ham,Southampton,3,0
+22656,Everton,Man City,1,3
+22642,Bournemouth,West Brom,2,1
+22644,Huddersfield,Crystal Palace,0,2
+22648,Stoke,Everton,1,2
+22646,Liverpool,Watford,5,0
+22639,Stoke,Man City,0,2
+22632,Arsenal,Watford,3,0
+22633,Bournemouth,Spurs,1,4
+22637,Man Utd,Liverpool,2,1
+22635,Everton,Brighton,2,0
+22636,Huddersfield,Swansea,0,0
+22638,Newcastle,Southampton,3,0
+22640,West Brom,Leicester,1,4
+22641,West Ham,Burnley,0,3
+22634,Chelsea,Crystal Palace,2,1
+22624,Crystal Palace,Man Utd,2,3
+22622,Brighton,Arsenal,2,1
+22627,Man City,Chelsea,1,0
+22623,Burnley,Everton,2,1
+22625,Leicester,Bournemouth,1,1
+22628,Southampton,Stoke,0,0
+22629,Swansea,West Ham,4,1
+22630,Spurs,Huddersfield,2,0
+22631,Watford,West Brom,1,0
+22626,Liverpool,Newcastle,2,0
+22612,Arsenal,Man City,0,3
+22616,Crystal Palace,Spurs,0,1
+22619,Man Utd,Chelsea,2,1
+22617,Leicester,Stoke,1,1
+22613,Bournemouth,Newcastle,2,2
+22614,Brighton,Swansea,4,1
+22615,Burnley,Southampton,1,1
+22618,Liverpool,West Ham,4,1
+22621,West Brom,Huddersfield,1,2
+22620,Watford,Everton,1,0
+22602,Chelsea,West Brom,3,0
+22604,Huddersfield,Bournemouth,4,1
+22606,Newcastle,Man Utd,1,0
+22607,Southampton,Liverpool,0,2
+22610,Spurs,Arsenal,1,0
+22603,Everton,Crystal Palace,3,1
+22608,Stoke,Brighton,1,1
+22609,Swansea,Burnley,1,0
+22611,West Ham,Watford,2,0
+22605,Man City,Leicester,5,1
+22600,Watford,Chelsea,4,1
+22596,Crystal Palace,Newcastle,1,1
+22598,Liverpool,Spurs,2,2
+22595,Burnley,Man City,1,1
+22593,Bournemouth,Stoke,2,1
+22594,Brighton,West Ham,3,1
+22597,Leicester,Swansea,1,1
+22599,Man Utd,Huddersfield,2,0
+22601,West Brom,Southampton,2,3
+22592,Arsenal,Everton,5,1
+22585,Chelsea,Bournemouth,0,3
+22586,Everton,Leicester,2,1
+22588,Newcastle,Burnley,1,1
+22589,Southampton,Brighton,1,1
+22587,Man City,West Brom,3,0
+22590,Stoke,Watford,0,0
+22591,Spurs,Man Utd,2,0
+22583,Swansea,Arsenal,3,1
+22584,West Ham,Crystal Palace,1,1
+22582,Huddersfield,Liverpool,0,3
+22580,Swansea,Liverpool,1,0
+22578,Southampton,Spurs,1,1
+22573,Brighton,Chelsea,0,4
+22572,Arsenal,Crystal Palace,4,1
+22574,Burnley,Man Utd,0,1
+22575,Everton,West Brom,1,1
+22576,Leicester,Watford,2,0
+22579,Stoke,Huddersfield,2,0
+22581,West Ham,Bournemouth,1,1
+22577,Man City,Newcastle,3,1
+22567,Man Utd,Stoke,3,0
+22562,Bournemouth,Arsenal,2,1
+22566,Liverpool,Man City,4,3
+22563,Chelsea,Leicester,0,0
+22564,Crystal Palace,Burnley,1,0
+22565,Huddersfield,West Ham,1,4
+22568,Newcastle,Swansea,1,1
+22570,Watford,Southampton,2,2
+22571,West Brom,Brighton,2,0
+22569,Spurs,Everton,4,0
+22549,Spurs,West Ham,1,1
+22552,Arsenal,Chelsea,2,2
+22558,Southampton,Crystal Palace,1,2
+22560,Swansea,Spurs,0,2
+22561,West Ham,West Brom,2,1
+22557,Man City,Watford,3,1
+22553,Brighton,Bournemouth,2,2
+22554,Burnley,Liverpool,1,2
+22556,Leicester,Huddersfield,3,0
+22559,Stoke,Newcastle,0,1
+22555,Everton,Man Utd,0,2
+22544,Crystal Palace,Man City,0,0
+22551,West Brom,Arsenal,1,1
+22542,Bournemouth,Everton,2,1
+22543,Chelsea,Stoke,5,0
+22545,Huddersfield,Burnley,0,0
+22546,Liverpool,Leicester,2,1
+22548,Newcastle,Brighton,0,0
+22550,Watford,Swansea,1,2
+22547,Man Utd,Southampton,0,0
+22534,Crystal Palace,Arsenal,2,3
+22538,Newcastle,Man City,0,1
+22539,Spurs,Southampton,5,2
+22532,Bournemouth,West Ham,3,3
+22533,Chelsea,Brighton,2,0
+22535,Huddersfield,Stoke,1,1
+22537,Man Utd,Burnley,2,2
+22540,Watford,Leicester,2,1
+22541,West Brom,Everton,0,0
+22536,Liverpool,Swansea,5,0
+22525,Everton,Chelsea,0,0
+22523,Brighton,Watford,1,0
+22527,Man City,Bournemouth,4,0
+22528,Southampton,Huddersfield,1,1
+22529,Stoke,West Brom,3,1
+22530,Swansea,Crystal Palace,1,1
+22531,West Ham,Newcastle,2,3
+22524,Burnley,Spurs,0,3
+22526,Leicester,Man Utd,2,2
+22522,Arsenal,Liverpool,3,3
+22516,Everton,Swansea,3,1
+22521,West Brom,Man Utd,1,2
+22513,Bournemouth,Liverpool,0,4
+22517,Leicester,Crystal Palace,0,3
+22512,Arsenal,Newcastle,1,0
+22514,Brighton,Burnley,0,0
+22515,Chelsea,Southampton,1,0
+22520,Watford,Huddersfield,1,4
+22519,Stoke,West Ham,0,3
+22518,Man City,Spurs,4,1
+22509,Newcastle,Everton,0,1
+22510,Southampton,Leicester,1,4
+22506,Swansea,Man City,0,4
+22508,Liverpool,West Brom,0,0
+22505,Man Utd,Bournemouth,1,0
+22511,Spurs,Brighton,2,0
+22507,West Ham,Arsenal,0,0
+22502,Burnley,Stoke,1,0
+22503,Crystal Palace,Watford,2,1
+22504,Huddersfield,Chelsea,1,3
+22498,Southampton,Arsenal,1,1
+22495,Liverpool,Everton,1,1
+22496,Man Utd,Man City,1,2
+22501,West Ham,Chelsea,1,0
+22492,Burnley,Watford,1,0
+22493,Crystal Palace,Bournemouth,2,2
+22494,Huddersfield,Brighton,2,0
+22499,Swansea,West Brom,1,0
+22500,Spurs,Stoke,5,1
+22497,Newcastle,Leicester,2,3
+22483,Bournemouth,Southampton,1,1
+22488,Man City,West Ham,2,1
+22485,Chelsea,Newcastle,3,1
+22484,Brighton,Liverpool,1,5
+22486,Everton,Huddersfield,2,0
+22487,Leicester,Burnley,1,0
+22489,Stoke,Swansea,2,1
+22490,Watford,Spurs,1,1
+22491,West Brom,Crystal Palace,0,0
+22482,Arsenal,Man Utd,1,3
+22473,Bournemouth,Burnley,1,2
+22472,Arsenal,Huddersfield,5,0
+22478,Chelsea,Swansea,1,0
+22479,Everton,West Ham,4,0
+22480,Man City,Southampton,2,1
+22481,Stoke,Liverpool,0,3
+22474,Brighton,Crystal Palace,0,0
+22475,Leicester,Spurs,2,1
+22476,Watford,Man Utd,2,4
+22477,West Brom,Newcastle,2,2
+22468,Southampton,Everton,4,1
+22462,Burnley,Arsenal,0,1
+22464,Huddersfield,Man City,1,2
+22463,Crystal Palace,Stoke,2,1
+22466,Man Utd,Brighton,1,0
+22467,Newcastle,Watford,0,3
+22469,Swansea,Bournemouth,0,0
+22470,Spurs,West Brom,1,1
+22465,Liverpool,Chelsea,1,1
+22471,West Ham,Leicester,1,1
+22454,Brighton,Stoke,2,2
+22460,Watford,West Ham,2,0
+22452,Arsenal,Spurs,2,0
+22453,Bournemouth,Huddersfield,4,0
+22455,Burnley,Swansea,2,0
+22456,Crystal Palace,Everton,2,2
+22457,Leicester,Man City,0,2
+22458,Liverpool,Southampton,3,0
+22461,West Brom,Chelsea,0,4
+22459,Man Utd,Newcastle,4,1
+22450,Spurs,Crystal Palace,1,0
+22445,Man City,Arsenal,3,1
+22442,Chelsea,Man Utd,1,0
+22443,Everton,Watford,3,2
+22448,Stoke,Leicester,2,2
+22444,Huddersfield,West Brom,1,0
+22446,Newcastle,Bournemouth,0,1
+22447,Southampton,Burnley,0,1
+22449,Swansea,Brighton,0,1
+22451,West Ham,Liverpool,1,4
+22435,Burnley,Newcastle,1,0
+22434,Brighton,Southampton,1,1
+22437,Leicester,Everton,2,0
+22439,Man Utd,Spurs,1,0
+22432,Arsenal,Swansea,2,1
+22436,Crystal Palace,West Ham,2,2
+22438,Liverpool,Huddersfield,3,0
+22440,Watford,Stoke,0,1
+22441,West Brom,Man City,2,3
+22433,Bournemouth,Chelsea,0,1
+22423,Everton,Arsenal,2,5
+22430,Spurs,Liverpool,4,1
+22422,Chelsea,Watford,4,2
+22424,Huddersfield,Man Utd,2,1
+22425,Man City,Burnley,3,0
+22426,Newcastle,Crystal Palace,1,0
+22428,Stoke,Bournemouth,1,2
+22429,Swansea,Leicester,1,2
+22427,Southampton,West Brom,1,0
+22431,West Ham,Brighton,0,3
+22415,Leicester,West Brom,1,1
+22412,Brighton,Everton,1,1
+22418,Southampton,Newcastle,2,2
+22416,Liverpool,Man Utd,0,0
+22413,Burnley,West Ham,1,1
+22414,Crystal Palace,Chelsea,2,1
+22417,Man City,Stoke,7,2
+22419,Swansea,Huddersfield,2,0
+22420,Spurs,Bournemouth,1,0
+22421,Watford,Arsenal,2,1
+22402,Arsenal,Brighton,2,0
+22405,Everton,Burnley,0,1
+22408,Newcastle,Liverpool,1,1
+22406,Huddersfield,Spurs,0,4
+22403,Bournemouth,Leicester,0,0
+22407,Man Utd,Crystal Palace,4,0
+22409,Stoke,Southampton,2,1
+22410,West Brom,Watford,2,2
+22411,West Ham,Swansea,1,0
+22404,Chelsea,Man City,0,1
+22392,Arsenal,West Brom,2,0
+22393,Brighton,Newcastle,1,0
+22401,West Ham,Spurs,2,3
+22394,Burnley,Huddersfield,0,0
+22395,Everton,Bournemouth,2,1
+22397,Man City,Crystal Palace,5,0
+22398,Southampton,Man Utd,0,1
+22399,Stoke,Chelsea,0,4
+22400,Swansea,Watford,1,2
+22396,Leicester,Liverpool,2,3
+22383,Chelsea,Arsenal,0,0
+22387,Man Utd,Everton,4,0
+22384,Crystal Palace,Southampton,0,1
+22385,Huddersfield,Leicester,1,1
+22386,Liverpool,Burnley,1,1
+22388,Newcastle,Stoke,2,1
+22390,Watford,Man City,0,6
+22391,West Brom,West Ham,0,0
+22389,Spurs,Swansea,0,0
+22382,Bournemouth,Brighton,2,1
+22381,West Ham,Huddersfield,2,0
+22374,Burnley,Crystal Palace,1,0
+22380,Swansea,Newcastle,0,1
+22377,Man City,Liverpool,5,0
+22372,Arsenal,Bournemouth,3,0
+22373,Brighton,West Brom,3,1
+22375,Everton,Spurs,0,3
+22376,Leicester,Chelsea,1,2
+22378,Southampton,Watford,0,2
+22379,Stoke,Man Utd,2,2
+22363,Chelsea,Everton,2,0
+22371,West Brom,Stoke,1,1
+22366,Liverpool,Arsenal,4,0
+22369,Spurs,Burnley,1,1
+22362,Bournemouth,Man City,1,2
+22364,Crystal Palace,Swansea,0,2
+22365,Huddersfield,Southampton,0,0
+22368,Newcastle,West Ham,3,0
+22370,Watford,Brighton,0,0
+22367,Man Utd,Leicester,2,0
+22357,Man City,Everton,1,1
+22354,Huddersfield,Newcastle,1,0
+22360,Spurs,Chelsea,1,2
+22359,Swansea,Man Utd,0,4
+22352,Bournemouth,Watford,0,2
+22353,Burnley,West Brom,0,1
+22355,Leicester,Brighton,2,0
+22356,Liverpool,Crystal Palace,1,0
+22659,Southampton,West Ham,3,2
+22358,Stoke,Arsenal,1,0
+22348,Newcastle,Spurs,0,2
+22347,Man Utd,West Ham,4,0
+22350,Watford,Liverpool,3,3
+22344,Chelsea,Burnley,2,3
+22345,Crystal Palace,Huddersfield,0,3
+22346,Everton,Stoke,1,0
+22349,Southampton,Swansea,0,0
+22351,West Brom,Bournemouth,1,0
+22343,Brighton,Man City,0,2
+22342,Arsenal,Leicester,4,3
