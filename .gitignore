@@ -1,0 +1,5 @@
+# Python interpreted
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
