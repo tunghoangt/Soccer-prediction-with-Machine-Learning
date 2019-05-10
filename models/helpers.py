@@ -74,24 +74,31 @@ def exponential_momentum(matchID, team, gd_vectors, alpha, boolean = True):
         return 0
     return np.dot( np.array(avg_vec), np.array(previous_results) )
 
-def run_model_diagnostics(X, y, clfs, size = .2, state = 42, is_classification = True):
+def run_model_diagnostics(X, y, clfs, size = .2, state = 42, is_classification = True, get_metrics = True):
     """
     Automated model fitting & testing on input X & y. Can be used for both classification
     and regression problems, as controlled by is_classification.
     """
     # TODO: add standardization
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = size, random_state = state)
+    if get_metrics:
+        metric_map = { str(type(clf)).split('.')[-1][:-2]: [] for clf in clfs }
+
     for clf in clfs:
+        clf_name = str(type(clf)).split('.')[-1][:-2]
         clf.fit(X_train, y_train)
         y_pred = clf.predict(X_test)
 
-        print("\n"*2, type(clf))
         if is_classification:
             # accuracy score, confusion matrix, ROC curve
-            print("score = ", clf.score(X_test, y_test))
-        else:
+            # TODO: maybe these should be dictionaries too
+            metric_map[clf_name].append( ("score", clf.score(X_test, y_test)) )
+        #else:
             # rmse, full
-    return (y_test, y_pred, clfs)
+    if get_metrics:
+        return metric_map
+    else:
+        return (y_test, y_pred, clfs)
 
 def build_exp_goals_model(df, clf, test_year = 2018, features_to_drop = ['MatchID', 'Team', 'year', 'Score']):
     """
@@ -117,7 +124,7 @@ def build_game_stats_model(df, clf, feature, window = 10, test_year = 2018, feat
             X_vec = fit_df.iloc[i:i + window].values.flatten()
             if X_vec.shape[0] == 8 * window:
                 X_as_list.append(X_vec)
-                y_as_list.append(team_df[feature].value[i + window + 1]) # target is next game's value
+                y_as_list.append(team_df[feature].values[i + window + 1]) # target is next game's value
 
     # convert to vectors
     X = np.vstack(X_as_list)
