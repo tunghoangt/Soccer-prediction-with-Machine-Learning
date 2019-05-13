@@ -93,12 +93,16 @@ def run_model_diagnostics(X, y, clfs, size = .2, state = 42, is_classification =
             # accuracy score, confusion matrix, ROC curve
             # TODO: maybe these should be dictionaries too
             metric_map[clf_name].append( ("score", clf.score(X_test, y_test)) )
-        #else:
-            # rmse, full
+        else:
+            metric_map[clf_name].append( ("rmse", mean_squared_error(y_test, y_pred) ** .5))
     if get_metrics:
         return metric_map
     else:
         return (y_test, y_pred, clfs)
+
+def join_cv_results(cv_dict):
+    for param_set, test_score in zip(cv_dict['params'], cv_dict['mean_test_score']):
+        print(param_set, ": ", round(test_score,5))
 
 def build_exp_goals_model(df, clf, test_year = 2018, features_to_drop = ['MatchID', 'Team', 'year', 'Score']):
     """
@@ -106,7 +110,7 @@ def build_exp_goals_model(df, clf, test_year = 2018, features_to_drop = ['MatchI
     to predict expected goals in a given game for a given team.
     """
     X = df[df.year != test_year].drop(columns = features_to_drop).values
-    y = df[df.year != test_year].values
+    y = df[df.year != test_year]['Score'].values
     clf.fit(X, y)
     return clf
 
@@ -156,7 +160,7 @@ def fit_game(game, df, clf_map, goal_model, noise_map, window = 10,
         noise = noise_map[feature] * np.random.normal()
         new_row[feature] = max(int(clf_map[feature].predict(X)[0]) + noise, 0)
 
-    goal_features = ['Shots', 'Passes', 'Clearances', 'Offsides', 'Fouls', 'Expenditures', 'Income', 'IsHome']
+    goal_features = ['Shots', 'Passes', 'Clearances', 'Offsides', 'Fouls', 'Expenditures', 'Possession','Income', 'IsHome']
     X_score_as_list = [ new_row[feature] for feature in goal_features ]
 
     X_score = np.array(X_score_as_list).reshape(1,-1)
@@ -189,27 +193,34 @@ def get_team_points(df, test_year = 2018):
         table.append( (team, sum(point_list)) )
     return table
 
-def run_simulation(df, runs, model_map, goal_model, test_year = 2018, stat = 'avg'):
+def run_simulation(df, runs, model_map, goal_model, noise_map, test_year = 2018, stat = 'avg'):
     """
     Given a dataframe of game-stats and scores, a set of sklearn models for game-stats
     and expected goals along with a year being simulated, run a simulation runs times
     and generated the summary statistics denoted by stat.
     """
     season_df = df[df.year == test_year].drop(columns = list(model_map.keys()) + ['Score'])
-    base_df = df[df.year == test_year - 1]
-    season_point_totals = { team: [] for team in season_df.Team.unique() } # list of simulation results
+    base_df = df[df.year == (test_year - 1)]
+    season_point_totals = { team: [] for team in season_df.Team.unique() } # list of simulation point totals
+    team_positions = {team: [] for team in season_df.Team.unique()} # list of simulation table positions
 
     for run in range(runs):
 
         run_df = base_df.copy()
         for row in season_df.iterrows():
             game = row[1]
-            simulated_result = fit_game(game, run_df, model_map, goal_model)
+            simulated_result = fit_game(game, run_df, model_map, goal_model, noise_map)
             run_df = run_df.append(simulated_result, ignore_index = True)
 
+        # get team point totals
         simulated_table = get_team_points(run_df)
         for points in simulated_table:
             season_point_totals[points[0]].append(points[1])
 
-    # TODO: add more aggregators (i.e. stdev & probabilites of position finish)
-    return [ (team, sum(point_totals)/len(point_totals)) for team, point_totals in season_point_totals.items() ]
+        team_standings = [ tup[0] for tup in sorted(simulated_table, key = lambda x: -x[1]) ]
+
+        # get final table position
+        for i, team in enumerate(team_standings):
+            team_positions[team].append(i + 1)
+
+    return (season_point_totals, team_positions)
